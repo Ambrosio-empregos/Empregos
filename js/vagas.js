@@ -63,7 +63,7 @@ const vagas = [
     banner: "banners/gelobelC.jpg"
   },
   {
-    data: "2025-12-22",
+    data: "2026-01-02",
     titulo: "Monitora Infantil",
     empresa: "Gelobel",
     cidade: "Londrina",
