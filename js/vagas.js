@@ -82,7 +82,7 @@ const vagas = [
     descricaoModal: "REQUISITOS: Experiência mínima de 6 meses em vendas; Boa comunicação; Facilidade para lidar com alto volume de mensagens",
     whatsapp: "https://wa.me/5543996448262",
     email: "",
-    banner: "banners/berna.jpg"
+    banner: "banners/berna.jpeg"
   }
   
 ];
