@@ -63,7 +63,7 @@ const vagas = [
     banner: "banners/gelobelC.jpg"
   },
   {
-    data: "2026-01-02",
+    data: "2025-12-22",
     titulo: "Monitora Infantil",
     empresa: "Gelobel",
     cidade: "Londrina",
@@ -72,17 +72,6 @@ const vagas = [
     whatsapp: "https://wa.me/5543996610197 ",
     email: "rh@gelobel.com.br",
     banner: "banners/gelobelC.jpg"
-  },
-  {
-    data: "2026-01-02",
-    titulo: "Vendedor(a)",
-    empresa: "Shop do Berna",
-    cidade: "Londrina",
-    descricao: "Atuação com foco em vendas online. O atendimento presencial será realizado apenas quando necessário.",
-    descricaoModal: "REQUISITOS: Experiência mínima em 6 meses de vendas; Boa comunicação; FAcilidade para lidar com alto volume de mensagens",
-    whatsapp: "https://wa.me/5543996448262 ",
-    email: "",
-    banner: "banners/berna.jpg"
-  },
+  }
   
 ];
