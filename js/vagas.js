@@ -107,7 +107,7 @@ const vagas = [
     banner: "banners/fpp.jpg"
   },
   {
-    data: "2025-01-05",
+    data: "2026-01-05",
     titulo: "Operador de Caixa-Atendimento",
     empresa: "Não identificada",
     cidade: "Londrina",
