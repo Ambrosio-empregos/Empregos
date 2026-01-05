@@ -205,6 +205,17 @@ const vagas = [
     email: "valgas3007@gmail.com",
     banner: "banners/sorveteria.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente de Loja",
+    empresa: "Ritz Sorveteria",
+    cidade: "cambé",
+    descricao: "Temos Vagas! Atendente na Ritz Sorvetes em Cambé - Disponibilidade para trabalhar à noite e residir na região.",
+    descricaoModal:"Escolaridade: Ensino Médio Completo. Requisitos indispensáveis: Habilidades com preparação de pratos, conhecimento em matemática básica, experiência com atendimento ao público e disponibilidade para o período noturno.",
+    whatsapp: "https://wa.me/5543991597711",
+    email: "",
+    banner: "banners/ritz.jpg"
+  },
   
   
 ];
