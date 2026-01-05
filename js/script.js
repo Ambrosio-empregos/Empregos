@@ -52,7 +52,13 @@ function renderVagas(lista) {
           <p>${vaga.descricao}</p>
 
           <div class="buttons">
-            <a href="${vaga.whatsapp}" target="_blank" class="whatsapp">WhatsApp</a>
+           <a 
+  href="https://wa.me/${vaga.whatsapp}?text=Olá%2C%20vi%20sua%20vaga%20no%20Ambrósio%20Empregos%20Londrina.%20Quero%20enviar%20meu%20currículo%20para%20a%20vaga%20de..."
+  target="_blank"
+  class="whatsapp"
+>
+  WhatsApp
+</a>
             <a href="mailto:${vaga.email}" class="email">E-mail</a>
           </div>
         </div>
