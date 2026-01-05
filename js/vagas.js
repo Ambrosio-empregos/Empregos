@@ -131,6 +131,17 @@ const vagas = [
     email: "",
     banner: "banners/outlet.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Vendedora",
+    empresa: "Outlet Center.BR",
+    cidade: "Londrina",
+    descricao: "Vaga para Vendedora na Outlet Center.br em Cambé. Oportunidade com salário fixo mensal para candidatas com experiência em vendas!",
+    descricaoModal:"Requisitos: Experiência comprovada em vendas de qualquer segmento, boa comunicação, proatividade, responsabilidade e comprometimento. Perfil desejado: Sexo feminino, idade acima de 20 anos. Localização: Cambé, em frente à Coca-Cola.",
+    whatsapp: "5543991713025",
+    email: "",
+    banner: "banners/outletc.jpg"
+  },
   
   
 ];
