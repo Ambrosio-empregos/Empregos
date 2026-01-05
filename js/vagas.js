@@ -230,6 +230,17 @@ const vagas = [
     email: "",
     banner: "banners/auxmec.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Vegas Burger",
+    cidade: "Londrina",
+    descricao: "Vaga de Auxiliar de Cozinha na Vegas Burger Hamburgueria (Shopping Norte). Início imediato com escala de revezamento 6x1!",
+    descricaoModal:"Informações da Vaga: 1 vaga disponível para Auxiliar de Cozinha no Shopping Norte com início imediato. Escala de revezamento 6x1 com carga horária de 7:20h (turno das 14:40 às 23:00). Seleção presencial no dia 09 de Janeiro de 2026.",
+    whatsapp: "5543933383030",
+    email: "",
+    banner: "banners/vegas.jpg"
+  },
   
   
 ];
