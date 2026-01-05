@@ -138,6 +138,17 @@ const vagas = [
     whatsapp: "https://wa.me/5543996610197",
     email: "rh@gelobel.com.br",
     banner: "banners/gelcaixa.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Garçom/Garçonete",
+    empresa: "Belmar - Cozinha Japonesa",
+    cidade: "Londrina",
+    descricao: "Procuramos Garçom Garçonete com experiência comprovada em cozinha japonesa, para atuar no atendimento ao cliente, apresentação do cardápio e serviço de mesas, seguindo os padrões da casa. Vagas para maiores de 18 anos.",
+    descricaoModal:"BENEFÍCIOS: Salário Base; Plano de Saúde; Convênio Farmácia; DayOff Aniversário; Refeição na empresa; Vale Transporte;",
+    whatsapp: "https://wa.me/5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/belmar.jpg"
   }
   
 ];
