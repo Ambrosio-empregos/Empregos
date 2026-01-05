@@ -149,6 +149,17 @@ const vagas = [
     whatsapp: "https://wa.me/5543996610197",
     email: "rh@gelobel.com.br",
     banner: "banners/belmar.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente de Telemarketing",
+    empresa: "Empresa não identificada",
+    cidade: "Rolandia",
+    descricao: "Procuramos Atendente Comprometido(a), organizado(a) e com vontade de aprender, para atuar no apoio à equipe.",
+    descricaoModal:"REQUISITOS: Ensino Médio completo; Experiência na área; Informática básica; Experiência com prospecção; experiência no uso de CRM.",
+    whatsapp: "https://wa.me/5543991349146",
+    email: "",
+    banner: "banners/telemark.jpg"
   }
   
 ];
