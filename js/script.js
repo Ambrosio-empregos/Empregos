@@ -53,7 +53,7 @@ function renderVagas(lista) {
 
           <div class="buttons">
            <a 
-  href="https://wa.me/${vaga.whatsapp}?text=Olá%2C%20vi%20sua%20vaga%20no%20Ambrósio%20Empregos%20Londrina.%20Quero%20enviar%20meu%20currículo%20para%20a%20vaga%20de..."
+  href="https://wa.me/${vaga.whatsapp.trim().replace(/\D/g, '')}?text=Olá%2C%20vi%20sua%20vaga%20no%20Ambrósio%20Empregos%20Londrina.%20Quero%20enviar%20meu%20currículo%20para%20a%20vaga%20de..."
   target="_blank"
   class="whatsapp"
 >
