@@ -52,7 +52,7 @@ const vagas = [
     banner: "banners/rolandia.jpg"
   },
   {
-    data: "2025-12-22",
+    data: "2025-11-22",
     titulo: "Monitora Infantil",
     empresa: "Gelobel",
     cidade: "Londrina",
@@ -63,7 +63,7 @@ const vagas = [
     banner: "banners/gelobelC.jpg"
   },
   {
-    data: "2026-01-02",
+    data: "2025-01-02",
     titulo: "Monitora Infantil",
     empresa: "Gelobel",
     cidade: "Londrina",
@@ -74,7 +74,7 @@ const vagas = [
     banner: "banners/gelobelC.jpg"
   },
   {
-    data: "2026-01-03",
+    data: "2025-01-03",
     titulo: "Vendedor(a)",
     empresa: "Shop do Berna",
     cidade: "Londrina",
@@ -85,7 +85,7 @@ const vagas = [
     banner: "banners/berna.jpg"
   },
   {
-    data: "2026-01-05",
+    data: "2025-01-05",
     titulo: "Auxiliar Administrativo",
     empresa: "LOg Frango Transporte",
     cidade: "Cambé",
@@ -96,7 +96,7 @@ const vagas = [
     banner: "banners/frango.jpg"
   },
   {
-    data: "2026-01-05",
+    data: "2025-01-05",
     titulo: "Ajudante de Motorista",
     empresa: "FPP Centro de Distribuição",
     cidade: "Londrina",
