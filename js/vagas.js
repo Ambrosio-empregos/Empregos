@@ -127,6 +127,17 @@ const vagas = [
     whatsapp: "https://wa.me/5543996610197",
     email: "rh@gelobel.com.br",
     banner: "banners/gelchu.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "caixa",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Procuramos alguém para trabalhar como Caixa, cuidando do atendimento no caixa, recebimentos e organização dos valores. Buscamos uma pessoa atenciosa, organizada, com boa comunicação e disponibilidade de horário. Experiência será um diferencial. Vaga para maiores de 18 anos",
+    descricaoModal:"BENEFÍCIOS: Salário Base; Plano de Saúde; Convênio Farmácia; DayOff Aniversário; Refeição na empresa; Vale Transporte;",
+    whatsapp: "https://wa.me/5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/gelcaixa.jpg"
   }
   
 ];
