@@ -197,6 +197,17 @@ const vagas = [
     email: "",
     banner: "banners/internista.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Recepcionista",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Recepcionista em Lava Rápido em Londrina. Oportunidade para quem possui boa comunicação e organização!",
+    descricaoModal:"Atividades: Atendimento ao cliente, recepção e organização de pedidos, controle de entrada e saída de veículos e apoio nas rotinas do caixa.",
+    whatsapp: "554391502191",
+    email: "",
+    banner: "banners/recepcionista.jpg"
+  },
   
   
 ];
