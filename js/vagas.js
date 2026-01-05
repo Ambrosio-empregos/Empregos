@@ -296,6 +296,17 @@ const vagas = [
     email: "",
     banner: "banners/betaport.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Indústria contrata Auxiliar de Produção em Maringá. Salário de R$ 2.200,00 + Benefícios e horário fixo de segunda a sexta!",
+    descricaoModal:"Horário: 07h às 17h (seg. a sexta) com 1h de almoço e café da manhã incluso. Salário: 2.200,00 + VT + Auxílio alimentação 200,00. Requisitos: Ser comprometido, rápido e dinâmico. Diferencial: Ter locomoção própria ou morar perto (Final da Av. Kakogawa). Obs: Vaga exclusiva para residentes em Maringá com 5 dias de teste. Contato: Carlos (44) 9 9871-1167.",
+    whatsapp: "5544998711167",
+    email: "",
+    banner: "banners/industria.jpg"
+  },
   
   
 ];
