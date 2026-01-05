@@ -183,6 +183,17 @@ const vagas = [
     email: "subwaymgalondrina@gmail.com",
     banner: "banners/subway.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Garçom",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Garçom com remuneração média de R$ 3.020,00, jornada de terça a domingo e atuação na Gleba Palhano.",
+    descricaoModal:"Cargo: Garçom. Remuneração média de R$ 3.020,00. Horário de trabalho das 09h30 às 18h00, de terça a domingo. Requisitos: idade mínima de 35 anos e experiência mínima de 1 ano. Contato para candidatura via WhatsApp. Localidade: Gleba Palhano.",
+    whatsapp: "https://wa.me/5511999722800",
+    email: "",
+    banner: "banners/garcom.jpg"
+  },
   
   
 ];
