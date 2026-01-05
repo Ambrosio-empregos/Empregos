@@ -186,6 +186,17 @@ const vagas = [
     email: "",
     banner: "banners/lavador.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Internista/Detalhista de Carros",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "Vaga para Internista/Detalhista de Carros no Shopping Catuaí. Remuneração de R$ 1.900,00 para quem tem foco em qualidade e detalhamento!",
+    descricaoModal:"Requisitos: Experiência em limpeza técnica de interiores e estofados, atenção extrema aos detalhes e acabamentos. Candidato deve ser meticuloso e organizado.",
+    whatsapp: "554391502191",
+    email: "",
+    banner: "banners/internista.jpg"
+  },
   
   
 ];
