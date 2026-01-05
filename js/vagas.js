@@ -164,6 +164,17 @@ const vagas = [
     email: "",
     banner: "banners/producao.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Assistente de Manutenção",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Temos Vagas! Assistente de Manutenção em Ibiporã/PR. Buscamos profissionais organizados e proativos para apoiar rotinas industriais.",
+    descricaoModal:"Atividades: Apoio em rotinas de manutenção preventiva e corretiva de máquinas industriais. Requisitos: Ensino médio completo, proatividade, boa comunicação e experiência/vivência em indústria.",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/assmanu.jpg"
+  },
   
   
 ];
