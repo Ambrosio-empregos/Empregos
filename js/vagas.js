@@ -234,7 +234,7 @@ const vagas = [
     cidade: "Londrina",
     descricao: "Vaga de Vendedora na Outlet.Go em Londrina (Av. Winston Churchill). Início imediato com salário fixo mensal!",
     descricaoModal:"Requisitos: Experiência comprovada em vendas de qualquer segmento, boa comunicação, responsabilidade, comprometimento e proatividade. Preferência para quem mora na região norte de Londrina.",
-    whatsapp: "https://wa.me/5543984561248?text=Olá%2C%20vi%20sua%20vaga%20no%20Ambrósio%20Empregos%20Londrina.%20Quero%20enviar%20meu%20currículo%20para%20a%20vaga%20de...",
+    whatsapp: "https://wa.me/5543984561248",
     email: "",
     banner: "banners/outlet.jpg"
   },
