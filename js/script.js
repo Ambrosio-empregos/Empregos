@@ -26,7 +26,7 @@ function renderVagas(lista) {
   Object.keys(porData).sort().reverse().forEach(data => {
     const section = document.createElement("section");
     section.className = "day-section";
-    section.innerHTML = <h2>Vagas de ${formatarData(data)}</h2>;
+    section.innerHTML = `<h2>Vagas de ${formatarData(data)}</h2>`;
 
     porData[data].forEach(vaga => {
       const card = document.createElement("div");
