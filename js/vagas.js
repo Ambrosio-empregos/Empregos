@@ -285,6 +285,17 @@ const vagas = [
     email: "",
     banner: "banners/betazel.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Porteiro",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Temos Vagas! Oportunidade para Porteiro na Beta Serv com escala 12x36 (diurna ou noturna). Envie seu currículo agora!",
+    descricaoModal:"Requisitos: Experiência mínima de 6 meses em portaria, conhecimento em informática e disponibilidade total de horário. Escala de trabalho: 12x36 para turnos diurnos e noturnos.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/betaport.jpg"
+  },
   
   
 ];
