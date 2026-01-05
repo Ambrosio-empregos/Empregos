@@ -241,6 +241,17 @@ const vagas = [
     email: "",
     banner: "banners/vegas.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Caixa",
+    empresa: "Vegas Burger",
+    cidade: "Londrina",
+    descricao: "🍔 Vaga para Caixa na Vegas Burger Hamburgueria (Shopping Norte). Início imediato com escala 6x1 e ótimo ambiente de trabalho!",
+    descricaoModal:"Informações da Vaga: 1 vaga disponível para o cargo de Caixa no Shopping Norte com início imediato. Escala de revezamento 6x1 com carga horária de 7:20h (turno das 14:40 às 23:00).",
+    whatsapp: "5543933383030",
+    email: "",
+    banner: "banners/vegascx.jpg"
+  },
   
   
 ];
