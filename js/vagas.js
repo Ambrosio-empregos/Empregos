@@ -208,6 +208,17 @@ const vagas = [
     email: "",
     banner: "banners/recepcionista.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Operador de Caixa",
+    empresa: "Riachuelo",
+    cidade: "Londrina",
+    descricao: "Procuramos um Operador(a) de Caixa comprometido e responsável",
+    descricaoModal:"Requisito: ter ensini médio completo.",
+    whatsapp: "5543988718073",
+    email: "",
+    banner: "banners/riachu.jpg"
+  },
   
   
 ];
