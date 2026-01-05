@@ -116,6 +116,17 @@ const vagas = [
     whatsapp: "https://wa.me/5543991319691",
     email: "",
     banner: "banners/opcaixa.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Churrasqueiro",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Venha fazer parte do nosso time! O Churrasqueiro será responsável pelo preparo das carnes, controle dos pontos e apresentação dos pratos, sempre alinhado aos padrões de excelência da casa. Deverá ter experiência comprovada com churrasqueira a carvao. Vaga para maiores de 18 anos.",
+    descricaoModal:"BENEFÍCIOS: Salário Base; Plano de Saúde; Convênio Farmácia; DayOff Aniversário; Refeição na empresa; Vale Transporte;",
+    whatsapp: "https://wa.me/5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/gelchu.jpg"
   }
   
 ];
