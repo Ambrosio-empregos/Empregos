@@ -153,6 +153,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/producao.jpg"
+  },
   
   
 ];
