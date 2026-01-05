@@ -171,6 +171,18 @@ const vagas = [
     whatsapp: "https://wa.me/5543991367846",
     email: "curriculo@grupomp3.com.br",
     banner: "banners/ativaempac.jpg"
-  }
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente de Fast Food",
+    empresa: "SubWay",
+    cidade: "Londrina",
+    descricao: "Vaga para Atendente de Fast Food no Subway com escala 12x36, salário e benefícios. Oportunidade para mulheres maiores de idade.",
+    descricaoModal:"Cargo: Atendente de Fast Food. Requisitos: feminino, maior de idade. Jornada: escala 12x36. Remuneração: salário mais benefícios. Contato: envio de currículo por e-mail ou WhatsApp conforme informado pela empresa.",
+    whatsapp: "https://wa.me/5543991391333",
+    email: "subwaymgalondrina@gmail.com",
+    banner: "banners/subway.jpg"
+  },
+  
   
 ];
