@@ -219,6 +219,17 @@ const vagas = [
     email: "",
     banner: "banners/riachu.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Mecânica",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vagas Abertas! Auxiliar de Mecânica em Londrina (Rua Pedro Botelho de Rezende). Oportunidade com salário compatível com o mercado e início imediato.",
+    descricaoModal:"Requisitos: Ensino médio completo e experiência prévia na área. Horário de trabalho: Segunda a sexta das 08:00 as 18:00 e sábado das 08:00 as 12:00.",
+    whatsapp: "5543996339497",
+    email: "",
+    banner: "banners/auxmec.jpg"
+  },
   
   
 ];
