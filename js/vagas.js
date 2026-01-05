@@ -160,6 +160,17 @@ const vagas = [
     whatsapp: "https://wa.me/5543991349146",
     email: "",
     banner: "banners/telemark.jpg"
+  },
+   {
+    data: "2026-01-05",
+    titulo: "Empacotador",
+    empresa: "Ativa Store",
+    cidade: "Londrina",
+    descricao: "Vaga para Empacotador com atuação em atendimento ao cliente e organização de embalagens. Oportunidade CLT com diversos benefícios em Londrina.",
+    descricaoModal:"Requisitos: agilidade e atenção, bom relacionamento e atendimento ao cliente. Atividades: embalar produtos com cuidado e agilidade, auxiliar clientes no transporte das compras até o veículo quando necessário, organizar sacolas e materiais de embalagem, apoiar a equipe de reposição e atendimento quando preciso. Benefícios: cesta básica, cesta de limpeza, plano de saúde, plano odontológico, convênio com farmácia, convênio com a loja, convênio com faculdade, área de convivência, regime CLT e day off aniversário. Local de trabalho: Rua Rio Grande do Norte, 445 Centro Londrina PR.",
+    whatsapp: "https://wa.me/5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/ativaempac.jpg"
   }
   
 ];
