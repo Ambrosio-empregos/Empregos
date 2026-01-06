@@ -351,4 +351,15 @@ const vagas = [
     email: "",
     banner: "banners/azul.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Motorista entregador",
+    empresa: "Brasil Limp",
+    cidade: "Maringá",
+    descricao: "A Brasillimp contrata Motorista Entregador para atuar em Maringá e região. Necessário CNH C e disponibilidade para viagens!",
+    descricaoModal:"Requisitos: Possuir CNH C e ser responsável. Atividades: Realizar entregas em Maringá e toda a região, com disponibilidade total para viagens.",
+    whatsapp: "5544991024432",
+    email: "",
+    banner: "banners/bralimp.jpg"
+  },
 ];
