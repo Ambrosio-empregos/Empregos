@@ -558,6 +558,17 @@ const vagas = [
     descricaoModal:"Informações e Requisitos: Contratação de Financeiro com experiência comprovada. Horário de trabalho: Segunda a sexta, das 07h30 às 17h30, com 1h12 de intervalo para almoço. Remuneração e Benefícios: Salário compatível + Vale Transporte + Vale Alimentação.",
     whatsapp: "5543988630337",
     email: "jurdico@proocupacional64.com.br",
-    banner: "banners/commer.jpeg"
+    banner: "banners/promed.jpeg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Recepcionista",
+    empresa: "PRO MEDICINA",
+    cidade: "Londrina",
+    descricao: "A Pro Medicina está contratando Recepcionista com experiência para atuação em Londrina! Vaga de segunda a sexta com ótimos benefícios e horário comercial.",
+    descricaoModal:"Informações e Requisitos: Contratação de Recepcionista com experiência comprovada. Horário de trabalho: Segunda a sexta, das 07h30 às 17h30, com 1h12 de intervalo para almoço. Remuneração e Benefícios: Salário compatível + Vale Transporte + Vale Alimentação.",
+    whatsapp: "5543988630337",
+    email: "jurdico@proocupacional64.com.br",
+    banner: "banners/medrec.jpeg"
   },
 ];
