@@ -747,4 +747,15 @@ const vagas = [
     email: "rh@londrigifts.com.br",
     banner: "banners/gifts.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "Incorpast",
+    cidade: "",
+    descricao: "APENAS EMAIL; A Incorpast está contratando Auxiliar de Produção! Oportunidade para atuar no setor de colagem de artefatos, refile e operação de máquinas. Envie seu currículo por e-mail.",
+    descricaoModal:"Atividades e Funções: Atuar no setor de colagem de artefatos de courvin, espuma e papelão. Realizar atividades de refile e operar máquina de dobra.",
+    whatsapp: "",
+    email: "RH@INCORPAST.COM.BR",
+    banner: "banners/past.jpeg"
+  },
 ];
