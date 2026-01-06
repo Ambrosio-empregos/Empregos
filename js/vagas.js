@@ -1396,4 +1396,15 @@ const vagas = [
     email: "",
     banner: "banners/koico.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Caseiro",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caseiro na região de Paiquerê / Irerê com moradia inclusa e isenção de contas básicas.",
+    descricaoModal:"A vaga é para atuar em sítio na região de Paiquerê / Irerê. As responsabilidades incluem cuidar da propriedade e dos animais. A remuneração é composta por salário mais produções. A oferta inclui moradia no local, sem custos de aluguel, água ou luz.",
+    whatsapp: "554330287712",
+    email: "",
+    banner: "banners/caseiro.jpeg"
+  },
 ];
