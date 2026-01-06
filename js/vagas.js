@@ -505,4 +505,15 @@ const vagas = [
     email: "",
     banner: "banners/branelo.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Telemarketing",
+    empresa: "MIDAS Telecom",
+    cidade: "Londrina",
+    descricao: "A Midas Telecom está com vagas para Telemarketing! Oferecemos salário fixo, comissões de até 300% e benefícios para atuação em vendas externas B2B.",
+    descricaoModal:"Informações e Requisitos: Atuação externa com foco em vendas de produtos TIM B2B. Buscamos profissionais com foco em resultados e domínio em negociações. É necessário possuir notebook próprio.",
+    whatsapp: "5543991380246",
+    email: "",
+    banner: "banners/midas.jpeg"
+  },
 ];
