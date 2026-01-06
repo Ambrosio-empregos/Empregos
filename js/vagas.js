@@ -1110,4 +1110,15 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/xarife.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Analista de Marketing",
+    empresa: "ATIVA Store",
+    cidade: "Londrina",
+    descricao: "A Ativa Store está contratando Analista de Marketing para atuar em Londrina/PR com perfil generalista e um amplo pacote de benefícios.",
+    descricaoModal:"As atividades incluem o desenvolvimento de estratégias de marketing, planejamento e monitoramento de campanhas e criação de conteúdo para diversos canais. Os requisitos exigem ensino superior completo em Marketing, Publicidade e Propaganda ou áreas correlatas, sendo a experiência em varejo um diferencial. A empresa oferece benefícios como cesta básica, cesta de limpeza, planos de saúde e odontológico, convênios variados, regime CLT e day off no aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/marke.jpeg"
+  },
 ];
