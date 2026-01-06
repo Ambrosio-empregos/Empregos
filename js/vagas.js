@@ -428,4 +428,15 @@ const vagas = [
     email: "",
     banner: "banners/vivo.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Expedição",
+    empresa: "Ativa Express",
+    cidade: "Maringá",
+    descricao: "Vaga para Auxiliar de Expedição na Ativa Express em Maringá! Salário de R$ 1.848,89 + Benefícios. Não exigimos experiência anterior, venha conferir!",
+    descricaoModal:"Informações da Vaga: Atuação em empresa do ramo de distribuição de encomendas com vínculo efetivo. Horário: Segunda a Sábado das 13:00 às 22:00 (com 1h de intervalo) e disponibilidade para escala aos domingos.",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/ativaex.jpeg"
+  },
 ];
