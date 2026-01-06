@@ -813,4 +813,15 @@ const vagas = [
     email: "baudelairecookieslondrina@gmail.com",
     banner: "banners/baude.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Vendedor(A)",
+    empresa: "Estação Fitness Academia",
+    cidade: "Cambé",
+    descricao: "A Roleman Rolamentos e Retentores em Londrina está contratando Vendedor(a)! Oportunidade para profissionais com Ensino Médio completo e experiência mínima de 6 meses.",
+    descricaoModal:"Atendimento ao cliente e vendas. Requisitos: Experiência mínima de 6 meses em atendimento e vendas, Ensino Médio completo e conhecimento desejável em rolamentos e mancais.",
+    whatsapp: "554398141494",
+    email: "",
+    banner: "banners/fit.jpeg"
+  },
 ];
