@@ -647,5 +647,15 @@ const vagas = [
     whatsapp: "5543984564715",
     email: "",
     banner: "banners/role.jpeg"
+  },{
+    data: "2026-01-05",
+    titulo: "Garçom/Balconista",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Salário bom, premiações vantajosas e diversos benefícios",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/balcon.jpeg"
   },
 ];
