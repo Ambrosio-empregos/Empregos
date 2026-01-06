@@ -1218,6 +1218,17 @@ const vagas = [
     descricaoModal:"A vaga está disponível na unidade localizada no Londrina Norte Shopping. Trata-se de uma oportunidade para atuar como Operador(a) de Caixa em um ambiente que incentiva o crescimento profissional.",
     whatsapp: "5543984220966",
     email: "",
-    banner: "banners/.jpeg"
+    banner: "banners/max.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Operador(a) Caixa",
+    empresa: "Fruttaria",
+    cidade: "Londrina",
+    descricao: "A Fruttaria está contratando Operador de Caixa para início imediato com foco em agilidade e responsabilidade.",
+    descricaoModal:"A oportunidade exige experiência comprovada na área, buscando profissionais ágeis, responsáveis e comprometidos para preenchimento imediato da vaga.",
+    whatsapp: "554333213060",
+    email: "fruttariarh2@hotmail.com",
+    banner: "banners/fruta.jpeg"
   },
 ];
