@@ -1286,4 +1286,15 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/belmarl.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Barman/BarWoman",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "A Gelobel está contratando Barman ou Barwoman para atuar em Londrina com um amplo pacote de benefícios.",
+    descricaoModal:"O profissional será responsável pelo preparo de drinks e bebidas, controle e organização do bar, prezando sempre pela excelência no atendimento e na apresentação. A empresa oferece um pacote de benefícios que inclui salário base, plano de saúde, convênio com farmácia, day off no aniversário, refeição na empresa e vale-transporte.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/bar.jpeg"
+  },
 ];
