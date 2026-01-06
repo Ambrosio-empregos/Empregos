@@ -571,4 +571,15 @@ const vagas = [
     email: "jurdico@proocupacional64.com.br",
     banner: "banners/medrec.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "Tex Card",
+    cidade: "Londrina",
+    descricao: "A indústria têxtil TexCard está contratando Auxiliar de Produção em Londrina! Vaga com salário fixo, diversos benefícios e múltiplas opções de turnos, incluindo horários noturnos e escala 12x36.",
+    descricaoModal:"Requisitos e Benefícios: Preferencialmente acima de 30 anos e com experiência em fábrica. Oferecemos Salário Fixo, Vale Alimentação (R$ 367,50), Vale Transporte, Seguro de Vida, Plano Odontológico e TotalPass. Horários: Vespertino (Seg-Sex 14:30 às 23h, Sáb até 19h), Noturno (Dom-Sex 23h às 06:13) ou Escala 12x36 (06:30 às 18:30 ou 18:30 às 06:30).",
+    whatsapp: "5543991265718",
+    email: "",
+    banner: "banners/tex.jpeg"
+  },
 ];
