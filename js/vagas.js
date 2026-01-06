@@ -945,4 +945,15 @@ const vagas = [
     email: "instalacoessolutech@gmail.com",
     banner: "banners/instal.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Almoxarife",
+    empresa: "Ômega Diagnósticos",
+    cidade: "Londrina",
+    descricao: "A Ômega Diagnósticos está contratando Almoxarife para integrar sua equipe, buscando profissionais organizados e com experiência na função ou áreas relacionadas.",
+    descricaoModal:"Os requisitos incluem ensino médio completo, experiência prévia como almoxarife, conhecimento em sistemas ERP, Excel e leitura de notas fiscais, além de noções de controle de inventário, armazenagem e organização, exigindo-se boa comunicação, agilidade na execução e responsabilidade com prazos.",
+    whatsapp: "5543988034762",
+    email: "trabalheconosco@omegadiagnosticos.com.br",
+    banner: "banners/omega.jpeg"
+  },
 ];
