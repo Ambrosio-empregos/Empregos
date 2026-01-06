@@ -439,4 +439,15 @@ const vagas = [
     email: "",
     banner: "banners/ativaex.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Camareira",
+    empresa: "Hotel Thomasi Maringá",
+    cidade: "Maringá",
+    descricao: "O Hotel Thomasi Maringá está contratando Camareira! Oportunidade para profissionais proativas e responsáveis com horário de trabalho fixo.",
+    descricaoModal:"Requisitos e Informações: Buscamos profissionais com proatividade, responsabilidade e boa comunicação.",
+    whatsapp: "554430320400",
+    email: "financeiro@hotelthomasi.com.br",
+    banner: "banners/cama.jpeg"
+  },
 ];
