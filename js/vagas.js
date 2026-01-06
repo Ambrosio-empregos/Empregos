@@ -1084,8 +1084,19 @@ const vagas = [
     cidade: "Rolândia",
     descricao: "Empresa em Rolândia contrata Líder de Produção com experiência em liderança industrial e conhecimento em corte e dobra de chapas metálicas.",
     descricaoModal:"Os requisitos incluem experiência em liderança de produção industrial, boa comunicação, visão sistêmica e conhecimento em corte e dobra de chapas metálicas, sendo a experiência no ramo metalúrgico um diferencial.",
-    whatsapp: "43991349146",
+    whatsapp: "5543991349146",
     email: "",
     banner: "banners/lider.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "FREELANCER",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Freelancer atuar na movimentação de carga e descarga de estruturas com valor de R$ 115,00 + R$ 18,00 de almoço.",
+    descricaoModal:"A função consiste na movimentação de carga e descarga de estruturas, com horário de trabalho das 08:00 às 18:00, sendo uma oportunidade para quem busca fazer uma renda extra.",
+    whatsapp: "5543991367846",
+    email: "",
+    banner: "banners/free.jpeg"
   },
 ];
