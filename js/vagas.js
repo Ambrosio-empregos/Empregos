@@ -450,4 +450,15 @@ const vagas = [
     email: "financeiro@hotelthomasi.com.br",
     banner: "banners/cama.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Conferente",
+    empresa: "Hotel Thomasi Maringá",
+    cidade: "Maringá",
+    descricao: "Oportunidade no Hotel Thomasi Maringá! Vaga para Conferente com horário comercial de segunda a sábado. Venha fazer parte da nossa equipe!",
+    descricaoModal:"Informações da Vaga: Horário de trabalho das 08h às 17h durante a semana e aos sábados das 08h às 12h. Local: Avenida Colombo, 3531.",
+    whatsapp: "554430320400",
+    email: "financeiro@hotelthomasi.com.br",
+    banner: "banners/confe.jpeg"
+  },
 ];
