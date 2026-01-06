@@ -1264,4 +1264,15 @@ const vagas = [
     email: "adm@primethor.com.br",
     banner: "banners/produ.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Assistente de vendas",
+    empresa: "PRIMETHOR Correias",
+    cidade: "Londrina",
+    descricao: "A Correias Prime Thor está contratando Assistente de Vendas com salário fixo, comissões e pacote de benefícios.",
+    descricaoModal:"As atividades são para a unidade localizada próxima ao Parque de Exposições Ney Braga. A empresa oferece salário fixo, comissão sobre as vendas e benefícios como vale alimentação, cesta básica e convênio com farmácia.",
+    whatsapp: "5543991467537",
+    email: "adm@primethor.com.br",
+    banner: "banners/assvepeg"
+  },
 ];
