@@ -1121,4 +1121,15 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/marke.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Encarregado fiscal",
+    empresa: "ATIVA Store",
+    cidade: "Londrina",
+    descricao: "A Ativa Store está contratando Encarregado Fiscal para atuar em Londrina/PR com regime CLT e um amplo pacote de benefícios.",
+    descricaoModal:"As atividades consistem em acompanhar rotinas fiscais, garantir o cumprimento de obrigações acessórias, validar apurações de impostos e monitorar atualizações da legislação tributária. Os requisitos exigem ensino superior completo em Ciências Contábeis, experiência comprovada na área fiscal, boa comunicação e capacidade de liderança de equipe. A empresa oferece benefícios como cesta básica, cesta de limpeza, planos de saúde e odontológico, convênios variados e day off no aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/fiscal.jpeg"
+  },
 ];
