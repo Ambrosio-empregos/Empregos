@@ -1077,4 +1077,15 @@ const vagas = [
     email: "baudelairecookieslondrina@gmail.com",
     banner: "banners/baudelaire.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Líder de Produção",
+    empresa: "Empresa não identificada",
+    cidade: "Rolândia",
+    descricao: "Empresa em Rolândia contrata Líder de Produção com experiência em liderança industrial e conhecimento em corte e dobra de chapas metálicas.",
+    descricaoModal:"Os requisitos incluem experiência em liderança de produção industrial, boa comunicação, visão sistêmica e conhecimento em corte e dobra de chapas metálicas, sendo a experiência no ramo metalúrgico um diferencial.",
+    whatsapp: "43991349146",
+    email: "",
+    banner: "banners/lider.jpeg"
+  },
 ];
