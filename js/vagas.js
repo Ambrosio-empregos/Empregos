@@ -494,4 +494,15 @@ const vagas = [
     email: "",
     banner: "banners/doce.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Lavador Autimotivo",
+    empresa: "BRANELO",
+    cidade: "Londrina",
+    descricao: "A rede de estética automotiva Branello contrata Lavador Automotivo para Londrina/PR. Interessados devem enviar currículo via WhatsApp!",
+    descricaoModal:"Oportunidade para Lavador Automotivo na rede Branello em Londrina/PR. Se você ficou interessado(a), envie seu currículo diretamente para o WhatsApp",
+    whatsapp: "5543996476306",
+    email: "",
+    banner: "banners/branelo.jpeg"
+  },
 ];
