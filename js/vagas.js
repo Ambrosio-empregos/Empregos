@@ -461,4 +461,15 @@ const vagas = [
     email: "financeiro@hotelthomasi.com.br",
     banner: "banners/confe.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Motorista Entregador",
+    empresa: "Ativa Express",
+    cidade: "Maringá",
+    descricao: "Vaga para Motorista Entregador na Ativa Express em Maringá! Salário de R$ 2.133,68 + Benefícios. Necessário CNH D com EAR e disponibilidade de escala.",
+    descricaoModal:"Informações da Vaga: Atuação em empresa de distribuição de encomendas com vínculo efetivo; Requisitos: CNH categoria D com EAR. Remuneração: Salário de R$ 2.133,68, vale refeição de R$ 27,33/dia, vale transporte e horas extras.",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/ativamot.jpeg"
+  },
 ];
