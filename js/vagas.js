@@ -956,4 +956,15 @@ const vagas = [
     email: "trabalheconosco@omegadiagnosticos.com.br",
     banner: "banners/omega.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Vendedor(A)",
+    empresa: "DUQUE Doce festa",
+    cidade: "Londrina",
+    descricao: "A Duque Doce Festa está com vagas abertas para a função de Vendedor(a) em sua equipe.",
+    descricaoModal:"Oportunidade para profissionais que desejam atuar no setor de vendas da empresa Duque Doce Festa.",
+    whatsapp: "5543999917814",
+    email: "adm@duquedocefesta.com.br",
+    banner: "banners/duqye.jpeg"
+  },
 ];
