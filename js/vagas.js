@@ -934,4 +934,15 @@ const vagas = [
     email: "",
     banner: "banners/inove.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Ajudante de Instalação Fotovoltaica",
+    empresa: "Instalaçoes Solutech",
+    cidade: "Londrina",
+    descricao: "A Solutech Instalações contrata para Londrina e região profissionais para atuar como Ajudante de Instalação Fotovoltaica em regime fixo ou por diária.",
+    descricaoModal:"As funções incluem auxiliar na montagem de estruturas fotovoltaicas, passar cabos e organizar ferramentas, exigindo do candidato capacidade para trabalhar em altura, disponibilidade para viagens, comprometimento e responsabilidade, sendo considerada diferencial a experiência prévia na área elétrica ou solar.",
+    whatsapp: "5543996043634",
+    email: "instalacoessolutech@gmail.com",
+    banner: "banners/instal.jpeg"
+  },
 ];
