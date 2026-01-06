@@ -967,4 +967,15 @@ const vagas = [
     email: "adm@duquedocefesta.com.br",
     banner: "banners/duqye.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Operador(a) de Loja",
+    empresa: "HAVAIANAS",
+    cidade: "Londrina",
+    descricao: "A Havaianas no Boulevard Londrina Shopping está contratando Operador(a) de Loja para integrar sua equipe com jornada em escala 6x1.",
+    descricaoModal:"As atividades envolvem atendimento ao cliente, organização da loja, reposição de produtos, operação de caixa e rotinas diárias, exigindo idade maior de 18 anos, boa comunicação, proatividade, responsabilidade e disponibilidade de horário para o turno das 14h às 22h20, sendo a experiência prévia um diferencial.",
+    whatsapp: "5543988435110",
+    email: "",
+    banner: "banners/hava.jpeg"
+  },
 ];
