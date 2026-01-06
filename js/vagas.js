@@ -1099,4 +1099,15 @@ const vagas = [
     email: "",
     banner: "banners/free.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Almoxarife",
+    empresa: "MP3 IMPORTS",
+    cidade: "Londrina",
+    descricao: "A MP3 Imports está contratando Almoxarife para atuar em Londrina/PR em regime CLT com um amplo pacote de benefícios.",
+    descricaoModal:"As atividades compreendem recebimento, conferência, armazenamento de materiais, controle de estoque, inventário, separação de produtos e lançamentos em sistema. Os requisitos incluem experiência anterior na área de almoxarifado e conhecimento básico de informática e sistemas de controle de estoque. A empresa oferece benefícios como cesta básica, cesta de limpeza, planos de saúde e odontológico, convênios com farmácia, loja e faculdade, além de day off no aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/xarife.jpeg"
+  },
 ];
