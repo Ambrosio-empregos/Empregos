@@ -857,4 +857,15 @@ const vagas = [
     email: "",
     banner: "banners/tim.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Motorista",
+    empresa: "FlexLajes",
+    cidade: "Londrina",
+    descricao: "A FlexLajes está contratando Motorista para atuar com carga e descarga e auxiliar na produção de lajes pré-moldadas, buscando profissionais comprometidos com o trabalho.",
+    descricaoModal:"As funções incluem carga e descarga, auxílio na produção de lajes pré-moldadas e descarregamento de carreta ou truck, sendo considerados diferenciais a experiência com Munck e vivência no ramo da construção civil.",
+    whatsapp: "5543996571555",
+    email: "",
+    banner: "banners/flex.jpeg"
+  },
 ];
