@@ -769,4 +769,15 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/costura.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "Incorpast",
+    cidade: "",
+    descricao: "APENAS EMAIL; A Incorpast está contratando Auxiliar de Produção para o setor de gravação! Vaga para atuar com solda eletrostática, gravação em baixo relevo, vincos e dobra. Envie seu currículo.",
+    descricaoModal:"Atribuições da Vaga: Oportunidade para atuar no setor de Gravação, realizando atividades de solda eletrostática, gravação em baixo relevo, vincos e dobra de materiais.",
+    whatsapp: "",
+    email: "RH@INCORPAST.COM.BR",
+    banner: "banners/incor.jpeg"
+  },
 ];
