@@ -1235,11 +1235,22 @@ const vagas = [
     data: "2026-01-06",
     titulo: "Comercial",
     empresa: "Odonto Sempre",
-    cidade: "",
+    cidade: "Londrina",
+    descricao: "SOMENTE POR EMAIL; ",
+    descricaoModal:"A Odonto Sempre está contratando profissional para a área Comercial com perfil focado em vendas e metas.As funções incluem realizar ligações diariamente, possuir perfil comunicativo, ter vontade de trabalhar com vendas e não ter medo de metas. A oportunidade oferece salário mais comissão",
+    whatsapp: "",
+    email: "odontosempresaude@gmail.com",
+    banner: "banners/odontoc.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Recepcionista",
+    empresa: "Odonto Sempre",
+    cidade: "Londrina",
     descricao: "SOMENTE POR EMAIL; A Odonto Sempre está contratando Recepcionista com perfil simpático e comunicativo para integrar sua equipe.",
     descricaoModal:"Os requisitos para a vaga incluem ser uma pessoa simpática, comunicativa, responsável e organizada, possuir domínio das ferramentas do WhatsApp e demonstrar real vontade de trabalhar.",
     whatsapp: "",
     email: "odontosempresaude@gmail.com",
-    banner: "banners/odonto.jpeg"
+    banner: "banners/odontorec.jpeg"
   },
 ];
