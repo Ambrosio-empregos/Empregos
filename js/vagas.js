@@ -1385,4 +1385,15 @@ const vagas = [
     email: "",
     banner: "banners/koi.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Sushiman",
+    empresa: "K O I",
+    cidade: "Londrina",
+    descricao: "O restaurante KOI está contratando Sushiman para início das atividades em janeiro.",
+    descricaoModal:"Oportunidade disponível para a função de Sushiman com previsão de início para o mês de janeiro.",
+    whatsapp: "5543999445007",
+    email: "",
+    banner: "banners/koico.jpeg"
+  },
 ];
