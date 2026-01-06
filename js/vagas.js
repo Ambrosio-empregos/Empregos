@@ -901,4 +901,15 @@ const vagas = [
     email: "",
     banner: "banners/gleba.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Gerente de Loja",
+    empresa: "Loja em Londrina",
+    cidade: "Londrina",
+    descricao: "Loja na Gleba Palhano em Londrina contrata Gerente de Loja com experiência comprovada em vendas e gestão, oferecendo salário fixo de R$ 3.000,00 mais benefícios e comissões.",
+    descricaoModal:"Os requisitos incluem experiência comprovada em vendas, conhecimento em procedimentos de abertura e fechamento de loja, proatividade, bom relacionamento interpessoal e vontade de crescimento na carreira, com pacote de remuneração composto por salário fixo de R$ 3.000,00, vale alimentação de R$ 500,00, vale transporte e comissões sobre as vendas.",
+    whatsapp: "5543991888128",
+    email: "",
+    banner: "banners/gerente.jpeg"
+  },
 ];
