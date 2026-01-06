@@ -637,4 +637,15 @@ const vagas = [
     email: "rh.grupoaurea@gmail.com",
     banner: "banners/ademi.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Vendedor(a)",
+    empresa: "Roleman",
+    cidade: "Londrina",
+    descricao: "A Roleman Rolamentos e Retentores em Londrina está contratando Vendedor(a)! Oportunidade para profissionais com experiência mínima de 6 meses e Ensino Médio completo.",
+    descricaoModal:"Funções e Requisitos: Atendimento ao cliente e vendas. É necessário possuir Ensino Médio completo e experiência mínima de 6 meses em atendimento e vendas (experiência com rolamentos e mancais será um diferencial).",
+    whatsapp: "5543984564715",
+    email: "",
+    banner: "banners/role.jpeg"
+  },
 ];
