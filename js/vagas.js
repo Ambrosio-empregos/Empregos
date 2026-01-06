@@ -406,4 +406,15 @@ const vagas = [
     email: "",
     banner: "banners/carne.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Operador de Loja",
+    empresa: "Spoleto",
+    cidade: "Maringá",
+    descricao: "Vaga de Operador de Loja (Spoleto) no Shopping Catuaí Maringá. Salário de R$ 1.980,00 (Efetivado) + Vale Alimentação de R$ 400,00 e bônus por assiduidade!",
+    descricaoModal:"Atividades: Atendimento ao cliente, montagem e preparo de pratos, operação de caixa, limpeza e organização da loja, além de cumprir normas de segurança alimentar.",
+    whatsapp: "5544991163010",
+    email: "",
+    banner: "banners/spol.jpeg"
+  },
 ];
