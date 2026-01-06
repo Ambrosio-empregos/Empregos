@@ -1231,4 +1231,15 @@ const vagas = [
     email: "fruttariarh2@hotmail.com",
     banner: "banners/fruta.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Comercial",
+    empresa: "Odonto Sempre",
+    cidade: "",
+    descricao: "SOMENTE POR EMAIL; A Odonto Sempre está contratando Recepcionista com perfil simpático e comunicativo para integrar sua equipe.",
+    descricaoModal:"Os requisitos para a vaga incluem ser uma pessoa simpática, comunicativa, responsável e organizada, possuir domínio das ferramentas do WhatsApp e demonstrar real vontade de trabalhar.",
+    whatsapp: "",
+    email: "odontosempresaude@gmail.com",
+    banner: "banners/odonto.jpeg"
+  },
 ];
