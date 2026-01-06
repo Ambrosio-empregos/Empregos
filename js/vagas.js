@@ -1187,4 +1187,15 @@ const vagas = [
     email: "rh.duolz@gmail.com",
     banner: "banners/markdi.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Setor de Cadastros",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Setor de Cadastros com ganhos entre R$ 2.000 e R$ 10.000 e plano de carreira.",
+    descricaoModal:"A vaga oferece treinamento, acompanhamento, premiações mensais por resultado e happy hour semanal. Os requisitos incluem idade entre 18 e 30 anos.",
+    whatsapp: "5543988083435",
+    email: "",
+    banner: "banners/cadas.jpeg"
+  },
 ];
