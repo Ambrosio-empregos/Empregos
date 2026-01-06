@@ -615,4 +615,15 @@ const vagas = [
     email: "",
     banner: "banners/pizza.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "técnico Refrigerista",
+    empresa: "Central AR",
+    cidade: "Londrina",
+    descricao: "A CentralAr em Londrina contrata Técnico Refrigerista! Oportunidade para profissionais com experiência em instalação e manutenção de ar condicionado. Entre em contato!",
+    descricaoModal:"Requisitos e Informações: Buscamos profissionais com experiência desejável em instalação, manutenção e reparos em sistemas de ar condicionado. Local de atuação: Londrina-PR, na Av. Madre Leônia Milito, 598",
+    whatsapp: "5543999387926",
+    email: "",
+    banner: "banners/ar.jpeg"
+  },
 ];
