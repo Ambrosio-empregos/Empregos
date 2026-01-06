@@ -1132,4 +1132,15 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/fiscal.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Serralheiro",
+    empresa: "ATIVA Store",
+    cidade: "Londrina",
+    descricao: "A MP3 Imports está contratando Serralheiro para atuar em Londrina/PR em regime CLT com um amplo pacote de benefícios.",
+    descricaoModal:"As atividades envolvem a produção e montagem de estruturas para peças decorativas de Natal em diversos tamanhos, além da colaboração na montagem de decorações em espaços públicos e privados. Os requisitos incluem experiência em serralheria e habilidade com solda, corte e montagem de estruturas metálicas. A empresa oferece benefícios como cesta básica, cesta de limpeza, planos de saúde e odontológico, convênios com farmácia, loja e faculdade, área de convivência e day off no aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/serra.jpeg"
+  },
 ];
