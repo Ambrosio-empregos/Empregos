@@ -593,4 +593,15 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Assistente Contábil",
+    empresa: "Cont Max",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; Vaga aberta para Assistente Contábil! Se você busca uma oportunidade na área contábil em uma empresa estruturada, envie seu currículo por e-mail.",
+    descricaoModal:"Informações da Vaga: Oportunidade para o cargo de Assistente Contábil.",
+    whatsapp: "",
+    email: "rh@contmax.com.br",
+    banner: "banners/cont.jpeg"
+  },
 ];
