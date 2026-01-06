@@ -371,6 +371,17 @@ const vagas = [
     descricaoModal:"Requisitos e Detalhes: Experiência na área, perfil responsável, pontual, organizado e com vontade de aprender. Atividades voltadas à fabricação de papel toalha e higiênico.",
     whatsapp: "5544991024432",
     email: "brasillimp.fg@rotmail.com",
-    banner: "banners/bralimp.jpg"
+    banner: "banners/luk.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Servente de Limpeza",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Maringá! Contrata-se Servente de Limpeza com experiência para atuação em condomínio. Início imediato com salário de R$ 1.764,00 e ótimos benefícios!",
+    descricaoModal:"Informações e Benefícios: Salário de R$ 1.764,00, Vale alimentação de R$ 805,00, Assiduidade de R$ 250,00 e Vale transporte. Horário: Segunda a sexta das 08h às 17h, sábado ou domingo (alternado) das 08h às 12h, com 1h de almoço.",
+    whatsapp: "5543991597030",
+    email: "",
+    banner: "banners/servo.jpg"
   },
 ];
