@@ -978,4 +978,15 @@ const vagas = [
     email: "",
     banner: "banners/hava.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "GRACCO",
+    cidade: "Londrina",
+    descricao: "A Gracco Burger está contratando Auxiliar de Cozinha para as unidades de Londrina e Ibiporã com salário final a partir de R$ 2.800,00 para quem busca crescer na empresa.",
+    descricaoModal:"Oportunidade voltada para pessoas sem experiência mas com força de vontade e desejo de criar um plano de carreira, com jornada de trabalho das 15:30 às 23:50 e uma folga fixa na semana.",
+    whatsapp: "5541997506688",
+    email: "",
+    banner: "banners/gracco.jpeg"
+  },
 ];
