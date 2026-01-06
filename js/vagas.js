@@ -1165,4 +1165,15 @@ const vagas = [
     email: "",
     banner: "banners/petg.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de escritório",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "portunidade para Auxiliar de Escritório com perfil organizado e proativo para atuação presencial de segunda a sexta-feira.",
+    descricaoModal:"As funções incluem dar suporte em plataformas digitais ao mentor e aos alunos, auxiliar no atendimento e nas rotinas internas, além de apoiar as atividades administrativas do dia a dia. A vaga busca um perfil executor e responsável, oferecendo salário a combinar para regime de trabalho presencial.",
+    whatsapp: "5543996795268",
+    email: "rh.duolz@gmail.com",
+    banner: "banners/petg.jpeg"
+  },
 ];
