@@ -1273,6 +1273,17 @@ const vagas = [
     descricaoModal:"As atividades são para a unidade localizada próxima ao Parque de Exposições Ney Braga. A empresa oferece salário fixo, comissão sobre as vendas e benefícios como vale alimentação, cesta básica e convênio com farmácia.",
     whatsapp: "5543991467537",
     email: "adm@primethor.com.br",
-    banner: "banners/assvepeg"
+    banner: "banners/assv.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Serviços gerais",
+    empresa: "Belmar",
+    cidade: "Londrina",
+    descricao: "A Belmar Cozinha Japonesa está contratando Auxiliar de Serviços Gerais em Londrina com um amplo pacote de benefícios.",
+    descricaoModal:"O profissional será responsável pela limpeza e organização dos ambientes, lavagem de louças e utensílios, conservação do espaço, reposição de materiais e apoio nas demandas gerais do dia a dia. A vaga é destinada a maiores de 18 anos. A empresa oferece benefícios como salário base, plano de saúde, convênio com farmácia, day off de aniversário, refeição na empresa e vale-transporte.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/belmarl.jpeg"
   },
 ];
