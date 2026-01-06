@@ -1022,4 +1022,15 @@ const vagas = [
     email: "",
     banner: "banners/acougue.jpeg"
   },
+   {
+    data: "2026-01-06",
+    titulo: "Vendedor(A)",
+    empresa: "Maway - Moda Masculina",
+    cidade: "Londrina",
+    descricao: "A Maway Concept está contratando Vendedor(a) para atuar em meio período em sua loja de moda masculina, com horário de segunda a sábado das 09:00 às 15:00.",
+    descricaoModal:"A vaga oferece salário fixo de R$ 1.000,00, vale-transporte e comissão por meta batida, com funções que englobam atendimento ao cliente, vendas, organização da loja e auxílio na divulgação de produtos. Os requisitos buscam profissionais com boa comunicação, comprometimento e vontade de aprender, sendo a experiência prévia um diferencial não obrigatório.",
+    whatsapp: "5543331857578",
+    email: "",
+    banner: "banners/maway.jpeg"
+  },
 ];
