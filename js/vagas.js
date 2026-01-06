@@ -1033,4 +1033,15 @@ const vagas = [
     email: "",
     banner: "banners/maway.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Dá Licença - Restaurante",
+    cidade: "Londrina",
+    descricao: "O Restaurante Dá Licença está contratando Auxiliar de Limpeza com experiência necessária na função para atuar em Londrina.",
+    descricaoModal:"A oportunidade exige experiência prévia na função e oferece horário de trabalho das 07:40 às 16:00, com 1 hora de intervalo, folga semanal e 1 domingo ao mês. O pacote de benefícios inclui vale transporte, refeição no local, prêmio de pontualidade e adicional de assiduidade.",
+    whatsapp: "5543984992551",
+    email: "DOUGLAS@DALICENCA.COM.BR",
+    banner: "banners/lice.jpeg"
+  },
 ];
