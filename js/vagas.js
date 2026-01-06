@@ -483,4 +483,15 @@ const vagas = [
     email: "",
     banner: "banners/ativamot.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "atendente de Caixa",
+    empresa: "Padaria Doce Família",
+    cidade: "Maringá",
+    descricao: "A Padaria Doce Família em Maringá contrata Caixa Atendente! Vaga com diversos benefícios, incluindo vale alimentação, lanche no local e descontos exclusivos.",
+    descricaoModal:"Atividades e Requisitos: Responsável pela abertura/fechamento de caixa, registro de vendas e apoio à equipe. Necessário experiência comprovada como caixa, agilidade, boa comunicação e conhecimento em PDV/informática.",
+    whatsapp: "554432268004",
+    email: "",
+    banner: "banners/doce.jpeg"
+  },
 ];
