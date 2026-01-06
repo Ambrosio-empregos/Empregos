@@ -1044,4 +1044,15 @@ const vagas = [
     email: "DOUGLAS@DALICENCA.COM.BR",
     banner: "banners/lice.jpeg"
   },
+   {
+    data: "2026-01-06",
+    titulo: "Chapeiro",
+    empresa: "Dá Licença - Restaurante",
+    cidade: "Londrina",
+    descricao: "O Restaurante Dá Licença está com vaga aberta para Chapeiro em sua unidade da João Cândido, exigindo experiência mínima de 1 ano para atuação em Londrina.",
+    descricaoModal:"A função requer experiência mínima de 1 ano e oferece horário de trabalho das 07:40 às 16:00, com 1 hora de intervalo. O pacote de benefícios inclui vale transporte, refeição no local, prêmio de pontualidade e adicional de assiduidade, com escala de uma folga semanal e um domingo por mês.",
+    whatsapp: "5543984992551",
+    email: "DOUGLAS@DALICENCA.COM.BR",
+    banner: "banners/chapa.jpeg"
+  },
 ];
