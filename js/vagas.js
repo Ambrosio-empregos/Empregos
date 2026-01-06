@@ -1308,4 +1308,15 @@ const vagas = [
     email: "jr.dieselpecas@hotmail.com",
     banner: "banners/diesel.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar Técnico de Ar Condicionado",
+    empresa: "LondriSplit",
+    cidade: "Londrina",
+    descricao: "A Londrisplit está contratando Auxiliar Técnico de Ar Condicionado para integrar sua equipe.",
+    descricaoModal:"Oportunidade disponível para atuar como Auxiliar Técnico de Ar Condicionado na empresa Londrisplit.",
+    whatsapp: "5543991815617",
+    email: "londrisplit@londrisplit.com.br",
+    banner: "banners/split.jpeg"
+  },
 ];
