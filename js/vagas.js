@@ -1209,4 +1209,15 @@ const vagas = [
     email: "contratacao.pmol@gmail.com",
     banner: "banners/prefis.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Operador(a) Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador(a) de Caixa no Max Atacadista do Londrina Norte Shopping para construção de carreira.",
+    descricaoModal:"A vaga está disponível na unidade localizada no Londrina Norte Shopping. Trata-se de uma oportunidade para atuar como Operador(a) de Caixa em um ambiente que incentiva o crescimento profissional.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/.jpeg"
+  },
 ];
