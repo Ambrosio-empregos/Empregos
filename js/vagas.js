@@ -647,7 +647,8 @@ const vagas = [
     whatsapp: "5543984564715",
     email: "",
     banner: "banners/role.jpeg"
-  },{
+  },
+  {
     data: "2026-01-05",
     titulo: "Garçom/Balconista",
     empresa: "Empresa não identificada",
@@ -657,5 +658,16 @@ const vagas = [
     whatsapp: "554330267710",
     email: "",
     banner: "banners/balcon.jpeg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Operador de vendas e serviços",
+    empresa: "C&A",
+    cidade: "Londrina",
+    descricao: "A C&A está contratando Operadores de Vendas e Serviços para a loja do Catuaí Shopping em Londrina! Se você gosta de moda e atendimento, envie seu currículo.",
+    descricaoModal:"Oportunidade para o cargo de Operador de Vendas e Serviços na loja C&A do Catuaí Shopping Londrina.",
+    whatsapp: "5543984923382",
+    email: "",
+    banner: "banners/cea.jpeg"
   },
 ];
