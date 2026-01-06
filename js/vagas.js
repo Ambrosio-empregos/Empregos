@@ -1055,4 +1055,15 @@ const vagas = [
     email: "DOUGLAS@DALICENCA.COM.BR",
     banner: "banners/chapa.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Lavador e Internista",
+    empresa: "Rico estética Automotiva",
+    cidade: "Londrina",
+    descricao: "A Rico Estética Automotiva está contratando Lavador e Internista para atuar em sua unidade na Rua Fernando de Noronha, em Londrina.",
+    descricaoModal:"A oportunidade é para trabalhar com estética automotiva na unidade localizada na Rua Fernando de Noronha, 1201, com os interessados devendo enviar o currículo diretamente no endereço ou pelo WhatsApp (43) 99103-1317.",
+    whatsapp: "5543991031317",
+    email: "",
+    banner: "banners/rico.jpeg"
+  },
 ];
