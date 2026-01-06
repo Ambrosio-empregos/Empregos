@@ -549,4 +549,15 @@ const vagas = [
     email: "",
     banner: "banners/commer.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Financeiro",
+    empresa: "PRO MEDICINA",
+    cidade: "Londrina",
+    descricao: "A Pro Medicina está contratando profissional para o setor Financeiro em Londrina! Vaga para quem possui experiência, com ótimos benefícios e horário comercial de segunda a sexta.",
+    descricaoModal:"Informações e Requisitos: Contratação de Financeiro com experiência comprovada. Horário de trabalho: Segunda a sexta, das 07h30 às 17h30, com 1h12 de intervalo para almoço. Remuneração e Benefícios: Salário compatível + Vale Transporte + Vale Alimentação.",
+    whatsapp: "5543988630337",
+    email: "jurdico@proocupacional64.com.br",
+    banner: "banners/commer.jpeg"
+  },
 ];
