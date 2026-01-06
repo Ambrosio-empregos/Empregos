@@ -1374,4 +1374,15 @@ const vagas = [
     email: "julia.rh@tex3digital.com.br",
     banner: "banners/consult.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "K O I",
+    cidade: "Londrina",
+    descricao: "O KOI está contratando Auxiliar de Cozinha para início em janeiro em sua unidade.",
+    descricaoModal:"Oportunidade disponível para a função de Auxiliar de Cozinha com previsão de início das atividades para o mês de janeiro.",
+    whatsapp: "5543999445007",
+    email: "",
+    banner: "banners/koi.jpeg"
+  },
 ];
