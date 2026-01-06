@@ -1000,4 +1000,15 @@ const vagas = [
     email: "",
     banner: "banners/cozinha.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de cozinha",
+    empresa: "Empresa não identificada",
+    cidade: "Oportunidade para Auxiliar de Cozinha com disponibilidade para início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
+    descricao: "A função exige um profissional organizado e proativo com disponibilidade imediata, oferecendo benefícios como vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
+    descricaoModal:"",
+    whatsapp: "552135564170",
+    email: "",
+    banner: "banners/cozinhaa.jpeg"
+  },
 ];
