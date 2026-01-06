@@ -818,8 +818,8 @@ const vagas = [
     titulo: "Vendedor(A)",
     empresa: "Estação Fitness Academia",
     cidade: "Cambé",
-    descricao: "A Roleman Rolamentos e Retentores em Londrina está contratando Vendedor(a)! Oportunidade para profissionais com Ensino Médio completo e experiência mínima de 6 meses.",
-    descricaoModal:"Atendimento ao cliente e vendas. Requisitos: Experiência mínima de 6 meses em atendimento e vendas, Ensino Médio completo e conhecimento desejável em rolamentos e mancais.",
+    descricao: "A Academia Estação Fitness está contratando Vendedor(a) para a unidade de Cambé! Vaga para meio período voltada a profissionais proativos e com vontade de aprender.",
+    descricaoModal:"Experiência em vendas, proatividade, boa comunicação e vontade de aprender.",
     whatsapp: "554398141494",
     email: "",
     banner: "banners/fit.jpeg"
