@@ -681,4 +681,15 @@ const vagas = [
     email: "",
     banner: "banners/billie.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Villa Melti",
+    cidade: "Londrina",
+    descricao: "O Villa Melti contrata Auxiliar de Limpeza! Vaga com remuneração total aproximada entre R$ 2.800 e R$ 3.200, incluindo comissão, benefícios CLT e alimentação no local.",
+    descricaoModal:"Informações e Benefícios: Atuação de terça a domingo, das 15h30 às 23h30, com folgas às segundas-feiras e um domingo por mês. A remuneração é composta por salário, comissão e assiduidade, além de auxílio transporte ou ajuda de custo, alimentação no restaurante e demais benefícios CLT",
+    whatsapp: "5543988249361",
+    email: "",
+    banner: "banners/billie.jpeg"
+  },
 ];
