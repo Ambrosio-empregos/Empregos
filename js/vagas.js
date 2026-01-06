@@ -993,9 +993,9 @@ const vagas = [
     data: "2026-01-06",
     titulo: "Cozinheiro",
     empresa: "Empresa não identificada",
-    cidade: "Oportunidade para Cozinheiro(a) com início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
-    descricao: "Os requisitos para a função são ser um profissional organizado e proativo com disponibilidade para início imediato, oferecendo como benefícios vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
-    descricaoModal:"",
+    cidade: "",
+    descricao: "Oportunidade para Cozinheiro(a) com início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
+    descricaoModal:"Os requisitos para a função são ser um profissional organizado e proativo com disponibilidade para início imediato, oferecendo como benefícios vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
     whatsapp: "552135564170",
     email: "",
     banner: "banners/cozinha.jpeg"
@@ -1004,9 +1004,9 @@ const vagas = [
     data: "2026-01-06",
     titulo: "Auxiliar de cozinha",
     empresa: "Empresa não identificada",
-    cidade: "Oportunidade para Auxiliar de Cozinha com disponibilidade para início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
-    descricao: "A função exige um profissional organizado e proativo com disponibilidade imediata, oferecendo benefícios como vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
-    descricaoModal:"",
+    cidade: "",
+    descricao: "Oportunidade para Auxiliar de Cozinha com disponibilidade para início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
+    descricaoModal:"A função exige um profissional organizado e proativo com disponibilidade imediata, oferecendo benefícios como vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
     whatsapp: "552135564170",
     email: "",
     banner: "banners/cozinhaa.jpeg"
@@ -1015,9 +1015,9 @@ const vagas = [
     data: "2026-01-06",
     titulo: "Açougueiro",
     empresa: "Empresa não identificada",
-    cidade: "Oportunidade para Açougueiro com disponibilidade para início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
-    descricao: "A função exige um profissional organizado e proativo com disponibilidade imediata, oferecendo benefícios como vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
-    descricaoModal:"",
+    cidade: "",
+    descricao: "Oportunidade para Açougueiro com disponibilidade para início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
+    descricaoModal:"A função exige um profissional organizado e proativo com disponibilidade imediata, oferecendo benefícios como vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
     whatsapp: "552135564170",
     email: "",
     banner: "banners/acougue.jpeg"
@@ -1142,5 +1142,16 @@ const vagas = [
     whatsapp: "5543991367846",
     email: "curriculo@grupomp3.com.br",
     banner: "banners/serra.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar Geral",
+    empresa: "Espetinhos Msrtins",
+    cidade: "Londrina",
+    descricao: "O Espetinhos Martins está contratando Auxiliar Geral para trabalhar em Londrina de segunda a sexta-feira.",
+    descricaoModal:"A oportunidade oferece horário de trabalho das 08h às 18h, de segunda a sexta-feira. O pacote de benefícios inclui vale alimentação e bonificação.",
+    whatsapp: "5543984572241",
+    email: "",
+    banner: "banners/peto.jpeg"
   },
 ];
