@@ -472,4 +472,15 @@ const vagas = [
     email: "",
     banner: "banners/ativamot.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Ajudante de Motorista",
+    empresa: "Ativa Express",
+    cidade: "Maringá",
+    descricao: "Vaga para Ajudante de Motorista na Ativa Express em Maringá! Salário de R$ 1.848,89 + Benefícios, com horário fixo de segunda a sábado e vínculo efetivo.",
+    descricaoModal:"Informações da Vaga: Atuação em empresa do ramo de distribuição de encomendas com vínculo efetivo",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/ativamot.jpeg"
+  },
 ];
