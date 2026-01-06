@@ -989,4 +989,15 @@ const vagas = [
     email: "",
     banner: "banners/gracco.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Cozinheiro",
+    empresa: "Empresa não identificada",
+    cidade: "Oportunidade para Cozinheiro(a) com início imediato e pacote de benefícios incluindo gratificação por assiduidade.",
+    descricao: "Os requisitos para a função são ser um profissional organizado e proativo com disponibilidade para início imediato, oferecendo como benefícios vale transporte, vale refeição, refeição no local e gratificação por assiduidade.",
+    descricaoModal:"",
+    whatsapp: "552135564170",
+    email: "",
+    banner: "banners/cozinha.jpeg"
+  },
 ];
