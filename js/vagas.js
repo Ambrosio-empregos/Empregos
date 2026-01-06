@@ -1407,4 +1407,15 @@ const vagas = [
     email: "",
     banner: "banners/caseiro.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Produção",
+    empresa: "Plast Perola",
+    cidade: "Londrina",
+    descricao: "A Plastperola está contratando Auxiliar de Produção em Londrina com preferência para o sexo masculino e pacote de benefícios que inclui plano de saúde e bonificação.",
+    descricaoModal:"Requisitos: Preferência sexo masculino. Benefícios: Vale transporte, auxílio alimentação, bonificação, plano de saúde e convênios. Horário: Segunda a sexta das 07h00 às 16h00 e Sábado das 08h00 às 12h00.",
+    whatsapp: "554330287712",
+    email: "RH@PLASTPEROLA.COM.BR",
+    banner: "banners/pero.jpeg"
+  },
 ];
