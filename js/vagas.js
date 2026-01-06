@@ -879,4 +879,15 @@ const vagas = [
     email: "",
     banner: "banners/fatima.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Consultora",
+    empresa: "M O R A N A",
+    cidade: "",
+    descricao: "Venha fazer parte da equipe Morana como consultora e ajude a inspirar nossas clientes nesta excelente oportunidade profissional.",
+    descricaoModal:"A vaga é destinada ao cargo de consultora para atuar junto à marca Morana.",
+    whatsapp: "5542999551308",
+    email: "",
+    banner: "banners/morana.jpeg"
+  },
 ];
