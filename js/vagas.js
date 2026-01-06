@@ -846,4 +846,15 @@ const vagas = [
     email: "contratacao.pmol@gmail.com",
     banner: "banners/prefi.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Vendedor Interno",
+    empresa: "TIM",
+    cidade: "Maringá",
+    descricao: "A Vetorial Telecom está contratando Vendedor Interno para atuar com a marca TIM oferecendo salário de R$ 2.138,00 mais comissões e benefícios para jornada de segunda a sexta.",
+    descricaoModal:"A função oferece salário fixo de R$ 2.138,00, comissões sobre vendas, campanhas com premiações, vale transporte e celular da empresa, com horário de trabalho de segunda a sexta-feira, das 08:00 às 18:00.",
+    whatsapp: "5544997740840",
+    email: "",
+    banner: "banners/tim.jpeg"
+  },
 ];
