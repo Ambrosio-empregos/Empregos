@@ -1352,4 +1352,15 @@ const vagas = [
     email: "recrutamento.camponesa@gmail.com",
     banner: "banners/loca.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Vendedor Externo",
+    empresa: "Atento",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Externo em Londrina com salário de R$ 2.000,00 + remuneração variável.",
+    descricaoModal:"A vaga é destinada a profissionais para atuar com vendas externas na cidade de Londrina. É necessário possuir o Ensino Fundamental completo. A remuneração é composta por um salário fixo de R$ 2.000,00 somado a valores variáveis.",
+    whatsapp: "5543991232449",
+    email: "",
+    banner: "banners/ext.jpeg"
+  },
 ];
