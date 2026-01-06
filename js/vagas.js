@@ -307,6 +307,17 @@ const vagas = [
     email: "",
     banner: "banners/industria.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Vendedor(a)",
+    empresa: "Uso Essencial Case",
+    cidade: "Maringá",
+    descricao: "Vaga para Vendedor(a) na Uso Essencial (Shopping Catuaí Maringá). Salário piso shopping + comissão, prêmios e carga horária de 6h/dia!",
+    descricaoModal:"Informações da Vaga: Oportunidade para Vendedor(a) na unidade do Shopping Catuaí Maringá. Oferecemos salário piso shopping, comissão, vale alimentação, vale transporte e prêmios.",
+    whatsapp: "5544991496055",
+    email: "",
+    banner: "banners/uso.jpg"
+  },
   
   
 ];
