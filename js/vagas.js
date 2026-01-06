@@ -890,4 +890,15 @@ const vagas = [
     email: "",
     banner: "banners/morana.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Analista Fnanceiro",
+    empresa: "Loja em Londrina",
+    cidade: "Londrina",
+    descricao: "Loja na Gleba Palhano em Londrina contrata Analista Financeiro com perfil feminino e experiência comprovada em rotinas administrativas e departamento pessoal.",
+    descricaoModal:"Os requisitos incluem perfil feminino, experiência comprovada em contas a pagar e receber, rotinas administrativas gerais e processos de departamento pessoal como contratação, folha de pagamento e rescisão, sendo o conhecimento contábil considerado um diferencial para a vaga com salário a combinar.",
+    whatsapp: "5543991888128",
+    email: "",
+    banner: "banners/gleba.jpeg"
+  },
 ];
