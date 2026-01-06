@@ -1310,13 +1310,13 @@ const vagas = [
   },
   {
     data: "2026-01-06",
-    titulo: "Auxiliar Técnico de Ar Condicionado",
-    empresa: "LondriSplit",
+    titulo: "Auxiliar Financeiro",
+    empresa: "Camponesa imóveis",
     cidade: "Londrina",
-    descricao: "A Londrisplit está contratando Auxiliar Técnico de Ar Condicionado para integrar sua equipe.",
-    descricaoModal:"Oportunidade disponível para atuar como Auxiliar Técnico de Ar Condicionado na empresa Londrisplit.",
-    whatsapp: "5543991815617",
-    email: "londrisplit@londrisplit.com.br",
-    banner: "banners/split.jpeg"
+    descricao: "A Camponesa Imóveis está contratando Auxiliar Financeiro para vaga efetiva CLT com pacote de benefícios.",
+    descricaoModal:"As responsabilidades incluem apoio ao departamento financeiro, gestão de contas a pagar e receber, emissão de notas fiscais, conferência de extratos e organização de boletos e documentos. A vaga é em regime Efetivo CLT e oferece benefícios como plano de saúde, ajuda de custo e vale alimentação.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/campo.jpeg"
   },
 ];
