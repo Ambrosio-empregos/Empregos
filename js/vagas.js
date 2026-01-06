@@ -538,4 +538,15 @@ const vagas = [
     email: "",
     banner: "banners/almox.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Assistente de E-commerce",
+    empresa: "Empresa Não Identificada",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Assistente de E-commerce em Cambé! Atuação com cadastro de produtos, marketplaces e suporte ao cliente. Necessário domínio em ferramentas de imagem e Excel.",
+    descricaoModal:"Atividades e Requisitos: Cadastro de produtos, atualização de marketplaces, criação de anúncios, manutenção de fotos/vídeos, resposta a perguntas, monitoramento de vendas, suporte ao cliente e análise de dados. Exige-se Excel intermediário e domínio de ferramentas de manipulação de imagens.",
+    whatsapp: "5543991244590",
+    email: "",
+    banner: "banners/commer.jpeg"
+  },
 ];
