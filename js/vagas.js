@@ -1418,4 +1418,15 @@ const vagas = [
     email: "RH@PLASTPEROLA.COM.BR",
     banner: "banners/pero.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Angariador Imobiliário",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Angariador Imobiliário com ajuda de custo e 40% de comissão para integrar time comercial em expansão.",
+    descricaoModal:"O que oferecemos: Ajuda de custo, 40% de comissão, suporte e acompanhamento profissional. Requisitos: Perfil comunicativo e proativo, comprometimento, responsabilidade e preferência por quem possui moto",
+    whatsapp: "5543996660565",
+    email: "",
+    banner: "banners/angaim.jpeg"
+  },
 ];
