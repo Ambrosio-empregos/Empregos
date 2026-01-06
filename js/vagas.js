@@ -835,4 +835,15 @@ const vagas = [
     email: "recruta.solutionrh@gmail.com",
     banner: "banners/hydro.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Professora em educação infantil",
+    empresa: "Empresa não identificada",
+    cidade: "",
+    descricao: "Vaga disponível para Professora em Educação Infantil voltada para profissionais com formação específica na área de ensino.",
+    descricaoModal:"Os requisitos para a função incluem a necessidade de formação completa em Pedagogia ou Formação de Docentes através do Magistério.",
+    whatsapp: "",
+    email: "contratacao.pmol@gmail.com",
+    banner: "banners/prefi.jpeg"
+  },
 ];
