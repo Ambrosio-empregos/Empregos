@@ -1176,4 +1176,15 @@ const vagas = [
     email: "rh.duolz@gmail.com",
     banner: "banners/petg.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Analista de Marketing Digital",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista de Marketing Digital com perfil criativo e executor para atuação presencial de segunda a sexta-feira.",
+    descricaoModal:"As responsabilidades incluem a criação de conteúdos para redes sociais, desenvolvimento de artes e materiais gráficos utilizando Adobe Photoshop, além de gravar e editar vídeos (Reels, Stories e posts) com Adobe Premiere ou Capcut. A vaga busca um profissional criativo, organizado, proativo e executor, oferecendo salário a combinar para regime de trabalho presencial de segunda a sexta.",
+    whatsapp: "5543996795268",
+    email: "rh.duolz@gmail.com",
+    banner: "banners/markdi.jpeg"
+  },
 ];
