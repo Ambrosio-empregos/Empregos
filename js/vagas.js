@@ -359,7 +359,18 @@ const vagas = [
     descricao: "A Brasillimp contrata Motorista Entregador para atuar em Maringá e região. Necessário CNH C e disponibilidade para viagens!",
     descricaoModal:"Requisitos: Possuir CNH C e ser responsável. Atividades: Realizar entregas em Maringá e toda a região, com disponibilidade total para viagens.",
     whatsapp: "5544991024432",
-    email: "",
+    email: "brasillimp.fg@rotmail.com",
+    banner: "banners/bralimp.jpg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Produção",
+    empresa: "LukPaper",
+    cidade: "Maringá",
+    descricao: "Vaga Aberta! A Lukpaper contrata Auxiliar de Produção para fabricação de papel toalha e higiênico. Trabalho de segunda a sexta com início imediato!",
+    descricaoModal:"Requisitos e Detalhes: Experiência na área, perfil responsável, pontual, organizado e com vontade de aprender. Atividades voltadas à fabricação de papel toalha e higiênico.",
+    whatsapp: "5544991024432",
+    email: "brasillimp.fg@rotmail.com",
     banner: "banners/bralimp.jpg"
   },
 ];
