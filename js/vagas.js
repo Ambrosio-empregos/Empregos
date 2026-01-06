@@ -868,4 +868,15 @@ const vagas = [
     email: "",
     banner: "banners/flex.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Manicure",
+    empresa: "Fatima Martins Cabeleleiros",
+    cidade: "Londrina",
+    descricao: "Fátima Martins Cabeleireiros contrata Manicure para excelente oportunidade de formação de clientela em ambiente de shopping.",
+    descricaoModal:"Os requisitos incluem disponibilidade para atender agenda em horários de shopping e possuir experiência comprovada como profissional na área.",
+    whatsapp: "554333443040",
+    email: "",
+    banner: "banners/fatima.jpeg"
+  },
 ];
