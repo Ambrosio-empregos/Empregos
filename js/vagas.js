@@ -1273,7 +1273,7 @@ const vagas = [
     descricaoModal:"As atividades são para a unidade localizada próxima ao Parque de Exposições Ney Braga. A empresa oferece salário fixo, comissão sobre as vendas e benefícios como vale alimentação, cesta básica e convênio com farmácia.",
     whatsapp: "5543991467537",
     email: "adm@primethor.com.br",
-    banner: "banners/assv.jpeg"
+    banner: "banners/assve.jpeg"
   },
   {
     data: "2026-01-06",
