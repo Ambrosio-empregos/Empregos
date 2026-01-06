@@ -1198,4 +1198,15 @@ const vagas = [
     email: "",
     banner: "banners/cadas.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Professora em educação Infantil",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade disponível para Professora em Educação Infantil com formação necessária em Pedagogia ou Magistério.",
+    descricaoModal:"A função exige formação completa em Pedagogia ou Formação de Docentes (Magistério) para atuação na área de educação infantil.",
+    whatsapp: "5543988129242",
+    email: "contratacao.pmol@gmail.com",
+    banner: "banners/prefis.jpeg"
+  },
 ];
