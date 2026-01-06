@@ -417,4 +417,15 @@ const vagas = [
     email: "",
     banner: "banners/spol.jpeg"
   },
+   {
+    data: "2026-01-05",
+    titulo: "Vendedor(a) Interno",
+    empresa: "VIVO",
+    cidade: "Maringá",
+    descricao: "A Vivo Empresas está contratando Vendedor(a) Interno! Regime CLT com salário fixo, bonificações, comissões e trabalho de segunda a sexta-feira.",
+    descricaoModal:"Benefícios e Horário: Oferecemos salário fixo, bonificação, comissão, vale alimentação, vale transporte e regime CLT. O horário de trabalho é de segunda a sexta-feira, das 09h às 17:45h.",
+    whatsapp: "5543999812464",
+    email: "",
+    banner: "banners/vivo.jpeg"
+  },
 ];
