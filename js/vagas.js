@@ -2078,4 +2078,15 @@ const vagas = [
     email: "",
     banner: "banners/asscad.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Mecânico de caminhões",
+    empresa: "Empresa Não Identificada",
+    cidade: "Londrina",
+    descricao: "Empresa em Londrina contrata Mecânico de Caminhões para linha pesada, com carga horária de segunda a sexta-feira e salário compatível com a função.",
+    descricaoModal:"Detalhes da Oportunidade: Carga horária de segunda a sexta-feira; salário compatível com a vaga. Localização: Vaga para Londrina e região.",
+    whatsapp: "5543996396070",
+    email: "",
+    banner: "banners/mec.jpeg"
+  },
 ];
