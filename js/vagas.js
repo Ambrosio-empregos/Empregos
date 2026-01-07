@@ -1594,4 +1594,15 @@ const vagas = [
     email: "",
     banner: "banners/vender.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Estudante de Arquitetura",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para estudantes de Arquitetura e Urbanismo em Londrina com conhecimento em AutoCAD e perfil organizado.",
+    descricaoModal:"Requisitos: Cursando Arquitetura e Urbanismo, conhecimento básico em AutoCAD, organização, responsabilidade e boa comunicação. Localização: Vaga para a cidade de Londrina.",
+    whatsapp: "5514996561590",
+    email: "",
+    banner: "banners/arq.jpeg"
+  },
 ];
