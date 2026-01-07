@@ -2496,5 +2496,16 @@ const vagas = [
     email: "",
     banner: "banners/hotel.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Controlador de Acesso",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Controlador de acesso em Londrina-PR, oferecendo salário de R$ 2.021,00 e vale-alimentação de R$ 805,00, com escala de trabalho 12x36.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência em portaria; disponibilidade para escala 12x36; residir em Londrina; possuir CNH categorias A e B. Benefícios: Salário de R$ 2.021,00; vale-alimentação de R$ 805,00; vale-transporte. Localização: Londrina-PR.",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/controle.jpeg"
+  },
   
 ];
