@@ -1572,4 +1572,15 @@ const vagas = [
     email: "",
     banner: "banners/vendas.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Vendedor(a)",
+    empresa: "Estação Fitness",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Vendedor(a) na Unidade Saul Elkind da Academia Estação Fitness para atuação em meio período.",
+    descricaoModal:"Requisitos: Experiência em vendas, proatividade, boa comunicação e vontade de aprender. Disponibilidade: Vaga para meio período, nos turnos tarde ou noite. Observação: É necessário morar próximo da unidade Saul Elkind.",
+    whatsapp: "5543984081727",
+    email: "",
+    banner: "banners/vendas.jpeg"
+  },
 ];
