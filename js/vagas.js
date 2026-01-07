@@ -2595,5 +2595,16 @@ const vagas = [
     email: "",
     banner: "banners/cx.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Garçom",
+    empresa: "casa da Cachaça",
+    cidade: "Londrina",
+    descricao: "Oportunidade noturna para a função de Garçom na Casa da Cachaça, com processo de seleção aberto para envio de currículos.",
+    descricaoModal:"Detalhes da Oportunidade: A Casa da Cachaça está contratando profissional para atuar como Garçom no período noturno.",
+    whatsapp: "5543991720823",
+    email: "",
+    banner: "banners/garcia.jpeg"
+  },
   
 ];
