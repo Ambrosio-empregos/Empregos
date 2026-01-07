@@ -1429,4 +1429,15 @@ const vagas = [
     email: "",
     banner: "banners/angaim.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Operador de Caixa",
+    empresa: "Super MUFFATO",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador(a) de Caixa no Super Muffato com diversos benefícios e chances de crescimento profissional.",
+    descricaoModal:"Temos oportunidades para PCD, 60+ Melhor Idade e Estrangeiros. O que oferecemos: Assistência de saúde (telemedicina, plano odontológico e telepsicologia), seguro de vida, assistência funeral, clube de vantagens, desconto em farmácias, refeição no local, programa de assiduidade, diversos programas de premiação, acompanhamento de gestantes, salas de amamentação, oportunidade de carreira e formação pela Uniffato.",
+    whatsapp: "5543988627486",
+    email: "",
+    banner: "banners/muff.jpeg"
+  },
 ];
