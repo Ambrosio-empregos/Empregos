@@ -1799,9 +1799,20 @@ const vagas = [
     cidade: "Maringá",
     descricao: "A SoftDream está contratando Costureira com salário fixo de R$ 2.500,00, bonificação por produção e jornada de trabalho de segunda a sexta-feira.",
     descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 2.500,00, Vale-alimentação de R$ 240,00, Vale-transporte pago em dinheiro e bonificação por produção (ganho extra). O regime de trabalho é de segunda a sexta-feira.",
-    whatsapp: "44999064743",
+    whatsapp: "5544999064743",
     email: "",
     banner: "banners/inter.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "faxina em condomínio",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Oportunidade para profissionais de limpeza em Maringá com experiência em condomínios e benefícios como vale-refeição e transporte.",
+    descricaoModal:"Requisitos: Boa comunicação; experiência em condomínio; experiência com limpeza e diluição de produtos. Benefícios: Vale-refeição e transporte. Localização: Maringá-PR.",
+    whatsapp: "5544999958936",
+    email: "",
+    banner: "banners/faxina.jpeg"
   },
   
 ];
