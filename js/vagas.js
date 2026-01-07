@@ -1495,4 +1495,15 @@ const vagas = [
     email: "",
     banner: "banners/cozinhac.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Atendente Balconista",
+    empresa: "Cookies And More",
+    cidade: "Londrina",
+    descricao: "A Chunky Chunks contrata Atendente Balconista Noturno para o Shopping Catuaí com salário de R$ 2.100,00 e benefícios.",
+    descricaoModal:"Jornada de 6:00 horas. Salário R$ 2.100,00. Vale Alimentação de R$ 310,00. Prêmio Assiduidade de 8%. Vale Transporte. Local de trabalho: Shopping Catuaí.",
+    whatsapp: "5543999373158",
+    email: "",
+    banner: "banners/balconista.jpeg"
+  },
 ];
