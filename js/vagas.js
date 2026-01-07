@@ -2507,5 +2507,16 @@ const vagas = [
     email: "",
     banner: "banners/controle.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Porteiro",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; Vaga para Porteiro em Londrina-PR, com salário de R$ 2.166,00, vale-alimentação de R$ 600,00 e escala de 6 horas com disponibilidade de horário.",
+    descricaoModal:"Detalhes da Oportunidade: Vaga destinada ao público masculino para atuação em Londrina; escala de 6 horas diárias, sendo necessária disponibilidade de horário. Benefícios: Salário de R$ 2.166,00; vale-alimentação de R$ 600,00; vale-transporte ou auxílio combustível de R$ 220,00; plano de saúde (disponível após o período de experiência).",
+    whatsapp: "",
+    email: "recrutamentolondrina51@gmail.com",
+    banner: "banners/portee.jpeg"
+  },
   
 ];
