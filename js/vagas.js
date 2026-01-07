@@ -2419,5 +2419,16 @@ const vagas = [
     email: "",
     banner: "banners/auxlim.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente",
+    empresa: "empresa não identificada",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Atendente em Itajaí-SC, no bairro Canhanduba, buscando profissionais comunicativos e pontuais para atuação no período da tarde e noite.",
+    descricaoModal:"Pré-requisitos: Ser simpático e ter força de vontade; boa comunicação; agilidade e atenção; simpatia e bom relacionamento interpessoal; pontualidade e compromisso com a empresa; experiência na área será um diferencial. Detalhes da Oportunidade: Horário disponível das 15:05 às 23:15, com intervalo de 1 hora. Localização: Canhanduba, BR 101, km 125, Itajaí-SC (Auto Posto Dubai).",
+    whatsapp: "5547996594207",
+    email: "",
+    banner: "banners/att.jpeg"
+  },
   
 ];
