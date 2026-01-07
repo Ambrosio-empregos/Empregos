@@ -1984,11 +1984,22 @@ const vagas = [
     titulo: "Salgadeiro",
     empresa: "Empresa não identificda",
     cidade: "Londrina",
-    descricao: "aga masculina para profissionais com experiência em panificação ou produção de salgados, oferecendo salário de R$ 3.500,00 mais vale-transporte.",
+    descricao: "vaga masculina para profissionais com experiência em panificação ou produção de salgados, oferecendo salário de R$ 3.500,00 mais vale-transporte.",
     descricaoModal:"Requisitos e Detalhes: É necessário ter experiência em alguma das funções (Salgadeiro, Pizzaiolo ou Padeiro). Horário de trabalho: De segunda a sábado, das 07h às 17h. Remuneração: Salário de R$ 3.500,00 mais vale-transporte. Vaga destinada ao público masculino.",
     whatsapp: "5543999200044",
     email: "",
     banner: "banners/homen.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "vagas EMPREENDEDORAS",
+    empresa: "Incrível Store/Romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 com lucro através da revenda consignada de moda fitness e lingerie, sem necessidade de investimento inicial.",
+    descricaoModal:"Detalhes da Oportunidade: Revenda de produtos de Moda Fitness & Lingerie no sistema de consignado; não exige investimento inicial para começar a faturar.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/mol.jpeg"
   },
   
 ];
