@@ -2188,5 +2188,16 @@ const vagas = [
     email: "",
     banner: "banners/dino.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Corretor de Imóvel",
+    empresa: "Empresa Não Identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor de Imóveis Autônomo com foco em perfil comercial, oferecendo ganhos por desempenho e possibilidade de crescimento profissional.",
+    descricaoModal:"Perfil e Requisitos: Perfil vendedor; facilidade em negociação; comprometimento com resultados. Modelo de Atuação: Atuação por comissão como Corretor de Imóveis Autônomo; ganhos por desempenho e foco em crescimento profissional.",
+    whatsapp: "5543988673265",
+    email: "",
+    banner: "banners/crr.jpeg"
+  },
   
 ];
