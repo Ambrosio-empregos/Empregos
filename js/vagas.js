@@ -1814,5 +1814,16 @@ const vagas = [
     email: "",
     banner: "banners/faxina.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Porteiro(A)",
+    empresa: "Buruti",
+    cidade: "Maringá",
+    descricao: "SOMENTE EMAIL; aga para Porteiro(a) com escala 12x36, salário de R$ 1.956,00 e benefícios como plano de saúde e cesta básica.",
+    descricaoModal:"Requisitos: Vaga disponível para ambos os sexos, escala de trabalho 12x36 com horários das 07h às 19h ou das 19h às 07h. Benefícios: Salário de R$ 1.956,00, plano de saúde, vale transporte, combustível e cesta básica.",
+    whatsapp: "",
+    email: "portaria03burutti@gmail.com",
+    banner: "banners/porteiro.jpeg"
+  },
   
 ];
