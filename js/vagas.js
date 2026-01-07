@@ -2397,5 +2397,16 @@ const vagas = [
     email: "",
     banner: "banners/ope.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Frentista",
+    empresa: "empresa não identificada",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Frentista em Itajaí-SC, no bairro Canhanduba, com disponibilidade para os turnos da manhã/tarde ou tarde/noite e foco em bom atendimento.",
+    descricaoModal:"Pré-requisitos: Ser simpático e ter força de vontade; boa comunicação; agilidade e atenção; bom relacionamento interpessoal; pontualidade e compromisso com a empresa; experiência na área será um diferencial. Detalhes da Oportunidade: Horários disponíveis das 06:50 às 15:10 ou das 15:05 às 23:15, ambos com intervalo de 1 hora. Localização: Canhanduba, BR 101, km 125, Itajaí-SC (Auto Posto Dubai).",
+    whatsapp: "5547996594207",
+    email: "",
+    banner: "banners/frent.jpeg"
+  },
   
 ];
