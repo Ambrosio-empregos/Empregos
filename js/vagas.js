@@ -2353,5 +2353,16 @@ const vagas = [
     email: "",
     banner: "banners/vendflor.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Brava Sushi",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Auxiliar de Cozinha na Praia Brava em Itajaí-SC, com escala 6x1 e foco em organização e trabalho em equipe.",
+    descricaoModal:"Requisitos e Perfil: Organização, comprometimento e facilidade para trabalhar em equipe. Detalhes da Oportunidade: Horário das 15:30 às 00:30 (com 1 hora de intervalo); escala de trabalho 6x1. Localização: Praia Brava, Itajaí-SC.",
+    whatsapp: "5547997681999",
+    email: "",
+    banner: "banners/cozz.jpeg"
+  },
   
 ];
