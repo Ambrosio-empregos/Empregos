@@ -1902,5 +1902,16 @@ const vagas = [
     email: "",
     banner: "banners/mori.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "freelancer",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga de freelancer para Operador(a) de Caixa em Itajaí, com diárias de 6 horas e pagamento em folha, preferencialmente para quem reside próximo ao Atacadão.",
+    descricaoModal:"Requisitos e Detalhes: Experiência na função; disponível para ambos os sexos; modalidade de trabalho intermitente com diárias de 6 horas; necessário realizar treinamento de 3 horas para aprendizado do sistema. Pagamento: Realizado em folha todo dia 20 e no 5º dia útil do mês. Localização: Itajaí – Preferencialmente residentes próximos ao Atacadão.",
+    whatsapp: "5548996088323",
+    email: "",
+    banner: "banners/freee.jpeg"
+  },
   
 ];
