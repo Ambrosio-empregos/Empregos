@@ -2310,7 +2310,7 @@ const vagas = [
     banner: "banners/catu.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-05",
     titulo: "Auxiliar de Cozinha",
     empresa: "Quiero Café",
     cidade: "balneário Comboriú",
@@ -2321,7 +2321,7 @@ const vagas = [
     banner: "banners/cozba.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-05",
     titulo: "Atendente",
     empresa: "Quiero Café",
     cidade: "balneário Comboriú",
@@ -2332,7 +2332,7 @@ const vagas = [
     banner: "banners/aten.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-05",
     titulo: "vendedor",
     empresa: "OJO",
     cidade: "balneário Comboriú",
@@ -2341,6 +2341,17 @@ const vagas = [
     whatsapp: "",
     email: "BALNEÁRIO@OJOMRRAY.COM.BR",
     banner: "banners/ve.jpeg"
+  },
+  {
+    data: "2026-01-05",
+    titulo: "vendedora",
+    empresa: "Cor de Rosa",
+    cidade: "balneário Comboriú",
+    descricao: "Oportunidade para Vendedora em Balneário Camboriú, buscando profissionais apaixonadas por moda e com facilidade para trabalhar com metas.",
+    descricaoModal:"Requisitos e Perfil: Paixão por moda, tendências e atendimento ao público; comunicação clara, empatia e escuta ativa; facilidade para trabalhar com metas e indicadores. Localização: Balneário Camboriú-SC.",
+    whatsapp: "5547992345124",
+    email: "",
+    banner: "banners/vendflor.jpeg"
   },
   
 ];
