@@ -2166,5 +2166,16 @@ const vagas = [
     email: "rh@guaporepneus.com.br",
     banner: "banners/gua.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Assistente de Vendas",
+    empresa: "Scancred",
+    cidade: "Maringá",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "5544991045885",
+    email: "",
+    banner: "banners/scan.jpeg"
+  },
   
 ];
