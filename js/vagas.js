@@ -1660,4 +1660,15 @@ const vagas = [
     email: "curriculosmontino4@hotmail.com",
     banner: "banners/entrega.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Supervisor de Equipe",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "A Beta Serv está contratando Supervisor de Equipe com experiência na área e habilidades em liderança e pensamento estratégico para acompanhamento de trabalho em equipe.",
+    descricaoModal:"Requisitos e Habilidades: Experiência na área, habilidades em tratamento com cliente e funcionários (liderança), acompanhamento de trabalho de equipe, organização de escalas de serviço, habilidades interpessoais e pensamento estratégico.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/super.jpeg"
+  },
 ];
