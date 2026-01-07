@@ -1680,7 +1680,7 @@ const vagas = [
     descricaoModal:"Requisitos: Ter experiência comprovada nas áreas de hidráulica, elétrica e limpeza em geral.",
     whatsapp: "5543988256040",
     email: "",
-    banner: "banners/super.jpeg"
+    banner: "banners/zela.jpeg"
   },
   {
     data: "2026-01-06",
@@ -1691,6 +1691,17 @@ const vagas = [
     descricaoModal:"Requisitos: Boa comunicação verbal e escrita, conhecimento básico em Word e Excel; experiência com atendimento ao cliente na área da saúde e via WhatsApp será um diferencial. Benefícios: Vale-alimentação e vale-transporte (sem desconto em holerite), plano odontológico, descontos em consultas e exames médicos, Total Pass e telemedicina.",
     whatsapp: "",
     email: "recrutamentosaude.vagasrh@gmail.com",
-    banner: "banners/super.jpeg"
+    banner: "banners/ssg.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "oficial de manutenção predial",
+    empresa: "Great Place To Work",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "5543988071045",
+    email: "",
+    banner: "banners/manu.jpeg"
   },
 ];
