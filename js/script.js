@@ -48,7 +48,7 @@ function renderVagas(lista) {
             ${vaga.titulo}
           </h3>
 
-          <p><strong>${vaga.cidade} - PR</strong></p>
+          <p><strong>${vaga.cidade} - ${obterEstado(vaga.cidade)}</strong></p>
           <p>${vaga.descricao}</p>
 
           <div class="buttons">
@@ -88,6 +88,13 @@ function filtrar() {
   });
 
   renderVagas(filtradas);
+}
+
+function obterEstado(cidade) {
+  if (cidade === "Balneário Camboriú") {
+    return "SC";
+  }
+  return "PR";
 }
 
 
