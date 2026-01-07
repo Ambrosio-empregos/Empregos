@@ -2320,5 +2320,16 @@ const vagas = [
     email: "",
     banner: "banners/cozba.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Atendente",
+    empresa: "Quiero Café",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Atendente em Balneário Camboriú com ganhos iniciais de até R$ 3.000,00, podendo chegar a R$ 4.000,00 após a experiência, em escala com folgas semanais.",
+    descricaoModal:"O que esperamos de você: Proatividade, agilidade e disponibilidade de horários; experiência na área é um diferencial. Sobre a Vaga: Atuação em Balneário Camboriú; jornada de segunda a sábado em turno de 7 horas e 20 minutos; trabalha 2 domingos por mês das 10:00 às 19:20 com folga na semana. Remuneração: Salário de R$ 2.150,00 + R$ 200,00 de assiduidade + 10% de taxa de serviço; total inicial de R$ 2.800,00 a R$ 3.000,00; após a experiência o valor passa para R$ 3.500,00 a R$ 4.000,00.",
+    whatsapp: "5554991470955",
+    email: "",
+    banner: "banners/aten.jpeg"
+  },
   
 ];
