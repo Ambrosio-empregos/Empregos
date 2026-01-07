@@ -2474,5 +2474,16 @@ const vagas = [
     email: "",
     banner: "banners/time.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Angariador Comercial",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Angariador Comercial com horário de segunda a sexta-feira, suporte e treinamentos oferecidos, sem necessidade de experiência prévia.",
+    descricaoModal:"Informações sobre a Vaga: Atuação de segunda a sexta, das 8h às 18h (sextas até às 17h); não é necessário ter experiência; a empresa oferece suporte e treinamentos. Diferencial: Possuir moto será considerado um diferencial para a função.",
+    whatsapp: "5543996660565",
+    email: "",
+    banner: "banners/comercial.jpeg"
+  },
   
 ];
