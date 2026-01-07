@@ -2331,5 +2331,16 @@ const vagas = [
     email: "",
     banner: "banners/aten.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "vendedor",
+    empresa: "OJO",
+    cidade: "balneário Comboriú",
+    descricao: "APENAS EMAIL; portunidade para Vendedor(a) na unidade de Balneário Camboriú da rede OJO by Mr. Ray, buscando profissionais para integrar a equipe de vendas.",
+    descricaoModal:"Detalhes da Oportunidade: A OJO by Mr. Ray está selecionando candidatos para o cargo de Vendedor(a); os interessados devem enviar o currículo em formato PDF para o e-mail oficial da unidade. Localização: Balneário Camboriú-SC.",
+    whatsapp: "",
+    email: "BALNEÁRIO@OJOMRRAY.COM.BR",
+    banner: "banners/ve.jpeg"
+  },
   
 ];
