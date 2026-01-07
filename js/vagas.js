@@ -1968,5 +1968,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/chu.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Cumim",
+    empresa: "gelobel",
+    cidade: "Londrina",
+    descricao: "Vaga para Cumim em Londrina-PR para atuar no apoio aos garçons e organização do salão, com diversos benefícios inclusos.",
+    descricaoModal:"A Gelobel procura Cumim proativo(a) e organizado(a) para apoiar os garçons, manter o salão organizado e contribuir para uma experiência positiva dos clientes. Benefícios: Salário base, plano de saúde, convênio farmácia, day off de aniversário, refeição na empresa e vale transporte. Localização: Londrina-PR.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/cumim.jpeg"
+  },
   
 ];
