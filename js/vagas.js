@@ -1555,10 +1555,21 @@ const vagas = [
     titulo: "vendedor",
     empresa: "SN Consultoria Financeira",
     cidade: "Londrina",
-    descricao: "portunidade para atuar no setor de pré-venda realizando a qualificação de leads e agendamento de reuniões com potenciais clientes no centro de Londrina.",
+    descricao: "Oportunidade para atuar no setor de pré-venda realizando a qualificação de leads e agendamento de reuniões com potenciais clientes no centro de Londrina.",
     descricaoModal:"Responsabilidades: Atuar no setor de pré-venda, gerando e qualificando leads, assim como agendando reuniões com potenciais clientes. Carga horária: Segunda a sexta-feira. Horários disponíveis: Das 09:00 às 14:00 ou das 13:00 às 18:00.",
     whatsapp: "5543984370672",
     email: "",
     banner: "banners/suce.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Assistente de Vendas",
+    empresa: "Riachuelo",
+    cidade: "Londrina",
+    descricao: "A Riachuelo está contratando Assistente de Vendas para o Shopping Boulevard em Londrina com disponibilidade de horário aos finais de semana.",
+    descricaoModal:"Requisitos Principais: Acima de 18 Anos. Disponibilidade de horário, inclusive nos finais de semana e feriado. Localização: Shopping Boulevard - Londrina/PR.",
+    whatsapp: "5543988234148",
+    email: "",
+    banner: "banners/vendas.jpeg"
   },
 ];
