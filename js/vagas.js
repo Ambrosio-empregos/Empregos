@@ -1550,4 +1550,15 @@ const vagas = [
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/creci.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "vendedor",
+    empresa: "SN Consultoria Financeira",
+    cidade: "Londrina",
+    descricao: "portunidade para atuar no setor de pré-venda realizando a qualificação de leads e agendamento de reuniões com potenciais clientes no centro de Londrina.",
+    descricaoModal:"Responsabilidades: Atuar no setor de pré-venda, gerando e qualificando leads, assim como agendando reuniões com potenciais clientes. Carga horária: Segunda a sexta-feira. Horários disponíveis: Das 09:00 às 14:00 ou das 13:00 às 18:00.",
+    whatsapp: "5543984370672",
+    email: "",
+    banner: "banners/suce.jpeg"
+  },
 ];
