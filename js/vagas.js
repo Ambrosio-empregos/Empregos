@@ -2441,5 +2441,16 @@ const vagas = [
     email: "",
     banner: "banners/chap.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente de Restaurante",
+    empresa: "empresa não identificada",
+    cidade: "balneário Comboriú",
+    descricao: "Oportunidade para Atendente de Restaurante com foco em atendimento ao público e vendas, exigindo conhecimento do IFOOD e proatividade.",
+    descricaoModal:"Requisitos: Ser maior de 25 anos; ter experiência em vendas ou caixa; ser comunicativo e gostar de trabalhar com público; perfil proativo; responsabilidade com horários e trabalho; conhecimento do sistema IFOOD; zelar pela limpeza e organização do local de trabalho.",
+    whatsapp: "5547996048251",
+    email: "",
+    banner: "banners/res.jpeg"
+  },
   
 ];
