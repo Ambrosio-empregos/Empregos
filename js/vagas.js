@@ -1858,5 +1858,16 @@ const vagas = [
     email: "",
     banner: "banners/muf.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Assistente de Suprimentos",
+    empresa: "Ired",
+    cidade: "Maringá",
+    descricao: "Vaga para Assistente de Suprimentos em Maringá-PR para profissionais com ensino médio completo e experiência em estoque ou logística.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência anterior com almoxarifado, estoque ou logística; habilidade para conferência de materiais e atenção aos detalhes; conhecimento básico em informática; possuir CNH. Localização: Maringá - PR.",
+    whatsapp: "5544991776801",
+    email: "",
+    banner: "banners/supri.jpeg"
+  },
   
 ];
