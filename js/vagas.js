@@ -2054,6 +2054,17 @@ const vagas = [
     descricaoModal:"Requisitos: Pontualidade; boa comunicação; ser responsável; ter organização e vontade de aprender. Detalhes: Vaga voltada para quem busca o primeiro emprego.",
     whatsapp: "5543988367204",
     email: "rufinovagas@gmail.com",
-    banner: "banners/cadastr.jpeg"
+    banner: "banners/tele.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "Polidor e Internista",
+    empresa: "Show Lavacar e estacionamento",
+    cidade: "Londrina",
+    descricao: "Vaga para Polidor e Internista em Lavacar e Estacionamento, exigindo experiência prévia na função para contratação imediata.",
+    descricaoModal:"Requisitos: É necessário possuir experiência comprovada nas funções de polidor ou internista de veículos.",
+    whatsapp: "5543984021186",
+    email: "",
+    banner: "banners/poli.jpeg"
   },
 ];
