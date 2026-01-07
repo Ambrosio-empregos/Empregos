@@ -2270,11 +2270,22 @@ const vagas = [
     titulo: "Atendente de Gelateria",
     empresa: "Ice Cream",
     cidade: "Balneário Camboriú",
-    descricao: "portunidade para Atendente de Gelateria em Balneário Camboriú-SC, oferecendo início imediato e um ótimo ambiente de trabalho em localização privilegiada.",
+    descricao: "Oportunidade para Atendente de Gelateria em Balneário Camboriú-SC, oferecendo início imediato e um ótimo ambiente de trabalho em localização privilegiada.",
     descricaoModal:"A New York Ice Cream está com processo seletivo aberto para a função de Atendente em Balneário Camboriú. Detalhes da Oportunidade: Início imediato; ótimo ambiente de trabalho. Localização: Avenida Brasil, 825, Balneário Camboriú-SC.",
     whatsapp: "5547996860927",
     email: "",
     banner: "banners/ice.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "consultor de Vendas",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "  Oportunidade para Consultor de Vendas em Balneário Camboriú com média salarial entre R$ 5 mil e R$ 15 mil, oferecendo treinamento completo e plano de carreira.",
+    descricaoModal:"Detalhes da Oportunidade: Vaga para consultor de vendas em Balneário Camboriú - SC; não precisa ter experiência; média salarial de R$ 5 mil à R$ 15 mil. Benefícios e Perfil: Oferece treinamento completo, suporte e acompanhamento para acelerar resultados, plano de carreira para crescimento dentro da empresa e ambiente de alta performance; busca-se candidatos com vontade de vencer e mudar de vida.",
+    whatsapp: "5547999433393",
+    email: "",
+    banner: "banners/baln.jpeg"
   },
   
 ];
