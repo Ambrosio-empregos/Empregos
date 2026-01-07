@@ -2529,5 +2529,16 @@ const vagas = [
     email: "",
     banner: "banners/dp.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Instalador e Reparador telecom",
+    empresa: "Prisma Service",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Instalador e Reparador Telecom em Londrina e Arapongas-PR, sem exigência de experiência e com um amplo pacote de benefícios exclusivos.",
+    descricaoModal:"Requisitos: Não é exigida experiência prévia; necessário possuir CNH categoria B e veículo próprio; a empresa destaca que mulheres são bem-vindas. Benefícios Exclusivos: Salário fixo; adicional de periculosidade; comissões; aluguel do veículo; auxílio combustível; vale-refeição; bônus assiduidade; seguro de vida; seguro veicular contra terceiros; plano de saúde e odontológico; convênio farmácia; Totalpass; Day-off. Localização: Londrina e Arapongas-PR.",
+    whatsapp: "5543988806060",
+    email: "rh@prismaservicepr.com.br",
+    banner: "banners/telecom.jpeg"
+  },
   
 ];
