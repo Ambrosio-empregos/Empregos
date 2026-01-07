@@ -2485,5 +2485,16 @@ const vagas = [
     email: "",
     banner: "banners/comercial.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "consultor de vendas",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Consultor(a) de Vendas com ou sem experiência, oferecendo treinamentos de capacitação, ajuda de custo para locomoção, comissionamento e oportunidades de crescimento.",
+    descricaoModal:"Requisitos: Profissionais com ou sem experiência; disponibilidade de horário comercial; experiência em redes sociais. Benefícios e Diferenciais: A empresa oferece treinamentos de capacitação, ajuda de custo para locomoção, comissionamento justo e oportunidades reais de crescimento profissional.",
+    whatsapp: "5541996263920",
+    email: "",
+    banner: "banners/consu.jpeg"
+  },
   
 ];
