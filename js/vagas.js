@@ -1682,4 +1682,15 @@ const vagas = [
     email: "",
     banner: "banners/super.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Recepcionista",
+    empresa: "SSG Saúde",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Vaga para Recepcionista com pacote completo de benefícios, incluindo Total Pass e telemedicina",
+    descricaoModal:"Requisitos: Boa comunicação verbal e escrita, conhecimento básico em Word e Excel; experiência com atendimento ao cliente na área da saúde e via WhatsApp será um diferencial. Benefícios: Vale-alimentação e vale-transporte (sem desconto em holerite), plano odontológico, descontos em consultas e exames médicos, Total Pass e telemedicina.",
+    whatsapp: "",
+    email: "recrutamentosaude.vagasrh@gmail.com",
+    banner: "banners/super.jpeg"
+  },
 ];
