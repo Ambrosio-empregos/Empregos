@@ -2226,11 +2226,22 @@ const vagas = [
     titulo: "Designer Gráfico",
     empresa: "Ativa Store",
     cidade: "Londrina",
-    descricao: "aga para Auxiliar de Designer Gráfico em Londrina-PR, com foco em fotografia de produtos e criação de materiais promocionais, oferecendo regime CLT e amplo pacote de benefícios.",
+    descricao: "Vaga para Auxiliar de Designer Gráfico em Londrina-PR, com foco em fotografia de produtos e criação de materiais promocionais, oferecendo regime CLT e amplo pacote de benefícios.",
     descricaoModal:"Requisitos e Atividades: Ensino superior completo ou cursando em Design Gráfico, Publicidade, Marketing ou áreas afins; conhecimento intermediário em Canva, Photoshop, Illustrator e InDesign; fotografar e editar fotos e vídeos de produtos; auxiliar na elaboração de folhetos, banners e catálogos; dar suporte às demandas diárias da equipe de marketing. Benefícios: Cesta básica; cesta de limpeza; plano de saúde; plano odontológico; convênios com faculdade, farmácia e loja; área de convivência; regime CLT; Day off de aniversário.",
     whatsapp: "5543991367846",
     email: "curriculo@grupomp3.com.br",
     banner: "banners/graf.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "Vendedor Interno",
+    empresa: "Afinco Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Interno no setor de cadastramento com ganhos entre R$ 3.000,00 e R$ 10.000,00, sem exigência de experiência anterior.",
+    descricaoModal:"Requisitos: Idade entre 18 e 35 anos; Ensino Médio completo; não exige experiência. Bonificações e Detalhes: Bonificação por venda; ganhos a partir de R$ 3.000,00 podendo chegar a R$ 10.000,00. Horário: Segunda a sexta das 09h às 19h e sábados das 09h às 12h. Empresa: Afinco Imóveis.",
+    whatsapp: "5543991333838",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/dendin.jpeg"
   },
   
 ];
