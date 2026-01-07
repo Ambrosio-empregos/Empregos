@@ -1473,4 +1473,15 @@ const vagas = [
     email: "",
     banner: "banners/homi.jpeg"
   },
+   {
+    data: "2026-01-06",
+    titulo: "Vendedora",
+    empresa: "LU Nogueira",
+    cidade: "Londrina",
+    descricao: "A Lu Nogueira procura Vendedora com experiência em moda feminina para atuar no centro de Londrina com perfil comunicativo e proativo.",
+    descricaoModal:"Requisitos: Experiência em roupa feminina, disponibilidade de horário, ser organizada, proativa, comunicativa e ter empatia.",
+    whatsapp: "5543999020314",
+    email: "",
+    banner: "banners/lu.jpeg"
+  },
 ];
