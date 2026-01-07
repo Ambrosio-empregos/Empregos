@@ -1792,5 +1792,16 @@ const vagas = [
     email: "rh@bluesaude.net",
     banner: "banners/inter.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Costureira",
+    empresa: "SoftDream",
+    cidade: "Maringá",
+    descricao: "A SoftDream está contratando Costureira com salário fixo de R$ 2.500,00, bonificação por produção e jornada de trabalho de segunda a sexta-feira.",
+    descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 2.500,00, Vale-alimentação de R$ 240,00, Vale-transporte pago em dinheiro e bonificação por produção (ganho extra). O regime de trabalho é de segunda a sexta-feira.",
+    whatsapp: "44999064743",
+    email: "",
+    banner: "banners/inter.jpeg"
+  },
   
 ];
