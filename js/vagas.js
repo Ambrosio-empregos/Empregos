@@ -1979,5 +1979,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/cumim.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Salgadeiro",
+    empresa: "Empresa não identificda",
+    cidade: "Londrina",
+    descricao: "aga masculina para profissionais com experiência em panificação ou produção de salgados, oferecendo salário de R$ 3.500,00 mais vale-transporte.",
+    descricaoModal:"Requisitos e Detalhes: É necessário ter experiência em alguma das funções (Salgadeiro, Pizzaiolo ou Padeiro). Horário de trabalho: De segunda a sábado, das 07h às 17h. Remuneração: Salário de R$ 3.500,00 mais vale-transporte. Vaga destinada ao público masculino.",
+    whatsapp: "5543999200044",
+    email: "",
+    banner: "banners/homen.jpeg"
+  },
   
 ];
