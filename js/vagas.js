@@ -1715,5 +1715,16 @@ const vagas = [
     email: "rh@allowportaria.com.br",
     banner: "banners/alow.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Allow Portaria",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar Administrativo em Londrina-Pr para profissionais acima de 25 anos com CNH válida e disponibilidade para trabalhar aos sábados",
+    descricaoModal:"Requisitos: Ter CNH (válida) e idade acima de 25 anos. Horário: Segunda a sexta das 08:00 às 18:00 e sábado das 08:00 ao 12:00. A empresa oferece oportunidade de crescimento e construção de carreira sólida. Localização: Londrina-Pr.",
+    whatsapp: "",
+    email: "rh@allowportaria.com.br",
+    banner: "banners/adm.jpeg"
+  },
   
 ];
