@@ -1825,5 +1825,16 @@ const vagas = [
     email: "portaria03burutti@gmail.com",
     banner: "banners/porteiro.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Assistente Fiscal",
+    empresa: "Brites",
+    cidade: "Maringá",
+    descricao: "Vaga para Assistente Fiscal em Maringá-PR para atuar com empresas de Lucro Presumido, Real e Simples Nacional, exigindo ensino superior em Ciências Contábeis.",
+    descricaoModal:"Atribuições: Trabalho com empresas de Lucro Presumido, Lucro Real e Simples Nacional; apoio no fechamento fiscal e apuração de impostos; assistência na emissão de notas e obrigações acessórias; atendimento direto a clientes para orientações e dúvidas. Requisitos: Ensino Superior em Ciências Contábeis (completo ou em andamento); desejável experiência na área fiscal. Localização: Maringá - PR.",
+    whatsapp: "5544988232992",
+    email: "britesconsultoriarh@gmail.com",
+    banner: "banners/porteiro.jpeg"
+  },
   
 ];
