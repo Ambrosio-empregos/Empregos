@@ -2243,5 +2243,16 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/dendin.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Assistente de Loja 1",
+    empresa: "Nissei",
+    cidade: "Londrina",
+    descricao: "Vaga para Assistente de Loja na Farmácia Nissei em Londrina-PR, Zona Leste, exigindo Ensino Médio completo e disponibilidade para o período noturno.",
+    descricaoModal:"Requisitos: Ensino Médio completo; ser maior de 18 anos; disponibilidade para atuar no período noturno. Localização: Londrina-PR (Zona Leste).",
+    whatsapp: "5543984112758",
+    email: "",
+    banner: "banners/asslo.jpeg"
+  },
   
 ];
