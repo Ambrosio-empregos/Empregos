@@ -2241,7 +2241,7 @@ const vagas = [
     descricaoModal:"Requisitos: Idade entre 18 e 35 anos; Ensino Médio completo; não exige experiência. Bonificações e Detalhes: Bonificação por venda; ganhos a partir de R$ 3.000,00 podendo chegar a R$ 10.000,00. Horário: Segunda a sexta das 09h às 19h e sábados das 09h às 12h. Empresa: Afinco Imóveis.",
     whatsapp: "5543991333838",
     email: "curriculo@grupomp3.com.br",
-    banner: "banners/dendin.jpeg"
+    banner: "banners/vendin.jpeg"
   },
   {
     data: "2026-01-07",
