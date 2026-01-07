@@ -2111,4 +2111,15 @@ const vagas = [
     email: "",
     banner: "banners/gar.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Consultor de vendas",
+    empresa: "Óticas Carol",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas em rede de óticas, aceitando candidatos com ou sem experiência prévia na área.",
+    descricaoModal:"A Óticas Carol está contratando novos colaboradores para a função de Consultor(a) de Vendas. Requisitos: A vaga está aberta para profissionais com ou sem experiência.",
+    whatsapp: "5541996513875",
+    email: "",
+    banner: "banners/carol.jpeg"
+  },
 ];
