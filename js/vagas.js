@@ -1735,7 +1735,7 @@ const vagas = [
     descricaoModal:"Requisitos: Ter CNH (válida), disponibilidade de horário e experiência comprovada na área. A empresa oferece oportunidade de crescimento e construção de carreira sólida. Localização: Arapongas-PR.",
     whatsapp: "",
     email: "rh@allowportaria.com.br",
-    banner: "banners/adm.jpeg"
+    banner: "banners/seg.jpeg"
   },
   {
     data: "2026-01-06",
@@ -1746,7 +1746,18 @@ const vagas = [
     descricaoModal:"Funções: Atendimento ao cliente de forma online e presencial. Requisitos: Ensino médio completo e idade entre 18 e 25 anos; não é necessária experiência anterior, pois a empresa oferece treinamento. Remuneração e Benefícios: Ganho inicial de R$ 2.500,00 com possibilidade de aumento conforme o desempenho e plano de crescimento na empresa.",
     whatsapp: "5543999644353",
     email: "",
-    banner: "banners/adm.jpeg"
+    banner: "banners/interno.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Montador/Entregador de móveis",
+    empresa: "Móveis Alternativa",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Montador e Entregador de Móveis em Londrina-PR, com exigência de CNH AB e experiência na área.",
+    descricaoModal:"Requisitos: Ter acima de 25 anos, sexo masculino, possuir carteira de habilitação categoria AB e experiência mínima na área. Perfil: Ser proativo, responsável e possuir boa comunicação para falar com clientes. Localização: Av. Arcebispo Dom Geraldo Fernandes, 2230 (Av. Leste Oeste), Londrina-PR.",
+    whatsapp: "554333242828",
+    email: "",
+    banner: "banners/alternativa.jpeg"
   },
   
 ];
