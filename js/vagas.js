@@ -2177,5 +2177,16 @@ const vagas = [
     email: "",
     banner: "banners/scan.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Garçom/garçonete",
+    empresa: "Casa do Dinossauro",
+    cidade: "Maringá",
+    descricao: "Vaga para Garçom ou Garçonete em Maringá-PR com ganhos médios acima de R$ 2.600,00 e diversos benefícios, incluindo plano de saúde e rateio de gorjetas.",
+    descricaoModal:"Requisitos: Desejável 6 meses de experiência na função; Ensino Médio completo; ser maior de 18 anos; perfil responsável e pontual. Carga Horária: 44h semanais (escala 6x1); segunda a sexta das 16h às 00h20; fins de semana e feriados das 10h30 às 00h20 (sob escala). Benefícios: Piso da categoria; 5% assiduidade; adicional noturno; rateio de gorjetas; Vale Alimentação de R$ 250,00; plano de saúde e prêmio por metas. Localização: Maringá-PR",
+    whatsapp: "554430472200",
+    email: "",
+    banner: "banners/dino.jpeg"
+  },
   
 ];
