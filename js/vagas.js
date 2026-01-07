@@ -2487,14 +2487,14 @@ const vagas = [
   },
   {
     data: "2026-01-07",
-    titulo: "consultor de vendas",
-    empresa: "Empresa não identificada",
+    titulo: "Assistente de Eventos Jr.",
+    empresa: "JK Premium Hotel e Eventos",
     cidade: "Londrina",
-    descricao: "Vaga para Consultor(a) de Vendas com ou sem experiência, oferecendo treinamentos de capacitação, ajuda de custo para locomoção, comissionamento e oportunidades de crescimento.",
-    descricaoModal:"Requisitos: Profissionais com ou sem experiência; disponibilidade de horário comercial; experiência em redes sociais. Benefícios e Diferenciais: A empresa oferece treinamentos de capacitação, ajuda de custo para locomoção, comissionamento justo e oportunidades reais de crescimento profissional.",
-    whatsapp: "5541996263920",
+    descricao: "Vaga para Assistente de Eventos Jr. no JK Premium Hotel e Eventos em Londrina-PR, com jornada de segunda a sábado e pacote completo de benefícios, incluindo vale-alimentação de R$ 692,00.",
+    descricaoModal:"Perfil Desejado: Ensino Superior em Hotelaria, Turismo ou áreas similares; experiência prévia na área de eventos; facilidade para trabalho em equipe, habilidade de negociação, boa comunicação e bom relacionamento interpessoal. Detalhes da Vaga: Horário de segunda a sexta-feira das 07:00 às 16:00 e aos sábados das 08:00 às 12:00. Benefícios: Vale-Alimentação de R$ 692,00; seguro de vida; estacionamento na empresa; convênio médico coparticipativo e convênio odontológico; refeição no local; day off no aniversário; TotalPass, C4Life e vale-transporte ou auxílio combustível. Localização: Av. Juscelino Kubitschek, 1356, Londrina-PR.",
+    whatsapp: "5543921044211",
     email: "",
-    banner: "banners/consu.jpeg"
+    banner: "banners/hotel.jpeg"
   },
   
 ];
