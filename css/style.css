@@ -270,23 +270,17 @@ body {
   }
 }
 
-#btnTopo {
+.btn-topo {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  z-index: 999;
-  background-color: #1fa64a; /* verde elegante */
-  color: white;
+  padding: 10px 14px;
+  font-size: 18px;
   border: none;
   border-radius: 50%;
-  width: 45px;
-  height: 45px;
-  font-size: 20px;
+  background: #2ecc71;
+  color: #fff;
   cursor: pointer;
   display: none;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-}
-
-#btnTopo:hover {
-  background-color: #17853c;
+  z-index: 999;
 }
