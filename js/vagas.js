@@ -1638,4 +1638,15 @@ const vagas = [
     email: "paobao3324@gmail.com",
     banner: "banners/faxineira.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "vendedor/Balconista",
+    empresa: "Montimó4",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; A Montimó 4 Materiais para Construção está contratando Vendedor / Balconista para atendimento e venda em sua loja em Londrina.",
+    descricaoModal:"Vaga para a função de vendedor e balconista com foco em atendimento e venda. Os interessados podem entregar o currículo pessoalmente na loja ou enviar por e-mail. Localização: Av. Jamil Scaff, 850 - Londrina.",
+    whatsapp: "",
+    email: "curriculosmontino4@hotmail.com",
+    banner: "banners/bal.jpeg"
+  },
 ];
