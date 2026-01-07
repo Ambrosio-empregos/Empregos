@@ -2386,5 +2386,16 @@ const vagas = [
     email: "",
     banner: "banners/est.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Operador de caixa",
+    empresa: "empresa não identificada",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Operador de Caixa em Itajaí-SC, no bairro Canhanduba, buscando profissionais simpáticos e com boa comunicação para o período da manhã e tarde.",
+    descricaoModal:"Pré-requisitos: Ser simpático e ter força de vontade; boa comunicação; agilidade e atenção; simpatia e bom relacionamento interpessoal; pontualidade e compromisso com a empresa; experiência na área será um diferencial. Detalhes da Oportunidade: Horário disponível das 06:50 às 15:10, com intervalo de 1 hora. Localização: Canhanduba, BR 101, km 125, Itajaí-SC (Auto Posto Dubai).",
+    whatsapp: "5547996594207",
+    email: "",
+    banner: "banners/ope.jpeg"
+  },
   
 ];
