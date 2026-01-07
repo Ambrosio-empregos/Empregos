@@ -2309,5 +2309,16 @@ const vagas = [
     email: "",
     banner: "banners/catu.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Quiero Café",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Auxiliar de Cozinha em Balneário Camboriú com ganhos iniciais entre R$ 2.800,00 e R$ 3.000,00, incluindo bônus de assiduidade e taxa de serviço.",
+    descricaoModal:"Detalhes da Vaga: Atuação em Balneário Camboriú; jornada de segunda a sábado em turno de 7h20; trabalha 2 domingos por mês (10:00 às 18:20) com folga na semana. Remuneração e Benefícios: Salário de R$ 2.150,00; adicional de R$ 200,00 de assiduidade; 10% de taxa de serviço; total inicial de R$ 2.800,00 a R$ 3.000,00. Requisitos: Disponibilidade de horário das 15:10 às 23:30; experiência anterior em cozinha de restaurante.",
+    whatsapp: "5554991470955",
+    email: "",
+    banner: "banners/cozba.jpeg"
+  },
   
 ];
