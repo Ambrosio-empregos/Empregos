@@ -2408,5 +2408,16 @@ const vagas = [
     email: "",
     banner: "banners/frent.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "empresa não identificada",
+    cidade: "balneário Comboriú",
+    descricao: "Vaga para Auxiliar de Limpeza em Itajaí-SC, no bairro Canhanduba, buscando profissionais comprometidos e com boa comunicação para atuação no período da tarde e noite.",
+    descricaoModal:"Pré-requisitos: Ser simpático e ter força de vontade; boa comunicação; agilidade e atenção; bom relacionamento interpessoal; pontualidade e compromisso com a empresa; experiência na área será um diferencial. Detalhes da Oportunidade: Horário disponível das 15:05 às 23:15, com intervalo de 1 hora. Localização: Canhanduba, BR 101, km 125, Itajaí-SC (Auto Posto Dubai).",
+    whatsapp: "5547996594207",
+    email: "",
+    banner: "banners/auxlim.jpeg"
+  },
   
 ];
