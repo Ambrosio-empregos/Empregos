@@ -4,6 +4,15 @@ const cityFilter = document.getElementById("cityFilter");
 
 const PRAZO_EXPIRACAO_DIAS = 30; // MUDE AQUI SE ELE PEDIR 
 
+function vagaEhNova(dataVaga) {
+  const hoje = new Date();
+  const dataPublicacao = new Date(dataVaga + "T00:00:00");
+
+  const diferencaMs = hoje - dataPublicacao;
+  const diferencaDias = diferencaMs / (1000 * 60 * 60 * 24);
+
+  return diferencaDias < 1; // últimas 24h
+}
 
 // Função principal
 function renderVagas(lista) {
@@ -30,7 +39,7 @@ function renderVagas(lista) {
 
     porData[data].slice().reverse().forEach(vaga => {
       const card = document.createElement("div");
-      card.className = "job-card";
+      card.className = "job-card" + (vagaEhNova(vaga.data) ? " vaga-nova" : "");
 
       card.innerHTML = `
         <div class="job-banner-img" onclick="abrirModalImagem('${vaga.banner}')">
@@ -86,16 +95,6 @@ function filtrar() {
 
     return matchTexto && matchCidade;
   });
-
-  function vagaEhNova(dataVaga) {
-  const ultimaVisita = localStorage.getItem("ultimaVisita");
-  if (!ultimaVisita) return false;
-
-  const dataPublicacao = new Date(dataVaga + "T00:00:00");
-  const dataUltimaVisita = new Date(ultimaVisita);
-
-  return dataPublicacao > dataUltimaVisita;
-}
 
   renderVagas(filtradas);
 }
