@@ -1869,5 +1869,16 @@ const vagas = [
     email: "",
     banner: "banners/supri.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Vendedora",
+    empresa: "Spalsh Piscinas",
+    cidade: "Maringá",
+    descricao: "Vaga para Vendedora em Maringá-PR para profissionais proativas, com boa comunicação e habilidade em produção de vídeos.",
+    descricaoModal:"Requisitos: Perfil proativo; boa comunicação; habilidade para produzir vídeos; ter experiência comprovada em vendas. Localização: Maringá-PR.",
+    whatsapp: "5544991448043",
+    email: "",
+    banner: "banners/pis.jpeg"
+  },
   
 ];
