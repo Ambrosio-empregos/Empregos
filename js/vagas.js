@@ -1891,5 +1891,16 @@ const vagas = [
     email: "",
     banner: "banners/femi.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Mordidela",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Auxiliar de Cozinha em empresa do setor alimentício para candidatos com perfil proativo, flexível e resiliente.",
+    descricaoModal:"Requisitos: Ter experiência na função; perfil proativo, flexível e resiliente; capacidade de trabalhar bem em equipe.",
+    whatsapp: "5547999412147",
+    email: "",
+    banner: "banners/mori.jpeg"
+  },
   
 ];
