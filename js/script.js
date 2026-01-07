@@ -28,7 +28,7 @@ function renderVagas(lista) {
     section.className = "day-section";
     section.innerHTML = `<h2>Vagas de ${formatarData(data)}</h2>`;
 
-    porData[data].forEach(vaga => {
+    porData[data].slice().reverse().forEach(vaga => {
       const card = document.createElement("div");
       card.className = "job-card";
 
