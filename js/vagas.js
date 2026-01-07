@@ -2089,4 +2089,15 @@ const vagas = [
     email: "",
     banner: "banners/mec.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Empresa Não Identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Auxiliar de Cozinha na Gleba Palhano com remuneração de R$ 2.900,00, exigindo idade mínima de 30 anos e experiência de 2 anos.",
+    descricaoModal:"Requisitos: Idade mínima de 30 anos e experiência comprovada de 2 anos na função. Detalhes da Oportunidade: Remuneração de R$ 2.900,00; horário de trabalho das 09h às 18h, de terça a domingo. Localização: Gleba Palhano.",
+    whatsapp: "5511999722800",
+    email: "",
+    banner: "banners/cc.jpeg"
+  },
 ];
