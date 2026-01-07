@@ -2001,5 +2001,15 @@ const vagas = [
     email: "",
     banner: "banners/mol.jpeg"
   },
-  
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar de expedição",
+    empresa: "Mini & CO",
+    cidade: "Londrina",
+    descricao: "Empresa de confecções contrata Auxiliar de Expedição maior de 18 anos, proativo e com conhecimentos em informática (Word e Excel) para atuar em Londrina.",
+    descricaoModal:"Requisitos: Maior de 18 anos; perfil proativo, responsável e comprometido; conhecimento em informática (Word e Excel); experiência em indústria de confecções será um diferencial. Localização: Av. Tiradentes, próximo à Cacique e Parque Ney Braga.",
+    whatsapp: "5543991320833",
+    email: "",
+    banner: "banners/mini.jpeg"
+  },
 ];
