@@ -2540,5 +2540,16 @@ const vagas = [
     email: "rh@prismaservicepr.com.br",
     banner: "banners/telecom.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Supervisora de Andares",
+    empresa: "Great Place To Work",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Supervisora de Andares no Hotel Comfort Suites em Londrina-PR, exigindo experiência como camareira líder e oferecendo benefícios como Day Off no aniversário.",
+    descricaoModal:"Requisitos: Experiência anterior como camareira líder; ensino médio completo; organização e atenção aos detalhes; boa comunicação e habilidade para trabalhar em equipe; perfil responsável, proativo e comprometido com padrões de qualidade; disponibilidade de horário. Benefícios: Salário compatível com a função; vale alimentação e vale refeição; convênio médico e odontológico; vale transporte; Day Off no aniversário. Localização: Londrina-PR.",
+    whatsapp: "5543984066366",
+    email: "rh.csl@ahi.com.br",
+    banner: "banners/telecom.jpeg"
+  },
   
 ];
