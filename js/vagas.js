@@ -2265,5 +2265,16 @@ const vagas = [
     email: "",
     banner: "banners/intern.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Atendente de Gelateria",
+    empresa: "Ice Cream",
+    cidade: "Balneário Camboriú",
+    descricao: "portunidade para Atendente de Gelateria em Balneário Camboriú-SC, oferecendo início imediato e um ótimo ambiente de trabalho em localização privilegiada.",
+    descricaoModal:"A New York Ice Cream está com processo seletivo aberto para a função de Atendente em Balneário Camboriú. Detalhes da Oportunidade: Início imediato; ótimo ambiente de trabalho. Localização: Avenida Brasil, 825, Balneário Camboriú-SC.",
+    whatsapp: "5547996860927",
+    email: "",
+    banner: "banners/ice.jpeg"
+  },
   
 ];
