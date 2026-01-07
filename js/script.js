@@ -46,7 +46,6 @@ function renderVagas(lista) {
             '${vaga.banner}'
           )">
             ${vaga.titulo}
-            ${vagaEhNova(vaga.data) ? '<span class="badge-nova">NOVA</span>' : ''}
           </h3>
 
           <p><strong>${vaga.cidade} - ${obterEstado(vaga.cidade)}</strong></p>
