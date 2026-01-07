@@ -2518,5 +2518,16 @@ const vagas = [
     email: "recrutamentolondrina51@gmail.com",
     banner: "banners/portee.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Assistente e Analista de Departamento Social",
+    empresa: "Consig RH",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Assistente e Analista de DP em Cambé-PR, com salário de até R$ 4.200,00 e pacote completo de benefícios, incluindo planos de saúde e odontológico.",
+    descricaoModal:"Atividades Principais: Orientar clientes por telefone e WhatsApp; acompanhamento de prazos, regularização e entrega de declarações acessórias do DP; execução completa das rotinas do Departamento Pessoal, incluindo admissões, demissões, férias, folha de pagamento, encargos trabalhistas e eSocial. Requisitos: Já ter trabalhado em escritório de contabilidade; desejável experiência no sistema Domínio; conhecimentos em legislação trabalhista e previdenciária; cursando Administração, RH ou Ciências Contábeis. Benefícios: Salário de R$ 3.000,00 a R$ 4.200,00; Vale Alimentação; Vale Transporte (desconto de apenas 0,5%); Plano Odontológico; Plano de Saúde; Day Off; Plano de Carreira. Localização: Cambé-PR.",
+    whatsapp: "5543996324279",
+    email: "",
+    banner: "banners/dp.jpeg"
+  },
   
 ];
