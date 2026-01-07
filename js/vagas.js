@@ -2584,5 +2584,16 @@ const vagas = [
     email: "",
     banner: "banners/cozinheiro.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Caixa",
+    empresa: "casa da Cachaça",
+    cidade: "Londrina",
+    descricao: "Vaga noturna para a função de Caixa na Casa da Cachaça, buscando candidatos para envio imediato de currículo.",
+    descricaoModal:"Detalhes da Oportunidade: A Casa da Cachaça está contratando profissional para atuar como Caixa em período noturno.",
+    whatsapp: "5543991720823",
+    email: "",
+    banner: "banners/cx.jpeg"
+  },
   
 ];
