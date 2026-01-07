@@ -1440,4 +1440,15 @@ const vagas = [
     email: "",
     banner: "banners/muff.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de vendas internas",
+    empresa: "Provincia Marcas e Patentes",
+    cidade: "Londrina",
+    descricao: " SOMENTE POR EMAIL; A Província Marcas e Patentes está contratando Auxiliar de Vendas Internas para sua filial em Londrina com salário base e premiações.",
+    descricaoModal:"Pré-requisitos: Ensino médio completo, boa comunicação, determinação, proatividade e força de vontade. Benefícios: Vale transporte, vale alimentação, salário base da categoria, bonificações e premiações.",
+    whatsapp: "",
+    email: "londrina@provinciamarcas.com.br",
+    banner: "banners/provi.jpeg"
+  },
 ];
