@@ -1462,4 +1462,15 @@ const vagas = [
     email: "rh@jirehmerchan.com",
     banner: "banners/jiren.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Salgadeiro",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para homens com experiência em panificação ou produção de salgados e pizzas com salário de R$ 3.500,00 + vale-transporte.",
+    descricaoModal:"Vaga para homens. Requisitos: Alguém que tenha experiência em alguma dessas funções (salgadeiro, pizzaiolo ou padeiro). Horário: De segunda a sábado, das 7h às 17h. Salário: R$ 3.500,00 + vale-transporte.",
+    whatsapp: "5543999200044",
+    email: "",
+    banner: "banners/homi.jpeg"
+  },
 ];
