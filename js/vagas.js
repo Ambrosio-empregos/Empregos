@@ -2153,7 +2153,7 @@ const vagas = [
     descricaoModal:"Requisitos e Atividades: Experiência com vendas; perfil comunicativo, proativo, organizado e responsável. Benefícios: Salário mais comissão; prêmio por atingimento de meta da loja; Vale Refeição (VR). Horário: 13:40 às 22h. Localização: Shopping Maringá Park, Maringá-PR.",
     whatsapp: "5544991806668",
     email: "crocs.qq.mga@gmail.com",
-    banner: "banners/crocs.jpeg"
+    banner: "banners/croc.jpeg"
   },
   {
     data: "2026-01-07",
