@@ -1539,4 +1539,15 @@ const vagas = [
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/imo.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Corretores com Creci",
+    empresa: "Camponesa Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretores com CRECI oferecendo salário fixo, ajuda de custo, comissionamento e treinamentos especializados.",
+    descricaoModal:"Oferecemos: Salário fixo, ajuda de custo (vale alimentação e transporte), comissionamento e treinamentos. Requisitos: Profissional dinâmico, comunicativo, bom relacionamento interpessoal, conhecimento em informática, com experiência na área comercial e CNH A.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/creci.jpeg"
+  },
 ];
