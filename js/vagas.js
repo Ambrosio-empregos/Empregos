@@ -1522,10 +1522,21 @@ const vagas = [
     titulo: "Auxiliar Financeiro",
     empresa: "Camponesa Imóveis",
     cidade: "Londrina",
-    descricao: "portunidade para Auxiliar Financeiro com salário fixo, ajuda de custo e plano de saúde para apoio ao departamento.",
+    descricao: "Oportunidade para Auxiliar Financeiro com salário fixo, ajuda de custo e plano de saúde para apoio ao departamento.",
     descricaoModal:"Responsabilidades: Apoio ao departamento financeiro, contas a pagar e receber, emissão de documentos, elaboração de relatórios básicos, suporte com clientes e fornecedores. Requisitos: Conhecimento de informática e noções básicas de RH. Oferecemos: Salário fixo, ajuda de custo e plano de saúde.",
     whatsapp: "5543999321975",
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/fina.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Angariador de Imóveis",
+    empresa: "Camponesa Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Angariador de Imóveis com salário fixo, comissionamento, treinamentos e ajuda de custo para profissionais com CNH A.",
+    descricaoModal:"Oferecemos: Salário fixo, ajuda de custo (vale alimentação e transporte), comissionamento e treinamentos. Requisitos: Profissional dinâmico, comunicativo, bom relacionamento interpessoal, conhecimento em informática, com experiência na área comercial e CNH A.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/imo.jpeg"
   },
 ];
