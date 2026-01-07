@@ -2171,8 +2171,8 @@ const vagas = [
     titulo: "Assistente de Vendas",
     empresa: "Scancred",
     cidade: "Maringá",
-    descricao: "",
-    descricaoModal:"",
+    descricao: "Vaga para Assistente de Vendas em horário comercial, oferecendo salário fixo, benefícios e premiações para candidatos organizados e proativos.",
+    descricaoModal:"Atividades e Requisitos: Atendimento a clientes, suporte ao setor comercial, prospecção e acompanhamento de vendas, organização de cadastros e propostas. Requisitos: Boa comunicação, organização e proatividade; conhecimento básico em informática; experiência em vendas será um diferencial. Detalhes: Cargo de Assistente de Vendas em horário comercial (segunda a sexta-feira); remuneração composta por salário fixo, benefícios e premiações.",
     whatsapp: "5544991045885",
     email: "",
     banner: "banners/scan.jpeg"
