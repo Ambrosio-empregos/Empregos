@@ -14,6 +14,16 @@ function vagaEhNova(dataVaga) {
   return diferencaDias < 1; // últimas 24h
 }
 
+function vagaEhNova(dataVaga) {
+  const ultimaVisita = localStorage.getItem("ultimaVisita");
+  if (!ultimaVisita) return false;
+
+  const dataPublicacao = new Date(dataVaga + "T00:00:00");
+  const ultima = new Date(ultimaVisita);
+
+  return dataPublicacao > ultima;
+}
+
 // Função principal
 function renderVagas(lista) {
   container.innerHTML = "";
@@ -39,6 +49,9 @@ function renderVagas(lista) {
 
     porData[data].slice().reverse().forEach(vaga => {
       const card = document.createElement("div");
+      if (vagaEhNova(vaga.data)) {
+  card.classList.add("vaga-nova");
+}
       card.className = "job-card" + (vagaEhNova(vaga.data) ? " vaga-nova" : "");
 
       card.innerHTML = `
