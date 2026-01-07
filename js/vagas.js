@@ -1581,6 +1581,17 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência em vendas, proatividade, boa comunicação e vontade de aprender. Disponibilidade: Vaga para meio período, nos turnos tarde ou noite. Observação: É necessário morar próximo da unidade Saul Elkind.",
     whatsapp: "5543984081727",
     email: "",
-    banner: "banners/vendas.jpeg"
+    banner: "banners/vendasfitn.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Consultora de Vendas",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Consultora de Vendas em loja de alto padrão em Londrina, com foco em atendimento personalizado e fechamento de negócios.",
+    descricaoModal:"Requisitos: Ensino médio completo, experiência com atendimento ao público e vendas, boa comunicação, domínio do português, postura profissional, organização e residir em Londrina - PR. Funções: Receber clientes, apresentar produtos com entusiasmo, explicar tecnologias e diferenciais, realizar atendimentos presenciais e digitais, elaborar relatórios, agendar visitas e focar em negociação para garantir a satisfação do cliente.",
+    whatsapp: "5514996561590",
+    email: "",
+    banner: "banners/vender.jpeg"
   },
 ];
