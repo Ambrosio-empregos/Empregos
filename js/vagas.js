@@ -1935,5 +1935,16 @@ const vagas = [
     email: "",
     banner: "banners/freee.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Consultoria MGD",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; Vaga presencial para Auxiliar Administrativo em Londrina-PR, com contrato CLT, oferecendo treinamento completo e diversos benefícios como Wellhub e Fruit day.",
+    descricaoModal:"Atividades: Atendimento comercial na área de benefícios previdenciários; atualização e organização de informações no CRM; interesse em aprender e se desenvolver na área previdenciária; não é necessária experiência anterior (empresa oferece treinamento). Requisitos: Perfil proativo, organizado e responsável; excelente escrita e comunicação verbal; conhecimento em Excel e boa relação com metas; experiência comercial ou atendimento ao cliente é um diferencial. Benefícios: Vale alimentação, vale transporte, Fruit day, plano odontológico, plano de saúde participativo, Wellhub e parceria com instituições de ensino.",
+    whatsapp: "",
+    email: "rhconsultoriamgd@gmail.com",
+    banner: "banners/adma.jpeg"
+  },
   
 ];
