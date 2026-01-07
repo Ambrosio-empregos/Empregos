@@ -1880,5 +1880,16 @@ const vagas = [
     email: "",
     banner: "banners/pis.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Serviços Gerais",
+    empresa: "Higieniza limpeza e Serviços",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Serviços Gerais em Balneário Camboriú com início imediato, disponível para contratação CLT ou como diarista.",
+    descricaoModal:"Requisitos: Experiência comprovada em limpezas; preferencialmente residir no Centro, Ariribá ou Nações. Detalhes: Vaga feminina com início imediato; modalidades de contratação via CLT ou Diarista. Localização: Balneário Camboriú.",
+    whatsapp: "5547996503412",
+    email: "",
+    banner: "banners/femi.jpeg"
+  },
   
 ];
