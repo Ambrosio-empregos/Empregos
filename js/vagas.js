@@ -1957,5 +1957,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/coz.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Churrasqueiro",
+    empresa: "gelobel",
+    cidade: "Londrina",
+    descricao: "Vaga para Churrasqueiro em Londrina-PR, responsável pelo preparo de carnes e apresentação de pratos, com diversos benefícios inclusos.",
+    descricaoModal:"Responsabilidades: O profissional será responsável pelo preparo das carnes, controle dos pontos e apresentação dos pratos, mantendo os padrões de excelência da casa. Benefícios: Salário base, plano de saúde, convênio farmácia, day off de aniversário, refeição na empresa e vale transporte. Localização: Londrina-PR.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/chu.jpeg"
+  },
   
 ];
