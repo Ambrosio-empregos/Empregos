@@ -1581,7 +1581,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência em vendas, proatividade, boa comunicação e vontade de aprender. Disponibilidade: Vaga para meio período, nos turnos tarde ou noite. Observação: É necessário morar próximo da unidade Saul Elkind.",
     whatsapp: "5543984081727",
     email: "",
-    banner: "banners/vendasfitn.jpeg"
+    banner: "banners/fitn.jpeg"
   },
   {
     data: "2026-01-06",
