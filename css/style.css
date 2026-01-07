@@ -284,3 +284,12 @@ body {
   display: none;
   z-index: 999;
 }
+.badge-nova {
+  background-color: #2ecc71;
+  color: #fff;
+  font-size: 0.7rem;
+  padding: 3px 8px;
+  margin-left: 8px;
+  border-radius: 12px;
+  font-weight: bold;
+}

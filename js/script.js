@@ -46,6 +46,7 @@ function renderVagas(lista) {
             '${vaga.banner}'
           )">
             ${vaga.titulo}
+            ${vagaEhNova(vaga.data) ? '<span class="badge-nova">NOVA</span>' : ''}
           </h3>
 
           <p><strong>${vaga.cidade} - ${obterEstado(vaga.cidade)}</strong></p>
@@ -86,6 +87,16 @@ function filtrar() {
 
     return matchTexto && matchCidade;
   });
+
+  function vagaEhNova(dataVaga) {
+  const ultimaVisita = localStorage.getItem("ultimaVisita");
+  if (!ultimaVisita) return false;
+
+  const dataPublicacao = new Date(dataVaga + "T00:00:00");
+  const dataUltimaVisita = new Date(ultimaVisita);
+
+  return dataPublicacao > dataUltimaVisita;
+}
 
   renderVagas(filtradas);
 }
@@ -168,3 +179,9 @@ if (btnTopo) {
     }
   });
 }
+
+// SALVA DATA DA ÚLTIMA VISITA
+const agora = new Date().toISOString();
+const ultimaVisita = localStorage.getItem("ultimaVisita");
+
+localStorage.setItem("ultimaVisita", agora);
