@@ -2551,5 +2551,16 @@ const vagas = [
     email: "rh.csl@ahi.com.br",
     banner: "banners/telecom.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Garçom",
+    empresa: "JK Premium Hotel E Eventos",
+    cidade: "Londrina",
+    descricao: "Vaga para Garçom no JK Premium Hotel e Eventos em Londrina-PR, com escala 6x1 e um pacote abrangente de benefícios, incluindo vale-alimentação de R$ 692,00.",
+    descricaoModal:"Perfil Desejado: Experiência na área; proatividade; bom relacionamento interpessoal; boa postura. Detalhes da Oportunidade: Escala de trabalho 6x1, no horário das 15:00 às 23:10. Benefícios: Vale-Alimentação de R$ 692,00; seguro de vida; estacionamento na empresa; convênio médico coparticipativo e convênio odontológico; refeição no local de trabalho; day off no dia do aniversário; TotalPass; C4Life; vale-transporte ou auxílio combustível. Localização: Av. Juscelino Kubitschek, 1356, Londrina-PR.",
+    whatsapp: "5543921044211",
+    email: "",
+    banner: "banners/garr.jpeg"
+  },
   
 ];
