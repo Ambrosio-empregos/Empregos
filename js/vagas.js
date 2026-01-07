@@ -1924,5 +1924,16 @@ const vagas = [
     email: "",
     banner: "banners/freee.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Promotor repositor",
+    empresa: "Top target",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga efetiva para Promotor Repositor em Balneário Camboriú com salário de R$ 1.998,00 e benefícios como Gympass e Seguro de Vida.",
+    descricaoModal:"Remuneração e Benefícios: Salário fixo de R$ 1.998,00, Vale Refeição de R$ 38,00 por dia, Vale Transporte conforme o roteiro, ajuda de custo para internet e telefone de R$ 40,00 por mês, Gympass e Seguro de Vida. Horário: Segunda a sexta das 08h00 às 17h00 e sábados das 08h00 às 12h00. Localização: Balneário Camboriú.",
+    whatsapp: "5521970616970",
+    email: "",
+    banner: "banners/freee.jpeg"
+  },
   
 ];
