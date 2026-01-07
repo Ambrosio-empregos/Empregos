@@ -2100,4 +2100,15 @@ const vagas = [
     email: "",
     banner: "banners/cc.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Garçom/garçonete",
+    empresa: "Empresa Não Identificada",
+    cidade: "Cambé",
+    descricao: "Restaurante em Cambé contrata profissional para o cargo de Garçom ou Garçonete, com modalidades para freelancer ou teste para vaga fixa.",
+    descricaoModal:"Oportunidade: Restaurante O Casarão, localizado na BR em Cambé (em frente à Coca-Cola), busca candidatos para a função de Garçom/Garçonete. Modalidade: Disponibilidade para freelancer ou período de teste visando contratação fixa. Localização: Cambé-PR.",
+    whatsapp: "5543999023816",
+    email: "",
+    banner: "banners/gar.jpeg"
+  },
 ];
