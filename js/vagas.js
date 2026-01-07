@@ -1451,4 +1451,15 @@ const vagas = [
     email: "londrina@provinciamarcas.com.br",
     banner: "banners/provi.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Promotor Roteirista",
+    empresa: "Jireh",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Promotor Roterista para ambos os sexos com auxílio rodagem, vale alimentação e seguro de vida.",
+    descricaoModal:"Requisitos: Ambos os sexos, proatividade, boa comunicação, disponibilidade de horário, CNH A/B definitiva e veículo próprio. Oferecemos: Auxílio rodagem, vale alimentação e seguro de vida.",
+    whatsapp: "554398070197",
+    email: "rh@jirehmerchan.com",
+    banner: "banners/jiren.jpeg"
+  },
 ];
