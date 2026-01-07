@@ -2215,11 +2215,22 @@ const vagas = [
     titulo: "Auxiliar de limpeza",
     empresa: "MP3 Imports",
     cidade: "Londrina",
-    descricao: "aga para Auxiliar de Limpeza em Londrina-PR, oferecendo regime CLT e um amplo pacote de benefícios, incluindo plano de saúde, odontológico e cesta básica.",
+    descricao: "Vaga para Auxiliar de Limpeza em Londrina-PR, oferecendo regime CLT e um amplo pacote de benefícios, incluindo plano de saúde, odontológico e cesta básica.",
     descricaoModal:"Requisitos e Atividades: Realizar a limpeza e conservação de escritório, refeitório e banheiros; manter ambientes organizados e higienizados; seguir normas de segurança; necessário comprometimento e organização; experiência na função é um diferencial. Benefícios: Cesta básica; cesta de limpeza; plano de saúde; plano odontológico; convênios com farmácia, loja e faculdade; área de convivência; regime CLT; Day off de aniversário. Localização: Rua Londrina Esporte Clube, 125, Cilo 2, Londrina-PR.",
     whatsapp: "5543991367846",
     email: "curriculo@grupomp3.com.br",
     banner: "banners/limp.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "Designer Gráfico",
+    empresa: "Ativa Store",
+    cidade: "Londrina",
+    descricao: "aga para Auxiliar de Designer Gráfico em Londrina-PR, com foco em fotografia de produtos e criação de materiais promocionais, oferecendo regime CLT e amplo pacote de benefícios.",
+    descricaoModal:"Requisitos e Atividades: Ensino superior completo ou cursando em Design Gráfico, Publicidade, Marketing ou áreas afins; conhecimento intermediário em Canva, Photoshop, Illustrator e InDesign; fotografar e editar fotos e vídeos de produtos; auxiliar na elaboração de folhetos, banners e catálogos; dar suporte às demandas diárias da equipe de marketing. Benefícios: Cesta básica; cesta de limpeza; plano de saúde; plano odontológico; convênios com faculdade, farmácia e loja; área de convivência; regime CLT; Day off de aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/graf.jpeg"
   },
   
 ];
