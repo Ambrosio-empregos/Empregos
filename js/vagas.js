@@ -1605,4 +1605,15 @@ const vagas = [
     email: "",
     banner: "banners/arq.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Sacada BBQ",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Auxiliar de Cozinha na Arena Sacada BT em Londrina, com salário bruto de R$ 2.000,00 e pacote de benefícios.",
+    descricaoModal:"Requisitos: Experiência mínima em cozinha e saber trabalhar em equipe. Horário de Trabalho: Carga horária de 7h20 por dia (das 15h às 23h20), com um dia fixo de folga na semana e um domingo por mês. Remuneração e Benefícios: Salário de R$ 2.000,00 bruto em folha, Vale Alimentação de R$ 380,00 por mês, e Vale Transporte de R$ 11,50 por dia ou R$ 200,00 de ajuda de custo.",
+    whatsapp: "5543996520040",
+    email: "",
+    banner: "banners/auxco.jpeg"
+  },
 ];
