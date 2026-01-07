@@ -2144,5 +2144,16 @@ const vagas = [
     email: "",
     banner: "banners/fisc.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Vendedor(A)",
+    empresa: "Crocs",
+    cidade: "Maringá",
+    descricao: "Vaga para Vendedor(a) na Crocs do Shopping Maringá Park, oferecendo salário, comissão e prêmio por metas, para candidatos com experiência e perfil proativo.",
+    descricaoModal:"Requisitos e Atividades: Experiência com vendas; perfil comunicativo, proativo, organizado e responsável. Benefícios: Salário mais comissão; prêmio por atingimento de meta da loja; Vale Refeição (VR). Horário: 13:40 às 22h. Localização: Shopping Maringá Park, Maringá-PR.",
+    whatsapp: "5544991806668",
+    email: "crocs.qq.mga@gmail.com",
+    banner: "banners/crocs.jpeg"
+  },
   
 ];
