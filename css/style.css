@@ -269,3 +269,24 @@ body {
     margin-top: 20px;
   }
 }
+
+#btnTopo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+  background-color: #1fa64a; /* verde elegante */
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 20px;
+  cursor: pointer;
+  display: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#btnTopo:hover {
+  background-color: #17853c;
+}
