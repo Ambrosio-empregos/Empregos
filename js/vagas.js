@@ -1913,5 +1913,16 @@ const vagas = [
     email: "",
     banner: "banners/freee.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Consultor(a) de Vendas no Centro de Itajaí com salário de até R$ 2.500,00 e jornada de trabalho de segunda a sexta-feira.",
+    descricaoModal:"Requisitos e Perfil: Profissionais comunicativos, que gostem de desafios e busquem crescimento profissional. Detalhes da Oportunidade: Salário de até R$ 2.500,00; horário de trabalho de segunda a sexta-feira. Localização: Centro de Itajaí.",
+    whatsapp: "5547989290299",
+    email: "",
+    banner: "banners/freee.jpeg"
+  },
   
 ];
