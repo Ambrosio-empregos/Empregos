@@ -2254,5 +2254,16 @@ const vagas = [
     email: "",
     banner: "banners/asslo.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "internista/detalhista de Carros",
+    empresa: "Limpeza e Higienização Interna",
+    cidade: "Londrina",
+    descricao: "Vaga para profissional de limpeza e higienização interna de veículos no Shopping Catuaí, com foco em detalhamento técnico e remuneração de R$ 1.900,00.",
+    descricaoModal:"Atividades e Requisitos: Limpeza e higienização interna de carros com foco em detalhamento e qualidade; exige-se experiência em limpeza técnica de interiores e estofados, além de atenção extrema aos detalhes e acabamentos. Detalhes da Oportunidade: Remuneração de R$ 1.900,00; horário de trabalho de shopping (Shopping Catuaí).",
+    whatsapp: "5543991502191",
+    email: "",
+    banner: "banners/intern.jpeg"
+  },
   
 ];
