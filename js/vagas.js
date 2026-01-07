@@ -1726,5 +1726,16 @@ const vagas = [
     email: "rh@allowportaria.com.br",
     banner: "banners/adm.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Técnico de instalação de sistems de segurança",
+    empresa: "Allow Portaria",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Técnico de Instalação em Arapongas-PR para profissionais com CNH válida e experiência comprovada na área.",
+    descricaoModal:"Requisitos: Ter CNH (válida), disponibilidade de horário e experiência comprovada na área. A empresa oferece oportunidade de crescimento e construção de carreira sólida. Localização: Arapongas-PR.",
+    whatsapp: "",
+    email: "rh@allowportaria.com.br",
+    banner: "banners/adm.jpeg"
+  },
   
 ];
