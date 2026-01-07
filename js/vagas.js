@@ -2606,5 +2606,16 @@ const vagas = [
     email: "",
     banner: "banners/garcia.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Cobrador Interno",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Cobrador Interno com possibilidade de ganhos acima de R$ 3.500,00, incluindo salário, comissão e pacote de benefícios para atuação em horário comercial.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência prévia na área de cobrança ou financeiro; domínio do pacote Office; proatividade e foco no atendimento ao cliente. Detalhes da Oportunidade: Horário de trabalho das 08:00 às 18:00, de segunda a sexta-feira. Benefícios: Salário somado a comissão (possibilidade de ganhos acima de R$ 3.500,00); Vale Alimentação de R$ 600,00; Vale Transporte; Plano de Saúde e Odontológico.",
+    whatsapp: "5543988004976",
+    email: "",
+    banner: "banners/cobri.jpeg"
+  },
   
 ];
