@@ -2115,7 +2115,7 @@ const vagas = [
     data: "2026-01-07",
     titulo: "Consultor de vendas",
     empresa: "Óticas Carol",
-    cidade: "Londrina",
+    cidade: "Maringá",
     descricao: "Oportunidade para Consultor(a) de Vendas em rede de óticas, aceitando candidatos com ou sem experiência prévia na área.",
     descricaoModal:"A Óticas Carol está contratando novos colaboradores para a função de Consultor(a) de Vendas. Requisitos: A vaga está aberta para profissionais com ou sem experiência.",
     whatsapp: "5541996513875",
@@ -2126,12 +2126,23 @@ const vagas = [
     data: "2026-01-07",
     titulo: "Atendente de Loja",
     empresa: "gelaboca",
-    cidade: "Londrina",
+    cidade: "Maringá",
     descricao: "Vaga para Atendente de Loja em Maringá-PR, especificamente no Jardim Alvorada, para quem busca um ambiente dinâmico e gosta de atendimento ao público.",
     descricaoModal:"A Gela Boca oferece oportunidade para quem gosta de atuar na área de atendimento ao público e busca um ambiente dinâmico. Horário: 14h40 às 23h20. Localização: Jardim Alvorada, Maringá-PR.",
     whatsapp: "5544999872393",
     email: "",
     banner: "banners/gela.jpeg"
+  },
+  {
+    data: "2026-01-07",
+    titulo: "Assistente Fiscal",
+    empresa: "Brites",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Assistente Fiscal em escritório de contabilidade em Maringá-PR, com foco em empresas de diversos regimes tributários e apoio ao fechamento fiscal.",
+    descricaoModal:"Atividades e Requisitos: Atuar com empresas de Lucro Presumido, Lucro Real e Simples Nacional; apoio no fechamento fiscal e apuração de impostos; assistência na emissão de notas e obrigações acessórias; atendimento direto a clientes para orientações e dúvidas. Requisitos: Ensino Superior em Ciências Contábeis (completo ou em andamento); desejável experiência na área fiscal. Localização: Maringá-PR (Escritório de contabilidade Aprimorato).",
+    whatsapp: "5544988232992",
+    email: "",
+    banner: "banners/fisc.jpeg"
   },
   
 ];
