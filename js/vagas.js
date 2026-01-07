@@ -1627,4 +1627,15 @@ const vagas = [
     email: "",
     banner: "banners/auxco.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "faxineira",
+    empresa: "Pão Bão",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Faxineira em padaria localizada na Avenida São João em Londrina para quem deseja trabalhar em equipe.",
+    descricaoModal:"Oportunidade para a função de Faxineira. Os currículos podem ser entregues por e-mail ou pessoalmente na padaria. Localização: Av. São João, 555 - Londrina PR.",
+    whatsapp: "5543999700659",
+    email: "paobao3324@gmail.com",
+    banner: "banners/faxineira.jpeg"
+  },
 ];
