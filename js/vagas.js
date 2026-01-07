@@ -1698,10 +1698,22 @@ const vagas = [
     titulo: "oficial de manutenção predial",
     empresa: "Great Place To Work",
     cidade: "Londrina",
-    descricao: "",
-    descricaoModal:"",
+    descricao: "Vaga aberta para Oficial de Manutenção Predial em Londrina - PR para profissionais com experiência em pintura, hidráulica e manutenção geral.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência comprovada em pintura, hidráulica e manutenção em geral; noções básicas de alvenaria. Localização: Londrina - PR.",
     whatsapp: "5543988071045",
     email: "",
     banner: "banners/manu.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Supervisor Técnico",
+    empresa: "Allow Portaria",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Supervisor Técnico em Londrina-PR em empresa em expansão, com foco em gestão de pessoas e disponibilidade para viagens.",
+    descricaoModal:"Requisitos: Experiência na área de gestão de pessoas, CNH válida, disponibilidade para viagens e flexibilidade de horário. A empresa oferece oportunidade de crescimento e construção de carreira sólida. Localização: Londrina-PR.",
+    whatsapp: "",
+    email: "rh@allowportaria.com.br",
+    banner: "banners/alow.jpeg"
+  },
+  
 ];
