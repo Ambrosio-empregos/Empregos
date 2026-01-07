@@ -1517,4 +1517,15 @@ const vagas = [
     email: "atendimento@craftrubber.com.br",
     banner: "banners/ruber.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Auxiliar Financeiro",
+    empresa: "Camponesa Imóveis",
+    cidade: "Londrina",
+    descricao: "portunidade para Auxiliar Financeiro com salário fixo, ajuda de custo e plano de saúde para apoio ao departamento.",
+    descricaoModal:"Responsabilidades: Apoio ao departamento financeiro, contas a pagar e receber, emissão de documentos, elaboração de relatórios básicos, suporte com clientes e fornecedores. Requisitos: Conhecimento de informática e noções básicas de RH. Oferecemos: Salário fixo, ajuda de custo e plano de saúde.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/fina.jpeg"
+  },
 ];
