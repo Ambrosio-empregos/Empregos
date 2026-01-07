@@ -2210,5 +2210,16 @@ const vagas = [
     email: "recrutamento.camponesa@gmail.com",
     banner: "banners/locac.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar de limpeza",
+    empresa: "MP3 Imports",
+    cidade: "Londrina",
+    descricao: "aga para Auxiliar de Limpeza em Londrina-PR, oferecendo regime CLT e um amplo pacote de benefícios, incluindo plano de saúde, odontológico e cesta básica.",
+    descricaoModal:"Requisitos e Atividades: Realizar a limpeza e conservação de escritório, refeitório e banheiros; manter ambientes organizados e higienizados; seguir normas de segurança; necessário comprometimento e organização; experiência na função é um diferencial. Benefícios: Cesta básica; cesta de limpeza; plano de saúde; plano odontológico; convênios com farmácia, loja e faculdade; área de convivência; regime CLT; Day off de aniversário. Localização: Rua Londrina Esporte Clube, 125, Cilo 2, Londrina-PR.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/limp.jpeg"
+  },
   
 ];
