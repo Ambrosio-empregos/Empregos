@@ -2012,4 +2012,15 @@ const vagas = [
     email: "",
     banner: "banners/mini.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Vendedora",
+    empresa: "Outlet.GO",
+    cidade: "Londrina",
+    descricao: "Vaga para Vendedora em Londrina-PR com início imediato, exigindo experiência comprovada em vendas e preferência para residentes da região norte.",
+    descricaoModal:"Requisitos: Experiência comprovada em vendas em qualquer segmento; boa comunicação e gostar de vendas; perfil com responsabilidade, comprometimento e proatividade. Detalhes: Início imediato; salário fixo mensal; preferência para quem mora na região norte de Londrina. Localização: Av. Winston Churchill, 1560 (Supermercado Amigão).",
+    whatsapp: "5543984561248",
+    email: "",
+    banner: "banners/ven.jpeg"
+  },
 ];
