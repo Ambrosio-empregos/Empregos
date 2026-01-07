@@ -2452,5 +2452,16 @@ const vagas = [
     email: "",
     banner: "banners/res.jpeg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Caixa",
+    empresa: "Cor de Rosa",
+    cidade: "balneário Comboriú",
+    descricao: "Oportunidade para a função de Caixa em Balneário Camboriú, integrando a equipe da loja Cor de Rosa.",
+    descricaoModal:"Detalhes da Oportunidade: Vaga destinada ao setor de caixa na unidade de Balneário Camboriú; os interessados devem entrar em contato através dos canais oficiais da empresa.",
+    whatsapp: "5547992345124",
+    email: "",
+    banner: "banners/caixa.jpeg"
+  },
   
 ];
