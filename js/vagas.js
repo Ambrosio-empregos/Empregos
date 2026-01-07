@@ -2463,5 +2463,16 @@ const vagas = [
     email: "",
     banner: "banners/caixa.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Vendedor Interno",
+    empresa: "Work On Time",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Interno na Work On Time, com atuação em formato PJ e horário comercial de segunda a sexta-feira.",
+    descricaoModal:"Requisitos: Ensino superior completo; experiência comprovada em vendas com CRM e vendas online; domínio de técnicas de vendas. Informações Adicionais: Vaga em formato PJ; horário de trabalho comercial, de segunda a sexta-feira.",
+    whatsapp: "5543996009566",
+    email: "",
+    banner: "banners/time.jpeg"
+  },
   
 ];
