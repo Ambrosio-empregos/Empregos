@@ -3574,5 +3574,16 @@ const vagas = [
     email: "",
     banner: "banners/rep.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Vendedor de Calçados",
+    empresa: "Centauro",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para 10 Vendedores de Calçados nas lojas Centauro do Shopping Balneário Camboriú, com início imediato e remuneração de R$ 2.270,00 mais benefícios.",
+    descricaoModal:"Vagas: 10 vagas para início imediato. Requisitos: Ensino médio completo; experiência com vendas; conhecimento em calçados será um diferencial. Horário e Escala: Escala 6x1 (uma folga por semana e um domingo por mês);",
+    whatsapp: "5541987792438",
+    email: "",
+    banner: "banners/centauro.jpeg"
+  },
 
 ];
