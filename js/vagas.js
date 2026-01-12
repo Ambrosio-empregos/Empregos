@@ -3343,5 +3343,16 @@ const vagas = [
     email: "",
     banner: "banners/diu.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Vendedor(a)",
+    empresa: "For Boys | For Girls",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Vendedor(a) em Ibiporã e Arapongas, com comissão de até 5% sobre as vendas e exigência de ensino médio completo.",
+    descricaoModal:"Requisitos: Experiência em vendas e atendimento ao cliente; ser comunicativo(a), paciente, simpático(a) e atencioso(a); ensino médio completo. Benefícios: Comissão de até 5% sobre as vendas. Localização: Ibiporã e Arapongas.",
+    whatsapp: "554999338039",
+    email: "216@forboys.com.br",
+    banner: "banners/vaga.jpeg"
+  },
 
 ];
