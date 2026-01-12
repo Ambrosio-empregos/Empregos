@@ -2804,4 +2804,15 @@ const vagas = [
     email: "",
     banner: "banners/camar.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Auxiliar de Lavanderia",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Lavanderia em hotel, com salário de R$ 1.989,59 e benefícios como vale alimentação e Unimed participativa após a experiência.",
+    descricaoModal:"Informações da Vaga: Horário de trabalho das 08:00 às 16:20 horas. Remuneração e Benefícios: Salário de R$ 1.989,59; Vale Alimentação de R$ 310,00; Unimed Participativo após o período de experiência. Requisitos: Experiência na área será considerada um diferencial.",
+    whatsapp: "554330268434",
+    email: "",
+    banner: "banners/lavanderia.jpeg"
+  },
 ];
