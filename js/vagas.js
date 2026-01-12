@@ -3024,4 +3024,15 @@ const vagas = [
     email: "",
     banner: "banners/vendedora.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Motorista",
+    empresa: "Carreta da Alegria",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista na Carreta da Alegria com início imediato, exigindo experiência em estrada e disponibilidade para viagens.",
+    descricaoModal:"Requisitos: Ter experiência comprovada em estrada; possuir total disponibilidade para realizar viagens; ter facilidade para trabalhar em equipe. Detalhes da Oportunidade: Vaga com começo imediato para fazer parte de uma equipe que leva alegria por onde passa.",
+    whatsapp: "5543996924358",
+    email: "",
+    banner: "banners/den.jpeg"
+  },
 ];
