@@ -3212,7 +3212,7 @@ const vagas = [
     banner: "banners/saa.jpeg"
   },
   {
-    data: "2026-01-10",
+    data: "2026-01-12",
     titulo: "Vendedor Externo",
     empresa: "HONDA Consórcio",
     cidade: "Londrina",
@@ -3221,5 +3221,16 @@ const vagas = [
     whatsapp: "554399100594",
     email: "",
     banner: "banners/externo.jpeg"
+  },
+  {
+    data: "2026-01-12",
+    titulo: "Atendente",
+    empresa: "RITZ",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Atendente na Ritz Sorvetes em Cambé, voltada para residentes de Londrina e Cambé com ensino médio completo e disponibilidade para trabalhar à noite.",
+    descricaoModal:"Escolaridade: Ensino Médio Completo. Requisitos Indispensáveis: Habilidades com preparação de pratos; conhecimento em matemática básica; experiência com atendimento ao público; disponibilidade para trabalhar à noite. Benefícios: Salário mais benefícios; vaga para residentes de Londrina e Cambé. Localização: Cambé.",
+    whatsapp: "5543991597711",
+    email: "",
+    banner: "banners/cambe.jpeg"
   },
 ];
