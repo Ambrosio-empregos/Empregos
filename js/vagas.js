@@ -3493,7 +3493,7 @@ const vagas = [
     cidade: "Londrina",
     descricao: "Oportunidade para Auxiliar Administrativo na Atual Imobiliária, com salário inicial de R$ 2.200,00 e exigência de CNH categoria B.",
     descricaoModal:"Requisitos: Possuir CNH - B; facilidade com tecnologia; experiência no ramo imobiliário será considerada um diferencial. Remuneração e Benefícios: Salário inicial de R$ 2.200,00; auxílio transporte. Horário: De segunda a sexta, das 8h às 18h; sábados alternados, das 8h às 12h.",
-    whatsapp: "4333414060",
+    whatsapp: "554333414060",
     email: "imobiliariaatualltda@gmail.com",
     banner: "banners/atual.jpeg"
   },
@@ -3504,9 +3504,20 @@ const vagas = [
     cidade: "Londrina",
     descricao: "Oportunidade para Corretor de Locação na Atual Imobiliária, exigindo registro no CRECI, veículo próprio e experiência prévia no setor.",
     descricaoModal:"Requisitos: Necessário possuir registro no CRECI; possuir carro próprio; ter experiência comprovada em imobiliária.",
-    whatsapp: "4333414060",
+    whatsapp: "554333414060",
     email: "imobiliariaatualltda@gmail.com",
     banner: "banners/cor.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Terapeuta Capilar",
+    empresa: "Mais Cabello",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Terapeuta Capilar na clínica Mais Cabello em Maringá/PR, com jornada de trabalho das 08h às 17h.",
+    descricaoModal:"Detalhes da Vaga: Profissional para integrar time de excelência em clínica referência em saúde capilar. Horário: Das 08h às 17h.",
+    whatsapp: "554432535107",
+    email: "",
+    banner: "banners/cabello.jpeg"
   },
 
 ];
