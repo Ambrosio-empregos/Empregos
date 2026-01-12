@@ -3200,4 +3200,15 @@ const vagas = [
     email: "",
     banner: "banners/maxi.jpeg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Fabricação de Salgados",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga masculina para trabalhar em cozinha de lanchonete na fabricação de salgados fritos, com horário das 06:00 às 14:20.",
+    descricaoModal:"Detalhes da Oportunidade: Atuação na fabricação de salgados fritos para lanchonete; horário de trabalho das 06:00 às 14:20, com uma hora de intervalo. Requisitos e Remuneração: Vaga masculina; desejável possuir experiência na área; remuneração composta por salário mais passe.",
+    whatsapp: "5543999600625",
+    email: "",
+    banner: "banners/saa.jpeg"
+  },
 ];
