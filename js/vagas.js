@@ -3301,13 +3301,14 @@ const vagas = [
   },
   {
     data: "2026-01-12", 
-    titulo: "Analista de MarketPlace pleno",
-    empresa: "Mami Brinquedos",
-    cidade: "Londrina",
-    descricao: "SOMENTE EMAIL; Oportunidade para Analista de Marketplace Pleno na Mami Brinquedos em Londrina/PR, com foco em suporte à gestão baseado em dados e análise de KPIs.",
-    descricaoModal:"Responsabilidades: Suporte à gestão com decisões baseadas em dados; análise de vendas e KPIs; apoio a estratégias comerciais, promoções e preços; relacionamento e negociações com marketplaces; geração de insights a partir de dados; apoio ao time de marketplace; padronização e eficiência dos processos. Requisitos: Experiência em Marketplace/E-commerce; conhecimento em precificação, campanhas e performance; Excel intermediário/avançado (BI é um diferencial); perfil analítico, organizado e focado em resultados; boa comunicação e referência técnica do time; atuação em grandes marketplaces é desejável.",
-    whatsapp: "",
-    email: "rh@mamibrinquedos.com.br",
-    banner: "banners/mami.jpeg"
+    titulo: "Encarregado de Expedição",
+    empresa: "ATZ Pneus",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Encarregado de Expedição (ambos os sexos) na ATZ Pneus em Cambé/PR, com jornada de segunda a sábado e benefícios como prêmio de assiduidade e Total Pass.",
+    descricaoModal:"Responsabilidades e Tarefas: Coordenar e supervisionar as atividades de expedição; garantir a separação, conferência e envio correto dos pneus; controlar prazos de entrega e fluxo de cargas; liderar e orientar a equipe; acompanhar indicadores de desempenho; assegurar o cumprimento de normas de segurança e qualidade. Requisitos: Ensino médio completo (superior em Logística é desejável); experiência comprovada em expedição/logística; experiência com liderança de equipe.",
+    whatsapp: "5543991485450",
+    email: "",
+    banner: "banners/exped.jpeg"
   },
+
 ];
