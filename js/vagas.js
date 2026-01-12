@@ -3673,5 +3673,16 @@ const vagas = [
     email: "",
     banner: "banners/spend.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Analista Contábil",
+    empresa: "Fortcon",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista Contábil na Fortcon, exigindo formação em Ciências Contábeis e experiência em escritório e fechamentos de balancetes.",
+    descricaoModal:"Requisitos: Ser formado(a) em Ciências Contábeis; possuir experiência em escritório contábil; possuir experiência em fechamentos de balancete mensais. Benefícios: Plano de saúde; convênio farmácia; plano odontológico; vale-alimentação; Gympass/Wellhub; Day Off; plano de carreira; oportunidade de crescimento; auxílio mobilidade; entre outros.",
+    whatsapp: "5543991861690",
+    email: "rh@fortcon.com.br",
+    banner: "banners/conta.jpeg"
+  },
 
 ];
