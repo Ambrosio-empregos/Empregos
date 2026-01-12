@@ -2683,5 +2683,16 @@ const vagas = [
     email: "",
     banner: "banners/aprendiz.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Consultor(A) de Pré Atendimento",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Consultor(a) de Pré-Atendimento com ganhos a partir de R$ 3.000,00, destinada a jovens de 18 a 30 anos e com treinamento garantido.",
+    descricaoModal:"Detalhes da Oportunidade: A empresa oferece treinamento e acompanhamento garantido para a função; busca-se pessoas altamente ambiciosas. Requisitos: Jovens com idade entre 18 e 30 anos. Remuneração: Ganhos a partir de R$ 3.000,00.",
+    whatsapp: "5543984939373",
+    email: "",
+    banner: "banners/ambi.jpeg"
+  },
   
 ];
