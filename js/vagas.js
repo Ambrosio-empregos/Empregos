@@ -2903,4 +2903,15 @@ const vagas = [
     email: "",
     banner: "banners/reco.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Atendente",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Atendente no Shopping Atlântico em Balneário Camboriú, exigindo ensino médio completo e disponibilidade para trabalhar aos finais de semana.",
+    descricaoModal:"Requisitos: Ensino médio completo; boa comunicação verbal e habilidade para lidar com o público; capacidade de resolver problemas e lidar com situações de estresse; flexibilidade de horário, incluindo a disponibilidade para trabalhar nos finais de semana. Detalhes da Oportunidade: Horário das 14h às 22:20. Localização: Shopping Atlântico, Balneário Camboriú.",
+    whatsapp: "5547988192632",
+    email: "",
+    banner: "banners/atend.jpeg"
+  },
 ];
