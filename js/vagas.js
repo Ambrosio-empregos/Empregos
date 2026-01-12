@@ -3211,4 +3211,15 @@ const vagas = [
     email: "",
     banner: "banners/saa.jpeg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Vendedor Externo",
+    empresa: "HONDA Consórcio",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Externo na Honda Consórcio para atuação em Londrina e Rolândia, exigindo ensino fundamental completo e idade acima de 21 anos.",
+    descricaoModal:"Requisitos: Ensino Fundamental Completo; residir na região; experiência em vendas; disponibilidade de horário; boa comunicação; capacidade de negociação; ser maior de 21 anos. Benefícios: Comissão; treinamento; premiações; ajuda de custo. Localização: Londrina e Rolândia.",
+    whatsapp: "554399100594",
+    email: "",
+    banner: "banners/externo.jpeg"
+  },
 ];
