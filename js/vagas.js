@@ -3387,5 +3387,16 @@ const vagas = [
     email: "",
     banner: "banners/betaa.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Zelador",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Zelador na Beta Serv, destinada a profissionais com experiência prática em manutenção hidráulica, elétrica e serviços de limpeza.",
+    descricaoModal:"Requisitos: Experiência comprovada nas áreas de manutenção hidráulica e elétrica; experiência com limpeza em geral.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/zelab.jpeg"
+  },
 
 ];
