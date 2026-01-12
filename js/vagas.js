@@ -3299,4 +3299,15 @@ const vagas = [
     email: "",
     banner: "banners/atz.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Analista de MarketPlace pleno",
+    empresa: "Mami Brinquedos",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Analista de Marketplace Pleno na Mami Brinquedos em Londrina/PR, com foco em suporte à gestão baseado em dados e análise de KPIs.",
+    descricaoModal:"Responsabilidades: Suporte à gestão com decisões baseadas em dados; análise de vendas e KPIs; apoio a estratégias comerciais, promoções e preços; relacionamento e negociações com marketplaces; geração de insights a partir de dados; apoio ao time de marketplace; padronização e eficiência dos processos. Requisitos: Experiência em Marketplace/E-commerce; conhecimento em precificação, campanhas e performance; Excel intermediário/avançado (BI é um diferencial); perfil analítico, organizado e focado em resultados; boa comunicação e referência técnica do time; atuação em grandes marketplaces é desejável.",
+    whatsapp: "",
+    email: "rh@mamibrinquedos.com.br",
+    banner: "banners/mami.jpeg"
+  },
 ];
