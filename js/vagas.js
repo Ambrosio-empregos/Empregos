@@ -3002,4 +3002,15 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/meca.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Montador de Fachada",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL;Oportunidade para Montador de Fachada em ACM com experiência para atuar em empresa de Comunicação Visual.",
+    descricaoModal:"Detalhes da Oportunidade: Empresa de Comunicação Visual contrata profissional para a função de Montador de Fachada em ACM. Requisitos: É necessário possuir experiência prévia na área.",
+    whatsapp: "",
+    email: "selecaocurriculo150@gmail.com",
+    banner: "banners/fac.jpeg"
+  },
 ];
