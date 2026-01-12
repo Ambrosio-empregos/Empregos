@@ -3057,4 +3057,15 @@ const vagas = [
     email: "",
     banner: "banners/diarista.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Auxiliar Fiscal",
+    empresa: "Fortcon",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Fiscal na Fortcon, exigindo formação em andamento em áreas correlatas e oferecendo um amplo pacote de benefícios, incluindo Gympass e plano de carreira.",
+    descricaoModal:"Requisitos: Cursando ciências contábeis, administração ou correlatas; facilidade com sistemas e ferramentas de informática; experiência na função; experiência em escritório contábil será um diferencial. Benefícios: Plano de saúde; convênio farmácia; plano odontológico; vale-alimentação; Gympass - Wellhub; Day Off; plano de carreira; oportunidade de crescimento; auxílio locomoção; entre outros.",
+    whatsapp: "5543991861690",
+    email: "",
+    banner: "banners/fiscc.jpeg"
+  },
 ];
