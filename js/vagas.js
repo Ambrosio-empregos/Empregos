@@ -2736,7 +2736,17 @@ const vagas = [
     descricaoModal:"Requisitos: Ensino superior ou técnico completo; boa comunicação; perfil organizado e proativo. Benefícios: Salário fixo; vale-alimentação; vale-transporte.",
     whatsapp: "5543998053777",
     email: "comercial@siamoocupacional.com.br",
-    banner: "banners/oto.jpeg"
+    banner: "banners/segtra.jpeg"
   },
-  
+  {
+    data: "2026-01-08",
+    titulo: "Auxiliar de Enfermagem",
+    empresa: "Siamo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Enfermagem na SIAMO Ocupacional, exigindo formação técnica ou superior e oferecendo salário fixo com pacote de benefícios.",
+    descricaoModal:"Requisitos: Ensino superior ou técnico completo; boa comunicação; perfil organizado e proativo. Benefícios: Salário fixo; vale-alimentação; vale-transporte.",
+    whatsapp: "5543998053777",
+    email: "comercial@siamoocupacional.com.br",
+    banner: "banners/enfermagem.jpeg"
+  },
 ];
