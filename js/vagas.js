@@ -2705,5 +2705,16 @@ const vagas = [
     email: "",
     banner: "banners/pintor.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Advogado trabalhista",
+    empresa: "Escritório Sumera",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Advogado Trabalhista/Previdenciário no escritório Sumera Advocacia em Londrina-PR, com possibilidade de regime híbrido e remuneração de até R$ 4.000,00.",
+    descricaoModal:"Atribuições: Contato com cliente para obtenção de esclarecimentos e informações; elaboração de petições iniciais; cumprimento de prazos processuais diversos; realização de audiências; acompanhamento de perícias e demais diligências necessárias ao processo. Requisitos Mínimos: Possuir OAB ativa e regular; residir na região metropolitana de Londrina. Diferenciais: Experiência comprovada na área trabalhista, em especial com prazos e audiências de instrução. Informações Adicionais: Vaga com possibilidade de regime híbrido de trabalho e sem qualquer vínculo de exclusividade com o escritório.",
+    whatsapp: "5543991727055",
+    email: "contatosumera.adv@hotmail.com",
+    banner: "banners/adv.jpeg"
+  },
   
 ];
