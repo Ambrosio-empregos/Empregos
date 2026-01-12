@@ -2989,6 +2989,17 @@ const vagas = [
     descricaoModal:"Prestar atendimento ao cliente; ajudar na separação de produtos para reposição em loja; realizar a reposição de produtos na área de vendas; organizar mercadorias mantendo as prateleiras abastecidas; manter a loja organizada diariamente. Requisitos: Experiência como repositor(a); boa comunicação; comprometimento; organização; bom relacionamento com clientes para garantir uma experiência positiva.",
     whatsapp: "",
     email: "lp.nailslashes@gmail.com",
-    banner: "banners/repostor.jpeg"
+    banner: "banners/repositor.jpeg"
+  },
+  {
+    data: "2026-01-09",
+    titulo: "Engenheiro Mecâncio",
+    empresa: "Guaporé Pneus",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Engenheiro Mecânico na Guaporé Pneus em Londrina-PR, oferecendo ótima remuneração salarial e um pacote completo de benefícios.",
+    descricaoModal:"Benefícios e Remuneração: Ótima remuneração salarial; plano de saúde; plano odontológico; vale-alimentação; vale-transporte; Total Pass. Localização: Londrina-PR.",
+    whatsapp: "",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/meca.jpeg"
   },
 ];
