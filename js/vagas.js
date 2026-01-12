@@ -2749,4 +2749,15 @@ const vagas = [
     email: "comercial@siamoocupacional.com.br",
     banner: "banners/enfermagem.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Vendedora",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; ",
+    descricaoModal:"Vaga para Vendedora na Flor Cítrica para profissionais comunicativas e antenadas na moda, com foco em vendas e metas.",
+    whatsapp: "Pré-requisitos: Ser comunicativa; ser antenada na moda; gostar de trabalhar com vendas e metas; ser proativa. Diferenciais: Ter experiência com vendas, especificamente com lojas de roupa; possuir cursos na área de vendas ou atendimento ao público; domínio de ferramentas digitais e redes sociais.",
+    email: "florcitrica@hotmail.com",
+    banner: "banners/flori.jpeg"
+  },
 ];
