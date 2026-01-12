@@ -3541,5 +3541,16 @@ const vagas = [
     email: "maringa@franquia-wmbarros.com.br",
     banner: "banners/tecno.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Recepcionista Diurno",
+    empresa: "Golden Select",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Recepcionista Diurno no GoldMen Select Maringá, com início imediato e jornada em escala 12x36.",
+    descricaoModal:"Atribuições: Responsável pelo atendimento ao público; realização de check-ins e check-outs; suporte aos hóspedes; conferência dos lançamentos do dia; emissão de relatórios financeiros e operacionais; organização de reservas. Detalhes: Vaga para início imediato; escala de trabalho 12x36.",
+    whatsapp: "554430271311",
+    email: "",
+    banner: "banners/.jpeg"
+  },
 
 ];
