@@ -3607,5 +3607,16 @@ const vagas = [
     email: "",
     banner: "banners/itaja.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "jardineiro/Auxiliard de Jardinagem",
+    empresa: "LE Nôtre",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Jardineiro ou Auxiliar de Jardinagem pelo Grupo Le Nôtre, com atuação nas regiões de Balneário Camboriú e Piçarras em Santa Catarina.",
+    descricaoModal:"Detalhes da Vaga: Vagas abertas para as funções de Jardineiro e Auxiliar de Jardinagem. Localização: Atuação em Balneário Camboriú/SC e Piçarras/SC. Empresa: Grupo Le Nôtre.",
+    whatsapp: "5548991218930",
+    email: "",
+    banner: "banners/notre.jpeg"
+  },
 
 ];
