@@ -3013,4 +3013,15 @@ const vagas = [
     email: "selecaocurriculo150@gmail.com",
     banner: "banners/fac.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Vendedora",
+    empresa: "LOOK Collection",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Look Collection, buscando perfil proativo e organizado, com necessidade de disponibilidade de horários.",
+    descricaoModal:"Requisitos: Profissional proativa, organizada e simpática; possuir disponibilidade de horários. Detalhes da Oportunidade: Vaga destinada ao atendimento e vendas na Look Collection.",
+    whatsapp: "5543984521275",
+    email: "",
+    banner: "banners/vendedora.jpeg"
+  },
 ];
