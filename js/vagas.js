@@ -3623,11 +3623,33 @@ const vagas = [
     titulo: "babá/Serviços Gerais",
     empresa: "",
     cidade: "Londrina",
-    descricao: "Oportunidade para Babá / Serviços Gerais para atuar em ambiente familiar no Royal Tennis Residence em Londrina/PR.Atividades: Cuidar de criança(s), garantindo bem-estar, segurança e rotina diária; preparar refeições; auxiliar nas atividades diárias (brincadeiras, higiene e descanso); realizar serviços gerais da residência (limpeza, organização e conservação do ambiente); lavar e organizar roupas da criança, quando necessário. Requisitos: Experiência comprovada como babá e/ou serviços gerais; responsabilidade, paciência e comprometimento; organização e zelo com a higiene; boa comunicação. Detalhes: Horário de trabalho a definir; salário e benefícios a combinar.",
-    descricaoModal:"",
+    descricao: "Oportunidade para Babá / Serviços Gerais para atuar em ambiente familiar no Royal Tennis Residence em Londrina/PR.",
+    descricaoModal:"Atividades: Cuidar de criança(s), garantindo bem-estar, segurança e rotina diária; preparar refeições; auxiliar nas atividades diárias (brincadeiras, higiene e descanso); realizar serviços gerais da residência (limpeza, organização e conservação do ambiente); lavar e organizar roupas da criança, quando necessário. Requisitos: Experiência comprovada como babá e/ou serviços gerais; responsabilidade, paciência e comprometimento; organização e zelo com a higiene; boa comunicação. Detalhes: Horário de trabalho a definir; salário e benefícios a combinar.",
     whatsapp: "5543991897471",
     email: "",
     banner: "banners/baba.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "E-Commerce",
+    empresa: "CarParts",
+    cidade: "Londrina",
+    descricao: "Oportunidade para atuar no setor de E-commerce na Carparts em Londrina, com foco na plataforma Mercado Livre e jornada de segunda a sexta.",
+    descricaoModal:"Requisitos: Experiência na plataforma Mercado Livre (criação, edição e otimização de anúncios); boa escrita, agilidade e atenção aos detalhes; conhecimento em títulos, descrições, fotos, frete e categorias; desejável noções de SEO e marketplace. Atividades: Criar anúncios completos e atrativos; acompanhar desempenho e realizar ajustes; garantir boa apresentação e posicionamento dos produtos.",
+    whatsapp: "5543999944270",
+    email: "",
+    banner: "banners/commerce.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Chapeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Chapeiro com jornada de trabalho noturna e folgas semanais programadas.",
+    descricaoModal:"Atividades: Atuação na função de Chapeiro. Horário de Trabalho: De domingo a quinta, das 18h às 03h; sexta e sábado, das 18h às 05h. Folgas: Uma vez na semana e um domingo por mês.",
+    whatsapp: "5543996699540",
+    email: "",
+    banner: "banners/chape.jpeg"
   },
 
 ];
