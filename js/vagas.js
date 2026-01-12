@@ -3178,4 +3178,15 @@ const vagas = [
     email: "amanda.araujo@angeloni.com.br",
     banner: "banners/angellll.jpeg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Auxiliar de padeiro",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Padeiro no Angeloni em Londrina/PR, vaga aberta também para pessoas com deficiência (PCD), com escala 6x1 e diversos benefícios como plano de carreira e descontos.",
+    descricaoModal:"O que esperamos de você: Auxiliar na preparação dos alimentos; experiência na área será um diferencial; garantir a limpeza e organização da área; experiência no setor de alimentos. Detalhes da Jornada: Horário das 10:00 às 18:50; escala de trabalho 6x1 (DSR semanal / Domingo 2x1). Benefícios: Refeições na empresa; plano de saúde; folga no aniversário; plano de carreira; prêmio assiduidade; prêmio casamento; vale-transporte; plano odontológico; seguro de vida; desconto para funcionário; programa de desenvolvimento. Localização: Londrina/PR.",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/angelllll.jpeg"
+  },
 ];
