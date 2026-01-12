@@ -3585,5 +3585,16 @@ const vagas = [
     email: "",
     banner: "banners/centauro.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Profissional de RH",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade de formação online ao vivo para profissionais de RH aprenderem a aplicar a metodologia DISC na seleção, desenvolvimento e gestão de pessoas.",
+    descricaoModal:"Público-alvo: Destinado a profissionais de RH que buscam um RH estratégico focado em comportamento. Conteúdo e Objetivos: Aprendizado prático sobre como aplicar o DISC nos processos de seleção, desenvolvimento e gestão de pessoas. Formato: Formação online ao vivo.",
+    whatsapp: "5548988562130",
+    email: "",
+    banner: "banners/rh.jpeg"
+  },
 
 ];
