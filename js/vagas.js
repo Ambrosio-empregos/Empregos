@@ -3365,5 +3365,16 @@ const vagas = [
     email: "",
     banner: "banners/file.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Balconista",
+    empresa: "Délika",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Balconista na Panificadora e Confeitaria Délika em Londrina (Unidades Robert Koch e Zona Norte), com faixa salarial entre R$ 2.150,00 e R$ 2.800,00.",
+    descricaoModal:"Função: Balconista (6 vagas disponíveis). Requisitos: Experiência em atendimento ao público (diferencial se for em padaria ou confeitaria); ensino fundamental completo; maior de 20 anos; disponibilidade para trabalhar aos domingos. Horário: Das 12h30 às 20h20. Benefícios: Salário superior ao da categoria; vale-refeição; vale-transporte integral; consumo de produtos de fabricação própria com descontos e opção de descontar em folha; bonificação sobre a venda quando atingida a meta. Faixa Salarial: R$ 2.150,00 a R$ 2.800,00. Localização: Unidade Robert Koch e Unidade Zona Norte.",
+    whatsapp: "554333263854",
+    email: "",
+    banner: "banners/delika.jpeg"
+  },
 
 ];
