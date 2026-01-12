@@ -2925,4 +2925,15 @@ const vagas = [
     email: "",
     banner: "banners/cozzz.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Entregador",
+    empresa: "Agro  Trevo",
+    cidade: "Londrina",
+    descricao: "Vaga para Entregador na Agrotrevo Petshop em Londrina-PR, exigindo carteira para moto e experiência na área.",
+    descricaoModal:"Requisitos: Possuir carteira para moto; ser proativo; ter uma boa comunicação; possuir experiência na área. Localização: Rua Guaporé, 787 - Centro de Londrina/PR.",
+    whatsapp: "554333393898",
+    email: "",
+    banner: "banners/entre.jpeg"
+  },
 ];
