@@ -3332,5 +3332,16 @@ const vagas = [
     email: "supervisão.londrina@donsaude.com.br",
     banner: "banners/clt.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Recepcionista",
+    empresa: "Crematorium Londrina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista no Crematorium Londrina, com jornada em escala 12x36 diurno e requisitos que incluem boa oratória e habilitação.",
+    descricaoModal:"Requisitos: Ensino médio completo; mulheres ou homens acima de 30 anos; possuir habilitação; boa oratória; residir na região norte de Londrina será considerado um diferencial. Detalhes da Jornada: Trabalho em escala 12x36, período diurno.",
+    whatsapp: "554333984000",
+    email: "",
+    banner: "banners/diu.jpeg"
+  },
 
 ];
