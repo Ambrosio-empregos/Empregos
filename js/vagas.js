@@ -3453,5 +3453,16 @@ const vagas = [
     email: "londrina@hermanito.com.br",
     banner: "banners/limpe.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente",
+    empresa: "Fini",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente na Fini do Shopping Boulevard Londrina, com jornada das 13:50 às 22:10 e remuneração composta por salário, benefícios e metas variáveis.",
+    descricaoModal:"Detalhes da Vaga: Atuação como atendente em unidade da Fini. Horário: Das 13:50 às 22:10. Remuneração e Benefícios: Salário; vale-alimentação; vale-transporte; metas variáveis. Localização: Shopping Boulevard Londrina.",
+    whatsapp: "5543988425994",
+    email: "",
+    banner: "banners/finie.jpeg"
+  },
 
 ];
