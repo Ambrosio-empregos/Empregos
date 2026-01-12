@@ -2826,4 +2826,15 @@ const vagas = [
     email: "",
     banner: "banners/consultor.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Motorista Entregador",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Motorista Entregador em Maringá e região, com 2 vagas para início imediato, exigindo CNH C ou D e experiência em transportadora.",
+    descricaoModal:"Atribuições e Detalhes: Atuação em transportadora efetuando entregas de móveis planejados de alto padrão e outras mercadorias fracionadas nas regiões de Maringá, Campo Mourão e Cianorte; necessário ajudar a carregar e descarregar e manter a organização do barracão. Requisitos: Comprometimento e desejo de crescer na empresa; possuir CNH categoria 'C' ou 'D'; experiência prévia na função e no seguimento de entregas; boas condições físicas.",
+    whatsapp: "5543984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/motorista.jpeg"
+  },
 ];
