@@ -3288,4 +3288,15 @@ const vagas = [
     email: "METALCALHASCAMBE@GMAIL.COM",
     banner: "banners/hera.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Produção",
+    empresa: "ATZ Pneus",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar de Produção (ambos os sexos) na ATZ Pneus em Cambé/PR, com opções de turnos diurno e noturno e diversos benefícios como prêmio de assiduidade e Total Pass.",
+    descricaoModal:"Responsabilidades e Tarefas: Realizar separação, organização, raspagem, aplicação de borracha, acabamento final e inspeção visual de pneus a serem recapados; manter a limpeza do local; realizar outras atividades ligadas à recapagem. Requisitos: Ensino médio; experiência anterior na função; disponibilidade para horas extras. Horários: Turno dia (segunda a sexta, das 08:00 às 18:00) ou turno noite (segunda a sexta, das 18:00 às 03:15). Benefícios: Vale-alimentação; prêmio de assiduidade; refeição na empresa; Total Pass; horas extras. Localização: Cambé/PR (Saída para Rolândia).",
+    whatsapp: "5543991485450",
+    email: "",
+    banner: "banners/atz.jpeg"
+  },
 ];
