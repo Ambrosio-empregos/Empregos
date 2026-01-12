@@ -3484,7 +3484,7 @@ const vagas = [
     descricaoModal:"Requisitos e Funções: Execução de manutenções preventivas mensais em elevadores de passageiros; limpeza técnica de cabine, casa de máquinas e poço; lubrificação de componentes; ajustes gerais em portas, contatos e sensores; inspeção de itens de segurança; checklist e registros de OS; conhecimento em NR-10, NR-12 e NR-18. Jornada e Carga Horária: 44h semanais, de segunda a sexta das 07:30 às 17:48; possibilidade de assumir plantões remunerados nos finais de semana; sobreaviso remunerado. Benefícios: Salário compatível com a função; vale-alimentação; Total Pass; plano de saúde; treinamentos internos contínuos; kit ferramental.",
     whatsapp: "",
     email: "recrutamentoconsig2026@gmail.com",
-    banner: "banners/bobs.jpeg"
+    banner: "banners/maxuell.jpeg"
   },
   {
     data: "2026-01-12", 
@@ -3495,7 +3495,18 @@ const vagas = [
     descricaoModal:"Requisitos: Possuir CNH - B; facilidade com tecnologia; experiência no ramo imobiliário será considerada um diferencial. Remuneração e Benefícios: Salário inicial de R$ 2.200,00; auxílio transporte. Horário: De segunda a sexta, das 8h às 18h; sábados alternados, das 8h às 12h.",
     whatsapp: "4333414060",
     email: "imobiliariaatualltda@gmail.com",
-    banner: "banners/bobs.jpeg"
+    banner: "banners/atual.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Corretor de Locação",
+    empresa: "Atual Imobiliária",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor de Locação na Atual Imobiliária, exigindo registro no CRECI, veículo próprio e experiência prévia no setor.",
+    descricaoModal:"Requisitos: Necessário possuir registro no CRECI; possuir carro próprio; ter experiência comprovada em imobiliária.",
+    whatsapp: "4333414060",
+    email: "imobiliariaatualltda@gmail.com",
+    banner: "banners/cor.jpeg"
   },
 
 ];
