@@ -2628,5 +2628,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/auxc.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Auxiliar de Logística",
+    empresa: "Empresa não identificada",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Auxiliar de logística em Rolândia-PR, exigindo ensino médio completo e experiência prévia em ambiente fabril.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência prévia em logística industrial, almoxarifado, estoque ou expedição em ambiente fabril; conhecimento básico dos processos de recebimento, conferência, armazenamento, abastecimento de produção e expedição; capacidade de conferência de notas fiscais, ordens de produção, pedidos e volumes. Localização: Rolândia-PR.",
+    whatsapp: "5543991349146",
+    email: "",
+    banner: "banners/loog.jpeg"
+  },
   
 ];
