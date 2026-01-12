@@ -2892,4 +2892,15 @@ const vagas = [
     email: "",
     banner: "banners/escrit.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Representante Comercial",
+    empresa: "LS Empresarial",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Representante Comercial na LS Empresarial em Itajaí-SC, com ganhos mensais de até R$ 3.800,00 e benefícios adicionais para quem possui carro próprio.",
+    descricaoModal:"Requisitos: Boa comunicação; ser maior de 18 anos; capacidade de trabalhar em equipe. Benefícios: Plano de carreira; vale-transporte de R$ 390,00; vale-alimentação de R$ 390,00. Detalhes da Oportunidade: Ganhos mensais a partir de R$ 1.950,00 até R$ 3.800,00; disponibilidade de horário necessária; candidatos com carro próprio recebem adicional de R$ 2.000,00 mais combustível para locomoção. Localização: Cordeiros, Itajaí - Santa Catarina.",
+    whatsapp: "5547996737347",
+    email: "",
+    banner: "banners/reco.jpeg"
+  },
 ];
