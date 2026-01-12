@@ -2870,4 +2870,15 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/vet.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Professor(a) Musculação",
+    empresa: "Plenus",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Professor(a) de Musculação e Estagiário(a) no CT Plenus em Camboriú-SC, com preferência para candidatos que residam na cidade ou proximidades.",
+    descricaoModal:"Detalhes da Oportunidade: O CT Plenus, centro de treinamento em Camboriú, está com vagas abertas para profissionais e estudantes na área de musculação. Requisitos: Preferência para pessoas com moradia em Camboriú ou cidades vizinhas. Localização: Rua Getúlio Vargas, 224 - Centro, Camboriú-SC.",
+    whatsapp: "5547984910899",
+    email: "adm.ctplenus@gmail.com",
+    banner: "banners/muscu.jpeg"
+  },
 ];
