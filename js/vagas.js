@@ -3244,4 +3244,15 @@ const vagas = [
     email: "",
     banner: "banners/geren.jpeg"
   },
+  {
+    data: "2026-01-12",
+    titulo: "Atendente de Loja",
+    empresa: "",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Atendente de Loja em sorveteria localizada no centro de Arapongas, exigindo ensino médio completo e perfil proativo.",
+    descricaoModal:"Requisitos: Ensino Médio completo com excelente comunicação; experiência ou facilidade para lidar com o atendimento ao cliente; proatividade, simpatia e organização. Localização: Arapongas - Centro.",
+    whatsapp: "5543991597711",
+    email: "",
+    banner: "banners/ara.jpeg"
+  },
 ];
