@@ -3431,5 +3431,16 @@ const vagas = [
     email: "",
     banner: "banners/pcd.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente PCD",
+    empresa: "Cineflix",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza na Cineflix Cinemas, com escala 6x1, salário de R$ 1.837,50 e diversos benefícios inclusos.",
+    descricaoModal:"Detalhes da Vaga: Contratação em regime CLT; vaga destinada apenas para maiores de 18 anos. Horário e Escala: Jornada em escala 6x1; horário das 08:00 às 16:20. Remuneração e Benefícios: Salário de R$ 1.837,50; vale-refeição de R$ 24,00 por dia; vale-transporte; plano odontológico; auxílio escola; auxílio farmácia; folga no aniversário, entre outros.",
+    whatsapp: "5543991245187",
+    email: "",
+    banner: "banners/limpe.jpeg"
+  },
 
 ];
