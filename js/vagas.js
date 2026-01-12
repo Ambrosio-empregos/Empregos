@@ -3651,5 +3651,16 @@ const vagas = [
     email: "",
     banner: "banners/chape.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Spedini",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Spedini Boulevard, exigindo experiência prévia e disponibilidade para trabalhar aos finais de semana.",
+    descricaoModal:"Requisitos: Necessário possuir experiência na função; ter disponibilidade para trabalhar nos finais de semana. Benefícios: Salário fixo; vale-transporte; bônus por resultado da loja; bônus assiduidade; cesta básica.",
+    whatsapp: "5543988122466",
+    email: "",
+    banner: "banners/cozinhaaa.jpeg"
+  },
 
 ];
