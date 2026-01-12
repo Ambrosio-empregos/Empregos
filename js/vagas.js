@@ -2754,10 +2754,21 @@ const vagas = [
     titulo: "Vendedora",
     empresa: "empresa não identificada",
     cidade: "Londrina",
-    descricao: "SOMENTE EMAIL; ",
-    descricaoModal:"Vaga para Vendedora na Flor Cítrica para profissionais comunicativas e antenadas na moda, com foco em vendas e metas.",
-    whatsapp: "Pré-requisitos: Ser comunicativa; ser antenada na moda; gostar de trabalhar com vendas e metas; ser proativa. Diferenciais: Ter experiência com vendas, especificamente com lojas de roupa; possuir cursos na área de vendas ou atendimento ao público; domínio de ferramentas digitais e redes sociais.",
+    descricao: "SOMENTE EMAIL; Vaga para Vendedora na Flor Cítrica para profissionais comunicativas e antenadas na moda, com foco em vendas e metas.",
+    descricaoModal:"Pré-requisitos: Ser comunicativa; ser antenada na moda; gostar de trabalhar com vendas e metas; ser proativa. Diferenciais: Ter experiência com vendas, especificamente com lojas de roupa; possuir cursos na área de vendas ou atendimento ao público; domínio de ferramentas digitais e redes sociais.",
+    whatsapp: "",
     email: "florcitrica@hotmail.com",
     banner: "banners/flori.jpeg"
+  },
+  {
+    data: "2026-01-08",
+    titulo: "Professora",
+    empresa: "CEi Grilo",
+    cidade: "Londrina",
+    descricao: "Vaga para Professora nos períodos matutino e vespertino no CEI O Grilo Falante em Londrina-PR, exigindo formação em Magistério ou Pedagogia",
+    descricaoModal:"Requisitos: Formação concluída em Magistério ou Pedagogia. Detalhes da Oportunidade: Atuação nos períodos matutino e vespertino. Localização: R. Sérvula Assunção, 511 - C. H. São Pedro, Londrina-PR.",
+    whatsapp: "5543991033400",
+    email: "falantegrilo2021@gmail.com",
+    banner: "banners/prof.jpeg"
   },
 ];
