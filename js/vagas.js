@@ -2833,8 +2833,19 @@ const vagas = [
     cidade: "Maringá",
     descricao: "Oportunidade para Motorista Entregador em Maringá e região, com 2 vagas para início imediato, exigindo CNH C ou D e experiência em transportadora.",
     descricaoModal:"Atribuições e Detalhes: Atuação em transportadora efetuando entregas de móveis planejados de alto padrão e outras mercadorias fracionadas nas regiões de Maringá, Campo Mourão e Cianorte; necessário ajudar a carregar e descarregar e manter a organização do barracão. Requisitos: Comprometimento e desejo de crescer na empresa; possuir CNH categoria 'C' ou 'D'; experiência prévia na função e no seguimento de entregas; boas condições físicas.",
-    whatsapp: "5543984020481",
+    whatsapp: "5544984020481",
     email: "contato@principiurh.com.br",
     banner: "banners/motorista.jpeg"
+  },
+  {
+    data: "2026-01-08",
+    titulo: "Vendas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) no Shopping Maringá Park, com salário base de R$ 2.552,00 mais comissões e jornada de trabalho das 12h às 20h.",
+    descricaoModal:"Atribuições: Atuação com vendas e prospecção; atendimento presencial e via redes sociais; auxílio com vitrines e identidade visual da loja; trabalho orientado por metas e indicadores. Requisitos: Experiência em vendas de Shopping; histórico de trabalho com metas e indicadores; boa comunicação; proatividade; gosto por vendas.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/vendass.jpeg"
   },
 ];
