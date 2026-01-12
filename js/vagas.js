@@ -3550,7 +3550,18 @@ const vagas = [
     descricaoModal:"Atribuições: Responsável pelo atendimento ao público; realização de check-ins e check-outs; suporte aos hóspedes; conferência dos lançamentos do dia; emissão de relatórios financeiros e operacionais; organização de reservas. Detalhes: Vaga para início imediato; escala de trabalho 12x36.",
     whatsapp: "554430271311",
     email: "",
-    banner: "banners/.jpeg"
+    banner: "banners/recep.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Gerente",
+    empresa: "Ice Churros",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Gerente com CNH C para viajar com Food Truck da Ice Churros, apresentando ganhos mensais entre R$ 4.500,00 e R$ 5.500,00.",
+    descricaoModal:"Atribuições: Gerenciamento da rotina do food truck e atendimento no caixa. Requisitos Mínimos: CNH categoria C; experiência em atendimento no caixa; disponibilidade total para viajar. Benefícios: Ganhos de R$ 4.500,00 a R$ 5.500,00; alimentação e despesas das viagens pagas pela empresa; Gympass.",
+    whatsapp: "5544991555527",
+    email: "rh@icechurros.com.br",
+    banner: "banners/fode.jpeg"
   },
 
 ];
