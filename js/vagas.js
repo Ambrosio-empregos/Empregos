@@ -2854,9 +2854,20 @@ const vagas = [
     empresa: "Principius",
     cidade: "Maringá",
     descricao: "Oportunidade para Vendas Externas em Maringá e região (raio de 200 km), com foco em revestimentos e média de remuneração entre R$ 8.000,00 e R$ 12.000,00.",
-    descricaoModal:"Atribuições: Realizar visitas em obras, arquitetos e construtoras; oferecer produtos e serviços da empresa; tirar medidas e montar orçamentos; prospectar novos clientes, vender, negociar e realizar o pós-vendas; efetuar suporte ao cliente até a entrega da obra e elaborar relatórios de visitas diários. Requisitos: Experiência em vendas externas no segmento da Construção Civil; proatividade e boa comunicação; possuir carro próprio para os primeiros 6 meses de trabalho. Detalhes da Oportunidade: Jornada de segunda a sexta-feira, das 08:00 às 18:00; após 6 m",
+    descricaoModal:"Atribuições: Realizar visitas em obras, arquitetos e construtoras; oferecer produtos e serviços da empresa; tirar medidas e montar orçamentos; prospectar novos clientes, vender, negociar e realizar o pós-vendas; efetuar suporte ao cliente até a entrega da obra e elaborar relatórios de visitas diários. Requisitos: Experiência em vendas externas no segmento da Construção Civil; proatividade e boa comunicação; possuir carro próprio para os primeiros 6 meses de trabalho. Detalhes da Oportunidade: Jornada de segunda a sexta-feira, das 08:00 às 18:00;",
     whatsapp: "5544984020481",
     email: "contato@principiurh.com.br",
     banner: "banners/exter.jpeg"
+  },
+  {
+    data: "2026-01-08",
+    titulo: "Veterinário Vendas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Veterinário em Vendas de Balcão com foco em avicultura e suinocultura, exigindo formação em Medicina Veterinária e oferecendo excelente remuneração.",
+    descricaoModal:"Atribuições: Atuação com vendas de produtos veterinários e agropecuários voltados para avicultura e suinocultura através de múltiplos canais como WhatsApp, e-mail, telefone e atendimento presencial como balconista; manutenção de comunicação clara para efetuar vendas e atender necessidades dos clientes. Requisitos: Formação completa em Medicina Veterinária; conhecimento sólido sobre produtos de avicultura e suinocultura; experiência em vendas, planejamento e organização com foco em resultados; perfil de liderança participativa; domínio do pacote Office e software de Gestão (ERP); comunicação eficaz.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/vet.jpeg"
   },
 ];
