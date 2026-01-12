@@ -3233,4 +3233,15 @@ const vagas = [
     email: "",
     banner: "banners/cambe.jpeg"
   },
+  {
+    data: "2026-01-12",
+    titulo: "Gerente de Sorveteria",
+    empresa: "",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Gerente de Sorveteria em Arapongas e Cambé, destinada a profissionais com perfil de liderança e experiência comprovada no varejo alimentício.",
+    descricaoModal:"Responsabilidades: Gerenciar a equipe e a rotina da loja; garantir qualidade no atendimento e nos produtos; controlar estoque e apoiar nas escalas de trabalho; assegurar os padrões de higiene e operação. Requisitos: Ter experiência em sorveteria; experiência em liderança no varejo alimentício (sorveteria, cafeteria, padaria ou fast-food); boa comunicação e organização. Oferecemos: Salário compatível mais benefícios; ambiente agradável e oportunidades de crescimento. Localização: Arapongas e Cambé.",
+    whatsapp: "5543984267084",
+    email: "",
+    banner: "banners/geren.jpeg"
+  },
 ];
