@@ -2716,5 +2716,16 @@ const vagas = [
     email: "contatosumera.adv@hotmail.com",
     banner: "banners/adv.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Recepcionista",
+    empresa: "Oto Centro",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista no Otocentro Hospital e Clínica, para atuação de segunda a sábado em rotinas pertinentes à função.",
+    descricaoModal:"Atribuições: Realização de rotinas pertinentes à função de recepcionista em ambiente hospitalar/clínico. Detalhes da Oportunidade: Período de trabalho de segunda a sábado.",
+    whatsapp: "554333735522",
+    email: "rh@hospitalotocentro.com.br",
+    banner: "banners/oto.jpeg"
+  },
   
 ];
