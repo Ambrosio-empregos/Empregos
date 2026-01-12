@@ -3035,4 +3035,15 @@ const vagas = [
     email: "",
     banner: "banners/den.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Lidere Service",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza na Lidere Service, buscando profissionais organizados e proativos com experiência na área.",
+    descricaoModal:"Requisitos: Vaga para profissional organizado(a) e proativo(a); necessária experiência prévia na área de limpeza; possuir disponibilidade de horários. Detalhes da Oportunidade: Atuação como Auxiliar de Limpeza através da Lidere Service.",
+    whatsapp: "554333570326",
+    email: "",
+    banner: "banners/lidere.jpeg"
+  },
 ];
