@@ -3350,9 +3350,20 @@ const vagas = [
     cidade: "Ibiporã",
     descricao: "Oportunidade para Vendedor(a) em Ibiporã e Arapongas, com comissão de até 5% sobre as vendas e exigência de ensino médio completo.",
     descricaoModal:"Requisitos: Experiência em vendas e atendimento ao cliente; ser comunicativo(a), paciente, simpático(a) e atencioso(a); ensino médio completo. Benefícios: Comissão de até 5% sobre as vendas. Localização: Ibiporã e Arapongas.",
-    whatsapp: "554999338039",
+    whatsapp: "554399338039",
     email: "216@forboys.com.br",
     banner: "banners/vaga.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Filetador",
+    empresa: "Ictus Pescado",
+    cidade: "",
+    descricao: "Oportunidade para Filetador / Produção na Ictus Pescado, localizada próximo à Warta, com ganho mensal de 2300,00 e jornada diurna de segunda a sexta.",
+    descricaoModal:"Detalhes Financeiros: Salário de 1700,00; vale-alimentação de 600,00; vale-transporte sem desconto; ganho mensal total de 2300,00. Requisitos: Disponibilidade de horário; experiência como refile e filetador de pescado; experiência frigorífica em cortes de carne será um valor a negociar. Benefícios: Vale-alimentação; uniforme; vale-transporte; café da manhã; almoço; seguro de vida. Jornada e Localização: Trabalho de segunda a sexta, período diurno;",
+    whatsapp: "554333422260",
+    email: "",
+    banner: "banners/file.jpeg"
   },
 
 ];
