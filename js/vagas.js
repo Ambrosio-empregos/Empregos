@@ -3519,5 +3519,16 @@ const vagas = [
     email: "",
     banner: "banners/cabello.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de topografia",
+    empresa: "25 Engenharia e Geotecnologia",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Topografia na 2S Engenharia e Geotecnologia em Maringá/PR, voltada para residentes da região que auxiliarão em levantamentos.",
+    descricaoModal:"Requisitos: Residente em Maringá e região. Responsabilidades: Auxiliar o topógrafo nos levantamentos e demais atividades pertinentes à função. Localização: Maringá/PR.",
+    whatsapp: "5565999105224",
+    email: "vagas@agrimensura.com.br",
+    banner: "banners/topo.jpeg"
+  },
 
 ];
