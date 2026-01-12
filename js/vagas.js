@@ -3596,5 +3596,16 @@ const vagas = [
     email: "",
     banner: "banners/rh.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Itajaí/SC, com escala 6x1 no período noturno e pacote completo de benefícios.",
+    descricaoModal:"Horário e Escala: Jornada das 00:00 às 08:20; escala 6x1. Benefícios: Vale-alimentação; alimentação na empresa; vale-transporte; plano odontológico; plano de saúde; Gympass; apoio jurídico e psicológico. Localização: Itajaí/SC.",
+    whatsapp: "5547992088529",
+    email: "",
+    banner: "banners/itaja.jpeg"
+  },
 
 ];
