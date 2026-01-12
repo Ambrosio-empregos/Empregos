@@ -2694,5 +2694,16 @@ const vagas = [
     email: "",
     banner: "banners/ambi.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Pintor/Preparador Automotivo",
+    empresa: "FNB",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Pintor/Preparador Automotivo na FNB Funilaria e Pintura, exigindo experiência na área e oferecendo registro em carteira com benefícios.",
+    descricaoModal:"Requisitos: É necessário possuir experiência prévia na função de pintor ou preparador automotivo. Detalhes da Oportunidade: Vaga com registro em carteira; carga horária de segunda a sexta-feira, das 08:00 às 18:00. Benefícios: A empresa oferece pacote de benefícios.",
+    whatsapp: "5543988163210",
+    email: "",
+    banner: "banners/pintor.jpeg"
+  },
   
 ];
