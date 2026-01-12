@@ -2881,4 +2881,15 @@ const vagas = [
     email: "adm.ctplenus@gmail.com",
     banner: "banners/muscu.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Atendente de Escritório",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Atendente de Escritório em Itajaí-SC com início imediato, sem exigência de experiência prévia e oferecendo plano de carreira e salário competitivo.",
+    descricaoModal:"Detalhes da Oportunidade: Atendimento ao cliente com início imediato; não precisa ter experiência, pois a empresa oferece treinamento; possui plano de carreira e salário competitivo. Benefícios: Comissão; bônus e premiação; vale-transporte. Escolaridade e Experiência: Ensino Médio Completo (preferencial); experiência em atendimento ao cliente (preferencial). Localização: Itajaí-SC.",
+    whatsapp: "5547988540633",
+    email: "",
+    banner: "banners/escrit.jpeg"
+  },
 ];
