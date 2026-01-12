@@ -2727,5 +2727,16 @@ const vagas = [
     email: "rh@hospitalotocentro.com.br",
     banner: "banners/oto.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Técnico de Segurança do Trabalho",
+    empresa: "Siamo",
+    cidade: "Londrina",
+    descricao: "Vaga para Técnico de Segurança no Trabalho na SIAMO Ocupacional, exigindo formação técnica ou superior e oferecendo salário fixo com pacote de benefícios.",
+    descricaoModal:"Requisitos: Ensino superior ou técnico completo; boa comunicação; perfil organizado e proativo. Benefícios: Salário fixo; vale-alimentação; vale-transporte.",
+    whatsapp: "5543998053777",
+    email: "comercial@siamoocupacional.com.br",
+    banner: "banners/oto.jpeg"
+  },
   
 ];
