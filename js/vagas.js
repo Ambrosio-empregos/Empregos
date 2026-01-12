@@ -3267,7 +3267,7 @@ const vagas = [
     banner: "banners/rola.jpeg"
   },
    {
-    data: "2026-01-12",
+    data: "2026-01-12", 
     titulo: "Auxiliar de Cozinha",
     empresa: "Hera - Café Saudável",
     cidade: "Londrina",
@@ -3275,6 +3275,17 @@ const vagas = [
     descricaoModal:"Funções: Responsável pelo pré-preparo e preparo de pães, tortas e salgados; preparo de bebidas e shakes; higienização e organização do setor. Horário: De terça a sábado, das 8h30 às 18h30, com 1 hora de almoço; folgas às segundas e domingos. Benefícios: Salário; vale-transporte; vale-alimentação; seguro de vida; desconto em consumo na cafeteria.",
     whatsapp: "",
     email: "heracafesaudavel@gmail.com",
+    banner: "banners/hera.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Produção",
+    empresa: "Metal Calhas",
+    cidade: "Cambé",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Produção na Metal Calhas em Cambé, com início imediato e jornada de trabalho de segunda a sábado.",
+    descricaoModal:"Detalhes da Vaga: Unidade de Cambé. Requisitos e Diferenciais: Início imediato. Horário de Trabalho: Segunda a sexta-feira, das 07h45 às 17h30; sábados, das 07h45 às 11h30min. Remuneração e Benefícios: Salário compatível; vale-alimentação.",
+    whatsapp: "",
+    email: "METALCALHASCAMBE@GMAIL.COM",
     banner: "banners/hera.jpeg"
   },
 ];
