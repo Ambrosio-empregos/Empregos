@@ -2639,5 +2639,16 @@ const vagas = [
     email: "",
     banner: "banners/loog.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Vendedor",
+    empresa: "Siamo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na SIAMO Ocupacional, exigindo formação superior ou técnica e oferecendo salário fixo mais comissões e benefícios.",
+    descricaoModal:"Requisitos: Ensino superior ou técnico completo; boa comunicação; ser uma pessoa organizada e proativa. Benefícios: Salário fixo; vale alimentação; vale transporte; comissão.",
+    whatsapp: "5543998053777",
+    email: "comercial@siamoocupacional.com.br",
+    banner: "banners/loog.jpeg"
+  },
   
 ];
