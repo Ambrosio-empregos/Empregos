@@ -2969,4 +2969,15 @@ const vagas = [
     email: "",
     banner: "banners/assis.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "técnico em Assistência Técnica",
+    empresa: "Rainoah",
+    cidade: "Londrina",
+    descricao: "Oportunidade com início imediato para Auxiliar de Expedição na Rainoah, exigindo ensino médio completo e oferecendo salário compatível com o cargo mais benefícios.",
+    descricaoModal:"Atividades: Embalar e despachar pedidos; manter o armazenamento organizado; realizar conferência de notas fiscais (NF); emitir etiquetas de volumes para despacho. Requisitos: Demonstrar disciplina; saber trabalhar em equipe; ter agilidade, proatividade e organização; ensino médio completo; preferência por residir em Cambé ou Londrina; salário compatível com o cargo e mais benefícios; possuir conhecimento em sistemas operacionais (ERP).",
+    whatsapp: "554333716910",
+    email: "",
+    banner: "banners/expe.jpeg"
+  },
 ];
