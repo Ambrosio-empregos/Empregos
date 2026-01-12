@@ -2618,7 +2618,7 @@ const vagas = [
     banner: "banners/cobri.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-08",
     titulo: "Auxiliar de Cozinha",
     empresa: "Gelobel",
     cidade: "Londrina",
@@ -2629,7 +2629,7 @@ const vagas = [
     banner: "banners/auxc.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-08",
     titulo: "Auxiliar de Logística",
     empresa: "Empresa não identificada",
     cidade: "Rolândia",
@@ -2640,7 +2640,7 @@ const vagas = [
     banner: "banners/loog.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-08",
     titulo: "Vendedor",
     empresa: "Siamo",
     cidade: "Londrina",
@@ -2651,7 +2651,7 @@ const vagas = [
     banner: "banners/loog.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-01-08",
     titulo: "Auxiliar Administrativo/Auxiliar Jurídico",
     empresa: "Escritório Sumera",
     cidade: "Londrina",
@@ -2661,5 +2661,17 @@ const vagas = [
     email: "contatosumera.adv@hotmail.com",
     banner: "banners/juri.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Vendedor",
+    empresa: "Todimo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na unidade Saul Elkind da Todimo em Londrina-PR, com processo de seleção gerido pela Gestão de Pessoas Todimo.",
+    descricaoModal:"Detalhes da Oportunidade: A Todimo está com vaga aberta para a função de Vendedor(a) para atuação em sua unidade localizada na Zona Norte de Londrina. Localização: Av. Saul Elkind, 2900 - Jardim Athenas, Londrina-PR.",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/todi.jpeg"
+  },
+  
   
 ];
