@@ -3112,4 +3112,15 @@ const vagas = [
     email: "curriculo@helpmultas.com",
     banner: "banners/helpp.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Vendedor(a)",
+    empresa: "OJO",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Vendedor(a) na Ojo by Mr. Ray, com processo de seleção aberto para recebimento de currículos em formato PDF.",
+    descricaoModal:"Detalhes da Oportunidade: A Ojo by Mr. Ray está com vaga aberta para a função de Vendedor(a). Requisitos: Os interessados devem encaminhar o currículo atualizado no formato PDF.",
+    whatsapp: "5548992096637",
+    email: "balneario@ojomrray.com.br",
+    banner: "banners/ojo.jpeg"
+  },
 ];
