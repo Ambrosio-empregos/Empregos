@@ -2782,4 +2782,15 @@ const vagas = [
     email: "comercial@selatools.com.br",
     banner: "banners/telev.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Instrumentador Cirúrgico",
+    empresa: "Arthorom",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL;Oportunidade para Instrumentador Cirúrgico Trainee em Londrina-PR, exigindo curso técnico em enfermagem e oferecendo um amplo pacote de benefícios, incluindo plano de saúde e Wellhub.",
+    descricaoModal:"Principais Atividades: Auxiliar o cirurgião no ato cirúrgico ortopédico, atuando como técnico dos materiais da empresa. Requisitos: Curso técnico em enfermagem concluído; Coren em dia; condução própria; CNH B em dia; disponibilidade total de horários. Diferencial: Experiência em centro cirúrgico como instrumentador ou circulante. Benefícios: Vale alimentação; auxílio mobilidade; plano de saúde + odonto; seguro de vida; Wellhub (Gympass); day off de aniversário; convênio de descontos Unopar/Anhanguera.",
+    whatsapp: "",
+    email: "recrutamneto@arthrom.com",
+    banner: "banners/cirur.jpeg"
+  },
 ];
