@@ -2771,4 +2771,15 @@ const vagas = [
     email: "falantegrilo2021@gmail.com",
     banner: "banners/prof.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Televendas",
+    empresa: "ATM Distribuidora",
+    cidade: "",
+    descricao: "SOMENTE EMAIL; Vaga para Televendas na ATM Distribuidora de Selantes e Fixadores, com foco em atendimento multicanal, prospecção e cumprimento de metas de vendas.",
+    descricaoModal:"Responsabilidades: Realizar atendimento por telefone e WhatsApp; receber e atender clientes na loja física; fazer prospecções e follow-up de orçamentos; realizar atendimento ativo e receptivo para venda de produtos; acompanhar o pós-venda para garantir a satisfação do cliente; registrar informações no sistema de vendas; cumprir metas de vendas e indicadores de desempenho. Requisitos: Desejável experiência com telemarketing.",
+    whatsapp: "",
+    email: "comercial@selatools.com.br",
+    banner: "banners/telev.jpeg"
+  },
 ];
