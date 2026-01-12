@@ -3167,4 +3167,15 @@ const vagas = [
     email: "amanda.araujo@angeloni.com.br",
     banner: "banners/angelll.jpeg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Fiscal de Prevenção de Perdas",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Fiscal de Prevenção de Perdas no Angeloni em Londrina/PR, vaga aberta também para pessoas com deficiência (PCD), com escala 6x1 e diversos benefícios corporativos.",
+    descricaoModal:"O que esperamos de você: Ensino médio completo; experiência na área será um diferencial; fiscalizar entrada e saída da loja; orientar e acompanhar procedimentos da prevenção. Detalhes da Jornada: Horário das 13:30 às 22:20; escala de trabalho 6x1 (DSR semanal / Domingo 2x1). Benefícios: Refeições na empresa; plano de saúde; folga no aniversário; plano de carreira; prêmio assiduidade; prêmio casamento; vale-transporte; plano odontológico; seguro de vida; desconto para funcionário; programa de desenvolvimento. Localização: Londrina/PR.",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/angellll.jpeg"
+  },
 ];
