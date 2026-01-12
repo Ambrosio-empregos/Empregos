@@ -3662,5 +3662,16 @@ const vagas = [
     email: "",
     banner: "banners/cozinhaaa.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente",
+    empresa: "Spedini",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente no Spedini Boulevard, com exigência de experiência e disponibilidade para escalas aos finais de semana.",
+    descricaoModal:"Requisitos: Necessário possuir experiência na função; ter disponibilidade para trabalhar nos finais de semana. Benefícios: Salário fixo; vale-transporte; bônus por resultado da loja; bônus assiduidade; cesta básica.",
+    whatsapp: "5543988122466",
+    email: "",
+    banner: "banners/spend.jpeg"
+  },
 
 ];
