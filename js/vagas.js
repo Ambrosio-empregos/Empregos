@@ -2926,7 +2926,7 @@ const vagas = [
     banner: "banners/cozzz.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-09",
     titulo: "Entregador",
     empresa: "Agro  Trevo",
     cidade: "Londrina",
@@ -2937,7 +2937,7 @@ const vagas = [
     banner: "banners/entre.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-09",
     titulo: "técnico de Manutenção",
     empresa: "Max elevadores",
     cidade: "Londrina",
@@ -2948,7 +2948,7 @@ const vagas = [
     banner: "banners/tecma.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-09",
     titulo: "Vendedor",
     empresa: "Defina Banker",
     cidade: "Londrina",
@@ -2959,7 +2959,7 @@ const vagas = [
     banner: "banners/defina.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-09",
     titulo: "técnico em Assistência Técnica",
     empresa: "Rainoah",
     cidade: "Londrina",
@@ -2970,7 +2970,7 @@ const vagas = [
     banner: "banners/assis.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-09",
     titulo: "técnico em Assistência Técnica",
     empresa: "Rainoah",
     cidade: "Londrina",
@@ -2979,5 +2979,16 @@ const vagas = [
     whatsapp: "554333716910",
     email: "",
     banner: "banners/expe.jpeg"
+  },
+  {
+    data: "2026-01-09",
+    titulo: "Repositor(a) de loja",
+    empresa: "LP Nails & Lashes",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Repositor(a) de Loja com salário de R$ 2.000,00, exigindo experiência prévia e boa comunicação para garantir o atendimento e organização da unidade.",
+    descricaoModal:"Prestar atendimento ao cliente; ajudar na separação de produtos para reposição em loja; realizar a reposição de produtos na área de vendas; organizar mercadorias mantendo as prateleiras abastecidas; manter a loja organizada diariamente. Requisitos: Experiência como repositor(a); boa comunicação; comprometimento; organização; bom relacionamento com clientes para garantir uma experiência positiva.",
+    whatsapp: "",
+    email: "lp.nailslashes@gmail.com",
+    banner: "banners/repostor.jpeg"
   },
 ];
