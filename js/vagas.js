@@ -3189,4 +3189,15 @@ const vagas = [
     email: "amanda.araujo@angeloni.com.br",
     banner: "banners/angelllll.jpeg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador de Caixa no Max Norte Shopping em Londrina-PR, vaga aberta para diversos perfis incluindo PCD, 60+ e estrangeiros, com amplo pacote de benefícios.",
+    descricaoModal:"O que oferecemos: Assistência de saúde (Telemedicina); plano odontológico; telepsicologia; seguro de vida; assistência funeral; clube de vantagens com desconto em farmácias; vale-refeição; programas de premiação; acompanhamento de gestantes; salas de amamentação; oportunidade de carreira e formação pela Uniffato. Detalhes: Vagas disponíveis para PCD, 60+ (Melhor Idade) e Estrangeiros; horário de entrevista das 8:30 às 18:00. Localização: Max Norte Shopping - R. Américo Deolindo Garla, 224, Londrina-PR.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/maxi.jpeg"
+  },
 ];
