@@ -3563,5 +3563,16 @@ const vagas = [
     email: "rh@icechurros.com.br",
     banner: "banners/fode.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Repositor",
+    empresa: "Max atacadista",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Repositor no Max Atacadista (Grupo Muffato) em Maringá/PR, com vagas inclusivas para PCD, 60+ e estrangeiros.",
+    descricaoModal:"Detalhes da Vaga: Oportunidades abertas para repositor, incluindo perfis PCD, Melhor Idade (60+) e Estrangeiros. Benefícios e Vantagens: Assistência de saúde (telemedicina, plano odontológico e telepsicologia); seguro de vida; assistência funeral; clube de vantagens com desconto em farmácias; vale-refeição; programa 'Contamos com Você' (assiduidade); diversos programas de premiação;",
+    whatsapp: "5545991510318",
+    email: "",
+    banner: "banners/rep.jpeg"
+  },
 
 ];
