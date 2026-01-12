@@ -3068,4 +3068,15 @@ const vagas = [
     email: "",
     banner: "banners/fiscc.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Assistente Fiscal",
+    empresa: "Brites Consultoria em RH",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Assistente Fiscal em Maringá-PR no Escritório Aprimorato, voltada para profissionais com ensino superior em Ciências Contábeis completo ou em andamento.",
+    descricaoModal:"Atividades: Atuação com empresas de Lucro Presumido, Lucro Real e Simples Nacional; apoio no fechamento fiscal e apuração de impostos; assistência na emissão de notas e obrigações acessórias; atendimento direto a cliente para orientações e dúvidas. Requisitos: Ensino Superior em Ciências Contábeis",
+    whatsapp: "5543988232992",
+    email: "britesconsultoriarh@gmail.com",
+    banner: "banners/fiscaa.jpeg"
+  },
 ];
