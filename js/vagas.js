@@ -3090,4 +3090,15 @@ const vagas = [
     email: "",
     banner: "banners/enxuga.jpeg"
   },
+  {
+    data: "2026-01-09",
+    titulo: "Vendedor(a)",
+    empresa: "Costa Rica",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) na Costa Rica em Maringá-PR, com pacote de benefícios que inclui auxílio creche e seguro de vida.",
+    descricaoModal:"Atividades: Efetivar a venda de produtos e fazer a manutenção da carteira de clientes; prospecção de novos clientes e recuperação de inativos; auxiliar na organização da loja. Benefícios: Vale-transporte; auxílio creche; plano de saúde e odontológico; Wellhub; seguro de vida. Localização: Maringá/PR.",
+    whatsapp: "554432279977",
+    email: "maringa@costaricamalhas.com.br",
+    banner: "banners/costa.jpeg"
+  },
 ];
