@@ -3255,4 +3255,15 @@ const vagas = [
     email: "",
     banner: "banners/ara.jpeg"
   },
+  {
+    data: "2026-01-12",
+    titulo: "Líder de Produção",
+    empresa: "",
+    cidade: "Rolâdia",
+    descricao: "Oportunidade para Líder de Produção Industrial em Rolândia/PR, destinada a profissionais com postura firme e conhecimento em corte e dobra de chapas metálicas.",
+    descricaoModal:"Requisitos: Experiência em liderança de produção industrial; responsabilidade e postura firme; boa comunicação; capacidade de visão sistêmica; experiência no ramo metalúrgico será um diferencial; conhecimento acerca de corte e dobra de chapas metálicas. Localização: Rolândia/PR.",
+    whatsapp: "5543991349146",
+    email: "",
+    banner: "banners/rola.jpeg"
+  },
 ];
