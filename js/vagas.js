@@ -2672,6 +2672,16 @@ const vagas = [
     email: "",
     banner: "banners/todi.jpeg"
   },
-  
+  {
+    data: "2026-01-08",
+    titulo: "Menor Aprendiz",
+    empresa: "Todimo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Menor Aprendiz no Centro de Distribuição da Todimo em Londrina-PR, destinada a jovens de 16 anos para atuação no período da manhã.",
+    descricaoModal:"Requisitos e Detalhes: Necessário ter 16 anos completos; a vaga é para trabalhar no período da manhã. Unidade: Centro de Distribuição. Localização: Av. Fernando Cerqueira Cesar Coimbra - Cilo 3, Londrina-PR.",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/aprendiz.jpeg"
+  },
   
 ];
