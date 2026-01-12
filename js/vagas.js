@@ -3376,5 +3376,16 @@ const vagas = [
     email: "",
     banner: "banners/delika.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Supervisor de Equipe",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Supervisor de Equipe na Beta Serv, destinada a profissionais com experiência na área e habilidades em liderança e pensamento estratégico.",
+    descricaoModal:"Requisitos: Experiência comprovada na área; habilidades em tratamento com clientes e funcionários; perfil de liderança para acompanhamento de trabalho de equipe; capacidade para elaboração de escalas de serviço; excelentes habilidades interpessoais e pensamento estratégico.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/betaa.jpeg"
+  },
 
 ];
