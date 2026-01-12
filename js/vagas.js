@@ -3420,5 +3420,16 @@ const vagas = [
     email: "",
     banner: "banners/betalimp.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente PCD",
+    empresa: "Cineflix",
+    cidade: "Londrina",
+    descricao: "Oportunidade exclusiva para PCD na Cineflix Cinemas, com escala 6x1 e diversos benefícios como auxílio escola, auxílio farmácia e folga no aniversário.",
+    descricaoModal:"Detalhes da Vaga: Efetivo CLT; vaga exclusiva para PCD; necessário laudo médico atualizado; apenas para maiores de 18 anos. Horário e Escala: Escala 6x1; horário das 14h00 às 22h20. Remuneração e Benefícios: Salário de R$ 1.942,50; vale-refeição; vale-transporte; quebra de caixa; plano odontológico; auxílio escola; auxílio farmácia; folga no aniversário, entre outros.",
+    whatsapp: "5543991245187",
+    email: "",
+    banner: "banners/pcd.jpeg"
+  },
 
 ];
