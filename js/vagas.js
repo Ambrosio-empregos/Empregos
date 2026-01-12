@@ -2958,4 +2958,15 @@ const vagas = [
     email: "",
     banner: "banners/defina.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "técnico em Assistência Técnica",
+    empresa: "Rainoah",
+    cidade: "Londrina",
+    descricao: "Oportunidade com início imediato para Técnico em Assistência Técnica na Rainoah, exigindo ensino médio completo e oferecendo salário compatível com o cargo mais benefícios.",
+    descricaoModal:"Atividades: Identificar defeitos; realizar manutenção corretiva e preventiva; aplicar conhecimento específico em equipamentos; elaborar relatórios técnicos. Requisitos: Capacidade de resolução de problemas; comunicação clara com clientes; aptidão para aprender; organização para manutenção e documentação de serviços; habilidade para lidar com clientes e fornecedores; ensino médio completo; experiência no ramo de indústria;",
+    whatsapp: "554333716910",
+    email: "",
+    banner: "banners/assis.jpeg"
+  },
 ];
