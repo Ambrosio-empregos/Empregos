@@ -4069,5 +4069,16 @@ const vagas = [
     email: "infinitybeer579@gmail.com",
     banner: "banners/conve.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Polidor Autimotivo",
+    empresa: "BRANELLO",
+    cidade: "Maringá",
+    descricao: "A rede de estética automotiva Branello contrata Polidor Automotivo para Maringá/PR. Interessados devem enviar currículo via WhatsApp!",
+    descricaoModal:"Oportunidade para Polidor Automotivo na rede Branello em Londrina/PR. Se você ficou interessado(a), envie seu currículo diretamente para o WhatsApp",
+    whatsapp: "5541987702241",
+    email: "",
+    banner: "banners/brane.jpeg"
+  },
 
 ];
