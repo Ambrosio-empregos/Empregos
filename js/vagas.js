@@ -4276,7 +4276,7 @@ const vagas = [
     descricaoModal:"Requisitos: Disponibilidade de horário para trabalhar em Shopping; facilidade em atendimento ao cliente. Diferencial: Experiência prévia com vendas no varejo. Empresa: L'Occitane au Brésil.",
     whatsapp: "5543991218776",
     email: "",
-    banner: "banners/glebas.jpeg"
+    banner: "banners/bresil.jpeg"
   },
   {
     data: "2026-01-13",
@@ -4310,6 +4310,17 @@ const vagas = [
     whatsapp: "5543988641863",
     email: "",
     banner: "banners/catarino.jpeg"
+  },
+  {
+    data: "2026-01-13",
+    titulo: "Professor de Musculação",
+    empresa: "Estação Fitness",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Professor de Musculação na Estação Fitness, para contratação imediata de profissional com CREF ativo e boa comunicação.",
+    descricaoModal:"Requisitos: Experiência na função; CREF ativo; capacidade de inspirar alunos; boa comunicação. Benefícios e Ofertas: Treinamentos constantes; salário compatível com a função; contratação imediata. Empresa: Estação Fitness Academia.",
+    whatsapp: "5543984081727",
+    email: "",
+    banner: "banners/maromba.jpeg"
   },
   
 
