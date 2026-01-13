@@ -3739,5 +3739,16 @@ const vagas = [
     email: "",
     banner: "banners/clair.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Bordaeiro",
+    empresa: "VErsa",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Bordadeira(o) na Versa Alta Costura.",
+    descricaoModal:"Vaga de emprego para a função de Bordadeira(o) na empresa Versa Alta Costura.",
+    whatsapp: "5543991755730",
+    email: "",
+    banner: "banners/versa.jpeg"
+  },
 
 ];
