@@ -3717,5 +3717,16 @@ const vagas = [
     email: "",
     banner: "banners/aaa.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Instalador de Internet",
+    empresa: "I red",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Instalador de Internet em Londrina, Cambé, Rolândia e Arapongas, oferecendo salário compatível com o mercado e diversos benefícios.",
+    descricaoModal:"Atividades: Instalação e manutenção de internet fibra óptica. Requisitos: Disponibilidade para trabalho em altura e próximo à rede elétrica; CNH B. Remuneração e Benefícios: Salário compatível com o mercado; adicional de periculosidade; produtividade; horas extras; aluguel de veículo (caso não possua, a empresa disponibiliza frota); seguro contra terceiros; auxílio combustível; vale-alimentação (média de R$ 750,00 mensal); plano de saúde coparticipação Unimed; Gympass/Wellhub; descontos em farmácias e universidades. Localização: Vagas para Londrina, Cambé, Rolândia e Arapongas/PR.",
+    whatsapp: "5543984190153",
+    email: "",
+    banner: "banners/net.jpeg"
+  },
 
 ];
