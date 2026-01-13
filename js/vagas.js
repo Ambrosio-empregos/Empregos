@@ -3695,5 +3695,16 @@ const vagas = [
     email: "",
     banner: "banners/12.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Vagas para EMPREENDEDORAS",
+    empresa: "Incrível Store / Romance Favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando com a revenda de moda fitness e lingerie por consignado e sem investimento inicial.",
+    descricaoModal:"Detalhes da Oportunidade: Revenda de moda fitness e lingerie; sistema de consignado; sem necessidade de investimento inicial. Marcas: Invencível Store e Romance Favorita.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/dorass.jpeg"
+  },
 
 ];
