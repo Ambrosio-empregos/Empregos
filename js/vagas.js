@@ -4135,5 +4135,16 @@ const vagas = [
     email: "",
     banner: "banners/enge.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Vendedor(a)",
+    empresa: "Cacau show",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Cacau Show em Londrina, voltada para pessoas comunicativas e com experiência em vendas e metas.",
+    descricaoModal:"Requisitos: Ter 18 anos ou mais; ensino médio completo; conhecimento básico em informática; experiência em vendas, metas e desafios; disponibilidade de horário; ser uma pessoa comunicativa. Localização: Londrina. Empresa: Cacau Show.",
+    whatsapp: "5543999101314",
+    email: "",
+    banner: "banners/cacau.jpeg"
+  },
 
 ];
