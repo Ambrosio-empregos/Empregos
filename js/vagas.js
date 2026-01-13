@@ -4058,5 +4058,16 @@ const vagas = [
     email: "infinitybeer579@gmail.com",
     banner: "banners/tr.jpeg"
   },
+  {
+    data: "2026-01-013",
+    titulo: "Atendente de Conveniência",
+    empresa: "Infinity Beer",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Conveniência no turno diurno na Infinity Beer, zona norte de Londrina, com salário de R$ 2.000,00 e regime CLT.",
+    descricaoModal:"Informações da Vaga: Horário de trabalho das 10h às 18h (com 1h de intervalo); regime de contratação CLT; salário de R$ 2.000,00. Folgas: 01 folga semanal fixa às quartas-feiras e 01 domingo de folga por mês (sempre o quarto domingo). Requisitos Gerais: Sexo masculino; maior de 18 anos; responsabilidade, proatividade e boa comunicação; disponibilidade para o horário informado.",
+    whatsapp: "5543998531432",
+    email: "infinitybeer579@gmail.com",
+    banner: "banners/conve.jpeg"
+  },
 
 ];
