@@ -3916,7 +3916,7 @@ const vagas = [
     banner: "banners/abba.jpeg"
   },
   {
-    data: "2026-01-12", 
+    data: "2026-01-13", 
     titulo: "Atendente de Locação",
     empresa: "",
     cidade: "Londrina",
@@ -3927,7 +3927,7 @@ const vagas = [
     banner: "banners/camm.jpeg"
   },
   {
-    data: "2026-01-12", 
+    data: "2026-01-13", 
     titulo: "Rescisão de Contratos",
     empresa: "",
     cidade: "Londrina",
@@ -3936,6 +3936,17 @@ const vagas = [
     whatsapp: "5543999321975",
     email: "recrutamento.camponesa@gmail.com",
     banner: "banners/resc.jpeg"
+  },
+  {
+    data: "2026-01-13", 
+    titulo: "Corretores com Creci",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para profissionais dinâmicos e comunicativos atuarem como Corretores com CRECI, oferecendo salário fixo, comissionamento e treinamentos.",
+    descricaoModal:"Perfil Desejado: Profissional dinâmico, comunicativo, com bom relacionamento interpessoal e conhecimento em informática. Requisitos: Possuir CRECI; experiência na área comercial; possuir CNH categoria A. Oferece: Salário fixo; ajuda de custo (vale-alimentação e vale-transporte); comissionamento; treinamentos.",
+    whatsapp: "5543999321975",
+    email: "recrutamento.camponesa@gmail.com",
+    banner: "banners/crecir.jpeg"
   },
 
 ];
