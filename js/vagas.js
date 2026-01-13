@@ -3904,5 +3904,16 @@ const vagas = [
     email: "",
     banner: "banners/abba.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Baudelaire Cookies",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Limpeza na Baudelaire Cookies em Londrina, com jornada de segunda a sábado em horário comercial.",
+    descricaoModal:"Responsabilidades: Realizar a limpeza e organização diária da loja (salão, estoque, banheiros e áreas comuns); higienizar pisos, bancadas, equipamentos e utensílios conforme padrões de segurança alimentar; recolher e descartar corretamente resíduos e lixo; reposição de materiais de limpeza e itens de higiene; apoiar na organização do ambiente antes da abertura e após o fechamento da loja; zelar pela conservação do espaço e seguir procedimentos internos de limpeza.",
+    whatsapp: "",
+    email: "baudelairecookieslondrina@gmail.com",
+    banner: "banners/abba.jpeg"
+  },
 
 ];
