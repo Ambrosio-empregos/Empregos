@@ -4348,12 +4348,23 @@ const vagas = [
     data: "2026-01-13",
     titulo: "Promotor Repositor",
     empresa: "TOP Target",
-    cidade: "balneário Camboriú",
+    cidade: "Balneário Camboriú",
     descricao: "Oportunidade para Promotor Repositor em Balneário Camboriú pela Top Target, com salário fixo, VR de R$ 38,00 por dia e benefícios como Gympass.",
     descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 1.998,00; vale refeição de R$ 38,00 por dia; vale transporte conforme roteiro; ajuda de custo para internet e telefone de R$ 40,00 por mês; Gympass; seguro de vida. Horário: Segunda a sexta-feira, das 08:00 às 17:00, e sábados das 08:00 às 12:00. Localização: Balneário Camboriú. Empresa: Top Target Trade Marketing.",
     whatsapp: "5521969790323",
     email: "renan.martins@toptarget.com.br",
     banner: "banners/top.jpeg"
+  },
+  {
+    data: "2026-01-13",
+    titulo: "Vendedor",
+    empresa: "Pipoca Americana",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor no Shopping Avenida Center pela Pipoca Americana, com benefícios como vale alimentação e bonificação por vendas.",
+    descricaoModal:"Oportunidade para Vendedor no Shopping Avenida Center pela Pipoca Americana, com benefícios como vale alimentação e bonificação por vendas.",
+    whatsapp: "5582991872023",
+    email: "",
+    banner: "banners/america.jpeg"
   },
   
 
