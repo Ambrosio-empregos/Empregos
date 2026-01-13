@@ -3728,5 +3728,16 @@ const vagas = [
     email: "",
     banner: "banners/net.jpeg"
   },
+   {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Confeitaria",
+    empresa: "ECLAIR",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Confeitaria na Eclair Garden, com salário de R$ 2.200,00 e folgas fixas às segundas-feiras.",
+    descricaoModal:"Horário e Escala: De terça a sábado, das 10h às 18h30; domingo, das 9h às 17h30; 1h10 de intervalo; folga fixa nas segundas-feiras. Salário e Benefícios: R$ 2.200,00; vale-transporte ou ajuda de custo (R$ 180,00); vale-alimentação (R$ 310,00); 8% de assiduidade; demais benefícios previstos na CLT. Requisito: Currículo obrigatório com foto.",
+    whatsapp: "5543988249361",
+    email: "",
+    banner: "banners/clair.jpeg"
+  },
 
 ];
