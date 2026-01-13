@@ -3741,7 +3741,7 @@ const vagas = [
   },
   {
     data: "2026-01-12", 
-    titulo: "Bordaeiro",
+    titulo: "Bordadeira",
     empresa: "VErsa",
     cidade: "Londrina",
     descricao: "Oportunidade para Bordadeira(o) na Versa Alta Costura.",
@@ -3749,6 +3749,17 @@ const vagas = [
     whatsapp: "5543991755730",
     email: "",
     banner: "banners/versa.jpeg"
+  },
+  {
+    data: "2026-01-12", 
+    titulo: "Telemarketing",
+    empresa: "Rufino",
+    cidade: "Londrina",
+    descricao: "Oportunidade para atuar no setor de Telemarketing, sendo uma vaga aberta para quem busca o primeiro emprego.",
+    descricaoModal:"Requisitos: Pontualidade; boa comunicação; responsabilidade; organização e vontade de aprender. Detalhes: A vaga destaca-se como uma oportunidade de entrada no mercado de trabalho.",
+    whatsapp: "5543988367204",
+    email: "rufinovagas@gmail.com",
+    banner: "banners/rufi.jpeg"
   },
 
 ];
