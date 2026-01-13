@@ -3915,5 +3915,16 @@ const vagas = [
     email: "baudelairecookieslondrina@gmail.com",
     banner: "banners/abba.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente de Locação",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Locação voltada para pessoas dinâmicas e comunicativas, oferecendo salário fixo, ajuda de custo e comissão.",
+    descricaoModal:"Perfil Desejado: Pessoa dinâmica, comunicativa, com bom relacionamento interpessoal, boa digitação e experiência em atendimento ao público. Oferece: Salário fixo; ajuda de custo; comissão.",
+    whatsapp: "5543999676008",
+    email: "recrutamento.camponesa@gmail.com",
+    banner: "banners/camm.jpeg"
+  },
 
 ];
