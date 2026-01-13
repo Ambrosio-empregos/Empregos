@@ -4048,7 +4048,7 @@ const vagas = [
     banner: "banners/tr.jpeg"
   },
   {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Atendimento Noturno",
     empresa: "Infinity Beer",
     cidade: "Londrina",
@@ -4059,7 +4059,7 @@ const vagas = [
     banner: "banners/beer.jpeg"
   },
   {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Atendente de Conveniência",
     empresa: "Infinity Beer",
     cidade: "Londrina",
@@ -4191,7 +4191,7 @@ const vagas = [
     banner: "banners/moto.jpeg"
   },
   {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Atendimento Noturno",
     empresa: "Infinity Beer",
     cidade: "Londrina",
