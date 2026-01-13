@@ -3433,7 +3433,7 @@ const vagas = [
   },
   {
     data: "2026-01-12", 
-    titulo: "Atendente PCD",
+    titulo: "Auxiliar de Limpeza",
     empresa: "Cineflix",
     cidade: "Londrina",
     descricao: "Oportunidade para Auxiliar de Limpeza na Cineflix Cinemas, com escala 6x1, salário de R$ 1.837,50 e diversos benefícios inclusos.",
@@ -3451,7 +3451,7 @@ const vagas = [
     descricaoModal:": Requisitos e Perfil: Boa comunicação; proatividade e iniciativa; gostar de trabalhar com metas e objetivos a serem alcançados. Detalhes: Venha fazer parte da rede de comida mexicana que mais cresce no Brasil. Localização: Londrina/PR.",
     whatsapp: "5543999020965",
     email: "londrina@hermanito.com.br",
-    banner: "banners/limpe.jpeg"
+    banner: "banners/herma.jpeg"
   },
   {
     data: "2026-01-12", 
