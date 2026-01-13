@@ -3926,5 +3926,16 @@ const vagas = [
     email: "recrutamento.camponesa@gmail.com",
     banner: "banners/camm.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Rescisão de Contratos",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade em empresa do segmento imobiliário para atuar com rescisão de contratos, oferecendo salário fixo e pacote de benefícios.",
+    descricaoModal:"Requisitos: Necessário possuir experiência no segmento imobiliário; bom relacionamento interpessoal; conhecimento em informática. Oferece: Salário fixo; ajuda de custo (vale-transporte e vale-alimentação); plano de saúde.",
+    whatsapp: "5543999321975",
+    email: "recrutamento.camponesa@gmail.com",
+    banner: "banners/resc.jpeg"
+  },
 
 ];
