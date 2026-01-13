@@ -4116,13 +4116,24 @@ const vagas = [
   {
     data: "2026-01-13",
     titulo: "Auxiliar de Expedição",
-    empresa: "",
+    empresa: "Engelar",
     cidade: "Londrina",
     descricao: "Oportunidade para Auxiliar de Expedição para atuar com carga, descarga e apoio geral no setor, oferecendo pacote completo de benefícios e Wellhub (Gympass).",
     descricaoModal:"Descrição da Vaga: Auxilia na parte geral do setor de expedição, carga e descarga, seguindo as orientações diretas do líder de expedição. Benefícios: Vale alimentação; auxílio combustível; almoço na empresa; plano de saúde; Wellhub (Gympass); seguro de vida.",
     whatsapp: "5543991140958",
     email: "",
     banner: "banners/expedd.jpeg"
+  },
+  {
+    data: "2026-01-13",
+    titulo: "Alimentador de Linha de Produção",
+    empresa: "Engelar",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Alimentador de Linha de Produção na Engelar, para atuação como auxiliar geral de fábrica com pacote de benefícios incluindo Wellhub (Gympass).",
+    descricaoModal:"Descrição da Vaga: Atuar como auxiliar geral de fábrica, seguindo as solicitações do supervisor direto. Benefícios: Vale alimentação; auxílio combustível; almoço na empresa; plano de saúde (após 3 meses); Wellhub (Gympass); seguro de vida. Horário: Segunda a quinta das 08h às 18h e sexta-feira das 08h às 17h.",
+    whatsapp: "5543991140958",
+    email: "",
+    banner: "banners/enge.jpeg"
   },
 
 ];
