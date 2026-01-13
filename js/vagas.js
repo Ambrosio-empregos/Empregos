@@ -3893,5 +3893,16 @@ const vagas = [
     email: "",
     banner: "banners/ssauro.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Serviços Gerais em Condomínios",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Serviços Gerais em condomínios, oferecendo salário de R$ 1.764,00 mais benefícios e adicional de insalubridade.",
+    descricaoModal:"Requisitos: Experiência em condomínios; conhecimento em produtos de limpeza; disponibilidade para trabalhar aos finais de semana. Benefícios: Salário de R$ 1.764,00; vale-transporte (VT); vale-refeição (VR); adicional de insalubridade.",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/abba.jpeg"
+  },
 
 ];
