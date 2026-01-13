@@ -4036,5 +4036,16 @@ const vagas = [
     email: "",
     banner: "banners/vagaa.jpeg"
   },
+  {
+    data: "2026-01-013",
+    titulo: "Assistente de Cobranças",
+    empresa: "TR Distribuidora de EPI",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Assistente de Cobrança na TR Distribuidora de EPI's, com salário entre R$ 2.200,00 e R$ 2.400,00 e amplo pacote de benefícios.",
+    descricaoModal:"Atribuições: Realizar cobrança ativa de clientes inadimplentes por telefone e e-mail; negociar prazos e condições de pagamento; emitir e enviar boletos e lembretes de vencimento; registrar e atualizar informações no sistema; apoiar rotinas financeiras e administrativas. Requisitos e Competências: Ensino médio completo (superior cursando é diferencial);",
+    whatsapp: "",
+    email: "rh.selecao@trepis.com.br",
+    banner: "banners/tr.jpeg"
+  },
 
 ];
