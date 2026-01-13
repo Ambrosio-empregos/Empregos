@@ -3970,5 +3970,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/bel.jpeg"
   },
+  {
+    data: "2026-01-13", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Belmar",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Londrina/PR para apoio à equipe, preparo de insumos e manutenção da cozinha.",
+    descricaoModal:"Perfil: Profissional comprometido(a), organizado(a) e com vontade de aprender. Atividades: Atuar no apoio à equipe, preparo de insumos e manutenção da cozinha. Benefícios: Salário base; plano de saúde; convênio farmácia; Day off aniversário; refeição na empresa; vale transporte. Localização: Londrina/PR.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/belc.jpeg"
+  },
 
 ];
