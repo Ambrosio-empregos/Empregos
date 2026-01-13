@@ -4454,6 +4454,17 @@ const vagas = [
     email: "",
     banner: "banners/japa.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Gerente",
+    empresa: "Ice Churros",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Gerente com CNH C para viajar com Food Truck da Ice Churros, apresentando ganhos mensais entre R$ 4.500,00 e R$ 5.500,00.",
+    descricaoModal:"Atribuições: Gerenciamento da rotina do food truck e atendimento no caixa. Requisitos Mínimos: CNH categoria C; experiência em atendimento no caixa; disponibilidade total para viajar. Benefícios: Ganhos de R$ 4.500,00 a R$ 5.500,00; alimentação e despesas das viagens pagas pela empresa; Gympass.",
+    whatsapp: "5544991555527",
+    email: "rh@icechurros.com.br",
+    banner: "banners/fode.jpeg"
+  },
   
 
 
