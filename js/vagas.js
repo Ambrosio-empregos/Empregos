@@ -4014,5 +4014,16 @@ const vagas = [
     email: "",
     banner: "banners/tia.jpeg"
   },
+   {
+    data: "2026-01-013",
+    titulo: "Auxiliar Administrativo e RH",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo e RH na Beta Serv, exigindo ensino médio completo e proatividade para rotinas de escritório e atendimento.",
+    descricaoModal:"Requisitos: Ensino médio completo; conhecimento em informática; ser proativa. Atividades: Atendimento telefônico e presencial; recepção e envio de documentos; criação de planilhas e execução de rotinas de RH. Empresa: Beta Serv.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/rhh.jpeg"
+  },
 
 ];
