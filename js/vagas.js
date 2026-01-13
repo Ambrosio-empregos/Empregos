@@ -4095,7 +4095,7 @@ const vagas = [
     data: "2026-01-13",
     titulo: "Serviços Gerais Feminina",
     empresa: "",
-    cidade: "balneário Camboriú",
+    cidade: "Balneário Camboriú",
     descricao: "Vaga disponível para Serviços Gerais (feminina) em Balneário Camboriú, com início imediato para candidatas com experiência em limpezas.",
     descricaoModal:"Requisitos: Necessário possuir experiência em limpezas. Localização: Balneário Camboriú; a candidata deve residir no Centro, Ariribá ou Nações, ou possuir condução própria. Detalhes da Contratação: Regime CLT; início imediato das atividades. Empresa: Higieniza Limpeza e Serviços.",
     whatsapp: "5547996503412",
