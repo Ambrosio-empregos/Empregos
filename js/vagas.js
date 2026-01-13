@@ -4421,6 +4421,17 @@ const vagas = [
     email: "",
     banner: "banners/polii.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Detalhista de Carro",
+    empresa: "Sunset lava Rápido",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Internista / Detalhista de Carros no Lava Rápido Sunset, localizado no Shopping Catuaí em Londrina, voltada para o público feminino com foco em detalhamento interno.",
+    descricaoModal:"Atividades: Limpeza e higienização interna de veículos com foco em detalhamento e qualidade; deixar o interior do carro impecável. Requisitos: Perfil feminino; ser meticulosa e organizada; ter atenção extrema aos detalhes e acabamentos; experiência em limpeza técnica de interiores e estofados",
+    whatsapp: "5543996611827",
+    email: "",
+    banner: "banners/deta.jpeg"
+  },
   
 
 
