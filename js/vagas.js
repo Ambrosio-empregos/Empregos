@@ -4056,7 +4056,7 @@ const vagas = [
     descricaoModal:"Informações da Vaga: Horário de trabalho das 17h às 01h30; regime de contratação CLT; remuneração de R$ 2.200,00 somada ao adicional noturno de R$ 200,00, totalizando R$ 2.400,00 mensais. Folgas: 01 folga semanal fixa às quintas-feiras e 01 domingo de folga por mês. Requisitos: Sexo masculino; maior de 18 anos;",
     whatsapp: "5543998531432",
     email: "infinitybeer579@gmail.com",
-    banner: "banners/tr.jpeg"
+    banner: "banners/beer.jpeg"
   },
   {
     data: "2026-01-013",
