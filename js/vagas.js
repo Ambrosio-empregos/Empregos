@@ -4432,6 +4432,17 @@ const vagas = [
     email: "",
     banner: "banners/deta.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Motorista Entregador",
+    empresa: "Ativa Express",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista Entregador na Ativa Express em Londrina, com salário de R$ 2.416,00 e benefícios, aberta para todos os gêneros.",
+    descricaoModal:"Requisitos e Detalhes: Necessário CNH D com EAR; vínculo efetivo com disponibilidade de escala aos domingos. Salário e Benefícios: Piso da categoria de R$ 2.416,00; vale refeição; vale transporte; horas extras quando necessário. Horário: Segunda a sexta, das 08:00 às 18:00 (com 2 horas de intervalo), e sábados das 08:00 às 12:00. Empresa: Ativa Express (Distribuição de Encomendas). Observação: Vaga destinada ao público masculino e feminino.",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/enha.jpeg"
+  },
   
 
 
