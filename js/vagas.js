@@ -3838,5 +3838,16 @@ const vagas = [
     email: "METALCALHASCAMBE@GMAIL.COM",
     banner: "banners/met.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Consultor de Matrículas",
+    empresa: "EVo Estágios",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor de Cursos em escola profissionalizante no Centro de Londrina, com salário de R$ 1.893,00 mais comissões e benefícios.",
+    descricaoModal:"Atividades: Acompanhar e nutrir leads até o fechamento da matrícula; apoiar campanhas em escolas, feiras, empresas e eventos locais; manter contato com o aluno nos primeiros dias para garantir satisfação. Requisitos: Ensino Médio completo; experiência na área; responsabilidade; boa comunicação e persuasão; proatividade. Remuneração e Benefícios: Salário de R$ 1.893,00 + comissão; vale-transporte de R$ 11,50/dia; vale-alimentação de R$ 467,45.",
+    whatsapp: "5543996178841",
+    email: "",
+    banner: "banners/evo.jpeg"
+  },
 
 ];
