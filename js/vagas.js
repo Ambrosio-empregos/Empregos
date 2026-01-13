@@ -4190,5 +4190,16 @@ const vagas = [
     email: "",
     banner: "banners/moto.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "VEndas",
+    empresa: "BE Make",
+    cidade: "Maringá",
+    descricao: "Oportunidade para a área de vendas na Be Make em Maringá (Zona 1), com horário comercial e benefícios como vale alimentação e auxílio saúde.",
+    descricaoModal:"Requisitos: Pessoa empática, solícita, comunicativa, proativa, organizada, gentil, paciente e determinada. Detalhes: Horário comercial; salário compatível com o comércio local. Benefícios: Vale transporte; vale alimentação; auxílio saúde.",
+    whatsapp: "5544991007320",
+    email: "",
+    banner: "banners/make.jpeg"
+  },
 
 ];
