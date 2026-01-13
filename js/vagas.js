@@ -4300,6 +4300,17 @@ const vagas = [
     email: "",
     banner: "banners/bluem.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Catrino",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Catarino Steakhouse & Burguer, com salário de até R$ 2.800,00 e início imediato sob regime CLT.",
+    descricaoModal:"Benefícios: Salário entre R$ 1.980,00 e R$ 2.800,00; vale alimentação; vale transporte; assiduidade; adicional noturno de 10%. Detalhes da Vaga: Horário das 15h às 23:20h; regime CLT; início imediato. Empresa: Catarino Steakhouse & Burguer.",
+    whatsapp: "5543988641863",
+    email: "",
+    banner: "banners/catrino.jpeg"
+  },
   
 
 
