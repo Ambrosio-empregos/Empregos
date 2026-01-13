@@ -3849,5 +3849,16 @@ const vagas = [
     email: "",
     banner: "banners/evo.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Assistente de Compras",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; portunidade para Assistente de Compras responsável por auxiliar no processo de aquisição de materiais e serviços, exigindo ensino médio e experiência na área.",
+    descricaoModal:"Responsabilidades: Auxiliar na cotação de preços; acompanhar pedidos de compra; realizar controle de estoque; participar de negociações e elaborar relatórios de desempenho. Requisitos: Ensino Médio completo; experiência anterior na área de compras; bom relacionamento interpessoal; boa comunicação; capacidade de planejamento e definição de prioridades; administração de tempo; adaptabilidade e flexibilidade. Habilidades Técnicas: Conhecimento em ERP e/ou sistemas de compras; Excel intermediário ou avançado; técnicas de vendas e negociação.",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/compras.jpeg"
+  },
 
 ];
