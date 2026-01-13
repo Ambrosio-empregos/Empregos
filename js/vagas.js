@@ -3706,5 +3706,16 @@ const vagas = [
     email: "",
     banner: "banners/dorass.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Atendente",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente com escala 6x1 e domingos alternados, oferecendo salário de R$ 2.058,00 e vale-alimentação de R$ 550,00.",
+    descricaoModal:"Responsabilidades: Atendimento cordial a clientes via telefone, WhatsApp e presencial; cadastro de novos clientes; emissão de notas fiscais; organização de logística de entregas e acompanhamento de rastreio; suporte a motoristas e controle de demandas; realização de televendas e atendimento ativo. Requisitos: Ensino médio completo; experiência com atendimento ao cliente e vendas; conhecimento avançado em informática e Excel; capacidade de organização logística e agilidade multitarefas; boa comunicação, dinamismo e foco em resultados; desejável possuir veículo próprio para deslocamentos ocasionais. Benefícios: Salário de R$ 2.058,00; vale-transporte; vale-alimentação de R$ 550,00. Horário e Escala: Das 09h00 às 15h00 ou outro horário a definir; escala 6x1 com domingos alternados.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/aaa.jpeg"
+  },
 
 ];
