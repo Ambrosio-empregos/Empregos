@@ -4267,6 +4267,17 @@ const vagas = [
     email: "",
     banner: "banners/glebas.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "VEndedor(A)",
+    empresa: "L'Occitane au Brésil",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na L'Occitane au Brésil, voltada para candidatos com facilidade no atendimento ao cliente e disponibilidade para trabalhar em shopping.",
+    descricaoModal:"Requisitos: Disponibilidade de horário para trabalhar em Shopping; facilidade em atendimento ao cliente. Diferencial: Experiência prévia com vendas no varejo. Empresa: L'Occitane au Brésil.",
+    whatsapp: "5543991218776",
+    email: "",
+    banner: "banners/glebas.jpeg"
+  },
   
 
 
