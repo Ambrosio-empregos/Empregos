@@ -4157,5 +4157,27 @@ const vagas = [
     email: "",
     banner: "banners/drean.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Cozinheira",
+    empresa: "JL Pizzaria e Costelaria",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Cozinheira na JL Pizzaria e Costelaria em Maringá-PR, com início imediato para o turno da manhã e escala 6x1.",
+    descricaoModal:"Responsabilidades: Organização, limpeza e conservação da cozinha; montagem do buffet; manuseio de fritadeiras. Requisitos: Desejável experiência como cozinheira, agilidade e proatividade.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/jll.jpeg"
+  },
+  {
+    data: "2026-01-13",
+    titulo: "Pizzailo",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Pizzaiolo em Maringá-PR, com salário mais bonificação e alimentação no local para atuação no período noturno.",
+    descricaoModal:"Atividades: Saber fazer toda a produção necessária; bolear a massa; abrir massa; fornear as pizzas; saber cortar para rodízio.",
+    whatsapp: "5544998581395",
+    email: "",
+    banner: "banners/zai.jpeg"
+  },
 
 ];
