@@ -3684,5 +3684,16 @@ const vagas = [
     email: "rh@fortcon.com.br",
     banner: "banners/conta.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Salgadeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para homens com experiência nas funções de Salgadeiro, Pizzaiolo ou Padeiro, com salário de R$ 3.500,00 mais vale-transporte.",
+    descricaoModal:"Requisitos: Alguém que tenha experiência em alguma dessas funções (Salgadeiro, Pizzaiolo ou Padeiro); vaga destinada para homens. Horário: De segunda a sábado, das 7h às 17h. Salário e Benefícios: R$ 3.500,00 + vale-transporte.",
+    whatsapp: "5543999200044",
+    email: "",
+    banner: "banners/12.jpeg"
+  },
 
 ];
