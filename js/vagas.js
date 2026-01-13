@@ -4212,5 +4212,16 @@ const vagas = [
     email: "",
     banner: "banners/hadara.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Auxiliar de Limpeza Feminino",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade temporária para Auxiliar de Limpeza feminina em Londrina, com jornada de segunda a sábado em horário reduzido.",
+    descricaoModal:"Requisitos: Experiência na área da limpeza; idade acima de 35 anos; residir em Londrina. Detalhes da Vaga: Função de Auxiliar de Limpeza feminina temporária com registro em carteira; escala de segunda a sábado; horário das 08h às 15h.",
+    whatsapp: "5543998369305",
+    email: "",
+    banner: "banners/nuc.jpeg"
+  },
 
 ];
