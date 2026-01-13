@@ -4443,6 +4443,17 @@ const vagas = [
     email: "",
     banner: "banners/enha.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Auxiliar de Sushiman",
+    empresa: "Angico Restaurante",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Sushiman no Angico Restaurante em Londrina - PR, voltada para residentes da região.",
+    descricaoModal:"Requisitos: Necessário residir em Londrina - PR. Empresa: Angico Restaurante. Localização: Londrina - PR.",
+    whatsapp: "554333247007",
+    email: "",
+    banner: "banners/japa.jpeg"
+  },
   
 
 
