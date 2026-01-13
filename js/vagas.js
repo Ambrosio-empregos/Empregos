@@ -4278,6 +4278,17 @@ const vagas = [
     email: "",
     banner: "banners/glebas.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Consultor(A) de Vendas",
+    empresa: "Tex 3",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas em Londrina - PR na Tex 3, com potencial de ganho superior a R$ 3.500,00 e diversos benefícios corporativos.",
+    descricaoModal:"Benefícios e Detalhes: Salário compatível mais premiação por vendas; potencial de ganho superior a R$ 3.500,00; auxílio alimentação (iFood Benefícios) e mobilidade; Wellhub; Starbem; campanhas de incentivo como a 'Sexta Fire' (folga na sexta-feira à tarde); convênio educacional com Anhanguera/Unopar.",
+    whatsapp: "5543991188189",
+    email: "julia.rh@tex3digital.com.br",
+    banner: "banners/tex3.jpeg"
+  },
   
 
 
