@@ -3816,5 +3816,16 @@ const vagas = [
     email: "",
     banner: "banners/go.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Faturista",
+    empresa: "MP3 Imports",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Faturista na MP3 Imports em Londrina, exigindo ensino médio completo e experiência com emissão de notas fiscais.",
+    descricaoModal:"Requisitos: Ensino médio completo (superior ou técnico na área será um diferencial); experiência com emissão de notas fiscais e rotinas de faturamento; habilidade com sistemas de gestão e Excel. Atividades: Emissão e conferência de notas fiscais; lançamento de informações em sistemas internos; atendimento a clientes e fornecedores para questões fiscais. Benefícios: Cesta básica; cesta de limpeza; plano de saúde; plano odontológico; convênio com farmácia; convênio com a loja; convênio com faculdade; área de convivência; regime CLT; Day off aniversário.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/mp3.jpeg"
+  },
 
 ];
