@@ -3981,5 +3981,16 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/belc.jpeg"
   },
+   {
+    data: "2026-01-13", 
+    titulo: "Vendedora",
+    empresa: "Billie",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na loja Billie, com vagas disponíveis para o Centro e para os shoppings Catuaí e Aurora em Londrina.",
+    descricaoModal:"Locais e Horários: Unidade Centro com horário das 09h às 18h; unidades de Shopping (Catuaí e Aurora) com horário das 16h às 22h. Candidatura: Interessadas podem deixar o currículo diretamente na loja.",
+    whatsapp: "5543999610289",
+    email: "",
+    banner: "banners/billiee.jpeg"
+  },
 
 ];
