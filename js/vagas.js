@@ -4102,5 +4102,16 @@ const vagas = [
     email: "",
     banner: "banners/femii.jpeg"
   },
+   {
+    data: "2026-01-13",
+    titulo: "Barbeiro",
+    empresa: "FM Barbearia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Barbeiro no Shopping Boulevard, voltada para profissionais com experiência comprovada que buscam formação de clientela e ótimos ganhos.",
+    descricaoModal:"Requisitos: Experiência comprovada na função e disponibilidade de horários. Diferenciais: Excelente oportunidade para formação de clientela e perspectiva de ótimos ganhos em unidade localizada no Shopping Boulevard. Empresa: FM Barbearia.",
+    whatsapp: "554333443090",
+    email: "",
+    banner: "banners/barbe.jpeg"
+  },
 
 ];
