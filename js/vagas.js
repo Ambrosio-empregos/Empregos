@@ -3860,5 +3860,16 @@ const vagas = [
     email: "recrutamentoconsig2026@gmail.com",
     banner: "banners/compras.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Assistente/ Analista de Departamento Pessoal",
+    empresa: "Consig RH",
+    cidade: "Cambé",
+    descricao: "APENAS EMAIL; Oportunidade para Assistente ou Analista de Departamento Pessoal em Cambé/PR, com salário entre R$ 2.500,00 e R$ 4.200,00 e diversos benefícios.",
+    descricaoModal:"Principais Atividades: Atendimento e orientação a clientes por telefone e WhatsApp; controle de prazos, regularizações e entrega de declarações acessórias do DP; execução completa das rotinas de Departamento Pessoal, incluindo admissões, demissões, férias, folha de pagamento, encargos trabalhistas e eSocial. Requisitos: Experiência anterior em escritório de contabilidade; conhecimento em legislação trabalhista e previdenciária; desejável experiência no sistema Domínio; estar cursando ou ter formação em Administração, RH ou Ciências Contábeis. Salário e Benefícios: R$ 2.500,00 a R$ 4.200,00; vale-alimentação; vale-transporte (desconto de apenas 0,5%); plano de saúde; plano odontológico; Day Off; plano de carreira estruturado.",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/consi.jpeg"
+  },
 
 ];
