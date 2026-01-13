@@ -3783,5 +3783,16 @@ const vagas = [
     email: "",
     banner: "banners/fnb.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Polidor Automotivo",
+    empresa: "FNB Funilaria e pintura",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Polidor Automotivo na FNB Funilaria e Pintura, com jornada de trabalho de segunda a sexta e registro em carteira.",
+    descricaoModal:"Detalhes da Contratação: Vaga com registro em carteira e benefícios. Carga Horária: Das 08h00 às 18h00, de segunda a sexta-feira. Empresa: FNB Funilaria e Pintura.",
+    whatsapp: "5543988163210",
+    email: "",
+    banner: "banners/polis.jpeg"
+  },
 
 ];
