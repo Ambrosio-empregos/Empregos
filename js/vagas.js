@@ -4289,6 +4289,17 @@ const vagas = [
     email: "julia.rh@tex3digital.com.br",
     banner: "banners/tex3.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Vendedora",
+    empresa: "B L U M E  S T O R E",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Blume Store em Londrina, voltada para profissionais que gostam de moda e possuem habilidades com redes sociais.",
+    descricaoModal:"Requisitos: Maior de 18 anos; proatividade; gostar de moda; ter habilidades em redes sociais; disponibilidade de horário. Empresa: Blume Store.",
+    whatsapp: "5543991412262",
+    email: "",
+    banner: "banners/bluem.jpeg"
+  },
   
 
 
