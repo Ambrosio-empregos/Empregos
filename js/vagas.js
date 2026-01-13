@@ -3993,7 +3993,7 @@ const vagas = [
     banner: "banners/billiee.jpeg"
   },
   {
-    data: "2026-01-06",
+    data: "2026-01-13",
     titulo: "Salgadeiro",
     empresa: "empresa não identificada",
     cidade: "Londrina",
@@ -4002,6 +4002,17 @@ const vagas = [
     whatsapp: "5543999200044",
     email: "",
     banner: "banners/homi.jpeg"
+  },
+   {
+    data: "2026-01-013",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha na região da Gleba Palhano, com jornada de segunda a sexta-feira e salário a combinar.",
+    descricaoModal:"Requisitos: Experiência comprovada; agilidade e destreza; facilidade de aprendizagem; organização; habilidade de trabalhar em equipe; comunicação clara e objetiva. Detalhes: Horário de segunda a sexta-feira; localização na Gleba Palhano; salário a combinar.",
+    whatsapp: "5543991009513",
+    email: "",
+    banner: "banners/tia.jpeg"
   },
 
 ];
