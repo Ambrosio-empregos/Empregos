@@ -4004,7 +4004,7 @@ const vagas = [
     banner: "banners/homi.jpeg"
   },
    {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Auxiliar de Cozinha",
     empresa: "empresa não identificada",
     cidade: "Londrina",
@@ -4015,7 +4015,7 @@ const vagas = [
     banner: "banners/tia.jpeg"
   },
    {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Auxiliar Administrativo e RH",
     empresa: "Beta Serv",
     cidade: "Londrina",
@@ -4026,7 +4026,7 @@ const vagas = [
     banner: "banners/rhh.jpeg"
   },
   {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Consultor(a) de Vendas",
     empresa: "Inove Line",
     cidade: "Londrina",
@@ -4037,7 +4037,7 @@ const vagas = [
     banner: "banners/vagaa.jpeg"
   },
   {
-    data: "2026-01-013",
+    data: "2026-01-13",
     titulo: "Assistente de Cobranças",
     empresa: "TR Distribuidora de EPI",
     cidade: "Londrina",
@@ -4180,28 +4180,6 @@ const vagas = [
     banner: "banners/zai.jpeg"
   },
   {
-    data: "2026-01-13",
-    titulo: "Vendedor de motos semi novas",
-    empresa: "Moto Car",
-    cidade: "Maringá",
-    descricao: "Oportunidade para Vendedor de Motos Seminovas em Maringá/PR na Motocar Honda, com entrevistas presenciais agendadas para o dia 14 de janeiro.",
-    descricaoModal:"Detalhes: Início em 2026 na maior rede Honda do Paraná; as entrevistas ocorrerão de forma presencial no dia 14 de janeiro. Localização: Maringá/PR. Empresa: Motocar Honda.",
-    whatsapp: "554133153699",
-    email: "",
-    banner: "banners/moto.jpeg"
-  },
-  {
-    data: "2026-01-13",
-    titulo: "Atendimento Noturno",
-    empresa: "Infinity Beer",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Atendente de Conveniência no turno noturno na Infinity Beer, zona norte de Londrina, com salário total de R$ 2.400,00.",
-    descricaoModal:"Informações da Vaga: Horário de trabalho das 17h às 01h30; regime de contratação CLT; remuneração de R$ 2.200,00 somada ao adicional noturno de R$ 200,00, totalizando R$ 2.400,00 mensais. Folgas: 01 folga semanal fixa às quintas-feiras e 01 domingo de folga por mês. Requisitos: Sexo masculino; maior de 18 anos;",
-    whatsapp: "5543998531432",
-    email: "infinitybeer579@gmail.com",
-    banner: "banners/beer.jpeg"
-  },
-   {
     data: "2026-01-13",
     titulo: "Vendedor de motos semi novas",
     empresa: "Moto Car",
