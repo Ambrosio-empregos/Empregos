@@ -4399,6 +4399,17 @@ const vagas = [
     email: "",
     banner: "banners/aço.jpeg"
   },
+  {
+    data: "2026-01-13",
+    titulo: "Lavador de Veículos",
+    empresa: "Sunset lava Rápido",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Lavador de Veículos no Sunset lava rápido, localizado no Shopping Catuaí em Londrina, com remuneração de R$ 2.300,00 e início imediato.",
+    descricaoModal:"Atividades: Realizar a lavagem completa de veículos (parte externa e, quando necessário, interna); aplicar produtos adequados, seguindo normas de segurança e preservação; executar acabamento final, garantindo excelente apresentação do veículo; manter o ambiente de trabalho limpo e organizado; zelar pelos equipamentos utilizados.",
+    whatsapp: "5543996611827",
+    email: "",
+    banner: "banners/veic.jpeg"
+  },
   
 
 
