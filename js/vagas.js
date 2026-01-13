@@ -3871,5 +3871,16 @@ const vagas = [
     email: "recrutamentoconsig2026@gmail.com",
     banner: "banners/consi.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Assistente e Analista Fiscal",
+    empresa: "Consig RH",
+    cidade: "Cambé",
+    descricao: "APENAS EMAIL; Oportunidade para Assistente e Analista Fiscal em Cambé/PR, com salário entre R$ 3.000,00 e R$ 4.200,00 e diversos benefícios.",
+    descricaoModal:"Atividades Principais: Orientar clientes por telefone e WhatsApp; realizar apuração de impostos (Simples Nacional, Lucro Presumido e Real); executar toda a rotina do setor fiscal, incluindo emissão de notas, apurações e entrega de declarações acessórias.",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/asf.jpeg"
+  },
 
 ];
