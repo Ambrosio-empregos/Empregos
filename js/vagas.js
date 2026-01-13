@@ -4333,6 +4333,17 @@ const vagas = [
     email: "",
     banner: "banners/hotell.jpeg"
   },
+   {
+    data: "2026-01-13",
+    titulo: "Garçom/Garçonete",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Garçom ou Garçonete em hotel, com salário de R$ 2.097,32 e benefícios como Unimed participativo após o período de experiência.",
+    descricaoModal:"Detalhes da Vaga: Horário das 14:40 às 23:00 horas; salário de R$ 2.097,32. Requisitos: Experiência em atendimento ao público. Benefícios: Vale Alimentação de R$ 310,00; Unimed Participativo após o período de experiência.",
+    whatsapp: "554330268434",
+    email: "",
+    banner: "banners/hoteel.jpeg"
+  },
   
 
 
