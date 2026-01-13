@@ -4455,7 +4455,7 @@ const vagas = [
     banner: "banners/japa.jpeg"
   },
   {
-    data: "2026-01-12", 
+    data: "2026-01-13", 
     titulo: "Gerente",
     empresa: "Ice Churros",
     cidade: "Maringá",
@@ -4464,6 +4464,17 @@ const vagas = [
     whatsapp: "5544991555527",
     email: "rh@icechurros.com.br",
     banner: "banners/fode.jpeg"
+  },
+  {
+    data: "2026-01-13", 
+    titulo: "Instrutor de Informática e Administração",
+    empresa: "Cebrac",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Instrutor de Informática e Administração no Cebrac em Arapongas, com contratação sob regime CLT para profissionais com disponibilidade de horário tarde e noite.",
+    descricaoModal:"Requisitos e Qualificações: Boa comunicação e proatividade; conhecimento em informática (Pacote Office e Ferramentas Online); conhecimento em administração (Comunicação, Rotinas Administrativas e Financeiras); experiência com aulas ou na área administrativa é considerada um diferencial. Detalhes da Vaga: Contratação CLT; disponibilidade para o horário da tarde até a noite.",
+    whatsapp: "5545999664809",
+    email: "",
+    banner: "banners/cebrac.jpeg"
   },
   
 
