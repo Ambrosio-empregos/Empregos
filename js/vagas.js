@@ -3959,5 +3959,16 @@ const vagas = [
     email: "recrutamento.camponesa@gmail.com",
     banner: "banners/ria.jpeg"
   },
+  {
+    data: "2026-01-13", 
+    titulo: "Auxiliar de Sushiman",
+    empresa: "Belmar",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Sushiman em Londrina/PR para apoio no preparo de pratos japoneses, organização de bancada e cumprimento de padrões de higiene.",
+    descricaoModal:"Atividades: Apoio no preparo de pratos japoneses, organização da bancada e cumprimento dos padrões de higiene e qualidade. Benefícios: Salário base; plano de saúde; convênio farmácia; Day off aniversário; refeição na empresa; vale transporte. Empresa: Belmar Cozinha Japonesa. Localização: Londrina/PR.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/bel.jpeg"
+  },
 
 ];
