@@ -4201,5 +4201,16 @@ const vagas = [
     email: "infinitybeer579@gmail.com",
     banner: "banners/beer.jpeg"
   },
+   {
+    data: "2026-01-13",
+    titulo: "Vendedor de motos semi novas",
+    empresa: "Moto Car",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor de Motos Seminovas em Maringá/PR na Motocar Honda, com entrevistas presenciais agendadas para o dia 14 de janeiro.",
+    descricaoModal:"Detalhes: Início em 2026 na maior rede Honda do Paraná; as entrevistas ocorrerão de forma presencial no dia 14 de janeiro. Localização: Maringá/PR. Empresa: Motocar Honda.",
+    whatsapp: "554133153699",
+    email: "",
+    banner: "banners/moto.jpeg"
+  },
 
 ];
