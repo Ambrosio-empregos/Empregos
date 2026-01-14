@@ -5147,6 +5147,17 @@ const vagas = [
     email: "DBR.FERRAGENS@GMAIL.COM",
     banner: "banners/dbr.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha destinada a profissionais com experiência na função e ensino médio completo, valorizando o trabalho em equipe e a vontade de aprender.",
+    descricaoModal:"Pré-requisitos: Experiência na função; ensino médio completo; capacidade de trabalhar em equipe; vontade de aprender.",
+    whatsapp: "5543991673152",
+    email: "",
+    banner: "banners/31.jpeg"
+  },
 
 
 ];
