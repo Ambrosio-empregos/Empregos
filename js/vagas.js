@@ -4881,7 +4881,7 @@ const vagas = [
     descricaoModal:"Requisitos: Boa comunicação e organização; necessário conhecimento em Excel; perfil responsável e dinâmico. Benefícios Exclusivos: Salário fixo; vale-refeição; bônus assiduidade; seguro de vida; plano de saúde e plano odontológico; convênio farmácia; plano de carreira; Totalpass; Day-Off; home office aos sábados.",
     whatsapp: "5543988806060",
     email: "rh@prismaservicepr.com.br",
-    banner: "banners/maar.jpeg"
+    banner: "banners/prisma.jpeg"
   },
   {
     data: "2026-01-14",
