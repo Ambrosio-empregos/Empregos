@@ -5004,6 +5004,17 @@ const vagas = [
     email: "",
     banner: "banners/iago.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Vendedor Externo",
+    empresa: "Ictus Pescado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Externo na ICTUS Pescado, oferecendo salário de R$ 1.800,00 mais benefícios como vale alimentação de R$ 600,00 e comissão.",
+    descricaoModal:"Requisitos: Acima de 18 anos; 2º grau completo; saber usar WhatsApp; conhecimento básico do pacote office (Word/Excel); possuir veículo próprio (preferencialmente moto); vaga para ambos os sexos.",
+    whatsapp: "5543999414063",
+    email: "",
+    banner: "banners/ictus.jpeg"
+  },
   
 
 
