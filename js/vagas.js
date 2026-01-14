@@ -5134,7 +5134,18 @@ const vagas = [
     descricaoModal:"Informações da Vaga: Atuação no ramo de metalúrgica; horário de trabalho de segunda a sexta, das 08:00 às 18:00. Requisitos: Necessário experiência na área de programação de torno CNC. Benefícios: Salário a combinar; vale alimentação.",
     whatsapp: "554330244114",
     email: "DBR.FERRAGENS@GMAIL.COM",
-    banner: "banners/enfer.jpeg"
+    banner: "banners/programa.jpeg"
+  },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar de Produção",
+    empresa: "DBR",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção no ramo de metalúrgica em Londrina, PR, com horário de segunda a sexta, das 08h00 às 18h00, sem exigência de experiência anterior.",
+    descricaoModal:"Informações da Vaga: Atuação no ramo de metalúrgica; horário de trabalho de segunda a sexta, das 08:00 às 18:00. Requisitos: Não é necessário ter experiência anterior na função. Benefícios: Salário a combinar; vale alimentação.",
+    whatsapp: "554330244114",
+    email: "DBR.FERRAGENS@GMAIL.COM",
+    banner: "banners/dbr.jpeg"
   },
 
 
