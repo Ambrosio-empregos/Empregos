@@ -4982,6 +4982,17 @@ const vagas = [
     email: "",
     banner: "banners/guave.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Técnico de Manutenção",
+    empresa: "Unimed",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Técnico de Manutenção - Encanador no Hospital Unimed Londrina, com jornada de trabalho de segunda a sábado e vaga disponível também para pessoas com deficiência.",
+    descricaoModal:"Requisitos: Ensino Médio Completo; Curso Técnico/Profissionalizante em Encanamento ou Hidráulica; Conhecimento em NR-35; Experiência como encanador, preferencialmente em ambientes hospitalares, industriais ou comerciais de grande porte. Diferencial: Leitura e interpretação de plantas hidráulicas;",
+    whatsapp: "",
+    email: "",
+    banner: "banners/unimed.jpeg"
+  },
 
 
 ];
