@@ -4927,6 +4927,17 @@ const vagas = [
     email: "",
     banner: "banners/tolon.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Acessor de Loja",
+    empresa: "Todimo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Todimo em Londrina, Unidade Av. Tiradentes, com recrutamento realizado pela Gestão de Pessoas Todimo.",
+    descricaoModal:"A Todimo está com vaga aberta para a função de Acessor de Loja. Localização: Unidade Av. Tiradentes, 1181 - Jardim Shangri-Lá A, Londrina. Empresa: Todimo (Gestão de Pessoas - Construindo Talentos).",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/toace.jpeg"
+  },
 
 
 ];
