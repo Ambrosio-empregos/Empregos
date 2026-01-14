@@ -4504,7 +4504,7 @@ const vagas = [
     empresa: "Moto Car",
     cidade: "Maringá",
     descricao: "Oportunidade para Vendedor Externo em Maringá/PR na maior rede Honda do Paraná, com entrevistas presenciais nos dias 14 e 15 de janeiro de 2026.",
-    descricaoModal:"Detalhes da Vaga: Processo seletivo para início em 2026; as entrevistas presenciais ocorrerão exclusivamente nos dias 14 e 15 de janeiro. Empresa: Honda Motocar. Localização: Maringá/PR.",
+    descricaoModal:"Detalhes da Vaga: Processo seletivo para início em 2026; as entrevistas presenciais ocorrerão exclusivamente nos dias 14 e 15 de janeiro. Empresa: Honda Motocar. Localização: Maringá/PR..",
     whatsapp: "554135153610",
     email: "",
     banner: "banners/car.jpeg"
