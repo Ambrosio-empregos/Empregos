@@ -4839,6 +4839,17 @@ const vagas = [
     email: "",
     banner: "banners/vita.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Vendedor(a)",
+    empresa: "columbia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Columbia Sportswear, localizada no Shopping Catuaí em Londrina – PR.",
+    descricaoModal:"A Columbia Sportswear está contratando profissionais para a posição de Vendedor(a). Unidade: Shopping Catuaí Londrina.",
+    whatsapp: "5543999317216",
+    email: "",
+    banner: "banners/catua.jpeg"
+  },
   
 
 
