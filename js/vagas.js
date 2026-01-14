@@ -5158,6 +5158,17 @@ const vagas = [
     email: "",
     banner: "banners/31.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Vendedor(a)",
+    empresa: "EletroControles",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na EletroControles em Londrina / PR, destinada a profissionais com perfil comunicativo e formação técnica ou superior em áreas de engenharia e elétrica.",
+    descricaoModal:"equisitos: Técnico eletrotécnica, eletrônica ou áreas correlatas (concluído ou cursando); cursando engenharia; perfil comunicativo, dinâmico e proativo. Desejável: Conhecimento em materiais elétricos e comandos elétricos.",
+    whatsapp: "554333241678",
+    email: "contato@eletrocontroles.com.br",
+    banner: "banners/eletro.jpeg"
+  },
 
 
 ];
