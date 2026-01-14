@@ -4564,6 +4564,17 @@ const vagas = [
     email: "vagas@remateweb.com",
     banner: "banners/web.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Assistente Fiscal",
+    empresa: "Ativa Store",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Fiscal na Ativa Store em Londrina/PR, com regime CLT e pacote de benefícios que inclui cestas básica e de limpeza, além de planos de saúde e odontológico.",
+    descricaoModal:"Requisitos: Ensino superior completo ou em andamento em Ciências Contábeis; atenção aos detalhes; conhecimento intermediário em sistema de gestão (ERP), legislação tributária e Excel. Atividades: Emissão de Notas fiscais e Conhecimento de Frete; lançamentos e conferência dos dados de notas fiscais/conhecimento de frete e geração de financeiro;",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/ofe.jpeg"
+  },
   
 
 
