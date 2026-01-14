@@ -3267,7 +3267,7 @@ const vagas = [
     banner: "banners/rola.jpeg"
   },
    {
-    data: "2026-01-12", 
+    data: "2026-01-14", 
     titulo: "Auxiliar de Cozinha",
     empresa: "Hera - Café Saudável",
     cidade: "Londrina",
