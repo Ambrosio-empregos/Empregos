@@ -5224,6 +5224,17 @@ const vagas = [
     email: "",
     banner: "banners/92.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Preparador Automotivo",
+    empresa: "Rota 92",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Preparador Automotivo na Rota92 Funilaria e Pintura, buscando novos talentos para integrar a equipe de especialistas da oficina.",
+    descricaoModal:"Perfil: Procuramos pessoas responsáveis, comprometidas e que queiram crescer junto com a gente. Vaga: Preparador Automotivo. Empresa: Rota92 Funilaria e Pintura – Especialistas em devolver o brilho do seu carro.",
+    whatsapp: "5543984030314",
+    email: "",
+    banner: "banners/922.jpeg"
+  },
 
 
 ];
