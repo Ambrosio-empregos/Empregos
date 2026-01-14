@@ -4762,6 +4762,17 @@ const vagas = [
     email: "financeniro@pesenti.com.br",
     banner: "banners/pese.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Produção",
+    empresa: "Pesenti",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Produção na Pesenti Smart Farming em Londrina - PR, com salário compatível, benefícios e jornada de trabalho em horário comercial.",
+    descricaoModal:"Atividades: Auxiliar na linha de produção; montagem, embalagem e etiquetagem de produtos; separação e organização de mercadorias; controle de qualidade dos produtos; manutenção da limpeza e organização do ambiente de trabalho.",
+    whatsapp: "",
+    email: "financeniro@pesenti.com.br",
+    banner: "banners/perse.jpeg"
+  },
   
 
 
