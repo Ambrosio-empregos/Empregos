@@ -5213,6 +5213,17 @@ const vagas = [
     email: "",
     banner: "banners/funi.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxilar Geral",
+    empresa: "Rota 92",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Geral na oficina Rota92 Funilaria e Pintura, buscando profissionais responsáveis, comprometidos e que busquem crescimento profissional.",
+    descricaoModal:"Perfil: Procuramos pessoas responsáveis, comprometidas e que queiram crescer junto com a gente. Vaga: Auxiliar Geral. Empresa: Rota92 Funilaria e Pintura – Especialistas em devolver o brilho do seu carro.",
+    whatsapp: "5543984030314",
+    email: "",
+    banner: "banners/92.jpeg"
+  },
 
 
 ];
