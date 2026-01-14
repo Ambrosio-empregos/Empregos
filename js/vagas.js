@@ -5207,9 +5207,9 @@ const vagas = [
     titulo: "Funileiro",
     empresa: "Rota 92",
     cidade: "Londrina",
-    descricao: "",
-    descricaoModal:"",
-    whatsapp: "",
+    descricao: "Oportunidade para Funileiro na oficina Rota92 Funilaria e Pintura, buscando profissionais responsáveis, comprometidos e com desejo de crescimento.",
+    descricaoModal:"Perfil: Procuramos pessoas responsáveis, comprometidas e que queiram crescer junto com a gente. Vaga: Funileiro. Empresa: Rota92 Funilaria e Pintura – Especialistas em devolver o brilho do seu carro.",
+    whatsapp: "5543984030314",
     email: "",
     banner: "banners/funi.jpeg"
   },
