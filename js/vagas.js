@@ -5114,6 +5114,17 @@ const vagas = [
     email: "",
     banner: "banners/gra.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Enfermeira Home care",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Enfermeira Home Care (PJ) com horário de trabalho de segunda a sexta, das 08h00 às 18h00, exigindo superior completo e registro ativo no COREN.",
+    descricaoModal:"Responsabilidades: Realizar visitas de enfermagem em domicílio e hospitais; supervisionar equipe de técnicos e cuidadores; elaborar escalas de trabalho; monitorar prazos e rotinas assistenciais; avaliar ambiente domiciliar; prestar suporte às famílias; treinar equipes; auxiliar em orçamentos e controle de estoque; apoiar processos de seleção e gestão de contratos; prestar suporte via telefone e participar de reuniões.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/enfer.jpeg"
+  },
 
 
 ];
