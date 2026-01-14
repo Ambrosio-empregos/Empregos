@@ -4773,6 +4773,17 @@ const vagas = [
     email: "financeniro@pesenti.com.br",
     banner: "banners/perse.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Consultora de Vendas",
+    empresa: "KIDS",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultora de Vendas na Concept Kids & Teen, voltada para profissionais que amam o universo infantil e possuem experiência em atendimento presencial e online.",
+    descricaoModal:"Perfil Desejado: Profissional que ame o universo infantil e teen; experiência em atendimento presencial e online; interesse em fazer parte de uma equipe que valoriza o estilo e o carinho no atendimento aos pequenos e jovens. Empresa: Concept Kids & Teen.",
+    whatsapp: "5543991407646",
+    email: "",
+    banner: "banners/kids.jpeg"
+  },
   
 
 
