@@ -2666,7 +2666,7 @@ const vagas = [
     titulo: "Vendedor",
     empresa: "Todimo",
     cidade: "Londrina",
-    descricao: "Oportunidade para Vendedor(a) na unidade Saul Elkind da Todimo em Londrina-PR, com processo de seleção gerido pela Gestão de Pessoas Todimo.",
+    descricao: "Oportunidade para Vendedor(a) em Londrina-PR, com processo de seleção gerido pela Gestão de Pessoas Todimo.",
     descricaoModal:"Detalhes da Oportunidade: A Todimo está com vaga aberta para a função de Vendedor(a).",
     whatsapp: "5565992332605",
     email: "",
