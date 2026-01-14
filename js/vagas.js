@@ -4993,6 +4993,18 @@ const vagas = [
     email: "",
     banner: "banners/unimed.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Produção",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção em Londrina, no bairro Jardim Igapó, voltada para profissionais com formação técnica em eletrônica, oferecendo salário de R$ 2.057,59 e benefícios.",
+    descricaoModal:"Descrição: Vaga CLT em empresa multinacional inovadora; não precisa de experiência na área, pois a empresa oferece o treinamento técnico necessário. Requisitos: Técnico em eletrônica ou cursando; perfil proativo, dinâmico, organizado, com vontade de aprender e capacidade de trabalhar em equipe.",
+    whatsapp: "5546999180418",
+    email: "",
+    banner: "banners/iago.jpeg"
+  },
+  
 
 
 ];
