@@ -4696,6 +4696,17 @@ const vagas = [
     email: "",
     banner: "banners/dinh.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Gerente de Produção",
+    empresa: "Lava Rápido",
+    cidade: "Londrina",
+    descricao: "portunidade para Gerente de Produção em Lava Rápido no Shopping Catuaí, com salário de R$ 3.300,00 e jornada com folgas semanais e domingos alternados.",
+    descricaoModal:"Requisitos e Detalhes: Experiência comprovada em produção de lava rápido; salário de R$ 3.300,00; horário das 12h às 22h; regime de folgas de 1 dia por semana mais 1 domingo por mês. Localização: Shopping Catuaí.",
+    whatsapp: "5543996611827",
+    email: "",
+    banner: "banners/ger.jpeg"
+  },
   
 
 
