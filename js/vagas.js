@@ -5011,9 +5011,9 @@ const vagas = [
     cidade: "Londrina",
     descricao: "Oportunidade para Vendedor Externo na ICTUS Pescado, oferecendo salário de R$ 1.800,00 mais benefícios como vale alimentação de R$ 600,00 e comissão.",
     descricaoModal:"Requisitos: Acima de 18 anos; 2º grau completo; saber usar WhatsApp; conhecimento básico do pacote office (Word/Excel); possuir veículo próprio (preferencialmente moto); vaga para ambos os sexos.",
-    whatsapp: "5543999414063",
+    whatsapp: "5543999413063",
     email: "",
-    banner: "banners/ictus.jpeg"
+    banner: "banners/ictusc.jpeg"
   },
   {
     data: "2026-01-14", 
@@ -5123,6 +5123,17 @@ const vagas = [
     descricaoModal:"Responsabilidades: Realizar visitas de enfermagem em domicílio e hospitais; supervisionar equipe de técnicos e cuidadores; elaborar escalas de trabalho; monitorar prazos e rotinas assistenciais; avaliar ambiente domiciliar; prestar suporte às famílias; treinar equipes; auxiliar em orçamentos e controle de estoque; apoiar processos de seleção e gestão de contratos; prestar suporte via telefone e participar de reuniões.",
     whatsapp: "5543999688274",
     email: "",
+    banner: "banners/enfer.jpeg"
+  },
+  {
+    data: "2026-01-14", 
+    titulo: "Programador de Torno CNC",
+    empresa: "DBR",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Programador de Torno CNC no ramo de metalúrgica, com horário de segunda a sexta, das 08:00 às 18:00, exigindo experiência na função.",
+    descricaoModal:"Informações da Vaga: Atuação no ramo de metalúrgica; horário de trabalho de segunda a sexta, das 08:00 às 18:00. Requisitos: Necessário experiência na área de programação de torno CNC. Benefícios: Salário a combinar; vale alimentação.",
+    whatsapp: "554330244114",
+    email: "DBR.FERRAGENS@GMAIL.COM",
     banner: "banners/enfer.jpeg"
   },
 
