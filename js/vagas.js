@@ -4817,6 +4817,17 @@ const vagas = [
     email: "rh@solucoespp.com.br",
     banner: "banners/ibip.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Mecânico de Ar Condicionado",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico de Ar-Condicionado, focada em instalação e manutenção preventiva e corretiva, oferecendo salário compatível com o mercado e benefícios.",
+    descricaoModal:"Responsabilidades: Instalação de equipamentos de climatização; manutenção e diagnóstico técnico. Requisitos: Experiência na função; conhecimento técnico em ar-condicionado; organização e responsabilidade. Oferecemos: Salário compatível com o mercado; benefícios.",
+    whatsapp: "554333796700",
+    email: "",
+    banner: "banners/cv.jpeg"
+  },
   
 
 
