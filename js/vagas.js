@@ -5134,7 +5134,7 @@ const vagas = [
     descricaoModal:"Informações da Vaga: Atuação no ramo de metalúrgica; horário de trabalho de segunda a sexta, das 08:00 às 18:00. Requisitos: Necessário experiência na área de programação de torno CNC. Benefícios: Salário a combinar; vale alimentação.",
     whatsapp: "554330244114",
     email: "DBR.FERRAGENS@GMAIL.COM",
-    banner: "banners/programa.jpeg"
+    banner: "banners/progra.jpeg"
   },
   {
     data: "2026-01-14", 
