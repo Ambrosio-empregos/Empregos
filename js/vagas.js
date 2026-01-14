@@ -3267,7 +3267,7 @@ const vagas = [
     banner: "banners/rola.jpeg"
   },
    {
-    data: "2026-01-14", 
+    data: "2026-01-12", 
     titulo: "Auxiliar de Cozinha",
     empresa: "Hera - Café Saudável",
     cidade: "Londrina",
@@ -5014,6 +5014,17 @@ const vagas = [
     whatsapp: "5543999414063",
     email: "",
     banner: "banners/ictus.jpeg"
+  },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Hera - Café Saudável",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Cozinha no Hera Café Saudável, com jornada de terça a sábado e diversos benefícios como seguro de vida e desconto em consumo.",
+    descricaoModal:"Funções: Responsável pelo pré-preparo e preparo de pães, tortas e salgados; preparo de bebidas e shakes; higienização e organização do setor. Horário: De terça a sábado, das 8h30 às 18h30, com 1 hora de almoço; folgas às segundas e domingos. Benefícios: Salário; vale-transporte; vale-alimentação; seguro de vida; desconto em consumo na cafeteria.",
+    whatsapp: "",
+    email: "heracafesaudavel@gmail.com",
+    banner: "banners/hera.jpeg"
   },
   
 
