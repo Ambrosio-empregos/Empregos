@@ -5236,7 +5236,7 @@ const vagas = [
     banner: "banners/922.jpeg"
   },
   {
-    data: "2026-01-06",
+    data: "2026-01-14",
     titulo: "Atendente de Food Truck",
     empresa: "ICE Churros",
     cidade: "Maringá",
