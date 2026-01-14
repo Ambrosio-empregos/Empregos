@@ -4872,6 +4872,17 @@ const vagas = [
     email: "",
     banner: "banners/maar.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Assistente Administrativo/Controlador de Operações",
+    empresa: "Prisma",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Administrativo / Controlador de Operações em Londrina/PR na Prisma Service, com benefícios exclusivos como home office aos sábados, Totalpass e Day-Off.",
+    descricaoModal:"Requisitos: Boa comunicação e organização; necessário conhecimento em Excel; perfil responsável e dinâmico. Benefícios Exclusivos: Salário fixo; vale-refeição; bônus assiduidade; seguro de vida; plano de saúde e plano odontológico; convênio farmácia; plano de carreira; Totalpass; Day-Off; home office aos sábados.",
+    whatsapp: "5543988806060",
+    email: "rh@prismaservicepr.com.br",
+    banner: "banners/maar.jpeg"
+  },
   
 
 
