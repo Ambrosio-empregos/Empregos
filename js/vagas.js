@@ -4623,12 +4623,23 @@ const vagas = [
     data: "2026-01-14",
     titulo: "Pintor Industrial",
     empresa: "",
-    cidade: "Rolandia",
+    cidade: "Rolândia",
     descricao: "Oportunidade para Pintor Industrial em Rolândia PR, exigindo experiência comprovada em pintura eletrostática a pó e conhecimentos técnicos específicos da área industrial.",
     descricaoModal:"Requisitos da Vaga: Experiência comprovada em pintura eletrostática a pó em ambiente industrial; conhecimento sobre preparação de superfícies e regulagem de equipamentos; experiência com controle de espessura de camada (micragem); entendimento dos procedimentos de cura e parâmetros de temperatura/tempo.",
     whatsapp: "5543991343146",
     email: "",
     banner: "banners/pinto.jpeg"
+  },
+  {
+    data: "2026-01-14",
+    titulo: "Vendedor",
+    empresa: "MABRUK Executiva",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor na Mabruk Executiva em Londrina, sob regime PJ, com média salarial mensal estimada entre R$ 4 mil e R$ 10 mil.",
+    descricaoModal:"Detalhes da Vaga: Contratação via sistema PJ; média salarial de R$ 4 mil a R$ 10 mil mensal. Empresa: Mabruk Executiva. Localização: Rua Brasil, 1014 - Londrina.",
+    whatsapp: "5543988704587",
+    email: "",
+    banner: "banners/mabruk.jpeg"
   },
   
 
