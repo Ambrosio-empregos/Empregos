@@ -4806,6 +4806,17 @@ const vagas = [
     email: "",
     banner: "banners/canteiro.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Pré Vendas - SDR",
+    empresa: "",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Pré Vendas (SDR) em Ibiporã e região, focada em gerar oportunidades qualificadas de leads e prospecção ativa para o crescimento da empresa.",
+    descricaoModal:"Descrição: Gerar oportunidades qualificadas de leads e manter uma prospecção ativa, contribuindo diretamente para o crescimento da empresa.",
+    whatsapp: "5543991654600",
+    email: "rh@solucoespp.com.br",
+    banner: "banners/ibip.jpeg"
+  },
   
 
 
