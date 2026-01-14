@@ -4850,6 +4850,17 @@ const vagas = [
     email: "",
     banner: "banners/catua.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "Biosphera",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Serviços Gerais na Biosphera Agro Solutions para o ano de 2026, com jornada de trabalho de segunda a sábado.",
+    descricaoModal:"Responsabilidades: Limpeza e conservação de ambientes internos e externos; organização de espaços comuns; apoio nas demandas gerais do setor. Horário de trabalho: Segunda a sexta das 07h30 às 16h30 e aos sábados das 07h30 às 11h30.",
+    whatsapp: "5543988597893",
+    email: "",
+    banner: "banners/bio.jpeg"
+  },
   
 
 
