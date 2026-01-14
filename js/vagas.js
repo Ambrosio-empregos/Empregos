@@ -5026,6 +5026,17 @@ const vagas = [
     email: "heracafesaudavel@gmail.com",
     banner: "banners/hera.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Atendente",
+    empresa: "Serras Gerais",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente na Serras Gerais, com trabalho em escala 12/36, exigindo simpatia, boa comunicação e experiência na área.",
+    descricaoModal:"Requisitos: Vaga em escala 12/36; ser maior de 18 anos; possuir experiência na área; simpatia e boa comunicação. Empresa: Serras Gerais Chopp.",
+    whatsapp: "5543988661569",
+    email: "",
+    banner: "banners/atendente.jpeg"
+  },
   
 
 
