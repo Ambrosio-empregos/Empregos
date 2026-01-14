@@ -4903,7 +4903,7 @@ const vagas = [
     descricaoModal:"Detalhes da Oportunidade: A Todimo está com vaga aberta para a função de Vendedor(a)",
     whatsapp: "5565992332605",
     email: "",
-    banner: "banners/todi.jpeg"
+    banner: "banners/toca.jpeg"
   },
   
 
