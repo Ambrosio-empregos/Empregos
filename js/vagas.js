@@ -4898,7 +4898,7 @@ const vagas = [
     data: "2026-01-14",
     titulo: "Vendedor",
     empresa: "Todimo",
-    cidade: "Londrina",
+    cidade: "Cambé",
     descricao: "Oportunidade para Vendedor(a) na unidade Saul Elkind da Todimo em Londrina-PR, com processo de seleção gerido pela Gestão de Pessoas Todimo.",
     descricaoModal:"Detalhes da Oportunidade: A Todimo está com vaga aberta para a função de Vendedor(a) para atuação em sua unidade localizada na Zona Norte de Londrina. Localização: Av. Saul Elkind, 2900 - Jardim Athenas, Londrina-PR.",
     whatsapp: "5565992332605",
