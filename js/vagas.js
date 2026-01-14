@@ -5169,6 +5169,17 @@ const vagas = [
     email: "contato@eletrocontroles.com.br",
     banner: "banners/eletro.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar Geral",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Geral em Maringá, PR, com ganhos totais de até R$ 2.500,00 e um pacote completo de benefícios, incluindo transporte fretado e refeições no local.",
+    descricaoModal:"Ganhos: Salário de R$ 1.700,00 + Vale Alimentação de R$ 420,00 + Prêmio Assiduidade de R$ 380,00 (Totalizando até R$ 2.500,00).",
+    whatsapp: "5544988265744",
+    email: "",
+    banner: "banners/gtf.jpeg"
+  },
 
 
 ];
