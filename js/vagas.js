@@ -4482,10 +4482,21 @@ const vagas = [
     empresa: "Soft Dream",
     cidade: "Maringá",
     descricao: "Oportunidade para Costureira na Soft Dream em Maringá-PR, com salário de R$ 2.500,00 e benefícios como café da manhã na empresa e vale transporte sem desconto.",
-    descricaoModal:"Benefícios e Detalhes: Salário de R$ 2.500,00; vale alimentação de R$ 250,00; vale transporte sem desconto; café da manhã servido na empresa. Horário: Segunda a sexta-feira, das 07:00 às 17:00, com 1 hora de intervalo para almoço. Empresa: Soft Dream. Localização: Av. Nilso Bertoni, 1762 – Jd. Europa – Maringá-PR.",
+    descricaoModal:"Benefícios e Detalhes: Salário de R$ 2.500,00; vale alimentação de R$ 250,00; vale transporte sem desconto; café da manhã servido na empresa. Horário: Segunda a sexta-feira, das 07:00 às 17:00, com 1 hora de intervalo para almoço. Empresa: Soft Dream.",
     whatsapp: "5544999888087",
     email: "",
     banner: "banners/soft.jpeg"
+  },
+  {
+    data: "2026-01-14", 
+    titulo: "Consultora de Vendas",
+    empresa: "BIBI",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultora de Vendas na Bibi do Shopping Catuaí em Londrina, destinada a candidatas acima de 18 anos.",
+    descricaoModal:"Requisitos: Ter acima de 18 anos; disponibilidade de horário para shopping. Empresa: Bibi (Unidade Catuaí Shopping Londrina). Localização: Londrina - PR.",
+    whatsapp: "5543991913526",
+    email: "catuailondrina@bibi.com.br",
+    banner: "banners/bibi.jpeg"
   },
   
 
