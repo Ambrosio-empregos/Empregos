@@ -4828,6 +4828,17 @@ const vagas = [
     email: "",
     banner: "banners/cv.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Recepcionista",
+    empresa: "Vitallon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Recepcionista em Rolândia-Pr na Vittallon Odontologia, exigindo proatividade, boa comunicação e disponibilidade para horário comercial.",
+    descricaoModal:"Requisitos: Proatividade; boa comunicação; vontade de aprender; empatia. Disponibilidade: Horário comercial. Localização: Rolândia-Pr.",
+    whatsapp: "5543991668246",
+    email: "",
+    banner: "banners/vita.jpeg"
+  },
   
 
 
