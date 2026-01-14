@@ -5191,6 +5191,17 @@ const vagas = [
     email: "53602.supervisor@helpfranqueado.com.br",
     banner: "banners/hellp.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar Comercial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Comercial em Londrina, com atuação em horário comercial, voltada para profissionais organizados e com conhecimentos básicos de informática.",
+    descricaoModal:"Perfil esperado: Organização e atenção aos detalhes; boa comunicação e vontade de aprender; conhecimento básico em informática. Horário: Comercial. Local: Londrina.",
+    whatsapp: "",
+    email: "CURRICULORH2023@GMAIL.COM",
+    banner: "banners/COMERC.jpeg"
+  },
 
 
 ];
