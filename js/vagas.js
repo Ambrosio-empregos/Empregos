@@ -4586,6 +4586,17 @@ const vagas = [
     email: "",
     banner: "banners/bertin.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Televendas",
+    empresa: "ATM Distribuidora",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Televendas na ATM Distribuidora (Selantes e Fixadores), com foco em atendimento multicanal, prospecção de clientes e cumprimento de metas de vendas.",
+    descricaoModal:"Atividades: Realizar atendimento por telefone e WhatsApp; receber e atender clientes na loja física; fazer prospecções e follow-up de orçamentos; realizar atendimento ativo e receptivo para venda de produtos; acompanhar o pós-venda para garantir a satisfação do cliente; registrar informações no sistema de vendas; cumprir metas de vendas e indicadores de desempenho. Requisitos: Desejável experiência com telemarketing.",
+    whatsapp: "",
+    email: "comercial@selatools.com.br",
+    banner: "banners/atm.jpeg"
+  },
   
 
 
