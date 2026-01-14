@@ -4696,6 +4696,17 @@ const vagas = [
     email: "recrutamento@talentorhpp.com.br",
     banner: "banners/tale.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Setor de Cadastramento e Agendamento",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Setor de Agendamento e Cadastramento voltada a jovens de 18 a 30 anos, com ganhos a partir de R$ 3.000,00 e treinamento garantido.",
+    descricaoModal:"Requisitos e Detalhes: Destinado a jovens de 18 a 30 anos; procura-se pessoas altamente ambiciosas; perfil comunicativo será um diferencial; oferece treinamento e acompanhamento garantido; ganhos a partir de R$ 3.000,00.",
+    whatsapp: "5543984939373",
+    email: "",
+    banner: "banners/dinh.jpeg"
+  },
   
 
 
