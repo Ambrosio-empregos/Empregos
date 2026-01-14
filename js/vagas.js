@@ -4575,6 +4575,17 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/ofe.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Apoio Administrativo e atendimento por demanda",
+    empresa: "Brinn Esmaltaria",
+    cidade: "Londrina",
+    descricao: "Oportunidade para prestador(a) de serviços em apoio administrativo e atendimento por demanda na Brinn Esmalteria, sob regime de contratação PJ (MEI).",
+    descricaoModal:"Atividades e Responsabilidades: Atendimento ao cliente de forma presencial e digital; apoio na organização de agenda; atendimento via WhatsApp e telefone; apoio em vendas de serviços e produtos; controle administrativo básico. Detalhes da Contratação: Formato de prestação de serviço como PJ (MEI). Empresa: Brinn Esmalteria.",
+    whatsapp: "5543996300826",
+    email: "",
+    banner: "banners/bertin.jpeg"
+  },
   
 
 
