@@ -5235,6 +5235,17 @@ const vagas = [
     email: "",
     banner: "banners/922.jpeg"
   },
+  {
+    data: "2026-01-06",
+    titulo: "Atendente de Food Truck",
+    empresa: "ICE Churros",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Atendente de Food Truck na Ice Churros, com ganhos entre R$ 1.950,00 e R$ 4.500,00, oferecendo benefícios como vale alimentação médio de R$ 1.500,00 e Gympass.",
+    descricaoModal:"Atribuições do Cargo: Auxiliar na preparação e montagem dos churros; garantir a limpeza e organização dos equipamentos e espaço de trabalho; atender clientes com simpatia e eficiência; auxiliar em tarefas relacionadas ao funcionamento do Food Truck.",
+    whatsapp: "5544991555527",
+    email: "rh@icechurros.com.br",
+    banner: "banners/chuchu.jpeg"
+  },
 
 
 ];
