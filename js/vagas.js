@@ -4718,6 +4718,17 @@ const vagas = [
     email: "contatoempregoldna@gmail.com",
     banner: "banners/interr.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Camarão Express",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Camarão Express, exigindo ensino fundamental completo e perfil comunicativo para trabalho em equipe.",
+    descricaoModal:"Atividades da Vaga: Executar rotinas operacionais de cozinha com qualidade, atenção e segurança; cumprir a sequência de etapas de trabalho definidas pelo superior, incluindo higienização, limpeza, manipulação de alimentos e preparo de refeições. Requisitos: Ensino fundamental completo; flexibilidade de horários; perfil comunicativo e que goste de trabalhar em equipe.",
+    whatsapp: "5547996517636",
+    email: "",
+    banner: "banners/camarao.jpeg"
+  },
   
 
 
