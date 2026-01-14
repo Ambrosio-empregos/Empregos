@@ -4751,6 +4751,17 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Pesenti",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar Administrativo com foco na área Fiscal na Pesenti Smart Farming, oferecendo salário compatível, vale alimentação e planos de saúde e odontológico participativos após três meses.",
+    descricaoModal:"Atividades: Emissão de notas fiscais e de guias de recolhimento, além de rotinas administrativas gerais. Requisitos: Formação concluída ou em andamento em Ciências Contábeis, Administração (Faculdade ou Cursos Técnicos) ou áreas afins; conhecimento básico em informática (Pacote Office).",
+    whatsapp: "",
+    email: "financeniro@pesenti.com.br",
+    banner: "banners/pese.jpeg"
+  },
   
 
 
