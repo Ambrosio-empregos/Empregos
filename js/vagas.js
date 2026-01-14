@@ -4520,6 +4520,17 @@ const vagas = [
     email: "vagas@2sagrimensura.com.br",
     banner: "banners/2s.jpeg"
   },
+   {
+    data: "2026-01-14", 
+    titulo: "Consultor de Vendas",
+    empresa: "W4Y UP",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas na academia W4YUP, voltada para profissionais comunicativos, que gostem de metas e queiram crescer com a equipe.",
+    descricaoModal:"Desejado: Profissional comunicativo(a), que aprecie trabalhar com metas e possua desejo de crescimento profissional.",
+    whatsapp: "5543991389985",
+    email: "ACADEMIAWAYUP@GMAIL.COM",
+    banner: "banners/up.jpeg"
+  },
   
 
 
