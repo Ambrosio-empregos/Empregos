@@ -5081,6 +5081,17 @@ const vagas = [
     email: "",
     banner: "banners/chap.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Doceiro",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Doceiro com foco no tratamento de amendoim, manutenção da higiene e suporte geral no processo de produção e logística de mercadorias.",
+    descricaoModal:"Responsabilidades: Atuar no tratamento com amendoim, incluindo torra, cozimento e manuseio com tacho; manutenção da higiene e limpeza na produção; auxiliar no fazer, embalar, despachar e receber mercadorias.",
+    whatsapp: "",
+    email: "fabricadocespio@gmail.com",
+    banner: "banners/doceiro.jpeg"
+  },
 
 
 ];
