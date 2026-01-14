@@ -4784,6 +4784,17 @@ const vagas = [
     email: "",
     banner: "banners/kids.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Vendedora",
+    empresa: "TOu Ti",
+    cidade: "",
+    descricao: "Oportunidade para Vendedora na TouTi Jf, empresa especializada em fragrâncias importadas.",
+    descricaoModal:"A TouTi Jf Fragrâncias Importadas está com vaga aberta para a função de Vendedora.",
+    whatsapp: "5514996054444",
+    email: "",
+    banner: "banners/touti.jpeg"
+  },
   
 
 
