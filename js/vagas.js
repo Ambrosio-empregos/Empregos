@@ -4895,7 +4895,7 @@ const vagas = [
     banner: "banners/sushi.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-14",
     titulo: "Vendedor",
     empresa: "Todimo",
     cidade: "Londrina",
