@@ -4916,6 +4916,17 @@ const vagas = [
     email: "",
     banner: "banners/tolon.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Vendedor",
+    empresa: "Todimo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Todimo em Londrina, Unidade Av. Saul Elkind, com recrutamento realizado pela Gestão de Pessoas Todimo.",
+    descricaoModal:"A Todimo está com vaga aberta para a função de Vendedor(a). Localização: Unidade Av. Saul Elkind, 2900 - Londrina. Empresa: Todimo (Gestão de Pessoas - Construindo Talentos).",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/tolon.jpeg"
+  },
 
 
 ];
