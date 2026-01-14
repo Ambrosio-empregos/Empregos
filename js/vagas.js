@@ -4949,6 +4949,17 @@ const vagas = [
     email: "",
     banner: "banners/atenin.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Assistente Adm Comercial",
+    empresa: "Mônaco Imob",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Assistente Adm Comercial na Mônaco Imobi, voltada para profissionais organizados e com domínio de ferramentas de escritório para suporte à gerência e diretoria.",
+    descricaoModal:"Atividade: Elaboração de contratos, controle de documentos, gerar relatórios, administração do CRM, acompanhar fluxo de vendas, fornecer suporte a gerência de vendas e diretoria. Habilidades: Boa comunicação (verbal e escrita), organização e atenção aos detalhes, proatividade, capacidade de resolução de problemas e dinamismo. Requisitos: Ensino médio completo; conhecimento em Word e Excel.",
+    whatsapp: "",
+    email: "bianchitr@gmail.com",
+    banner: "banners/moni.jpeg"
+  },
 
 
 ];
