@@ -4247,17 +4247,6 @@ const vagas = [
   },
   {
     data: "2026-01-13",
-    titulo: "Auxiliar de Produção",
-    empresa: "Physical",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Auxiliar de Produção em Londrina - PR pela Physical Shop, voltada para o público masculino com foco em linha de montagem e organização.",
-    descricaoModal:"Principais Funções: Atuar na linha de montagem; auxiliar na montagem e embalagem de produtos; organização de peças e apoio geral ao setor de produção. Requisitos: Proatividade, organização, agilidade, responsabilidade e disponibilidade para atuar no setor de produção; vaga destinada ao público masculino. Salário e Horário: Salário equivalente à categoria;",
-    whatsapp: "5543991926760",
-    email: "",
-    banner: "banners/phy.jpeg"
-  },
-  {
-    data: "2026-01-13",
     titulo: "Analista Financeiro",
     empresa: "Loja em Londrina",
     cidade: "Londrina",
