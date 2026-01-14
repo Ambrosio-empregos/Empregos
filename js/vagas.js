@@ -4938,6 +4938,17 @@ const vagas = [
     email: "",
     banner: "banners/toace.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Atendente Interno",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente Interno em Londrina na Rua Pernambuco, com ganho inicial de R$ 2.500,00 e possibilidade de aumento conforme desempenho.",
+    descricaoModal:"Informações da Vaga: Atendimento ao cliente de forma online e presencial; não é necessária experiência anterior, pois o treinamento é oferecido. Requisitos: Ensino médio completo; idade entre 18 e 25 anos. Oferecemos: Ganho inicial de R$ 2.500,00 com possibilidade de aumento conforme o desempenho; plano de crescimento na empresa.",
+    whatsapp: "5543999644353",
+    email: "",
+    banner: "banners/atenin.jpeg"
+  },
 
 
 ];
