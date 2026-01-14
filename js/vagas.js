@@ -4672,7 +4672,7 @@ const vagas = [
     descricaoModal:"Requisitos: Necessária experiência na área de Gerência e Tecnologia. Remuneração e Horário: Salário fixo mais comissão; jornada de trabalho das 14h às 22h.",
     whatsapp: "5543991555740",
     email: "Casoncsadm@outlook.com",
-    banner: "banners/cason.jpg"
+    banner: "banners/cason.jpeg"
    },
   
 
