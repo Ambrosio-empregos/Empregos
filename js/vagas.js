@@ -4652,6 +4652,28 @@ const vagas = [
     email: "prlojasrank@gmail.com",
     banner: "banners/avatim.jpg"
    },
+   {
+    data: "2026-01-14",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Vaga para Operador de Caixa no Max Norte Shopping - Londrina. Faça sua carreira no Grupo Muffato com diversas oportunidades inclusive para PCD e 60+.",
+    descricaoModal:"Benefícios: Assistência de saúde e odontológica, seguro de vida, clube de vantagens com descontos em farmácias, vale refeição, programas de premiação e oportunidade de carreira pela Uniffato.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/opemufa.jpg"
+  },
+  {
+    data: "2026-01-14",
+    titulo: "Gerente Comercial",
+    empresa: "Cason",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Gerente Comercial na CASON em Londrina, com salário fixo mais comissão, voltada para profissionais com experiência em gerência e tecnologia.",
+    descricaoModal:"Requisitos: Necessária experiência na área de Gerência e Tecnologia. Remuneração e Horário: Salário fixo mais comissão; jornada de trabalho das 14h às 22h.",
+    whatsapp: "5543991555740",
+    email: "Casoncsadm@outlook.com",
+    banner: "banners/cason.jpg"
+   },
   
 
 
