@@ -5200,7 +5200,18 @@ const vagas = [
     descricaoModal:"Perfil esperado: Organização e atenção aos detalhes; boa comunicação e vontade de aprender; conhecimento básico em informática. Horário: Comercial. Local: Londrina.",
     whatsapp: "",
     email: "CURRICULORH2023@GMAIL.COM",
-    banner: "banners/COMERC.jpeg"
+    banner: "banners/comerc.jpeg"
+  },
+  {
+    data: "2026-01-14", 
+    titulo: "Funileiro",
+    empresa: "Rota 92",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "",
+    email: "",
+    banner: "banners/funi.jpeg"
   },
 
 
