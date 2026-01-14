@@ -4883,6 +4883,17 @@ const vagas = [
     email: "rh@prismaservicepr.com.br",
     banner: "banners/maar.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Sushiman",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Sushiman em Londrina, com salário compatível conforme experiência, oferecendo benefícios como plano de saúde e odontológico.",
+    descricaoModal:"Requisitos e informações: Experiência em culinária japonesa; perfil proativo e bom relacionamento interpessoal; horário de segunda à sábado das 15:20h às 23:33h; salário compatível com a função e de acordo com a experiência. Oferecemos: Salário compatível; assiduidade; vale transporte; refeição no local; plano de saúde e plano odontológico.",
+    whatsapp: "5543991319691",
+    email: "",
+    banner: "banners/sushi.jpeg"
+  },
   
 
 
