@@ -4619,6 +4619,17 @@ const vagas = [
     email: "",
     banner: "banners/doras.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Pintor Industrial",
+    empresa: "",
+    cidade: "Rolandia",
+    descricao: "Oportunidade para Pintor Industrial em Rolândia PR, exigindo experiência comprovada em pintura eletrostática a pó e conhecimentos técnicos específicos da área industrial.",
+    descricaoModal:"Requisitos da Vaga: Experiência comprovada em pintura eletrostática a pó em ambiente industrial; conhecimento sobre preparação de superfícies e regulagem de equipamentos; experiência com controle de espessura de camada (micragem); entendimento dos procedimentos de cura e parâmetros de temperatura/tempo.",
+    whatsapp: "5543991343146",
+    email: "",
+    banner: "banners/pinto.jpeg"
+  },
   
 
 
