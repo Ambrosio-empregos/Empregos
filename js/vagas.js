@@ -4905,7 +4905,17 @@ const vagas = [
     email: "",
     banner: "banners/toca.jpeg"
   },
-  
+  {
+    data: "2026-01-14",
+    titulo: "Vendedor",
+    empresa: "Todimo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Todimo em Londrina, Unidade Av. Tiradentes, com recrutamento realizado pela Gestão de Pessoas Todimo.",
+    descricaoModal:"A Todimo está com vaga aberta para a função de Vendedor(a). Localização: Unidade Av. Tiradentes, 1181 - Jardim Shangri-Lá A, Londrina. Empresa: Todimo (Gestão de Pessoas - Construindo Talentos).",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/tolon.jpeg"
+  },
 
 
 ];
