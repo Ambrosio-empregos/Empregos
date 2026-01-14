@@ -4509,6 +4509,17 @@ const vagas = [
     email: "",
     banner: "banners/car.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Projetista de Saneamento",
+    empresa: "2S Engenharia e Geotecnologia",
+    cidade: "Maringá",
+    descricao: "SOMENTE EMAIL; Oportunidade para Projetista de Saneamento na 2S Engenharia e Geotecnologia em Maringá / PR, exigindo conhecimento avançado em Autodesk Civil 3D e vivência em sistemas de esgotamento sanitário.",
+    descricaoModal:"Requisitos e Qualificações: Conhecimento intermediário ou avançado em Autodesk Civil 3D (Superfícies, MDT, Pipe Networks, Pressure Pipes, estilos e quantitativos); vivência em saneamento com foco em esgotamento sanitário; domínio do Pacote Office (ênfase em Excel para medições); leitura e interpretação de projetos e especificações; experiência com abastecimento de água, drenagem urbana, terraplenagem e pavimentação;",
+    whatsapp: "",
+    email: "vagas@2sagrimensura.com.br",
+    banner: "banners/2s.jpeg"
+  },
   
 
 
