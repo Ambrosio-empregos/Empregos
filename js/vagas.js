@@ -4971,6 +4971,17 @@ const vagas = [
     email: "bruna@imobiliariamonaco.com.br",
     banner: "banners/mona.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Televendas",
+    empresa: "Borrachas Guaporé",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Televendas na Borrachas Guaporé em Londrina, destinada a profissionais com CNH AB e experiência no atendimento a clientes industriais ou áreas técnicas.",
+    descricaoModal:"Requisitos: Residir em Londrina; Carteira de habilitação categoria AB; Ensino médio completo; Experiência no atendimento a clientes industriais, áreas de manutenção, produção ou engenharia; Experiência com correias industriais e/ou transportadoras.",
+    whatsapp: "5543988743465",
+    email: "",
+    banner: "banners/guave.jpeg"
+  },
 
 
 ];
