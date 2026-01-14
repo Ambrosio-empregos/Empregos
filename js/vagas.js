@@ -5180,6 +5180,17 @@ const vagas = [
     email: "",
     banner: "banners/gtf.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Help",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Consultor(a) de Vendas em Maringá, voltada para profissionais com vivência em metas e telemarketing, oferecendo benefícios como Gympass e plano de saúde.",
+    descricaoModal:"Requisitos: Ensino médio completo; telemarketing; experiência com atendimento ao cliente; vivência com vendas e metas.",
+    whatsapp: "",
+    email: "53602.supervisor@helpfranqueado.com.br",
+    banner: "banners/hellp.jpeg"
+  },
 
 
 ];
