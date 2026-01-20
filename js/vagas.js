@@ -6632,6 +6632,17 @@ const vagas = [
     email: "",
     banner: "banners/color.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Auxiliar dAdministrativo e Banco de Dados",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo e Banco de Dados em agência focada no agronegócio, oferecendo treinamento em sistema próprio para organização de rotinas e informações.",
+    descricaoModal:"Descrição da vaga: Atuar no apoio às rotinas administrativas e na organização de banco de dados da agência.",
+    whatsapp: "",
+    email: "contasapagar@startrural.com.br",
+    banner: "banners/bd.jpeg"
+  },
 
 
   
