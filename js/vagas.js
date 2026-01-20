@@ -6852,6 +6852,17 @@ const vagas = [
     email: "",
     banner: "banners/noiva.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Auxiliar Financeiro",
+    empresa: "Avantt",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Financeiro em Londrina - PR, com salário de R$ 1.988,00 e vale-alimentação de R$ 805,00, sendo desejável formação acadêmica em andamento na área.",
+    descricaoModal:"Pré-requisitos: Desejável estar cursando Administração ou Contábil; ter experiência na área. Salário e Benefícios: R$ 1.988,00 + R$ 805,00 de alimentação. Local: Londrina - PR. Empresa: Avantt.",
+    whatsapp: "",
+    email: "financeiro@avanttrh.com",
+    banner: "banners/tesouro.jpeg"
+  },
 
 
 
