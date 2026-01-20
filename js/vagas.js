@@ -6654,6 +6654,17 @@ const vagas = [
     email: "contasapagar@startrural.com.br",
     banner: "banners/maria.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Assistente de Cadastro",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Assistente de Cadastro no Centro de Londrina com ganhos de comissão a partir de R$ 2.400,00, sem exigência de experiência anterior.",
+    descricaoModal:"Funções: Entrar em contato com clientes via telefone e WhatsApp para realizar agendamentos presenciais. Requisitos: Não exige experiência; necessário força de vontade e determinação; vestimenta bem apresentável será um diferencial. Detalhes: Ganhos de comissão a partir de R$ 2.400,00; idade entre 18 e 30 anos. Horário: Segunda a sexta das 09:00 às 19:30 e sábados das 09:00 às 14:30. Localização: Centro de Londrina, ao lado do calçadão.",
+    whatsapp: "5543984042424",
+    email: "",
+    banner: "banners/asscad.jpeg"
+  },
 
 
   
