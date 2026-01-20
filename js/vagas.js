@@ -5257,6 +5257,17 @@ const vagas = [
     email: "valgas3007@gmail.com",
     banner: "banners/pongas.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Atendente de Locação Imobiliária",
+    empresa: "Camponesa imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Locação Imobiliária na Camponesa Imóveis, com jornada de trabalho de segunda a sexta, das 08h às 18h, buscando profissionais comunicativos e organizados.",
+    descricaoModal:"Requisitos: Pessoa comunicativa e organizada; proativa e responsável; boa no atendimento e sistemas; afinidade com redes sociais. Horário: Segunda a sexta, das 08h às 18h. Empresa: Camponesa Imóveis.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/imobc.jpeg"
+  },
 
 
 ];
