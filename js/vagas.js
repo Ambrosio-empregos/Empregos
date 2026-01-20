@@ -5775,7 +5775,7 @@ const vagas = [
     banner: "banners/preg.jpeg"
   },
   {
-    data: "2026-01-12", 
+    data: "2026-01-16", 
     titulo: "Auxiliar de faturameto",
     empresa: "ATZ Pneus",
     cidade: "Cambé",
