@@ -5279,6 +5279,17 @@ const vagas = [
     email: "valgas3007@gmail.com",
     banner: "banners/pongas.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Consultor(a) de vendas",
+    empresa: "Inove line",
+    cidade: "Londrina",
+    descricao: "A Inove Line está com mais de 40 vagas abertas para Consultor(a) de Vendas em Londrina com início imediato, oferecendo comissões que podem ultrapassar R$ 4.000,00 e benefícios exclusivos.",
+    descricaoModal:"A oportunidade para trabalhar de segunda a sexta oferece comissões agressivas, prêmio de sexta-feira livre por meta batida, férias coletivas, vale-refeição, vale-transporte, plano odontológico, programa de saúde mental, convênio farmácia, descontos em academias parceiras, programa nutricional, reconhecimento Inove e um mimo especial no aniversário.",
+    whatsapp: "5544998000712",
+    email: "",
+    banner: "banners/inove.jpeg"
+  },
 
 
 ];
