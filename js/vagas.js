@@ -6104,6 +6104,17 @@ const vagas = [
     email: "rh@cupimcambé.com.br",
     banner: "banners/cupinchooo.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Mecânico de Manutenção Industrial",
+    empresa: "Empinox",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico de Manutenção Industrial na EMPINOX em Londrina, exigindo curso técnico e experiência na função, com benefícios como alimentação no local e convênios.",
+    descricaoModal:"Requisitos: Possuir curso técnico e experiência na função; residir em Londrina. Benefícios: Vale-transporte; alimentação no local; convênio com farmácia e ótica. Empresa: EMPINOX (Indústria Eletromecânica Preventiva Ltda).",
+    whatsapp: "5543991107529",
+    email: "rh@empinox.com.br",
+    banner: "banners/empi.jpeg"
+  },
 
 
 ];
