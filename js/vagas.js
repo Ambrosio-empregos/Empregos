@@ -6305,13 +6305,24 @@ const vagas = [
   {
     data: "2026-01-17", 
     titulo: "Consultor(a) comercial ",
-    empresa: "",
+    empresa: "TR Distribuidora de EPIs",
     cidade: "Londrina",
     descricao: "Oportunidade efetiva/CLT para Consultor Comercial em varejo com remuneração entre R$ 2.000,00 e R$ 2.800,00, oferecendo um pacote completo de benefícios e convênios educacionais.",
     descricaoModal:"Atribuições: Prospecção de clientes; elaboração de proposta comercial; acompanhamento de carteira de clientes; desenvolvimento do mix de produtos; reativação de clientes inativos; atendimento cliente varejo; contato via telefone, WhatsApp, Skype e e-mail.",
     whatsapp: "554333743395",
     email: "rh.seçecao@trepis.com.br",
     banner: "banners/morada.jpeg"
+  },
+  {
+    data: "2026-01-17", 
+    titulo: "Consultor Técnico",
+    empresa: "TR Distribuidora de EPIs",
+    cidade: "Londrina",
+    descricao: "Oportunidade efetiva/CLT para Consultor Técnico na TR Distribuidora de EPI's, exigindo formação técnica ou superior e oferecendo um pacote abrangente de benefícios e convênios.",
+    descricaoModal:"Atribuições: Atendimento técnico a clientes sobre uso, escolha e validade dos EPIs; realização de visitas técnicas e levantamento de riscos; apoio técnico à área comercial; condução de treinamentos sobre EPIs e NRs; garantia de conformidade com NRs e CA; elaboração de relatórios técnicos; atualização sobre legislação e mercado.",
+    whatsapp: "554333743395",
+    email: "rh.seçecao@trepis.com.br",
+    banner: "banners/roma12.jpeg"
   },
 
 
