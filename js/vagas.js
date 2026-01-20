@@ -6302,6 +6302,18 @@ const vagas = [
     email: "",
     banner: "banners/gra.jpeg"
   },
+  {
+    data: "2026-01-17", 
+    titulo: "Consultor(a) comercial ",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade efetiva/CLT para Consultor Comercial em varejo com remuneração entre R$ 2.000,00 e R$ 2.800,00, oferecendo um pacote completo de benefícios e convênios educacionais.",
+    descricaoModal:"Atribuições: Prospecção de clientes; elaboração de proposta comercial; acompanhamento de carteira de clientes; desenvolvimento do mix de produtos; reativação de clientes inativos; atendimento cliente varejo; contato via telefone, WhatsApp, Skype e e-mail.",
+    whatsapp: "554333743395",
+    email: "rh.seçecao@trepis.com.br",
+    banner: "banners/morada.jpeg"
+  },
+
 
 
 
