@@ -1801,7 +1801,7 @@ const vagas = [
     descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 2.500,00, Vale-alimentação de R$ 240,00, Vale-transporte pago em dinheiro e bonificação por produção (ganho extra). O regime de trabalho é de segunda a sexta-feira.",
     whatsapp: "5544999064743",
     email: "",
-    banner: "banners/inter.jpeg"
+    banner: "banners/musi.jpeg"
   },
   {
     data: "2026-01-06",
@@ -5651,7 +5651,7 @@ const vagas = [
     descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 2.500,00, Vale-alimentação de R$ 240,00, Vale-transporte pago em dinheiro e bonificação por produção (ganho extra). O regime de trabalho é de segunda a sexta-feira.",
     whatsapp: "5544999064743",
     email: "",
-    banner: "banners/inter.jpeg"
+    banner: "banners/musi.jpeg"
   },
   
 
