@@ -5930,7 +5930,7 @@ const vagas = [
   },
   {
     data: "2026-01-16",
-    titulo: "Oportunidde PCD",
+    titulo: "Oportunidade PCD",
     empresa: "grupo Marajó",
     cidade: "Londrina",
     descricao: "Oportunidade exclusiva para pessoas com deficiência (PCD) no Grupo Marajó em Londrina-PR, incluindo vagas para profissionais 50+ e um pacote completo de benefícios.",
