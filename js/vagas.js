@@ -6069,7 +6069,7 @@ const vagas = [
     descricaoModal:"Atividades: Realizar atendimento online via WhatsApp, Instagram e site; separação de pedidos; prestar apoio na loja quando necessário; organização básica dos pedidos e produtos. Requisitos: Experiência com vendas é considerada um diferencial para a função. Empresa: Shop do Berna (@shopdoberna).",
     whatsapp: "5543996448268",
     email: "",
-    banner: "banners/beti.jpeg"
+    banner: "banners/berti.jpeg"
   },
 
 
