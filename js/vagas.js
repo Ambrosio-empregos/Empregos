@@ -6775,6 +6775,18 @@ const vagas = [
     email: "",
     banner: "banners/gene.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Auxiliar Administrativo",
+    empresa: "boutique dental",
+    cidade: "Londrina",
+    descricao: "Oportunidade feminina para Auxiliar Administrativo na Boutique Dental Implantes, destinada a candidatas acima de 25 anos com experiência na função e domínio de Excel.",
+    descricaoModal:"Requisitos: Vaga FEMININA; acima de 25 anos; EXPERIENCIA na função; Planilha Excel. Salário e Benefícios: Salário de R$ 1.893,00 + benefícios; Vale-alimentação; Vale-transporte; Seguro de vida; Plano Odontológico. Empresa: Boutique Dental Implantes.",
+    whatsapp: "5543999670802",
+    email: "",
+    banner: "banners/paixao.jpeg"
+  },
+
 
 
   
