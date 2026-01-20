@@ -6753,6 +6753,17 @@ const vagas = [
     email: "",
     banner: "banners/amado.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Atendente de Gelateria",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Gelateria com atuação em escala 6x1, exigindo experiência na área e boa comunicação.",
+    descricaoModal:"Requisitos: Vaga em escala 6x1; ser maior de 18 anos; possuir experiência na área; simpatia e boa comunicação.",
+    whatsapp: "5543988661569",
+    email: "",
+    banner: "banners/rm828.jpeg"
+  },
 
 
   
