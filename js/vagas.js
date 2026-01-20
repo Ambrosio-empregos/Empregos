@@ -5840,6 +5840,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-10",
+    titulo: "Vaga Masculina em Lanchonete",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para trabalhar em lanchonete em horário vespertino e noturno, exigindo habilidades em atendimento e experiência com chapa.",
+    descricaoModal:"Requisitos: Sexo masculino; saber atender clientes; possuir experiência com chapa. Informações da Vaga: Horário de trabalho das 13h00 às 21h20.",
+    whatsapp: "5543999600625",
+    email: "",
+    banner: "banners/lanc.jpeg"
+  },
 
 
 ];
