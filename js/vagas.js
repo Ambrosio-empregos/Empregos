@@ -6742,6 +6742,17 @@ const vagas = [
     email: "rh@londrigifts.com.br",
     banner: "banners/gifts.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) no centro de Londrina, com salário de R$ 2.000,00 e benefícios como plano de saúde e plano de carreira.",
+    descricaoModal:"Requisitos: Boa comunicação; foco em resultados; com ou sem experiência. Salário e Benefícios: R$ 2.000,00; vale transporte; plano de saúde; plano de carreira; ambiente dinâmico com oportunidades reais de crescimento.",
+    whatsapp: "5543988015812",
+    email: "",
+    banner: "banners/amado.jpeg"
+  },
 
 
   
