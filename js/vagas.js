@@ -6643,6 +6643,17 @@ const vagas = [
     email: "contasapagar@startrural.com.br",
     banner: "banners/bd.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Designer Gráfico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Designer Gráfico em agência focada no agronegócio, exigindo domínio do pacote Adobe e oferecendo atuação em criação de peças para redes sociais, branding e materiais institucionais.",
+    descricaoModal:"Responsabilidades: Criação de peças para redes sociais (cards, carrosséis, stories e capas); desenvolvimento de materiais institucionais e comerciais (folders, catálogos, apresentações, anúncios); apoio na criação de identidades visuais e branding; adaptação de artes para diferentes formatos e plataformas; diagramação de materiais gráficos; trabalho integrado com equipe de marketing, social media e atendimento; interpretação de briefings e entrega dentro dos prazos.",
+    whatsapp: "",
+    email: "contasapagar@startrural.com.br",
+    banner: "banners/maria.jpeg"
+  },
 
 
   
