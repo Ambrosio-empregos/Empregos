@@ -6038,6 +6038,17 @@ const vagas = [
     email: "rh@fauel.org.br",
     banner: "banners/fauel.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Auxiliar Financeiro",
+    empresa: "Fauel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Financeiro na FAUEL com remuneração de R$ 1.900,00 e pacote de benefícios, voltada para profissionais com ensino médio completo e experiência na área.",
+    descricaoModal:"Atividades: Apoiar as rotinas do setor financeiro; auxiliar em atividades de prestação de contas; dar suporte aos setores de compras. Requisitos e Perfil Desejado: Ensino médio completo; experiência na área financeira/administrativa; perfil atento, ágil e organizado; boa comunicação verbal e escrita; ter senso de colaboração e disposição para ajudar.",
+    whatsapp: "",
+    email: "rh@fauel.org.br",
+    banner: "banners/fauell.jpeg"
+  },
 
 
 ];
