@@ -5796,6 +5796,17 @@ const vagas = [
     email: "",
     banner: "banners/ç.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Administrativo",
+    empresa: "Guaporé Pneus",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para a área Administrativa na Guaporé Pneus em Arapongas-PR, oferecendo ótima remuneração salarial e benefícios.",
+    descricaoModal:"Benefícios: Vale Alimentação; Vale Transporte; Ótima remuneração salarial. Localização: Arapongas-PR. Empresa: Guaporé Pneus.",
+    whatsapp: "554330321911",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/admas.jpeg"
+  },
   
 
 
