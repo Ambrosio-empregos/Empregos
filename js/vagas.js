@@ -6192,6 +6192,17 @@ const vagas = [
     email: "sra.rhrecrutamento@gmail.com",
     banner: "banners/by.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Chapeiro",
+    empresa: "Hamburguers",
+    cidade: "Londrina",
+    descricao: "Oportunidade exclusiva para mulheres para o cargo de Chapeira na Hamburguers Sanduíches, com jornada de trabalho no período noturno.",
+    descricaoModal:"Requisitos: Vaga exclusiva para mulheres; proatividade; maior de 18 anos. Horário: Das 16h às 23h45. Empresa: Hamburguers Sanduíches.",
+    whatsapp: "5543996042826",
+    email: "",
+    banner: "banners/nana.jpeg"
+  },
 
 
 ];
