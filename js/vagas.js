@@ -5565,6 +5565,17 @@ const vagas = [
     email: "admcriart@gmail.com",
     banner: "banners/criartt.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Estágio em Pedagogia - Vespertino",
+    empresa: "CriArt",
+    cidade: "Londrina",
+    descricao: "A Escola CriArt está buscando um estagiário(A) em PEdagogia para trabalhar no período vespertino",
+    descricaoModal:"Envie seu currículo por Email ou por Whatsapp",
+    whatsapp: "554333571406",
+    email: "admcriart@gmail.com",
+    banner: "banners/criarttt.jpeg"
+  },
   
 
 
