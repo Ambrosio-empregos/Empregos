@@ -6544,6 +6544,17 @@ const vagas = [
     email: "prlojasrank@gmail.com",
     banner: "banners/avatim.jpg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Empregada Doméstica",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Empregada Doméstica Mensalista em Londrina/PR, para atuar em uma chácara de empresa localizada no Jardim Maria Lúcia.",
+    descricaoModal:"Requisitos: Que more na região do Leonor, Santiago ou Maria Lúcia. Informações: Trabalho em chácara de empresa no Jardim Maria Lúcia em Londrina.",
+    whatsapp: "554333484105",
+    email: "",
+    banner: "banners/leonor.jpg"
+  },
 
 
   
