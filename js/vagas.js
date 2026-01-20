@@ -5862,6 +5862,17 @@ const vagas = [
     email: "",
     banner: "banners/ems.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Eletricista",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Eletricista na EMS Engenharia com 4 vagas disponíveis, oferecendo salário base da construção civil e diversos benefícios como vale-compras de R$ 980,00.",
+    descricaoModal:"Requisitos e Benefícios: Necessário experiência na função; salário base da construção civil; vale-compras de R$ 980,00; café da manhã de R$ 8,00 por dia; seguro de vida; vale transporte. Vagas: 4 vagas disponíveis. Empresa: EMS Engenharia - Projeto e execução.",
+    whatsapp: "5543984075767",
+    email: "",
+    banner: "banners/emss.jpeg"
+  },
 
 
 ];
