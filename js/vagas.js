@@ -5675,6 +5675,17 @@ const vagas = [
     email: "curriculo@helpmultas.com",
     banner: "banners/helpp.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Auxiliar de Cozinha com experiência para atuar em restaurante buffet no Atlântico Shopping, com jornada no período diurno.",
+    descricaoModal:"Requisitos: Experiência prévia na função para atuação em restaurante buffet. Detalhes da Oportunidade: Horário de trabalho das 08:00 às 16:20. Localização: Atlântico Shopping.",
+    whatsapp: "5547988192632",
+    email: "",
+    banner: "banners/cozzz.jpeg"
+  },
   
 
 
