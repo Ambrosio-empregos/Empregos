@@ -5411,6 +5411,17 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Analista de Marketing Sr",
+    empresa: "Work On Time",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista de Marketing SR na Work on Time, com atuação estratégica em mídia paga e SEO, voltada para profissionais experientes em produtos de ticket médio ou alto.",
+    descricaoModal:"Responsabilidades: Atuar de forma estratégica e operacional no marketing com foco em crescimento; planejar, executar e otimizar campanhas de mídia paga; acompanhar e analisar indicadores de performance (CAC, CPL, ROAS); direcionar estratégias de copywriting e criativos; integrar as áreas de marketing e comercial.",
+    whatsapp: "5543996009566",
+    email: "",
+    banner: "banners/timewo.jpeg"
+  },
 
 
 ];
