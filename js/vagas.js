@@ -6236,6 +6236,17 @@ const vagas = [
     email: "julia.rh@tex3digital.com.br",
     banner: "banners/consult.jpeg"
   },
+  {
+    data: "2026-01-17",
+    titulo: "Gerente de Produção",
+    empresa: "Rainoah",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Gerente de Produção na Rainoah com início imediato, buscando profissionais com habilidades em gestão de pessoas e conhecimento técnico em PCP.",
+    descricaoModal:"Atividades: Gerenciar sistemas; definir plano operacional de produção; planejamento da produção; administrar a produção e a operação; implantar tecnologias e inovações; ter conhecimento na área de PCP. Requisitos: Gerenciar pessoas; desenvolver pessoas; gerir resultados; ser comunicativo; estar aberto a mudanças; disponibilidade em aprender. Informações da Vaga: Início imediato.",
+    whatsapp: "554333716910",
+    email: "",
+    banner: "banners/expe25.jpeg"
+  },
 
 
 ];
