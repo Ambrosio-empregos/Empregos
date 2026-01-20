@@ -6082,6 +6082,17 @@ const vagas = [
     email: "prlojasrank@gmail.com",
     banner: "banners/avatim.jpg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Frentista",
+    empresa: "Auto Posto Cupimzão",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Frentista em Cambé/PR no Auto Posto Cupimzão, com escala 6x1 e um pacote de benefícios que inclui vale-alimentação de R$ 739,70, comissão de vendas e Gympass.",
+    descricaoModal:"Requisitos: Experiência na área; escala 6x1 (folga fixa + 1 domingo de folga no mês) Benefícios: Vale-alimentação (739,70); Vale-transporte/combustível; Plano de Saúde; Convênio com faculdade; Comissão de vendas; Plano odontológico; Gympass. Localização: Av. Inglaterra, 88 Igapó, Londrina/PR. Empresa: Auto Posto Cupimzão.",
+    whatsapp: "5543999760164",
+    email: "rh@cupimcambé.com.br",
+    banner: "banners/cupinchoo.jpeg"
+  },
 
 
 ];
