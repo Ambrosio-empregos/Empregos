@@ -6489,6 +6489,17 @@ const vagas = [
     email: "",
     banner: "banners/baln.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Diarista",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Diarista em Londrina/PR para atuação fixa duas vezes por semana, especificamente às segundas e quintas-feiras.",
+    descricaoModal:"Requisitos: Diarista que tenha experiência. Informações: Trabalho 2x na semana, às segundas e quintas-feiras; Local: Londrina - PR.",
+    whatsapp: "5543996190999",
+    email: "",
+    banner: "banners/0999.jpeg"
+  },
 
   
 
