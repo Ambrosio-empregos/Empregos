@@ -5774,6 +5774,17 @@ const vagas = [
     email: "",
     banner: "banners/preg.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de faturameto",
+    empresa: "ATZ Pneus",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar de Faturamento na ATZ Pneus em Cambé/PR, voltada para profissionais com experiência na área e conhecimento em notas fiscais eletrônicas.",
+    descricaoModal:"Responsabilidades: Emissão, conferência e controle de notas fiscais; lançamento e conferência de dados no sistema de faturamento; arquivamento e organização de documentos fiscais; acompanhamento de processos de faturamento; atendimento a clientes e fornecedores para esclarecimento de dúvidas.",
+    whatsapp: "5543998270330",
+    email: "",
+    banner: "banners/comu.jpeg"
+  },
   
 
 
