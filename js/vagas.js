@@ -5488,6 +5488,17 @@ const vagas = [
     email: "",
     banner: "banners/frankk.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Atendente de Filial",
+    empresa: "Panvel",
+    cidade: "",
+    descricao: "Oportunidade para Atendente de Filial na PanVel, sem exigência de experiência prévia, destinada a maiores de 18 anos com ensino médio completo e pacote de benefícios atrativo.",
+    descricaoModal:"Requisitos: Ensino médio completo; ter 18 anos ou mais; não é necessário experiência, pois a empresa oferece treinamento. Benefícios: Vale transporte; vale alimentação e/ou refeição; plano de saúde Unimed; associação de funcionários (assistência odontológica + benefícios); bônus por resultado + participação nos lucros; auxílio farmácia (desconto de 10% a 40%); acesso ao WellHub (academias e bem-estar); programas de apoio à saúde mental;",
+    whatsapp: "5541992413773",
+    email: "",
+    banner: "banners/panvel.jpeg"
+  },
   
 
 
