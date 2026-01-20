@@ -6346,6 +6346,17 @@ const vagas = [
     email: "ckjlondrina@gmail.com",
     banner: "banners/calvin.jpeg"
   },
+  {
+    data: "2026-01-17", 
+    titulo: "Anfitrião de Hospedagem",
+    empresa: "Grupo Accor",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Anfitrião(ã) de Hospedagem em Maringá/PR com salário de R$ 2.144,35 e pacote robusto de benefícios, incluindo PPR e vale alimentação/refeição de R$ 630,00.",
+    descricaoModal:"Atividades: Recepcionar hóspedes; realizar atendimento presencial e telefônico; efetuar reservas; registrar solicitações, sugestões e reclamações; prestar informações e orientar hóspedes; encerrar contas, emitir NFs e conferir lançamentos; apoiar atendimento do restaurante e bar quando necessário; garantir organização das áreas sociais e cumprir padrões de recepção.",
+    whatsapp: "5543998088718",
+    email: "",
+    banner: "banners/anfi.jpeg"
+  },
 
 
 
