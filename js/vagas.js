@@ -5521,6 +5521,17 @@ const vagas = [
     email: "",
     banner: "banners/crr.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Angariador de Imóveis",
+    empresa: "Camponesa Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Angariador de Imóveis com salário fixo, comissionamento, treinamentos e ajuda de custo para profissionais com CNH A.",
+    descricaoModal:"Oferecemos: Salário fixo, ajuda de custo (vale alimentação e transporte), comissionamento e treinamentos. Requisitos: Profissional dinâmico, comunicativo, bom relacionamento interpessoal, conhecimento em informática, com experiência na área comercial e CNH A.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/imo.jpeg"
+  },
   
 
 
