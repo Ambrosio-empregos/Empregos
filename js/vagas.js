@@ -6159,6 +6159,17 @@ const vagas = [
     email: "julia.rh@tex3digital.com.br",
     banner: "banners/consult.jpeg"
   },
+  {
+    data: "2026-01-14",
+    titulo: "Auxiliar de Sushiman",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Sushiman em Londrina, com salário compatível conforme experiência, oferecendo benefícios como plano de saúde e odontológico.",
+    descricaoModal:"Requisitos: Ensino médio completo; não é necessário ter experiência (busca-se pessoas dispostas a aprender); perfil proativo e facilidade para trabalhar em equipe; residir em Londrina/PR.",
+    whatsapp: "5543991319691",
+    email: "",
+    banner: "banners/ssu.jpeg"
+  },
 
 
 ];
