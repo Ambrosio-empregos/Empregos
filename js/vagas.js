@@ -5499,6 +5499,28 @@ const vagas = [
     email: "",
     banner: "banners/panvel.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Auxiliar Financeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Financeiro em Londrina, destinada a profissionais proativos e organizados com experiência mínima de 6 meses na área.",
+    descricaoModal:"Perfil: Buscamos por um profissional proativo(a) e organizado(o). Requisitos: Ensino médio completo; experiência de 06 meses. Local: Londrina.",
+    whatsapp: "",
+    email: "rhrecrutamentolondrina2025@gmail.com",
+    banner: "banners/finn.jpeg"
+  },
+   {
+    data: "2026-01-15",
+    titulo: "Corretor de Imóvel",
+    empresa: "Empresa Não Identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor de Imóveis Autônomo com foco em perfil comercial, oferecendo ganhos por desempenho e possibilidade de crescimento profissional.",
+    descricaoModal:"Perfil e Requisitos: Perfil vendedor; facilidade em negociação; comprometimento com resultados. Modelo de Atuação: Atuação por comissão como Corretor de Imóveis Autônomo; ganhos por desempenho e foco em crescimento profissional.",
+    whatsapp: "5543988673265",
+    email: "",
+    banner: "banners/crr.jpeg"
+  },
   
 
 
