@@ -5580,12 +5580,23 @@ const vagas = [
     data: "2026-01-20", 
     titulo: "Garçom",
     empresa: "Casa do Dinossauro",
-    cidade: "Cambé",
+    cidade: "Londrina",
     descricao: "Oportunidade para Garçom em Londrina/PR com ganho médio acima de R$ 2.600,00 e diversos benefícios inclusos.",
     descricaoModal:"Carga Horária: Segunda a sexta das 16h00 às 00h20; sábados, domingos e feriados (sob escala) das 10h30 às 00h50 com intervalo maior; 44hs semanais (banco de horas); escala 6x1. Benefícios: Piso da categoria; 8% de assiduidade; adicional noturno; rateio de gorjeta; janta no local; plano de saúde participativo (após 90 dias); plano de carreira. Remuneração: Ganho médio acima de R$ 2.600,00.",
     whatsapp: "554430472200",
     email: "",
     banner: "banners/ssauro.jpeg"
+  },
+  {
+    data: "2026-01-20", 
+    titulo: "Almoxarife",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Almoxarife com experiência na função e CNH B, oferecendo pacote de benefícios que inclui prêmio assiduidade e convênio farmácia.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência anterior na função; CNH B em dia. Responsabilidades: Recebimento de mercadorias; controle e organização de estoque de almoxarifado; movimentação interna e externa de mercadorias; controle de entrada e saída de mercadorias. Benefícios: Vale alimentação; vale transporte; prêmio assiduidade; seguro de vida; convênio farmácia.",
+    whatsapp: "5543991757562",
+    email: "",
+    banner: "banners/rebo.jpeg"
   },
   
 
