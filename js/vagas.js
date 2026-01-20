@@ -7026,7 +7026,7 @@ const vagas = [
     descricaoModal:"Perfil: Ensino médio completo; capacidade e habilidade para lidar com pessoas; conhecimento Pacote Office; habilidades de comunicação, negociação, dinâmico e proativo; alta motivação por metas e objetivos; experiência em telefonia será um diferencial.",
     whatsapp: "5543991725729",
     email: "",
-    banner: "banners/leao.jpeg"
+    banner: "banners/bras.jpeg"
   },
 
 
