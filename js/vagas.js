@@ -6918,6 +6918,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/comrpomisso.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Mecânico de Empilhadeira",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Mecânico de Empilhadeira com salário inicial de R$ 3.500,00 (CLT) e benefícios integrais, exigindo experiência comprovada e CNH B.",
+    descricaoModal:"Descrição: Responsável por realizar manutenção preventiva e corretiva em empilhadeiras a gás e diesel, diagnosticando falhas mecânicas, elétricas e hidráulicas; realiza substituição de peças, ajustes, inspeções de rotina e testes de desempenho; segue normas de segurança e oferece suporte técnico aos operadores.",
+    whatsapp: "5544984012026",
+    email: "contato@principiurh.com.br",
+    banner: "banners/compromisso.jpeg"
+  },
 
 
 
