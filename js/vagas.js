@@ -6907,6 +6907,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/superv.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Coordenador Comercial",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Coordenador(a) Comercial na área de cosméticos, com remuneração fixa de R$ 5.000,00 (PJ) mais bonificações por metas, exigindo experiência em liderança de equipes B2B e B2C.",
+    descricaoModal:"Descrição: Coordenar, acompanhar e desenvolver o time comercial B2B e B2C; definir, acompanhar e garantir o cumprimento de metas individuais e coletivas de vendas; planejar estratégias comerciais para os canais de atuação.",
+    whatsapp: "5544984012026",
+    email: "contato@principiurh.com.br",
+    banner: "banners/compromisso.jpeg"
+  },
 
 
 
