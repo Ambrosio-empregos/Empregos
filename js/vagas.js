@@ -6841,6 +6841,17 @@ const vagas = [
     email: "vagasrecepcionista2024@gmail.com",
     banner: "banners/lazaror.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Auxiliar de Serviços gerais",
+    empresa: "Dinamica Multiservice",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Auxiliar de Serviços Gerais em Londrina/PR, com salário de R$ 2.029,09 e vale-alimentação de R$ 805,00, exigindo experiência em jardinagem e roçada.",
+    descricaoModal:"Requisitos: Vaga masculina; ter experiência em jardinagem e roçada. Horário: Segunda a sexta, das 08:00 às 17:00. Salário e Benefícios: R$ 2.029,09 de salário; R$ 82,60 de adicional; R$ 805,00 de vale-alimentação; vale-transporte. Empresa: Dinâmica Multiservice.",
+    whatsapp: "5543999438369",
+    email: "",
+    banner: "banners/noiva.jpeg"
+  },
 
 
 
