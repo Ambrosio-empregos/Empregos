@@ -5455,6 +5455,28 @@ const vagas = [
     email: "",
     banner: "banners/point.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Comercial",
+    empresa: "Vitallon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Setor Comercial em Rolândia-Pr na Vittallon Odontologia, exigindo proatividade, boa comunicação e disponibilidade para horário comercial.",
+    descricaoModal:"Requisitos: Proatividade; boa comunicação; vontade de aprender; empatia. Disponibilidade: Horário comercial. Localização: Rolândia-Pr.",
+    whatsapp: "5543991668246",
+    email: "",
+    banner: "banners/vitt.jpeg"
+  },
+  {
+    data: "2026-01-15",
+    titulo: "Motorista de Caminhão Noturno",
+    empresa: "Franco",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de Caminhão Noturno em Londrina, PR, com início às 14h, exigindo CNH C ou D e experiência comprovada em carteira.",
+    descricaoModal:"Requisitos: CNH categoria C ou D; experiência comprovada em carteira. Benefícios: Salário compatível; vale-alimentação Pluxee de R$ 32,50 por dia trabalhado (média de R$ 682,50 por mês); Wellhub (Gympass); plano de saúde Unimed 70%; cesta básica; convênios com faculdades Unicesumar e Anhanguera; parceria com o SEST/SENAT para serviços gratuitos de saúde; estacionamento gratuito no local; café matinal; plano de carreira;",
+    whatsapp: "5543999321137",
+    email: "",
+    banner: "banners/frank.jpeg"
+  },
 
 
 ];
