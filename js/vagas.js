@@ -5511,7 +5511,7 @@ const vagas = [
     banner: "banners/finn.jpeg"
   },
    {
-    data: "2026-01-15",
+    data: "2026-01-20",
     titulo: "Corretor de Imóvel",
     empresa: "Empresa Não Identificada",
     cidade: "Londrina",
