@@ -6676,6 +6676,17 @@ const vagas = [
     email: "",
     banner: "banners/cima.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Atendente Fixo",
+    empresa: "Django",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Hamburgueria com escala 6x1 e carga horária de 6 horas diárias, oferecendo bonificações e alimentação no local.",
+    descricaoModal:"Informações: Vaga para Atendente Fixo em hamburgueria; escala 6x1 com carga horária de 6 horas diárias. Requisitos: Perfil responsável, simpático e com agilidade; indispensável domínio na plataforma iFood e informática básica.",
+    whatsapp: "554333675077",
+    email: "",
+    banner: "banners/django.jpeg"
+  },
 
 
   
