@@ -6344,7 +6344,7 @@ const vagas = [
     descricaoModal:"Informações: Vaga para vendedor(a) interno; local Shopping Catuaí; comissionado + bonificações. Benefícios: Vale transporte; Vale alimentação; Plano de saúde co-participativo.",
     whatsapp: "5543999451558",
     email: "ckjlondrina@gmail.com",
-    banner: "banners/intercessao.jpeg"
+    banner: "banners/calvin.jpeg"
   },
    {
     data: "2026-01-17", 
