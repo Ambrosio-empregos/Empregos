@@ -6995,6 +6995,17 @@ const vagas = [
     email: "odontosempresaude@gmail.com",
     banner: "banners/odontoc.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Analista Administrativo e Operações",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade em regime PJ para Analista Administrativo e Operações (Nível Pleno) em Londrina/PR, com foco no setor aeronáutico e exigindo experiência com emissão de nota fiscal.",
+    descricaoModal:"Principais Requisitos: Experiência prévia em área administrativa e/ou operacional; experiência com emissão de nota fiscal; vivência com rotinas de empresa do setor aeronáutico; inglês será considerado um diferencial; boa organização, atenção aos detalhes e senso de prioridade; facilidade de comunicação e trabalho em equipe; perfil proativo e responsável.",
+    whatsapp: "554333719533",
+    email: "",
+    banner: "banners/abbaa.jpeg"
+  },
 
 
 
