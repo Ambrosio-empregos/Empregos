@@ -5268,6 +5268,17 @@ const vagas = [
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/imobc.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Atendente de Sorveteria",
+    empresa: "",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Atendente de Sorveteria em Arapongas, oferecendo salário compatível com a função, benefícios e um ambiente de trabalho agradável com chances de crescimento.",
+    descricaoModal:"Requisitos: Ensino Médio completo; habilidade com atendimento ao público; disponibilidade de dias e horários para trabalhar, inclusive finais de semana e feriados. Habilidades: Comunicação; produtividade e comprometimento; organização e limpeza; agilidade e vontade de aprender. Atribuições: Atendimento ao cliente e no caixa da loja;",
+    whatsapp: "5543991597711",
+    email: "valgas3007@gmail.com",
+    banner: "banners/pongas.jpeg"
+  },
 
 
 ];
