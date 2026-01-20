@@ -6764,6 +6764,17 @@ const vagas = [
     email: "",
     banner: "banners/rm828.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Analista de RH - Generalista",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista de RH Generalista com salário de R$ 3.000,00 e benefícios, atuando em rotinas de departamento pessoal, recrutamento e seleção em Londrina/PR.",
+    descricaoModal:"Responsabilidades: Acompanhamento de admissões, demissões, transferências e controle de ponto; estruturação e apoio em cargos, salários e benefícios; atendimento e suporte aos colaboradores; apoio na folha de pagamento (em parceria com a contabilidade); gestão e controle de benefícios; apoio em processos de recrutamento e seleção; interface com sistemas de RH e controle de documentos; suporte às rotinas administrativas do setor de RH.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/gene.jpeg"
+  },
 
 
   
