@@ -6346,6 +6346,17 @@ const vagas = [
     email: "ckjlondrina@gmail.com",
     banner: "banners/intercessao.jpeg"
   },
+   {
+    data: "2026-01-17", 
+    titulo: "Vendedor(a)",
+    empresa: "Calvin Klein",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) interno na Calvin Klein do Shopping Catuaí, com remuneração comissionada, bonificações e pacote de benefícios para profissionais proativos.",
+    descricaoModal:"Informações: Vaga para vendedor(a) interno; local Shopping Catuaí; comissionado + bonificações. Benefícios: Vale transporte; Vale alimentação; Plano de saúde co-participativo.",
+    whatsapp: "5543999451558",
+    email: "ckjlondrina@gmail.com",
+    banner: "banners/intercessao.jpeg"
+  },
 
 
 
