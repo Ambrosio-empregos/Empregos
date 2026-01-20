@@ -5554,6 +5554,17 @@ const vagas = [
     email: "admcriart@gmail.com",
     banner: "banners/criart.jpeg"
   },
+   {
+    data: "2026-01-20",
+    titulo: "Professor de Educação Física",
+    empresa: "CriArt",
+    cidade: "Londrina",
+    descricao: "A Escola CriArt está buscando um professor de Educação Física",
+    descricaoModal:"Oportunidade para trabalhar com crianças do ensino fundamental. Envie seu currículo por Email ou por Whatsapp",
+    whatsapp: "554333571406",
+    email: "admcriart@gmail.com",
+    banner: "banners/criartt.jpeg"
+  },
   
 
 
