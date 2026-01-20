@@ -6819,6 +6819,17 @@ const vagas = [
     email: "",
     banner: "banners/lazaro.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Recepcionista Jr",
+    empresa: "Jk premium Hotel e Eventos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista Jr. em hotel localizado na Av. Juscelino Kubitschek em Londrina, com escala 6x1 e pacote completo de benefícios, incluindo vale-alimentação de R$ 692,00.",
+    descricaoModal:"Perfil e Atividades: Experiência na recepção; proatividade; boa comunicação; atenção aos detalhes; bom relacionamento interpessoal; inglês intermediário. Horário: Escala 6X1, das 15:00 às 23:20. Benefícios: Vale-Alimentação de R$ 692,00; Seguro de Vida; Estacionamento na empresa; Convênio Médico (coparticipativo); Convênio Odontológico; Refeição no local de trabalho; Day off no dia do aniversário; TotalPass; C4Life; Vale-transporte ou auxílio combustível.",
+    whatsapp: "554321044211",
+    email: "",
+    banner: "banners/lazaroc.jpeg"
+  },
 
 
 
