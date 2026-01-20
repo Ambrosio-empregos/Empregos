@@ -5444,6 +5444,17 @@ const vagas = [
     email: "",
     banner: "banners/brooks.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Borracheiro",
+    empresa: "Point das Peças",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Borracheiro com experiência e Vendedor de pneus novos e usados na Point das Peças, localizada em Londrina, com salário a combinar.",
+    descricaoModal:"Vagas disponíveis: Borracheiro com experiência; Vendedor de pneus novos e usados. Observação: Salário a combinar. Localização: Rua Coroados, 80 (esquina com a Av. Dez de Dezembro). Empresa: Point das Peças - Vendas, Auto Peças e Recuperadora.",
+    whatsapp: "5543984252537",
+    email: "",
+    banner: "banners/point.jpeg"
+  },
 
 
 ];
