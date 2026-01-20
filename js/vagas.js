@@ -6049,6 +6049,17 @@ const vagas = [
     email: "rh@fauel.org.br",
     banner: "banners/fauell.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Jovem Aprendiz",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Jovem Aprendiz em Itajaí/SC com salário de R$ 1.337,21, jornada de 6 horas diárias de segunda a sexta e benefícios inclusos.",
+    descricaoModal:"Requisitos: Estar cursando ensino médio; ter entre 18 e 24 anos. Informações da Vaga: Salário de R$ 1.337,21; horário das 07h00 às 14h00, de segunda a sexta-feira; carga horária de 06 horas de trabalho. Benefícios: Vale Transporte; Refeição na empresa; Vale Alimentação. Local: Itajaí/SC.",
+    whatsapp: "5547992088529",
+    email: "",
+    banner: "banners/apre.jpeg"
+  },
 
 
 ];
