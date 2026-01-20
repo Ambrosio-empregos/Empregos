@@ -5928,6 +5928,17 @@ const vagas = [
     email: "",
     banner: "banners/cogu.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Oportunidde PCD",
+    empresa: "grupo Marajó",
+    cidade: "Londrina",
+    descricao: "Oportunidade exclusiva para pessoas com deficiência (PCD) no Grupo Marajó em Londrina-PR, incluindo vagas para profissionais 50+ e um pacote completo de benefícios.",
+    descricaoModal:"Local: Londrina-PR. Benefícios: Vale-Transporte; Vale-Refeição; Gympass; Plano de Saúde; Plano Odontológico; Day off; Convênios com farmácias e com o Sesc. Informações Adicionais: O Grupo Marajó oferece vagas para profissionais 50+ e PCD, acreditando em um ambiente de trabalho diverso e acessível. Empresa: Grupo Marajó.",
+    whatsapp: "",
+    email: "curriculo@marajo.com.br",
+    banner: "banners/pcdd.jpeg"
+  },
 
 
 ];
