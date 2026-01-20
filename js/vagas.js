@@ -5532,6 +5532,17 @@ const vagas = [
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/imo.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Vendedor",
+    empresa: "Todimo",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Vendedor(a) na unidade Saul Elkind da Todimo em Londrina-PR, com processo de seleção gerido pela Gestão de Pessoas Todimo.",
+    descricaoModal:"Detalhes da Oportunidade: A Todimo está com vaga aberta para a função de Vendedor(a)",
+    whatsapp: "5565992332605",
+    email: "",
+    banner: "banners/toca.jpeg"
+  },
   
 
 
