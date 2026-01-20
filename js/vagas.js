@@ -6126,6 +6126,17 @@ const vagas = [
     email: "rh@empinox.com.br",
     banner: "banners/nox.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Responsável de Loja",
+    empresa: "Loja de Aromas e Cosméticos",
+    cidade: "Londrina",
+    descricao: "Responsável de Loja (Loja de Aromas e Cosméticos) Descrição Externa (Card): Oportunidade feminina para Responsável de Loja em estabelecimento de aromas e cosméticos, com salário fixo de R$ 2.500,00 mais comissão e benefícios, exigindo experiência comprovada em gestão e prospecção.",
+    descricaoModal:"Requisitos: Perfil feminino (acima de 25 anos); profissional com experiência comprovada em gestão de vendas e gestão de equipe; profissional com experiência em prospecção de vendas externas através de ligações, WhatsApp e visitas externas; experiência com cosméticos e aromas será um diferencial.",
+    whatsapp: "5543991888128",
+    email: "",
+    banner: "banners/dhom.jpeg"
+  },
 
 
 ];
