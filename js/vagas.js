@@ -6808,6 +6808,18 @@ const vagas = [
     email: "dudalinalondrina@grupoac.net",
     banner: "banners/santo.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Recepcionista Sênior",
+    empresa: "Jk premium Hotel e Eventos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista Sênior em hotel localizado na Av. Juscelino Kubitschek, com escala 6x1 e diversos benefícios como vale-alimentação de R$ 692,00 e refeição no local.",
+    descricaoModal:"Perfil e Atividades: Executar procedimentos de recepção do check-in ao check-out; acompanhar hospedagens e solicitações; atuar conforme diretrizes, metas e valores da empresa; treinar e apoiar Recepcionistas Pleno e Júnior; contribuir para a superação das expectativas dos hóspedes.",
+    whatsapp: "554321044211",
+    email: "",
+    banner: "banners/lazaro.jpeg"
+  },
+
 
 
 
