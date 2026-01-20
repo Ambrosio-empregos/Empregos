@@ -6412,6 +6412,28 @@ const vagas = [
     email: "",
     banner: "banners/fogooo.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Atendente",
+    empresa: "Pão Bão",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Atendente em padaria localizada na Avenida São João em Londrina para quem deseja trabalhar em equipe.",
+    descricaoModal:"Oportunidade para a função de Atendente. Os currículos podem ser entregues por e-mail ou pessoalmente na padaria. Localização: Av. São João, 555 - Londrina PR.",
+    whatsapp: "5543999700659",
+    email: "paobao3324@gmail.com",
+    banner: "banners/rabacho.jpeg"
+  },
+   {
+    data: "2026-01-20",
+    titulo: "Consultor de Vendas",
+    empresa: "Innove Line - TIM",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor de Vendas na Inove Line (TIM) em Londrina, oferecendo comissões agressivas, plano de saúde mental e benefícios como férias coletivas e descontos em academias.",
+    descricaoModal:"Requisitos: Experiência em vendas; proatividade; responsabilidade; boa comunicação. Benefícios: Vale refeição; comissões agressivas; vale transporte; plano odontológico; plano de saúde mental; convênio com farmácia; desconto em academias parceiras; programa nutricional; reconhecimento no iver; férias coletivas.",
+    whatsapp: "5544998000712",
+    email: "",
+    banner: "banners/pdf.jpeg"
+  },
   
 
 
