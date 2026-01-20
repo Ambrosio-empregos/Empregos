@@ -5972,6 +5972,17 @@ const vagas = [
     email: "",
     banner: "banners/cos.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Vendedora",
+    empresa: "Avatim",
+    cidade: "Londrina",
+    descricao: "Vaga para Vendedora na unidade do Shopping Catuaí Londrina. Venha trabalhar com bem-estar e aromatização de ambientes!",
+    descricaoModal:"Vaga para o Shopping Catuaí Londrina. Requisitos: Ter mais de 25 anos, Ensino Médio completo, habilidade com vendas, proatividade e dinamismo",
+    whatsapp: "554333017869",
+    email: "prlojasrank@gmail.com",
+    banner: "banners/avatim.jpg"
+  },
 
 
 ];
