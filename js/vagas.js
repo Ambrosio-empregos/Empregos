@@ -5994,6 +5994,17 @@ const vagas = [
     email: "rh@camponesaimoveis.com.br",
     banner: "banners/corret.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Atendente de Locação",
+    empresa: "Camponesa imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Locação com foco em atendimento ao cliente e suporte administrativo.",
+    descricaoModal:"As atividades envolvem atendimento presencial e telefônico ao cliente, suporte em processos de locações, além da organização e digitação de documentos. A vaga busca profissionais comunicativos, organizados, responsáveis e ágeis. O pacote de benefícios inclui salário fixo, plano de saúde e ajuda de custo.",
+    whatsapp: "5543999321975",
+    email: "recrutamento.camponesa@gmail.com",
+    banner: "banners/loca.jpeg"
+  },
 
 
 ];
