@@ -6324,6 +6324,17 @@ const vagas = [
     email: "rh.seçecao@trepis.com.br",
     banner: "banners/roma12.jpeg"
   },
+  {
+    data: "2026-01-17", 
+    titulo: "Assistente de TI",
+    empresa: "TR Distribuidora de EPIs",
+    cidade: "Londrina",
+    descricao: "Oportunidade efetiva/CLT para Assistente de TI com remuneração entre R$ 2.000,00 e R$ 2.200,00, oferecendo suporte técnico de nível 1 e um pacote completo de benefícios corporativos.",
+    descricaoModal:"Atribuições: Suporte técnico de primeiro nível (N1), presencial e remoto; atendimento e registro de chamados; instalação e manutenção de computadores, impressoras e softwares; apoio à administração de redes, acessos e permissões; manutenção preventiva e corretiva básica; apoio a backups, segurança da informação e documentação de TI.",
+    whatsapp: "554333743395",
+    email: "rh.seçecao@trepis.com.br",
+    banner: "banners/intercessao.jpeg"
+  },
 
 
 
