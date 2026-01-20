@@ -5961,6 +5961,17 @@ const vagas = [
     email: "bobslondrina20@gmail.com",
     banner: "banners/bobs.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Costureira",
+    empresa: "Mini & CO",
+    cidade: "Londrina",
+    descricao: "Vaga para Costureira de Moda Bebê em empresa de confecções localizada em Londrina-PR, exigindo experiência comprovada e comprometimento.",
+    descricaoModal:"Requisitos: Experiência comprovada com costura; ter responsabilidade e comprometimento. Localização: Av. Tiradentes, próximo à Cacique e Parque Ney Braga.",
+    whatsapp: "5543991900794",
+    email: "",
+    banner: "banners/cos.jpeg"
+  },
 
 
 ];
