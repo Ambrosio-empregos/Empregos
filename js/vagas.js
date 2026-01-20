@@ -6885,6 +6885,18 @@ const vagas = [
     email: "",
     banner: "banners/analu.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Glow Park",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza no Glow Park em Londrina, com salário de R$ 1.790,00 acrescido de insalubridade e premiação, atuando em escala 6x1.",
+    descricaoModal:"Informações da vaga: Atuação como Auxiliar de Limpeza em Londrina. Remuneração e Benefícios: Salário de R$ 1.790,00; R$ 400,00 de premiação; adicional de 20% de insalubridade; Vale Transporte (VT); Vale Refeição (VR); Gympass.",
+    whatsapp: "5511921250383",
+    email: "",
+    banner: "banners/luto.jpeg"
+  },
+
 
 
 
