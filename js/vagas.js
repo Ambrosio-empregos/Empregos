@@ -6874,6 +6874,17 @@ const vagas = [
     email: "",
     banner: "banners/esposa.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Vendedora",
+    empresa: "Analu",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Analu Acessórios e Cosméticos, localizada na Avenida Saul Elkind, exigindo experiência em vendas de maquiagem e oferecendo salário do comércio mais comissões.",
+    descricaoModal:"Requisitos: Maiores de 18 anos; ensino médio completo; disponibilidade de horários; experiência em vendas de maquiagem. Remuneração: Salário fixo do comércio e comissões. Localização: Avenida Saul Elkind, 1285. Empresa: Analu Acessórios e Cosméticos.",
+    whatsapp: "5543999783242",
+    email: "",
+    banner: "banners/analu.jpeg"
+  },
 
 
 
