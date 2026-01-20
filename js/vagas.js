@@ -6709,6 +6709,17 @@ const vagas = [
     email: "",
     banner: "banners/mesa.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Caixa",
+    empresa: "Villa Melti",
+    cidade: "Londrina",
+    descricao: "O Villa Melti contrata Caixa!",
+    descricaoModal:"O Villa Melti contrata Caixa! Envie Seu currículo por email ou por Whatsapp",
+    whatsapp: "5543988249361",
+    email: "villamelti@gmail.com",
+    banner: "banners/desejado.jpeg"
+  },
 
 
   
