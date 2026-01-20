@@ -6973,6 +6973,17 @@ const vagas = [
     email: "",
     banner: "banners/jl.jpg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Vendedor",
+    empresa: "Connect Stands",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) na Connect Stands em Maringá – PR, atuando com vendas consultivas de stands corporativos em período integral e presencial.",
+    descricaoModal:"Requisitos: Perfil de atendimento Consultivo; ser organizado, comunicativo e pró-ativo; gostar de desafios e ser focado em resultados; residente em Maringá – PR. Sobre a Vaga: Realização de atendimento / vendas de stands corporativos para marcas nacionais / multinacionais; período Integral e presencial. Empresa: Connect Stands.",
+    whatsapp: "5543996588529",
+    email: "comercial@connectstands.com.br",
+    banner: "banners/connect.jpg"
+  },
 
 
 
