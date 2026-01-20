@@ -5324,7 +5324,7 @@ const vagas = [
     banner: "banners/opero.jpeg"
   },
    {
-    data: "2026-01-09",
+    data: "2026-01-15",
     titulo: "Vendedor",
     empresa: "Defina Banker",
     cidade: "Londrina",
