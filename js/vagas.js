@@ -6621,6 +6621,17 @@ const vagas = [
     email: "",
     banner: "banners/perfume.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Lidere Service",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza em regime 12x36 para atuação em condomínio, preferencialmente para profissionais com veículo próprio.",
+    descricaoModal:"Requisitos: Experiência na área; de preferência que tenha veículo. Informações: Vaga 12x36 para condomínio. Empresa: Lidere Service.",
+    whatsapp: "554333570326",
+    email: "",
+    banner: "banners/color.jpeg"
+  },
 
 
   
