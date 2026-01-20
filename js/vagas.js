@@ -6357,6 +6357,17 @@ const vagas = [
     email: "",
     banner: "banners/anfi.jpeg"
   },
+  {
+    data: "2026-01-17", 
+    titulo: "Promotor(a) de vendas",
+    empresa: "Super Muffato",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Promotor(a) de Vendas no Super Muffato em Maringá, com vagas inclusivas para PCD, 50+ e estrangeiros, oferecendo assistência de saúde e telemedicina.",
+    descricaoModal:"Informações: Vaga disponível para Promotor(a) de Vendas em Maringá; oportunidades inclusivas para PCD, 50+ (Melhor Idade) e Estrangeiros. O que oferecemos: Assistência de saúde; telemedicina; plano odontológico; telepsicologia; seguro de vida; assistência funeral; clube de vantagens; desconto em farmácias; Programa Contamos com Você (assiduidade); diversos programas de premiação; acompanhamento de gestantes; salas de amamentação; oportunidade de carreira; formação pela Uniffato.",
+    whatsapp: "5544988318645",
+    email: "",
+    banner: "banners/chemu.jpeg"
+  },
 
 
 
