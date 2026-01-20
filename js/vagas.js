@@ -6016,6 +6016,17 @@ const vagas = [
     email: "rh@cupimcambé.com.br",
     banner: "banners/cupincho.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Auxiliar Técnico de Ar Condicionado",
+    empresa: "LOndriSplit",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Técnico de Ar Condicionado na Londri Split, com salário fixo de R$ 1.600,00 e jornada de segunda a sexta-feira, sem exigência de experiência prévia.",
+    descricaoModal:"equisitos: Ter CNH categoria AB; não é necessário possuir experiência na função. Informações da Vaga: Salário fixo de R$ 1.600,00; jornada de trabalho de segunda-feira a sexta-feira. Empresa: Londri Split.",
+    whatsapp: "5543991815617",
+    email: "londrisplit@londrisplit.com.br",
+    banner: "banners/arr.jpeg"
+  },
 
 
 ];
