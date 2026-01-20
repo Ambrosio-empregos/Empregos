@@ -6478,6 +6478,17 @@ const vagas = [
     email: "",
     banner: "banners/lejonnn.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "consultor de Vendas",
+    empresa: "Empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "  Oportunidade para Consultor de Vendas em Balneário Camboriú com média salarial entre R$ 5 mil e R$ 15 mil, oferecendo treinamento completo e plano de carreira.",
+    descricaoModal:"Detalhes da Oportunidade: Vaga para consultor de vendas em Balneário Camboriú - SC; não precisa ter experiência; média salarial de R$ 5 mil à R$ 15 mil. Benefícios e Perfil: Oferece treinamento completo, suporte e acompanhamento para acelerar resultados, plano de carreira para crescimento dentro da empresa e ambiente de alta performance; busca-se candidatos com vontade de vencer e mudar de vida.",
+    whatsapp: "5547999433393",
+    email: "",
+    banner: "banners/baln.jpeg"
+  },
 
   
 
