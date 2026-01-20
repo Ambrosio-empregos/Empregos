@@ -5719,6 +5719,17 @@ const vagas = [
     email: "",
     banner: "banners/bi.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Operador de Máquinas",
+    empresa: "Grupo Recicla",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Operador de Máquinas em Maringá - PR, oferecendo um amplo pacote de benefícios que inclui almoço no local, cesta básica e prêmio assiduidade.",
+    descricaoModal:"Requisitos e Atividades: Responsável por realizar a classificação, organização e prensagem dos resíduos (papel, papelão e plástico); operar e inspecionar diariamente as máquinas de prensagem, destroçador e compactadora, garantindo o correto funcionamento e a segurança das operações; executar a amarração dos fardos, solicitar manutenção quando necessário e manter o local de trabalho limpo e organizado.",
+    whatsapp: "5551996233468",
+    email: "",
+    banner: "banners/reci.jpeg"
+  },
   
 
 
