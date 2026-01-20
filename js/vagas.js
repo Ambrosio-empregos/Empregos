@@ -5818,6 +5818,17 @@ const vagas = [
     email: "recrutamento@vsgold.com.br",
     banner: "banners/gold.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Auxiliar de LImpeza",
+    empresa: "VS Gold",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza na VS GOLD Academias em Londrina-PR e Cambé-PR, com diferentes opções de turnos e trabalho aos sábados em meio período.",
+    descricaoModal:"Informações da Vaga: Atuação em Londrina-PR e Cambé-PR; horários disponíveis de segunda a sexta-feira das 06h00 às 15h00 (unidades Cambé e Londrina) ou das 12h00 às 21h00 (unidade Londrina); jornada aos sábados em meio período. Empresa: VS GOLD ACADEMIAS.",
+    whatsapp: "5543988202359",
+    email: "recrutamento@vsgold.com.br",
+    banner: "banners/goldl.jpeg"
+  },
   
 
 
