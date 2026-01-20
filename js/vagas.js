@@ -6280,6 +6280,17 @@ const vagas = [
     email: "",
     banner: "banners/lepoo.jpeg"
   },
+  {
+    data: "2026-01-17",
+    titulo: "Auxiliar de Loja",
+    empresa: "Le Postiche",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Loja na Le Postiche, aberta para maiores de 18 anos com perfil proativo e disponibilidade de horário.",
+    descricaoModal:"Requisitos: Ser maior de 18 anos; experiência na função será um diferencial; proatividade; boa comunicação; vontade de aprender; disponibilidade de horário. Empresa: Le Postiche.",
+    whatsapp: "5543991355658",
+    email: "",
+    banner: "banners/lepooo.jpeg"
+  },
 
 
 
