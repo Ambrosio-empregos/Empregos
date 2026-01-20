@@ -5939,6 +5939,17 @@ const vagas = [
     email: "curriculo@marajo.com.br",
     banner: "banners/pcdd.jpeg"
   },
+   {
+    data: "2026-01-16",
+    titulo: "Secretária",
+    empresa: "Odonto 7",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Secretária na Odonto7 em Cambé, voltada para profissionais proativos com experiência em atendimento ao cliente e sistemas CRM.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência em atendimento ao cliente; ter excelentes habilidades de comunicação verbal e escrita; perfil proativo, organizado e focado em resultados; conhecimentos com informática e sistemas de agendamento; experiência com sistema de gestão (CRM). Empresa: Odonto7 Cambé.",
+    whatsapp: "5543988726810",
+    email: "",
+    banner: "banners/odo7.jpeg"
+  },
 
 
 ];
