@@ -6181,6 +6181,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/rh2.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Cobrador Interno",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Cobrador Interno com possibilidade de ganhos acima de R$ 3.500,00, jornada de segunda a sexta-feira e pacote de benefícios que inclui plano de saúde e odontológico.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência prévia na área de cobrança/financeiro; domínio do pacote Office; proatividade; atendimento ao cliente.",
+    whatsapp: "5543988004976",
+    email: "sra.rhrecrutamento@gmail.com",
+    banner: "banners/by.jpeg"
+  },
 
 
 ];
