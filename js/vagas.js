@@ -5763,6 +5763,17 @@ const vagas = [
     email: "",
     banner: "banners/doras.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Vendedor(a) Interno (LÍDER)",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) Interno (LÍDER) buscando profissionais com experiência prévia em vendas e CRM, com diferencial para quem possui conhecimento de porta pallets.",
+    descricaoModal:"Requisitos: Experiência prévia em vendas; boa comunicação; experiência com uso de CRM; domínio de ferramentas digitais; organização e foco em resultados; conhecimento de porta pallets (diferencial); capacidade de aprendizagem rápida.",
+    whatsapp: "5543991349146",
+    email: "",
+    banner: "banners/preg.jpeg"
+  },
   
 
 
