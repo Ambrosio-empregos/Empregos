@@ -5631,6 +5631,17 @@ const vagas = [
     email: "",
     banner: "banners/adi.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Ademicon",
+    cidade: "Londrina",
+    descricao: "A Ademicon Londrina Centro está contratando Consultor(a) de Vendas! Oportunidade para maiores de 18 anos com ganhos acima da média, flexibilidade e plano de crescimento.",
+    descricaoModal:"Requisitos e Benefícios: Buscamos pessoas comprometidas, comunicativas e dispostas a aprender (homens ou mulheres acima de 18 anos). Oferecemos ganhos acima da média, flexibilidade de horário, treinamento diário e oportunidade de crescimento. Local: Rua Paranaguá, nº 1266.",
+    whatsapp: "554333243090",
+    email: "",
+    banner: "banners/ademi.jpeg"
+  },
   
 
 
