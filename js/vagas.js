@@ -6060,6 +6060,17 @@ const vagas = [
     email: "",
     banner: "banners/apre.jpeg"
   },
+   {
+    data: "2026-01-20",
+    titulo: "Londrina",
+    empresa: "Shop Do Berna",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operadora de Vendas na Shop do Berna, com foco em atendimento online multicanal e organização de pedidos, sendo a experiência em vendas um diferencial.",
+    descricaoModal:"Atividades: Realizar atendimento online via WhatsApp, Instagram e site; separação de pedidos; prestar apoio na loja quando necessário; organização básica dos pedidos e produtos. Requisitos: Experiência com vendas é considerada um diferencial para a função. Empresa: Shop do Berna (@shopdoberna).",
+    whatsapp: "5543996448268",
+    email: "",
+    banner: "banners/beti.jpeg"
+  },
 
 
 ];
