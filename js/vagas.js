@@ -6698,6 +6698,17 @@ const vagas = [
     email: "",
     banner: "banners/sacada.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Vendedora",
+    empresa: "",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Vendedora em Cambé com horário de trabalho das 15h às 00h e escala aos finais de semana.",
+    descricaoModal:"Informações: Vaga para a função de Vendedora na unidade de Cambé. Horário: Das 15h às 00h, com trabalho aos finais de semana conforme escala.",
+    whatsapp: "5543996575200",
+    email: "",
+    banner: "banners/mesa.jpeg"
+  },
 
 
   
