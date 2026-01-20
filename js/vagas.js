@@ -7039,6 +7039,17 @@ const vagas = [
     email: "",
     banner: "banners/pontual.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Ajudante de Entrega",
+    empresa: "Montimó $",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Entrega na área de logística e entregas na loja Montimó 4, localizada na Av. Jamil Scaff em Londrina.",
+    descricaoModal:"Detalhes da Vaga: Atuação como ajudante de entrega no setor de logística da empresa. Localização: Av. Jamil Scaff, 850. Empresa: Montimó 4 - Materiais para construção em geral.",
+    whatsapp: "",
+    email: "curriculosmontimo4@hotmail.com",
+    banner: "banners/corde.jpeg"
+  },
 
 
 
