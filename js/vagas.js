@@ -6951,6 +6951,17 @@ const vagas = [
     email: "",
     banner: "banners/compros.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Garçonete",
+    empresa: "JL Pizzaria",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Garçonete na JL Pizzaria, exigindo perfil simpático e habilidade em fazer marmitas, com sistema de folgas semanais e dominicais.",
+    descricaoModal:"Requisitos: Simpática, proativa, organizada e responsável; saber fazer marmitas. Folgas: 1 folga na semana; 1 domingo ao mês. Empresa: JL Pizzaria.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/carisma.jpeg"
+  },
 
 
 
