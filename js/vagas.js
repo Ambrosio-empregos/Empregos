@@ -5807,6 +5807,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/admas.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Recepcionista",
+    empresa: "VS Gold",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista na VS GOLD Academias em Londrina-PR, com horários no período da tarde e noite e escala aos finais de semana.",
+    descricaoModal:"Informações da Vaga: Atuação em Londrina-PR; jornada de segunda a sexta-feira, nos horários das 14h15 às 23h30 ou das 17h15 às 23h30; trabalho aos finais de semana de forma escalonada. Empresa: VS GOLD ACADEMIAS.",
+    whatsapp: "5543988202359",
+    email: "recrutamento@vsgold.com.br",
+    banner: "banners/gold.jpeg"
+  },
   
 
 
