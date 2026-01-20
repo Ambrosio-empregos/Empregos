@@ -6916,7 +6916,7 @@ const vagas = [
     descricaoModal:"Descrição: Coordenar, acompanhar e desenvolver o time comercial B2B e B2C; definir, acompanhar e garantir o cumprimento de metas individuais e coletivas de vendas; planejar estratégias comerciais para os canais de atuação.",
     whatsapp: "5544984012026",
     email: "contato@principiurh.com.br",
-    banner: "banners/compromisso.jpeg"
+    banner: "banners/comrpomisso.jpeg"
   },
 
 
