@@ -7050,6 +7050,17 @@ const vagas = [
     email: "curriculosmontimo4@hotmail.com",
     banner: "banners/corde.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Técnico de Ar condicionado",
+    empresa: "Frilon",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Técnico de ar condicionado na Frilon, oferecendo salário compatível, vale transporte, alimentação e plano de saúde.",
+    descricaoModal:"Benefícios: Salário; Vale Transporte (VT); Alimentação; Plano de Saúde. Empresa: Frilon Ar Condicionado.",
+    whatsapp: "5543991035406",
+    email: "",
+    banner: "banners/frilon.jpeg"
+  },
 
 
 
