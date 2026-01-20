@@ -5917,6 +5917,17 @@ const vagas = [
     email: "rh@londrigifts.com.br",
     banner: "banners/gifts.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Auxiliar de Produção",
+    empresa: "AgroTec Cogumelos",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade feminina para Auxiliar de Produção em Ibiporã/PR no cultivo de cogumelos, com salário base de R$ 2.000,00 e bônus por assiduidade.",
+    descricaoModal:"Atividades: Auxiliar de produção no processo e cultivo de cogumelos (Shimeji e Shiitake). Requisitos: Sexo feminino; idade entre 25 a 45 anos; residir em Ibiporã; disponibilidade para fazer horas extras semanais e aos domingos (de 2 a 3 domingos ao mês) de acordo com a demanda da safra. Remuneração e Benefícios: Salário base de R$ 2.000,00; vale alimentação de R$ 200,00/mês; bônus por assiduidade de R$ 200,00/mês; vale transporte caso necessário; pagamento de 100% nas horas extras de domingos e feriados.",
+    whatsapp: "5543998389999",
+    email: "",
+    banner: "banners/cogu.jpeg"
+  },
 
 
 ];
