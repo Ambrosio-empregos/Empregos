@@ -6597,7 +6597,7 @@ const vagas = [
     descricaoModal:"A loja Billie em Londrina está contratando Vendedoras! Oferecemos contratos CLT ou Intermitente para atuação em Shoppings.",
     whatsapp: "5543999610289",
     email: "",
-    banner: "banners/billie.jpeg"
+    banner: "banners/mary.jpeg"
   },
 
 
