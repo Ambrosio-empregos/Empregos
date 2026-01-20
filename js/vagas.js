@@ -6863,6 +6863,17 @@ const vagas = [
     email: "financeiro@avanttrh.com",
     banner: "banners/tesouro.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Departamento de Cadastros",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Departamento de Cadastro com ganhos mensais entre R$ 2.500,00 e R$ 7.500,00, oferecendo plano de carreira e treinamento constante.",
+    descricaoModal:"Informações da vaga: Atuação no departamento de cadastro com ganhos mensais de R$ 2.500,00 até R$ 7.500,00. Requisitos e Diferenciais: Idade entre 18 e 30 anos; experiência em vendas é considerada um diferencial.",
+    whatsapp: "5543988083435",
+    email: "",
+    banner: "banners/esposa.jpeg"
+  },
 
 
 
