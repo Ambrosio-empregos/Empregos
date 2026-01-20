@@ -5433,6 +5433,17 @@ const vagas = [
     email: "",
     banner: "banners/benga.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Auxiliar de Caixa",
+    empresa: "BrooksField",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Caixa na Brooksfield do Catuaí Shopping Londrina, destinada a candidatas do sexo feminino com mais de 18 anos e conhecimento no sistema LINX.",
+    descricaoModal:"Requisitos: Maior de 18 anos; sexo feminino; disponibilidade de horário; conhecimento do sistema LINX. Benefícios: Salário de R$ 2.400,00; convênio médico Bradesco; convênio academia Wellhub; vale refeição; vale transporte.",
+    whatsapp: "5511991654836",
+    email: "",
+    banner: "banners/brooks.jpeg"
+  },
 
 
 ];
