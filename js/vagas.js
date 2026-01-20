@@ -5312,6 +5312,17 @@ const vagas = [
     email: "",
     banner: "banners/homi.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Operador de Máquinas",
+    empresa: "Empresa não identificada",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Operador de Máquinas em Rolândia, PR, voltada para profissionais com ensino médio completo e experiência comprovada na operação de guilhotina, dobradeira e prensa.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência comprovada na operação de guilhotina, dobradeira e prensa; conhecimento sobre desenhos técnicos, ordens de produção e ajustes básicos do maquinário; conhecimento básico de metrologia (trena, paquímetro, esquadro, etc.)",
+    whatsapp: "5543991349146",
+    email: "",
+    banner: "banners/opero.jpeg"
+  },
 
 
 ];
