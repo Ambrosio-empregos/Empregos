@@ -6599,6 +6599,17 @@ const vagas = [
     email: "",
     banner: "banners/mary.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Operador de Caixa / Atendente",
+    empresa: "Rei do Mate",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador(a) de caixa/atendente na franquia Rei do Mate em Londrina/PR, com salário de R$ 1.980,00 + 10% e regime de escala 12x36h.",
+    descricaoModal:"Informações: Vaga para Operador(a) de caixa/atendente; regime de trabalho 12x36h, das 10:00 às 22:00h; localidade Londrina/PR. Salário e Benefícios: R$ 1.980,00 + 10%; vale transporte e refeição por dia trabalhado.",
+    whatsapp: "5569981344444",
+    email: "",
+    banner: "banners/boo.jpeg"
+  },
 
 
   
