@@ -6027,6 +6027,17 @@ const vagas = [
     email: "londrisplit@londrisplit.com.br",
     banner: "banners/arr.jpeg"
   },
+   {
+    data: "2026-01-16",
+    titulo: "Assistente de Projetos",
+    empresa: "Fauel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Projetos na FAUEL com remuneração de R$ 2.800,00 e pacote de benefícios, voltada para profissionais das áreas de Administração, Secretariado ou Gestão.",
+    descricaoModal:"Atividades: Realizar análise sobre a viabilidade administrativa e financeira das propostas de Projetos; orientar a elaboração de projetos e planos de trabalho; prestar orientações para o desenvolvimento dos Projetos; acompanhar cronogramas de execução e elaborar documentos oficiais. Requisitos: Formação em Administração, Secretariado Executivo ou Gestão de Projetos; experiência em Fundações de Apoio ou Terceiro Setor (diferencial);",
+    whatsapp: "",
+    email: "rh@fauel.org.br",
+    banner: "banners/fauel.jpeg"
+  },
 
 
 ];
