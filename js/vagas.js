@@ -5477,6 +5477,18 @@ const vagas = [
     email: "",
     banner: "banners/frank.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "Motorista de Caminhão Chopp",
+    empresa: "Franco",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de Caminhão Chopp em Londrina, PR, exigindo CNH C ou D e experiência comprovada em carteira.",
+    descricaoModal:"Requisitos: CNH categoria C ou D; experiência comprovada em carteira. Benefícios: Salário compatível; vale-alimentação Pluxee de R$ 32,50 por dia trabalhado (média de R$ 682,50 por mês); Wellhub (Gympass); plano de saúde Unimed 70%; cesta básica; convênios com faculdades Unicesumar e Anhanguera; parceria com o SEST/SENAT para serviços gratuitos de saúde; estacionamento gratuito no local; café matinal; plano de carreira;",
+    whatsapp: "5543999321137",
+    email: "",
+    banner: "banners/frankk.jpeg"
+  },
+  
 
 
 ];
