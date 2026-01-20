@@ -6511,6 +6511,17 @@ const vagas = [
     email: "",
     banner: "banners/iuventus.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Auxiliar de Costura",
+    empresa: "Vivânce Fitness",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Costura no segmento de moda fitness, localizada próximo ao Shopping Norte em Londrina, com salário de R$ 1.650,00 e bônus de assiduidade.",
+    descricaoModal:"Atividades: Tirar linha, refilar, contar, cortar elásticos conforme medidas, marcar bojo, separar corte e auxiliar os demais setores conforme necessidade. Requisitos: Não é necessário experiência; a partir de 17 anos (se tiver terminado a escola ou estudar à noite); residir em Londrina.",
+    whatsapp: "5547992928254",
+    email: "",
+    banner: "banners/pabu.jpeg"
+  },
 
 
   
