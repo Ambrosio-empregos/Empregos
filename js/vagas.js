@@ -7006,6 +7006,29 @@ const vagas = [
     email: "",
     banner: "banners/abbaa.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Consultor(a) de Captação e Relacionamento com clientes",
+    empresa: "GB Beauty Estética Londrina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Captação e Relacionamento com Clientes em Londrina, para trabalho presencial em meio período, exigindo experiência prévia.",
+    descricaoModal:"Detalhes da Vaga: Trabalho presencial na clínica; vaga para meio período. Requisitos: Com experiência; habilidades em marketing e preenchimento de planilhas. Empresa: GB Beauty Estética Londrina.",
+    whatsapp: "5543996452545",
+    email: "",
+    banner: "banners/leao.jpeg"
+  },
+  {
+    data: "2026-01-20",
+    titulo: "Vendedor(a)",
+    empresa: "Móveis Brasília",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na VIVO em Ibiporã - PR, oferecendo comissão agressiva, vale transporte e oportunidade de crescimento.",
+    descricaoModal:"Perfil: Ensino médio completo; capacidade e habilidade para lidar com pessoas; conhecimento Pacote Office; habilidades de comunicação, negociação, dinâmico e proativo; alta motivação por metas e objetivos; experiência em telefonia será um diferencial.",
+    whatsapp: "5543991725729",
+    email: "",
+    banner: "banners/leao.jpeg"
+  },
+
 
 
 
