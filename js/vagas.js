@@ -5785,6 +5785,17 @@ const vagas = [
     email: "",
     banner: "banners/comu.jpeg"
   },
+   {
+    data: "2026-01-16", 
+    titulo: "Auxiliar de Limpeza",
+    empresa: "",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar de Limpeza em Cambé",
+    descricaoModal:"Envie seu currículo para o Whatsapp",
+    whatsapp: "5543996575200",
+    email: "",
+    banner: "banners/ç.jpeg"
+  },
   
 
 
