@@ -6830,6 +6830,17 @@ const vagas = [
     email: "",
     banner: "banners/lazaroc.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Secretária",
+    empresa: "N3",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Secretária com experiência na área clínica para atuar na N3 em Londrina, oferecendo salário compatível e benefícios.",
+    descricaoModal:"Requisitos: Experiência comprovada na área clínica; boa comunicação, organização e proatividade; domínio de informática. Remuneração: Salário + benefícios. Empresa: N3 Neurologia, Neurocirurgia e Neuropediatria.",
+    whatsapp: "",
+    email: "vagasrecepcionista2024@gmail.com",
+    banner: "banners/lazaror.jpeg"
+  },
 
 
 
