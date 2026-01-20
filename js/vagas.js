@@ -6665,6 +6665,17 @@ const vagas = [
     email: "",
     banner: "banners/asscad.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "Faxineira",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga de Faxineira",
+    descricaoModal:"Envie seu currículo pelo whatsapp, clicando no ícone do whatsapp!",
+    whatsapp: "5543988129242",
+    email: "",
+    banner: "banners/cima.jpeg"
+  },
 
 
   
