@@ -6929,6 +6929,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/compromisso.jpeg"
   },
+  {
+    data: "2026-01-19", 
+    titulo: "Telemarketing",
+    empresa: "Negoci.ia",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Recepção no GoldMen Select em Maringá, responsável pelo atendimento ao público e suporte aos hóspedes.",
+    descricaoModal:"Atribuições: Responsável pelo atendimento ao público presencialmente, por telefone, WhatsApp e e-mail; auxiliar na realização de check-ins e check-outs; suporte aos hóspedes; controle de chaves e cartões de acesso; organização de reservas para o dia seguinte.",
+    whatsapp: "5544997309246",
+    email: "contato@principiurh.com.br",
+    banner: "banners/desis.jpeg"
+  },
 
 
 
