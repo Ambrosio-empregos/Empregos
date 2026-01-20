@@ -7028,6 +7028,18 @@ const vagas = [
     email: "",
     banner: "banners/bras.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Servente de Limpeza",
+    empresa: "Hospital Zona Sul de Londrina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Servente de Limpeza no Hospital Zona Sul de Londrina/PR, atuando em escala 12x36 durante o período diurno.",
+    descricaoModal:"Detalhes da Vaga: Atuação como Servente de Limpeza para o Hospital Zona Sul de Londrina/PR. Horário: Escala 12X36, das 07:00 às 19:00. Empresa: Pontual.",
+    whatsapp: "5541988847334",
+    email: "",
+    banner: "banners/pontual.jpeg"
+  },
+
 
 
 
