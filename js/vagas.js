@@ -5609,6 +5609,17 @@ const vagas = [
     email: "rh@reboucas.com.br",
     banner: "banners/reboc.jpeg"
   },
+  {
+    data: "2026-01-20", 
+    titulo: "Pré-vendas (SDR)",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Pré-Vendas (SDR) em Londrina com início imediato, voltada para profissionais com experiência na área comercial e disponibilidade para trabalhar de segunda a sábado.",
+    descricaoModal:"Requisitos: Experiência na área comercial; boa comunicação verbal e escrita; disponibilidade para atuar de segunda a sábado. Informações da Vaga: Início imediato; modelo presencial. Localização: Londrina.",
+    whatsapp: "5511977600570",
+    email: "",
+    banner: "banners/sdr.jpeg"
+  },
   
 
 
