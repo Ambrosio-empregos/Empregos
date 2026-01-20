@@ -5841,7 +5841,7 @@ const vagas = [
     banner: "banners/opemufa.jpg"
   },
   {
-    data: "2026-01-10",
+    data: "2026-01-16",
     titulo: "Vaga Masculina em Lanchonete",
     empresa: "Empresa não identificada",
     cidade: "Londrina",
@@ -5850,6 +5850,17 @@ const vagas = [
     whatsapp: "5543999600625",
     email: "",
     banner: "banners/lanc.jpeg"
+  },
+  {
+    data: "2026-01-16",
+    titulo: "Encanador",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Encanador na EMS Engenharia com 5 vagas disponíveis, oferecendo salário base da construção civil e diversos benefícios como vale-compras de R$ 980,00.",
+    descricaoModal:"Requisitos e Benefícios: Necessário experiência na função; salário base da construção civil; vale-compras de R$ 980,00; café da manhã de R$ 8,00 por dia; seguro de vida; vale transporte. Vagas: 5 vagas disponíveis. Empresa: EMS Engenharia - Projeto e execução.",
+    whatsapp: "5543984075767",
+    email: "",
+    banner: "banners/ems.jpeg"
   },
 
 
