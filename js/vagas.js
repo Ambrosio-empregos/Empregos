@@ -5685,7 +5685,8 @@ const vagas = [
     whatsapp: "5547988192632",
     email: "",
     banner: "banners/ph.jpeg"
-  },{
+  },
+  {
     data: "2026-01-20",
     titulo: "Atendente",
     empresa: "Atlantico Shopping",
@@ -5694,7 +5695,18 @@ const vagas = [
     descricaoModal:"Requisitos: Ensino médio completo; boa comunicação verbal e habilidade para lidar com o público; capacidade de resolver problemas e lidar com situações de estresse; flexibilidade de horário, incluindo a disponibilidade para trabalhar nos finais de semana. Detalhes da Oportunidade: Horário das 14h às 22:20. Localização: Shopping Atlântico, Balneário Camboriú.",
     whatsapp: "5547988192632",
     email: "",
-    banner: "banners/atend.jpeg"
+    banner: "banners/bc.jpeg"
+  },
+  {
+    data: "2026-01-15",
+    titulo: "Atendente",
+    empresa: "JRA Transportes",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Motorista categorias C ou D na JRA Transportes, para a realização de viagens estaduais e interestaduais.",
+    descricaoModal:"Vaga: Motorista Categoria C / D. Atividades: Viagens estaduais e interestaduais. Empresa: JRA Transportes.",
+    whatsapp: "5544991483851",
+    email: "",
+    banner: "banners/jara.jpeg"
   },
   
 
