@@ -5595,8 +5595,19 @@ const vagas = [
     descricao: "Oportunidade para Almoxarife com experiência na função e CNH B, oferecendo pacote de benefícios que inclui prêmio assiduidade e convênio farmácia.",
     descricaoModal:"Requisitos: Ensino médio completo; experiência anterior na função; CNH B em dia. Responsabilidades: Recebimento de mercadorias; controle e organização de estoque de almoxarifado; movimentação interna e externa de mercadorias; controle de entrada e saída de mercadorias. Benefícios: Vale alimentação; vale transporte; prêmio assiduidade; seguro de vida; convênio farmácia.",
     whatsapp: "5543991757562",
-    email: "",
+    email: "rh@reboucas.com.br",
     banner: "banners/rebo.jpeg"
+  },
+  {
+    data: "2026-01-20", 
+    titulo: "Assistente Comercial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Comercial com ensino médio completo, oferecendo salário compatível com a função acrescido de benefícios e comissões.",
+    descricaoModal:"Requisitos: Ensino médio completo; técnicas de atendimento ao cliente; boa comunicação oral e escrita. Responsabilidades: Apresentar propostas comerciais, tabelas de preços e promoções; tirar dúvidas dos clientes quanto aos produtos, prazos e condições; organizar as documentações e os processos de venda. Remuneração: Salário compatível com a função + benefícios + comissão.",
+    whatsapp: "5543991757562",
+    email: "rh@reboucas.com.br",
+    banner: "banners/reboc.jpeg"
   },
   
 
