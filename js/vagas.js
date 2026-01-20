@@ -6588,6 +6588,17 @@ const vagas = [
     email: "",
     banner: "banners/crr.jpeg"
   },
+  {
+    data: "2026-01-19",
+    titulo: "vendedora",
+    empresa: "Billie",
+    cidade: "Londrina",
+    descricao: "A loja Billie em Londrina está contratando Vendedoras! Oferecemos contratos CLT ou Intermitente para atuação em Shoppings.",
+    descricaoModal:"A loja Billie em Londrina está contratando Vendedoras! Oferecemos contratos CLT ou Intermitente para atuação em Shoppings.",
+    whatsapp: "5543999610289",
+    email: "",
+    banner: "banners/billie.jpeg"
+  },
 
 
   
