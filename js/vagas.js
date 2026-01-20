@@ -5543,6 +5543,17 @@ const vagas = [
     email: "",
     banner: "banners/toca.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Estágio em Pedagogia",
+    empresa: "CriArt",
+    cidade: "Londrina",
+    descricao: "A Escola CriArt está buscando um estagiário(A) em PEdagogia",
+    descricaoModal:"Envie seu currículo por Email ou por Whatsapp",
+    whatsapp: "554333571406",
+    email: "admcriart@gmail.com",
+    banner: "banners/criart.jpeg"
+  },
   
 
 
