@@ -5664,6 +5664,17 @@ const vagas = [
     email: "carlosdeabreujunior.financeiro@gmail.com",
     banner: "banners/carlo.jpeg"
   },
+  {
+    data: "2026-01-20",
+    titulo: "Vendedor(a)",
+    empresa: "Help Multas",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Vendedor(a) Interno na Help Itajaí, oferecendo remuneração composta por salário fixo mais comissões atrativas e treinamentos constantes.",
+    descricaoModal:"Detalhes da Função: Atuação como Vendedor(a) Interno na Help Itajaí. Jornada de Trabalho: Segunda a sexta-feira. Remuneração e Benefícios: Salário fixo; comissões atrativas sobre as vendas; vale-alimentação; campanhas e premiações exclusivas para o time de vendedores; treinamentos constantes para desenvolvimento profissional.",
+    whatsapp: "5542998008393",
+    email: "curriculo@helpmultas.com",
+    banner: "banners/helpp.jpeg"
+  },
   
 
 
