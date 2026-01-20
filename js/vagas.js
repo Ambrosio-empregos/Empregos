@@ -6553,7 +6553,7 @@ const vagas = [
     descricaoModal:"Requisitos: Que more na região do Leonor, Santiago ou Maria Lúcia. Informações: Trabalho em chácara de empresa no Jardim Maria Lúcia em Londrina.",
     whatsapp: "554333484105",
     email: "",
-    banner: "banners/leonor.jpg"
+    banner: "banners/leonor.jpeg"
   },
   {
     data: "2026-01-19",
