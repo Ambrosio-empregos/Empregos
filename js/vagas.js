@@ -6258,6 +6258,17 @@ const vagas = [
     email: "RH.RP@HOTMAIL.COM",
     banner: "banners/enfee.jpeg"
   },
+  {
+    data: "2026-01-17",
+    titulo: "Estágio remunerado de DIREITO",
+    empresa: "Benedetti",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Enfermagem em meio período na Benedetti Advocacia em Londrina, oferecendo um amplo pacote de benefícios, incluindo plano de cargos e prêmio por metas.",
+    descricaoModal:"Funções: Prestar orientação interna aos clientes; suporte à equipe no andamento dos processos de auxílio-doença, assegurando organização e atendimento humanizado. Requisitos: Formação em Auxiliar de Enfermagem; boa comunicação oral e escrita; ter vivência em hospitais será um diferencial.",
+    whatsapp: "",
+    email: "RH.RP@HOTMAIL.COM",
+    banner: "banners/roma.jpeg"
+  },
 
 
 ];
