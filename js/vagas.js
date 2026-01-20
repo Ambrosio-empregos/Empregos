@@ -5313,7 +5313,7 @@ const vagas = [
     banner: "banners/homi.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-15",
     titulo: "Operador de Máquinas",
     empresa: "Empresa não identificada",
     cidade: "Rolândia",
