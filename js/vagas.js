@@ -5640,7 +5640,18 @@ const vagas = [
     descricaoModal:"Requisitos e Benefícios: Buscamos pessoas comprometidas, comunicativas e dispostas a aprender (homens ou mulheres acima de 18 anos). Oferecemos ganhos acima da média, flexibilidade de horário, treinamento diário e oportunidade de crescimento. Local: Rua Paranaguá, nº 1266.",
     whatsapp: "554333243090",
     email: "",
-    banner: "banners/ademi.jpeg"
+    banner: "banners/ale.jpeg"
+  },
+  {
+    data: "2026-01-20",
+    titulo: "Costureira",
+    empresa: "SoftDream",
+    cidade: "Maringá",
+    descricao: "A SoftDream está contratando Costureira com salário fixo de R$ 2.500,00, bonificação por produção e jornada de trabalho de segunda a sexta-feira.",
+    descricaoModal:"Benefícios e Detalhes: Salário fixo de R$ 2.500,00, Vale-alimentação de R$ 240,00, Vale-transporte pago em dinheiro e bonificação por produção (ganho extra). O regime de trabalho é de segunda a sexta-feira.",
+    whatsapp: "5544999064743",
+    email: "",
+    banner: "banners/inter.jpeg"
   },
   
 
