@@ -5290,6 +5290,17 @@ const vagas = [
     email: "",
     banner: "banners/inove.jpeg"
   },
+  {
+    data: "2026-01-15",
+    titulo: "vendedora",
+    empresa: "Billie",
+    cidade: "Londrina",
+    descricao: "A loja Billie em Londrina está contratando Vendedoras! Oferecemos contratos CLT ou Intermitente para atuação no Centro e em Shoppings, incluindo o Catuaí.",
+    descricaoModal:"Informações sobre a Vaga: Contratação para os regimes CLT ou Intermitente. No contrato Intermitente (específico para o Shopping Catuaí), a jornada é realizada conforme a demanda da empresa e disponibilidade do candidato, com pagamento proporcional e direitos garantidos por lei.",
+    whatsapp: "5543999610289",
+    email: "",
+    banner: "banners/billie.jpeg"
+  },
 
 
 ];
