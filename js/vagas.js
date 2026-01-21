@@ -7435,6 +7435,17 @@ const vagas = [
     email: "jobs@seven.online",
     banner: "banners/agente.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Assistente de Relacionamento e Atendimento ao Cliente",
+    empresa: "Benedetti",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Relacionamento e Atendimento ao Cliente em Londrina, oferecendo diversos benefícios como Total Pass, plano de cargos e salários e prêmio semestral por metas.",
+    descricaoModal:"Funções: Atendimento inicial aos clientes e prestação de informações administrativas; agendamento de consultas e organização de agendas; organização e controle de documentos; atualização de dados no sistema/CRM; atendimento por telefone, WhatsApp e e-mail; apoio às rotinas administrativas e institucionais.",
+    whatsapp: "",
+    email: "RH.RP@HOTMAIL.COM",
+    banner: "banners/bene.jpeg"
+  },
 
 
 
