@@ -7501,6 +7501,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/muri.jpeg"
   },
+   {
+    data: "2026-01-21",
+    titulo: "Televendas Atacado de Embalagens",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Televendas em Paiçandu com 3 vagas disponíveis, oferecendo salário fixo de R$ 2.000,00 mais comissões, bônus por metas e diversos benefícios.",
+    descricaoModal:"Descrição: Atuar com prospecção e vendas de embalagens alimentícias em uma indústria de Paiçandu; vendas ativas com prospecção e atendimento aos leads, uso diário de CRM e outras ferramentas; trabalho com metas para todo o Brasil.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/atac.jpeg"
+  },
 
 
 
