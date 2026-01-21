@@ -7193,6 +7193,17 @@ const vagas = [
     email: "francyelaademicon@gmail.com",
     banner: "banners/adil.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Vendedora",
+    empresa: "Outlet.GO",
+    cidade: "Londrina",
+    descricao: "Vaga de Vendedora na Outlet.Go em Londrina (Av. Winston Churchill). Início imediato com salário fixo mensal!",
+    descricaoModal:"Requisitos: Experiência comprovada em vendas de qualquer segmento, boa comunicação, responsabilidade, comprometimento e proatividade. Preferência para quem mora na região norte de Londrina.",
+    whatsapp: "5543991229366",
+    email: "",
+    banner: "banners/outlet.jpg"
+  },
   
 
 
