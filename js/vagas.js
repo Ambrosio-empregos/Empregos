@@ -7083,6 +7083,28 @@ const vagas = [
     email: "dudalinalondrina@grupoac.net",
     banner: "banners/santo.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Consultor(A) de Vendas",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de Vendas na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 4.000,00 e R$ 5.000,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/dudi.jpeg"
+  },
+   {
+    data: "2026-01-21", 
+    titulo: "Servente",
+    empresa: "Urban Green",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Servente na Urban Green, oferecendo salário da categoria mais benefícios como plano de saúde e vale alimentação.",
+    descricaoModal:"Benefícios e Remuneração: Salário fixo da categoria; plano de saúde; vale alimentação. Empresa: Urban Green.",
+    whatsapp: "554330292280",
+    email: "",
+    banner: "banners/green.jpeg"
+  },
 
 
 
