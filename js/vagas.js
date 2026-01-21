@@ -7149,6 +7149,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/prin.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Supervisor de Produção",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Supervisor de Produção com remuneração de R$ 3.500,00 e benefícios, atuando na gestão de equipes operacionais e processos produtivos de marcenaria industrial em horário comercial de segunda a sexta.",
+    descricaoModal:"Responsabilidades: Gestão de pessoas da área operacional (produção e apoio); coordenação e estruturação dos processos produtivos da marcenaria industrial; gestão de resultados e acompanhamento de indicadores de produção; acompanhamento diário da produção, garantindo qualidade, prazos e eficiência;",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/aff.jpeg"
+  },
 
 
 
