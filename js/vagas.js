@@ -7270,6 +7270,17 @@ const vagas = [
     email: "thomas.carvalho@gtf.com.br",
     banner: "banners/ling.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "MEcânico Automotivo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico Automotivo com experiência em montagem e desmontagem de motores, atuando em linha leve ou pesada (motos, carros e caminhões).",
+    descricaoModal:"escrição: Contratação de mecânico automotivo com experiência em montagem e desmontagem de motores; atuação em linha leve ou pesada, incluindo motos, carros e caminhões.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/caxias.jpeg"
+  },
 
 
 
