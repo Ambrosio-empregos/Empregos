@@ -7237,6 +7237,17 @@ const vagas = [
     email: "",
     banner: "banners/graca.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor com ganhos entre R$ 3.000,00 e R$ 13.000,00, oferecendo benefícios como participação de lucros e viagens com a empresa.",
+    descricaoModal:"Requisitos: Foco; proatividade; boa comunicação; vontade de aprender; com ou sem experiência na área. Benefícios: Salário de R$ 3.000,00 a R$ 13.000,00; vale transporte; participação de lucros; viagens da empresa; treinamentos constantes; plano de carreira.",
+    whatsapp: "5544999916417",
+    email: "carlosdeabreujunior.financeiro@gmail.com",
+    banner: "banners/carlo.jpeg"
+  },
 
 
 
