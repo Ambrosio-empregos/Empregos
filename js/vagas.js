@@ -7554,7 +7554,7 @@ const vagas = [
     descricaoModal:"Requisitos: Idade entre 18 e 30 anos; boa comunicação e experiência com vendas são considerados diferenciais. Oferecemos: Rendimentos a partir de R$ 2.000,00, treinamento e acompanhamento constante, além de um plano de carreira estabelecido.",
     whatsapp: "5543991241112",
     email: "",
-    banner: "banners/auxco.jpeg"
+    banner: "banners/queri.jpeg"
   },
 
 
