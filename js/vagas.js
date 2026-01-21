@@ -7556,6 +7556,17 @@ const vagas = [
     email: "",
     banner: "banners/queri.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Técnico de Manutenção",
+    empresa: "Max Elevadores & Engenharia",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Técnico de Manutenção na Max Elevadores & Engenharia, com jornada de 44h semanais e exigência de conhecimentos técnicos em normas de segurança.",
+    descricaoModal:"Requisitos e Funções: Execução de manutenções preventivas mensais em elevadores de passageiros; limpeza técnica de cabine, casa de máquinas e poço; lubrificação de componentes; ajustes gerais em portas, contatos e sensores; inspeção de itens de segurança; checklist e registros de OS; conhecimento em NR-10, NR-12 e NR-18. Jornada e Carga Horária: 44h semanais, de segunda a sexta das 07:30 às 17:48; possibilidade de assumir plantões remunerados nos finais de semana; sobreaviso remunerado. Benefícios: Salário compatível com a função; vale-alimentação; Total Pass; plano de saúde; treinamentos internos contínuos; kit ferramental.",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/maxuell.jpeg"
+  },
 
 
 
