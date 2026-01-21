@@ -7358,6 +7358,18 @@ const vagas = [
     email: "recrutamento@talentorhpp.com.br",
     banner: "banners/tale.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Ajudante de Montador",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Montador com ganhos de até R$ 2.400,00 sob contrato intermitente, exigindo habilidade com ferramentas como parafusadeira e lixadeira.",
+    descricaoModal:"Requisitos: Saber manusear as ferramentas parafusadeira, martelete e lixadeira; ser proativo e responsável com o trabalho. Diferencial: Experiência em canteiro de obras.",
+    whatsapp: "5543984435997",
+    email: "",
+    banner: "banners/val.jpeg"
+  },
+
 
 
 
