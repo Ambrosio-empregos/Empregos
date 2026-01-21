@@ -7446,6 +7446,28 @@ const vagas = [
     email: "RH.RP@HOTMAIL.COM",
     banner: "banners/bene.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Vendedor Interno",
+    empresa: "Londrigifts",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; A Londrigifts está contratando Vendedor Interno em Londrina! Oportunidade para profissionais com Ensino Médio completo e experiência em televendas e negociação.",
+    descricaoModal:"Atribuições e Requisitos: Responsável por prospecção, negociação em vendas, manutenção em CRM e tratamento follow-up. Necessário Ensino Médio completo, experiência em televendas e habilidades com negociação e fechamentos (experiência com vendas de brindes e produtos corporativos será um diferencial).",
+    whatsapp: "",
+    email: "rh@londrigifts.com.br",
+    banner: "banners/gifts.jpeg"
+  },
+  {
+    data: "2026-01-21",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Pastel do Fernando",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha na unidade Acquaville do Pastel do Fernando, com horário de trabalho das 15h30 às 23h00 de segunda a sábado.",
+    descricaoModal:"Detalhes da Vaga: Atuação como Auxiliar de Cozinha na Loja Acquaville, localizada na Av. João Miguel Caran, 875. Requisitos: Ser maior de 18 anos. Horário: Segunda a sábado, das 15h30 às 23h00. Empresa: Pastel do Fernando.",
+    whatsapp: "5543984126415",
+    email: "",
+    banner: "banners/porc.jpeg"
+  },
 
 
 
