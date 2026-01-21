@@ -7567,6 +7567,17 @@ const vagas = [
     email: "recrutamentoconsig2026@gmail.com",
     banner: "banners/maxuell.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Caixa",
+    empresa: "AR & CO",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Caixa na Reserva em Maringá-PR, com horário de trabalho das 14h às 22h.",
+    descricaoModal:"Detalhes da Vaga: Atuação como Caixa na unidade Reserva Maringá (AR&CO). Horário: Das 14h às 22h. Localização: Maringá-PR.",
+    whatsapp: "5544991367703",
+    email: "",
+    banner: "banners/arco.jpeg"
+  },
 
 
 
