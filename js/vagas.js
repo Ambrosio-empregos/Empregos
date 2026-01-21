@@ -7182,6 +7182,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/f1.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Vendedor(A)",
+    empresa: "Ademicon",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) na Ademicon com contratação em regime PJ e ganhos acima do mercado, incluindo treinamento presencial e plano de carreira.",
+    descricaoModal:"Detalhes da Vaga: Oferece treinamento sobre o produto de forma presencial; ganhos acima do mercado somados a plano de carreira; contratação por regime PJ, sendo 100% comissionado. Empresa: Ademicon consórcio e investimento (Unidade Carlos Borges).",
+    whatsapp: "",
+    email: "francyelaademicon@gmail.com",
+    banner: "banners/adil.jpeg"
+  },
   
 
 
