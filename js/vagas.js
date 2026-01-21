@@ -7072,6 +7072,17 @@ const vagas = [
     email: "rh@empinox.com.br",
     banner: "banners/nox.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Caixa",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caixa na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 2.500,00 e R$ 3.500,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Caixa na loja Dudalina do Catuaí Shopping Londrina. Média salarial: R$ 2.500,00 - 3.500,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/santo.jpeg"
+  },
 
 
 
