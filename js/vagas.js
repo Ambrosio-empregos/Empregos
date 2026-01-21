@@ -7138,6 +7138,17 @@ const vagas = [
     email: "",
     banner: "banners/doras.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Vendas Internas Comercial Técnico",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Internas Comercial Técnico com salário fixo de R$ 2.500,00, comissões progressivas e bônus por metas, além de benefícios como convênio médico e seguro de vida.",
+    descricaoModal:"Descrição: Atuar diretamente na geração e fechamento de vendas, com foco em crescimento de faturamento.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/prin.jpeg"
+  },
 
 
 
