@@ -7413,6 +7413,17 @@ const vagas = [
     email: "",
     banner: "banners/nego.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Consultor(A)",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor(a) de Vendas no bairro Ressacada, em Itajaí, com salário fixo de R$ 2.500,00 mais comissão e vale alimentação de R$ 400,00.",
+    descricaoModal:"Detalhes da Vaga: Atuação como Consultor(a) de Vendas em Itajaí, no bairro Ressacada. Remuneração e Benefícios: Salário de R$ 2.500,00; Vale Alimentação (VA) de R$ 400,00; comissão adicional; Vale Transporte (VT).",
+    whatsapp: "5541995470600",
+    email: "",
+    banner: "banners/bcc.jpeg"
+  },
 
 
 
