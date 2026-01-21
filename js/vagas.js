@@ -7116,6 +7116,17 @@ const vagas = [
     email: "",
     banner: "banners/iuventus.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Operadra de Caixa",
+    empresa: ".GO",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Operadora de Caixa na loja .GO do Shopping Cidade Maringá, exigindo experiência comprovada e idade superior a 20 anos.",
+    descricaoModal:"Requisitos: Experiência comprovada na função; idade maior de 20 anos; perfil proativo; demonstrar comprometimento e responsabilidade.",
+    whatsapp: "5544997183934",
+    email: "",
+    banner: "banners/gogo.jpeg"
+  },
 
 
 
