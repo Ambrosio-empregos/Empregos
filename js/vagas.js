@@ -7215,6 +7215,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Auxiliar de Logística",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Logística com salário de R$ 2.151,00, oferecendo benefícios como refeição no local e fretado para atuação em escala 5x2 nos períodos da tarde e madrugada.",
+    descricaoModal:"Atividades: Recebimento, separação, movimentação, organização e paletização de mercadorias. Remuneração e Benefícios: Salário de R$ 2.151,00; Vale Alimentação (VA) de R$ 265,00; refeição no local; seguro de vida; transporte fretado.",
+    whatsapp: "5511963121059",
+    email: "",
+    banner: "banners/mao.jpg"
+  },
   
 
 
