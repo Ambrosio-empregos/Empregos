@@ -7292,6 +7292,18 @@ const vagas = [
     email: "",
     banner: "banners/torn.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Lapidador de Selos e Vedação",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Lapidador de Selos de Vedação com experiência comprovada, atuando em horário comercial de segunda a sexta-feira.",
+    descricaoModal:"Descrição: Contratação de lapidador com experiência comprovada em lapidação de selo de vedação. Horário de Expediente: Segunda a sexta-feira, das 07:00 às 17:00, com intervalo das 11:45 às 13:00.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/lapi.jpeg"
+  },
+
 
 
 
