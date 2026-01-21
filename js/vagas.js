@@ -7347,6 +7347,17 @@ const vagas = [
     email: "",
     banner: "banners/exalo.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Consultor(A) de vendas",
+    empresa: "talento Recursos Humanos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas em Londrina pela Talento Recursos Humanos, oferecendo contratação CLT, ticket alimentação de R$ 750,00 e plano de saúde hospitalar.",
+    descricaoModal:"Perfil da Vaga: Ensino médio completo ou superior; experiência na área comercial; habilidade de comunicação e negociação; vivência em negociações B2B; possuir determinação, foco e desejo de crescimento profissional; necessário possuir carro ou moto para trabalhar.",
+    whatsapp: "5518996802170",
+    email: "recrutamento@talentorhpp.com.br",
+    banner: "banners/tale.jpeg"
+  },
 
 
 
