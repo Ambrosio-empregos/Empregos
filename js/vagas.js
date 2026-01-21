@@ -7479,6 +7479,28 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/costura.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Vendas Externas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Externas em Maringá e região (raio de 200 km), com foco em revestimentos e média de remuneração entre R$ 8.000,00 e R$ 12.000,00.",
+    descricaoModal:"Atribuições: Realizar visitas em obras, arquitetos e construtoras; oferecer produtos e serviços da empresa; tirar medidas e montar orçamentos; prospectar novos clientes, vender, negociar e realizar o pós-vendas; efetuar suporte ao cliente até a entrega da obra e elaborar relatórios de visitas diários. Requisitos: Experiência em vendas externas no segmento da Construção Civil; proatividade e boa comunicação; possuir carro próprio para os primeiros 6 meses de trabalho. Detalhes da Oportunidade: Jornada de segunda a sexta-feira, das 08:00 às 18:00;",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/exter.jpeg"
+  },
+  {
+    data: "2026-01-21",
+    titulo: "Vendas Internas - Ferro e Aço",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Internas Ferro e Aço.",
+    descricaoModal:"Oportunidade para Vendas Internas Ferro e Aço. Envie seu currículo",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/muri.jpeg"
+  },
 
 
 
