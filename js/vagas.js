@@ -7424,6 +7424,17 @@ const vagas = [
     email: "",
     banner: "banners/bcc.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Agente de Limpeza",
+    empresa: "Seven. Recruta",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Agente de Limpeza no Catuaí Shopping Londrina com remuneração de R$ 1.764,00 e contratação CLT em escala 12x36.",
+    descricaoModal:"Descrição das atividades: Responsável pela limpeza e conservação das áreas comuns do shopping; apoiar o encarregado no controle de rotinas, comunicação de ocorrências e organização dos materiais e equipamentos. Requisitos e Desejáveis: Profissional proativo, organizado e com alto senso de responsabilidade; ensino fundamental ou médio completo; experiência na função.",
+    whatsapp: "5561991622818",
+    email: "jobs@seven.online",
+    banner: "banners/bcc.jpeg"
+  },
 
 
 
