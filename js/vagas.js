@@ -7433,7 +7433,7 @@ const vagas = [
     descricaoModal:"Descrição das atividades: Responsável pela limpeza e conservação das áreas comuns do shopping; apoiar o encarregado no controle de rotinas, comunicação de ocorrências e organização dos materiais e equipamentos. Requisitos e Desejáveis: Profissional proativo, organizado e com alto senso de responsabilidade; ensino fundamental ou médio completo; experiência na função.",
     whatsapp: "5561991622818",
     email: "jobs@seven.online",
-    banner: "banners/bcc.jpeg"
+    banner: "banners/agente.jpeg"
   },
 
 
