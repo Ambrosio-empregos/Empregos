@@ -7381,7 +7381,7 @@ const vagas = [
     banner: "banners/barbie.jpeg"
   },
   {
-    data: "2026-01-12", 
+    data: "2026-01-21", 
     titulo: "Estágio Administrativo",
     empresa: "EVo Estágios",
     cidade: "Londrina",
