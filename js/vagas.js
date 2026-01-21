@@ -7224,11 +7224,8 @@ const vagas = [
     descricaoModal:"Atividades: Recebimento, separação, movimentação, organização e paletização de mercadorias. Remuneração e Benefícios: Salário de R$ 2.151,00; Vale Alimentação (VA) de R$ 265,00; refeição no local; seguro de vida; transporte fretado.",
     whatsapp: "5511963121059",
     email: "",
-    banner: "banners/mao.jpg"
+    banner: "banners/mao.jpeg"
   },
-  
-
-
 
 
 ];
