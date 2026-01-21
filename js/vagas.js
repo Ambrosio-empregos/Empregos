@@ -7226,6 +7226,18 @@ const vagas = [
     email: "",
     banner: "banners/mao.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Coordenador de Vendas",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Coordenador de Vendas na Telseg Telecom, responsável pela equipe de vendas corporativa, oferecendo salário fixo mais comissão.",
+    descricaoModal:"Funções: Responsável pela equipe de vendas corporativa. Requisitos: Profissional com experiência em gestão de equipe e vendas; proativo e comunicativo; vaga para pessoas acima de 35 anos. Diferencial: Experiência na área de Telefonia Corporativa e Produtos Vivo empresas.",
+    whatsapp: "5543988598666",
+    email: "",
+    banner: "banners/graca.jpeg"
+  },
+
 
 
 ];
