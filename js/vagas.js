@@ -7391,6 +7391,17 @@ const vagas = [
     email: "",
     banner: "banners/evoes.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Zelador de Condomínio",
+    empresa: "MArialva",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Zelador de Condomínio em Marialva, exigindo experiência com limpeza e corte de grama, oferecendo vale refeição e transporte.",
+    descricaoModal:"Requisitos: Boa comunicação; experiência em condomínio; experiência com limpeza; experiência com corte de grama. Benefícios: Vale refeição; transporte.",
+    whatsapp: "5544999958936",
+    email: "",
+    banner: "banners/marial.jpeg"
+  },
 
 
 
