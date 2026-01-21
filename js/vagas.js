@@ -7380,6 +7380,17 @@ const vagas = [
     email: "rh@barbieriagricola.com.br",
     banner: "banners/barbie.jpeg"
   },
+  {
+    data: "2026-01-12", 
+    titulo: "Estágio Administrativo",
+    empresa: "EVo Estágios",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Estágio administrativo",
+    descricaoModal:"Oportunidade para Estágio administrativo. Envie seu curículo",
+    whatsapp: "5543996178841",
+    email: "",
+    banner: "banners/evoes.jpeg"
+  },
 
 
 
