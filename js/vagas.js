@@ -7272,6 +7272,17 @@ const vagas = [
   },
   {
     data: "2026-01-21", 
+    titulo: "Auxiliar Geral",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Geral em Maringá-PR com ganhos de até R$ 2.500,00, incluindo salário fixo, vale alimentação e prêmio de assiduidade, além de diversos benefícios como plano de saúde e transporte fretado.",
+    descricaoModal:"Remuneração: Salário e benefícios que podem chegar a R$ 2.500,00 (Salário de R$ 1.700,00 + V.A. de R$ 420,00 + Prêmio Assiduidade de R$ 380,00). Benefícios: Assiduidade mensal e anual;",
+    whatsapp: "5543988265744",
+    email: "",
+    banner: "banners/esdeus.jpeg"
+  },
+  {
+    data: "2026-01-21", 
     titulo: "MEcânico Automotivo",
     empresa: "",
     cidade: "Londrina",
@@ -7313,6 +7324,17 @@ const vagas = [
     whatsapp: "5543999298447",
     email: "",
     banner: "banners/esva.jpeg"
+  },
+  {
+    data: "2026-01-21", 
+    titulo: "Rebobinador de Motores",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Rebobinador de Motores para trabalhar com compressores de refrigeração, atuando em horário comercial de segunda a sexta-feira.",
+    descricaoModal:"Descrição: Contratação para trabalhar com compressores de refrigeração. Horário de Expediente: Segunda-feira a sexta-feira, das 07:00 às 17:00, com intervalo das 11:45 às 13:00.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/espai.jpeg"
   },
 
 
