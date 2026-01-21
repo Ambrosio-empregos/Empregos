@@ -7281,6 +7281,18 @@ const vagas = [
     email: "",
     banner: "banners/caxias.jpeg"
   },
+  {
+    data: "2026-01-21", 
+    titulo: "Torneiro MEcânico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Torneiro Mecânico com experiência comprovada, atuando em horário comercial de segunda a sexta-feira.",
+    descricaoModal:"Descrição: Contratação de torneiro mecânico com experiência comprovada. Horário de Expediente: Segunda a sexta-feira, das 07:00 às 17:00, com intervalo das 11:45 às 13:00. Remuneração: Salário a combinar.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/torn.jpeg"
+  },
+
 
 
 
