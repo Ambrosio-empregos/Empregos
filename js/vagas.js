@@ -7378,7 +7378,7 @@ const vagas = [
     descricaoModal:"Oportunidade para Conferente de Mercadorias na filial da Barbieri Agrícola em Londrina, oferecendo benefícios como vale alimentação, vale transporte, plano de saúde participativo e seguro de vida.",
     whatsapp: "554332323235",
     email: "rh@barbieriagricola.com.br",
-    banner: "banners/val.jpeg"
+    banner: "banners/barbie.jpeg"
   },
 
 
