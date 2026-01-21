@@ -7534,6 +7534,28 @@ const vagas = [
     email: "",
     banner: "banners/spend.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Telemarketing",
+    empresa: "Rufino",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Telemarketing focada em primeiro emprego! Buscamos candidatos pontuais, com boa comunicação e vontade de aprender. Candidate-se via WhatsApp ou e-mail.",
+    descricaoModal:"Requisitos e Informações: Vaga ideal para primeiro emprego. Buscamos profissionais pontuais, com boa comunicação, responsáveis, organizados e com vontade de aprender.",
+    whatsapp: "5543988367204",
+    email: "rufinovagas@gmail.com",
+    banner: "banners/rufino.jpeg"
+  },
+  {
+    data: "2026-01-21",
+    titulo: "Assistente de Cadastro",
+    empresa: "Afinco Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Cadastros na Afinco Imóveis com rendimentos a partir de R$ 2.000,00 e plano de carreira estabelecido.",
+    descricaoModal:"Requisitos: Idade entre 18 e 30 anos; boa comunicação e experiência com vendas são considerados diferenciais. Oferecemos: Rendimentos a partir de R$ 2.000,00, treinamento e acompanhamento constante, além de um plano de carreira estabelecido.",
+    whatsapp: "5543991241112",
+    email: "",
+    banner: "banners/auxco.jpeg"
+  },
 
 
 
