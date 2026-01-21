@@ -7369,6 +7369,17 @@ const vagas = [
     email: "",
     banner: "banners/val.jpeg"
   },
+  {
+    data: "2026-01-21",
+    titulo: "Conferente de Mercadorias",
+    empresa: "Barbieri",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Conferente de Mercadorias na filial da Barbieri Agrícola em Londrina, oferecendo benefícios como vale alimentação, vale transporte, plano de saúde participativo e seguro de vida.",
+    descricaoModal:"Oportunidade para Conferente de Mercadorias na filial da Barbieri Agrícola em Londrina, oferecendo benefícios como vale alimentação, vale transporte, plano de saúde participativo e seguro de vida.",
+    whatsapp: "554332323235",
+    email: "rh@barbieriagricola.com.br",
+    banner: "banners/val.jpeg"
+  },
 
 
 
