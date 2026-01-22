@@ -7789,6 +7789,17 @@ const vagas = [
   },
   {
     data: "2026-01-22",
+    titulo: "Vendas externas - Ferro e Aço",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Externas Ferro e Aço.",
+    descricaoModal:"Oportunidade para Vendas Externas Ferro e Aço. Envie seu currículo",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/sabo.jpeg"
+  },
+  {
+    data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
     empresa: "Franco",
     cidade: "Londrina",
