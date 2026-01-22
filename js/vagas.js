@@ -8062,6 +8062,17 @@ const vagas = [
     email: "",
     banner: "banners/deb.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Produção",
+    empresa: "Q LAranja",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção na Q'Laranja, exigindo idade superior a 20 anos e disponibilidade para finais de semana, oferecendo benefícios como plano de saúde e day off.",
+    descricaoModal:"Requisitos: Disponibilidade de horário, inclusive aos finais de semana; ser maior de 20 anos; ser responsável e comprometido. Diferencial: Experiência com atendimento. Benefícios: Ajuda de custo / Vale-transporte; Day off; Plano de saúde. Empresa: Q'Laranja.",
+    whatsapp: "5543991554011",
+    email: "qlaranjasuco@gmail.com",
+    banner: "banners/suco.jpeg"
+  },
   
 
 ];
