@@ -8227,6 +8227,17 @@ const vagas = [
     email: "fernanda@ferrazlog.com.br",
     banner: "banners/dife.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Motorista Entregador",
+    empresa: "Priciupius RH",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Motorista Entregador em Maringá e região com salário inicial de R$ 2.469,00 mais benefícios, atuando com entregas de móveis planejados de alto padrão.",
+    descricaoModal:"Descrição: Atuar em uma conceituada transportadora efetuando entregas de móveis planejados de alto padrão e outras mercadorias fracionadas na região de Maringá, Campo Mourão e Cianorte; ajudar a carregar e descarregar; realizar a organização do barracão",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/temos.jpeg"
+  },
   
 
 ];
