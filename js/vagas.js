@@ -8293,6 +8293,17 @@ const vagas = [
     email: "",
     banner: "banners/prec.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Freelance Chapa",
+    empresa: "Empresa Não Identificada",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Freelance de Chapa, Carga e Descarga em Cambé e Rolândia, com diária de R$ 170,00 e jornada das 08:00 às 17:48.",
+    descricaoModal:"Atividades: Descarregar contêiner de mercadorias; atividades de depósito; organização e limpeza. Requisitos: Agilidade; experiência com carga e descarga; comprometimento.",
+    whatsapp: "5543991244590",
+    email: "",
+    banner: "banners/frica.jpeg"
+  },
   
 
 ];
