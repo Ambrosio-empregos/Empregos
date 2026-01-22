@@ -7611,6 +7611,17 @@ const vagas = [
     email: "",
     banner: "banners/teacher.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "Técnico de Nutrição",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Técnico de Nutrição com início imediato, exigindo perfil organizado e proativo, oferecendo gratificação por assiduidade e refeição no local.",
+    descricaoModal:"Requisitos: Profissional organizado(a) e proativo(a); disponibilidade para início imediato. Benefícios: Vale transporte; vale refeição; refeição no local; gratificação por assiduidade.",
+    whatsapp: "552135564170",
+    email: "",
+    banner: "banners/nutri.jpeg"
+  },
 
 
 
