@@ -8128,6 +8128,17 @@ const vagas = [
     email: "",
     banner: "banners/fatima.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Atendente",
+    empresa: "Fini",
+    cidade: "Maringá",
+    descricao: "Vaga para Atendente na Fini do Shopping Catuaí Maringá, oferecendo remuneração composta por salário, benefícios e premiações fixas e variáveis.",
+    descricaoModal:"Detalhes da Oportunidade: Atuar como Atendente no Shopping Catuaí Maringá; horário das 13:50h às 22:10h. Benefícios: Salário; Vale Alimentação; Vale Transporte; premiação fixa e metas variáveis. Localização: Maringá-PR.",
+    whatsapp: "5543988425994",
+    email: "",
+    banner: "banners/fini.jpeg"
+  },
   
 
 ];
