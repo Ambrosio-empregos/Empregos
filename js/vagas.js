@@ -8238,6 +8238,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/temos.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Movimentador de Mercadoria",
+    empresa: "Distribuidora Dife Log",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Movimentador de Mercadoria em Londrina/PR, exigindo experiência na área e disponibilidade para jornada de segunda a sexta-feira.",
+    descricaoModal:"Pré-requisitos: Sexo masculino; experiência na área. Jornada: Segunda a sexta. Localização: R. Nei José de Oliveira Machado, 270 - Parque Industrial Buena Vista, Londrina/PR (Ponto de Ref.: Bairro em frente ao CEASA). Empresa: Distribuidora Dife Log.",
+    whatsapp: "5515997071066",
+    email: "fernanda@ferrazlog.com.br",
+    banner: "banners/pass.jpeg"
+  },
   
 
 ];
