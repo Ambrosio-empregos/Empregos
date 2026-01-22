@@ -8007,6 +8007,17 @@ const vagas = [
     email: "",
     banner: "banners/preven.jpeg"
   },
+   {
+    data: "2026-01-22",
+    titulo: "Auxiliar Departamento Pessoal",
+    empresa: "Preventseg",
+    cidade: "Londrina",
+    descricao: ": Oportunidade para Auxiliar de Departamento Pessoal em Londrina/PR, exigindo experiência na área e conhecimento do Pacote Office, com benefícios de vale transporte e refeição.",
+    descricaoModal:"Requisitos: Experiência em departamento pessoal; conhecimento em Pacote Office; habilidades com organização; proatividade. Benefícios: Vale transporte; vale refeição. Localização: Londrina/PR. Empresa: Preventseg Segurança Ltda.",
+    whatsapp: "5543991480880",
+    email: "",
+    banner: "banners/dpa.jpeg"
+  },
 
 ];
     
