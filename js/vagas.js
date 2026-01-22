@@ -7820,6 +7820,17 @@ const vagas = [
     email: "rh.avancarh@gmail.com",
     banner: "banners/calde.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Cozinheiro(A)",
+    empresa: "Avança RH",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Cozinheiro(a) em Londrina/PR, com foco no preparo de almoço, pratos à la carte e organização de cozinha.",
+    descricaoModal:"Principais Atividades: Preparar refeições para almoço; elaborar pratos à la carte e porções; organizar e manter a cozinha; controle de estoque.",
+    whatsapp: "5543991213268",
+    email: "rh.avancarh@gmail.com",
+    banner: "banners/caldee.jpeg"
+  },
 
 
 
