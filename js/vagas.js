@@ -7800,6 +7800,17 @@ const vagas = [
   },
   {
     data: "2026-01-22",
+    titulo: "Supervisor Comercial Peças Agrícolas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Supervisor Comercial de Peças Agrícolas com salário fixo de R$ 4.000,00 (CLT) mais comissões escalonadas sobre o time de vendas, exigindo experiência em supervisão B2B.",
+    descricaoModal:"Descrição: Responsável pela coordenação comercial da equipe de vendas, desenvolvimento de campanhas, estudo de mercado, expansão de vendas, definição, acompanhamento e garantia do cumprimento de metas.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/f1.jpeg"
+  },
+  {
+    data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
     empresa: "Franco",
     cidade: "Londrina",
