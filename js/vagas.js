@@ -7996,6 +7996,17 @@ const vagas = [
     email: "",
     banner: "banners/muf.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Financeiro",
+    empresa: "Preventseg",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Financeiro em Londrina/PR, exigindo experiência com emissão de notas e oferecendo benefícios como vale transporte e alimentação.",
+    descricaoModal:"Requisitos: Habilidades com organização; proatividade; responsabilidade e comprometimento; experiência com emissão de notas. Benefícios: Vale transporte; vale alimentação. Localização: Londrina/PR. Empresa: Preventseg Segurança Ltda.",
+    whatsapp: "5543991480880",
+    email: "",
+    banner: "banners/preven.jpeg"
+  },
 
 ];
     
