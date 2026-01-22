@@ -7721,6 +7721,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/secre.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Recepção Clínica médica",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para recepção em clínica médica com atuação em horário comercial de segunda a sexta-feira, oferecendo salário de R$ 2.500,00 mais benefícios como plano de saúde.",
+    descricaoModal:"Descrição: Atuar com agendamento de consultas/exames, recepção de pacientes, liberação de exames, monitoramento de agenda, faturamento de convênios e demais atividades pertinentes. Requisitos: Experiência em recepção clínica médica e faturamento de convênios; boa comunicação, bom português, planejamento e organização; paciência, empatia e resiliência.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/recee.jpeg"
+  },
 
 
 
