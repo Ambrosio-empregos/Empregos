@@ -8216,6 +8216,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/dpto.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Motorista Entregador",
+    empresa: "Distribuidora Dife Log",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Motorista Entregador em Londrina-PR, exigindo CNH categorias C, D ou E e disponibilidade para jornada de segunda a sexta-feira.",
+    descricaoModal:"Pré-requisitos: Sexo masculino; CNH categoria C, D ou E. Jornada: Segunda a sexta. Localização: R. Nei José de Oliveira Machado, 270 - Parque Industrial Buena Vista, Londrina/PR (Ponto de Ref.: Bairro em frente ao CEASA). Empresa: Distribuidora Dife Log.",
+    whatsapp: "5515997071066",
+    email: "fernanda@ferrazlog.com.br",
+    banner: "banners/dife.jpeg"
+  },
   
 
 ];
