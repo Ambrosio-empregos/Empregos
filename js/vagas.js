@@ -7765,6 +7765,17 @@ const vagas = [
     email: "",
     banner: "banners/frank.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Administrativo/Auxiliar Jurídico",
+    empresa: "Escritório Sumera",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Setor de Apoio/Triagem no escritório Sumera Advocacia em Londrina-PR, com registro em CTPS e remuneração de até R$ 2.800,00 mais benefícios.",
+    descricaoModal:"Atribuições: Solicitação de documentos a clientes, organização, preparo de pastas digitais e organização de documentos para pedidos administrativos e judiciais previdenciários e processos judiciais trabalhistas. Requisitos Mínimos: Conhecimento ou experiência em escritório contábil, advocacia ou RH; português claro (falado e escrito); organização; gostar de conversar. Diferenciais: Ensino Superior completo ou cursando em Secretariado Executivo ou Direito; curso técnico em auxiliar jurídico ou serviços jurídicos. Informações Adicionais: 02 vagas disponíveis; contratação com registro em CTPS;",
+    whatsapp: "5543991727055",
+    email: "contatosumera.adv@hotmail.com",
+    banner: "banners/juri.jpeg"
+  },
 
 
 
