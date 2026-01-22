@@ -7710,6 +7710,18 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/exter.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Secretariado Empresarial",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Secretariado Empresarial na região de Cidade Alta, com jornada de segunda a sexta-feira em horário comercial e salário inicial de R$ 2.400,00 mais benefícios.",
+    descricaoModal:"Descrição: Atuar em uma conceituada empresa com suporte à direção, interação com departamentos, atendimento a clientes (presencial, telefone e redes sociais) e atividades administrativas como cotações e lançamentos de notas.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/secre.jpeg"
+  },
+
 
 
 
