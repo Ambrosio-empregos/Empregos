@@ -7963,6 +7963,17 @@ const vagas = [
     email: "recrutamento@kobratec.com.br",
     banner: "banners/kobraa.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Ajudante de Armazén",
+    empresa: "Angus",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Armazém em Cambé/PR com salário de R$ 1.954,32, oferecendo benefícios completos como vale-alimentação, vale-transporte e auxílio-combustível.",
+    descricaoModal:"unções e Responsabilidades: Atuar no recebimento de produtos congelados e resfriados; organizar paletes e arrumação de avarias; preparar e realizar a limpeza da área de expedição;",
+    whatsapp: "554331547937",
+    email: "recrutamento@anguslog.com.br",
+    banner: "banners/arma.jpeg"
+  },
 
 ];
     
