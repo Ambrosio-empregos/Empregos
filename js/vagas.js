@@ -7600,6 +7600,17 @@ const vagas = [
     email: "",
     banner: "banners/arco.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "Teacher",
+    empresa: "Washington",
+    cidade: "Londrina",
+    descricao: "Oportunidade para professor de Inglês na Academia Washington em Cambé-PR, com início imediato e exigência de fluência no idioma.",
+    descricaoModal:"Requisitos: Professor de inglês com fluência e disponibilidade de horários; preferencialmente residindo em Cambé e com experiência em sala de aula.",
+    whatsapp: "5543999599331",
+    email: "",
+    banner: "banners/teacher.jpeg"
+  },
 
 
 
