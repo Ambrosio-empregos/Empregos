@@ -8282,6 +8282,17 @@ const vagas = [
     email: "",
     banner: "banners/noxa.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Atendente Geral",
+    empresa: "Deposito El Dourado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente Geral em Londrina com salário de R$ 2.000,00 mais vale transporte, para atuação em jornada de segunda a sábado.",
+    descricaoModal:"Requisitos: Atendimento geral. Jornada: Segunda a sexta, das 08:00 às 18:00, e sábado, das 08:00 às 12:00. Benefícios: Salário de R$ 2.000,00; Vale transporte.",
+    whatsapp: "5543991610863",
+    email: "",
+    banner: "banners/prec.jpeg"
+  },
   
 
 ];
