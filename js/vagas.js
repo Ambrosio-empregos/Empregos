@@ -8337,6 +8337,17 @@ const vagas = [
     email: "",
     banner: "banners/pro7.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Assistente de Pós venda",
+    empresa: "Homeney",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Pós-vendas em Londrina com salário de R$ 2.040,00, exigindo ensino médio completo e experiência com atendimento ao cliente.",
+    descricaoModal:"Atividades: Monitorar pedidos e entregas; acompanhar vendas por transportadora e informar rastreio aos clientes; mediar demandas entre clientes, transportadoras e marketplaces; conduzir processos de devolução, troca e frete reverso; garantir entrega em perfeitas condições; tratar reclamações e preservar a reputação da empresa; manter relacionamento ativo no pós-venda.",
+    whatsapp: "5543984039934",
+    email: "",
+    banner: "banners/pos.jpeg"
+  },
   
 
 ];
