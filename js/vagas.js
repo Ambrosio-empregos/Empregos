@@ -8260,6 +8260,17 @@ const vagas = [
     email: "rh.extintores@hotmail.com",
     banner: "banners/mang.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Produção",
+    empresa: "Soft Dream",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Produção em Maringá-PR pela Soft Dream, com salário de R$ 1.621,00 e benefícios como café da manhã na empresa e vale transporte sem desconto.",
+    descricaoModal:"Informações da Vaga: Horário de segunda a sexta, das 07h às 17h, com 1 hora de intervalo para almoço; salário de R$ 1.621,00. Benefícios: Café da manhã na empresa; vale alimentação de R$ 250,00; vale transporte sem desconto.",
+    whatsapp: "5544999888087",
+    email: "",
+    banner: "banners/drean.jpeg"
+  },
   
 
 ];
