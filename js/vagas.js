@@ -8161,6 +8161,17 @@ const vagas = [
     email: "",
     banner: "banners/vagaaa.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Técnico Eletronico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Técnico com formação em Eletrônica, Elétrica ou Eletromecânica, oferecendo salário de R$ 2.600,00 e jornada de segunda a sexta-feira.",
+    descricaoModal:"Responsabilidades: Realizar análise, interpretação e leitura de diagramas elétricos e painéis de comando; executar e apoiar reparos técnicos, ajustes e atividades de codificação em sistemas industriais; atuar tecnicamente em campo, prestando suporte em instalações, manutenções e testes; ter disponibilidade para viagens conforme demanda.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/benga.jpeg"
+  },
   
 
 ];
