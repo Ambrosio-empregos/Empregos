@@ -7767,6 +7767,17 @@ const vagas = [
   },
   {
     data: "2026-01-22",
+    titulo: "Engenheiro de Planejamentos",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Engenheiro Civil com foco em planejamento, orçamentos e controle de obras, exigindo CREA ativo e experiência com obras verticais.",
+    descricaoModal:"Descrição: Responsável por planejamento e controle de obras; elaborar, analisar, controlar e atualizar orçamentos e cronogramas; garantir viabilidade técnico-econômica, aderência ao planejamento e controle de custos, prazos e recursos.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/prii.jpeg"
+  },
+  {
+    data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
     empresa: "Franco",
     cidade: "Londrina",
