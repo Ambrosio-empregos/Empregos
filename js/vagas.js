@@ -8194,6 +8194,17 @@ const vagas = [
     email: "",
     banner: "banners/cozinhac.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Baconista",
+    empresa: "Panificadora Canaan",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Balconista em Maringá-PR com salário piso de R$ 2.072,40, oferecendo benefícios como vale alimentação e transporte pagos via PIX.",
+    descricaoModal:"Atividades: Atendimento ao público; organização; proatividade; agilidade; educação; trabalho em equipe; preparação de pedidos; reposição.",
+    whatsapp: "5544988607737",
+    email: "",
+    banner: "banners/nista.jpeg"
+  },
   
 
 ];
