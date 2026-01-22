@@ -8315,6 +8315,17 @@ const vagas = [
     email: "",
     banner: "banners/commer.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Mecânico",
+    empresa: "Motos RBM",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico em Londrina com contratação imediata, exigindo experiência e idade superior a 18 anos.",
+    descricaoModal:"Requisitos: Ter experiência; boa comunicação; ser maior de 18 anos. Informações Adicionais: Contratação imediata. Local: Londrina. Empresa: Motos RBM.",
+    whatsapp: "5543996081998",
+    email: "",
+    banner: "banners/mecan.jpeg"
+  },
   
 
 ];
