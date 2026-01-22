@@ -7965,14 +7965,25 @@ const vagas = [
   },
   {
     data: "2026-01-22",
-    titulo: "Ajudante de Armazén",
+    titulo: "Ajudante de Armazém",
     empresa: "Angus",
     cidade: "Londrina",
     descricao: "Oportunidade para Ajudante de Armazém em Cambé/PR com salário de R$ 1.954,32, oferecendo benefícios completos como vale-alimentação, vale-transporte e auxílio-combustível.",
-    descricaoModal:"unções e Responsabilidades: Atuar no recebimento de produtos congelados e resfriados; organizar paletes e arrumação de avarias; preparar e realizar a limpeza da área de expedição;",
+    descricaoModal:"Funções e Responsabilidades: Atuar no recebimento de produtos congelados e resfriados; organizar paletes e arrumação de avarias; preparar e realizar a limpeza da área de expedição;",
     whatsapp: "554331547937",
     email: "recrutamento@anguslog.com.br",
     banner: "banners/arma.jpeg"
+  },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Contábil",
+    empresa: "Angus",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Contábil em Cambé/PR para atuar com lançamentos, DRE, fluxo de caixa e rotinas financeiras, sendo necessário formação ou estar cursando Ciências Contábeis.",
+    descricaoModal:"Atribuições: Lançamentos contábeis; elaboração de DRE + Fluxo de Caixa; rotinas financeiras; conciliação bancária; controles administrativos; controles de relatórios pertinentes ao setor. Requisitos: Formação ou cursando Ciências Contábeis.",
+    whatsapp: "554331547937",
+    email: "recrutamento@anguslog.com.br",
+    banner: "banners/angus.jpeg"
   },
 
 ];
