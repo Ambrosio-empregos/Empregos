@@ -8172,6 +8172,17 @@ const vagas = [
     email: "",
     banner: "banners/benga.jpeg"
   },
+   {
+    data: "2026-01-22",
+    titulo: "Vendedor(a)",
+    empresa: "Tradição Minas",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) em indústria de alimentos de Sabáudia-PR, exigindo CNH A/B e residência na região, com benefícios como celular corporativo e despesas de trabalho pagas.",
+    descricaoModal:"Requisitos: Residir em Cambé, Rolândia ou Londrina; possuir CNH categoria A/B; desejável experiência comprovada em vendas no varejo, preferencialmente com alimentos congelados; conhecimento no Pacote Office.",
+    whatsapp: "554332756299",
+    email: "",
+    banner: "banners/minas.jpeg"
+  },
   
 
 ];
