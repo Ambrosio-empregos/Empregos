@@ -8326,6 +8326,17 @@ const vagas = [
     email: "",
     banner: "banners/mecan.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Consultor Comercial",
+    empresa: "PRO7",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor Comercial focado em expansão de franquias em Londrina-PR, exigindo perfil closer para vendas consultivas e disponibilidade para trabalho presencial.",
+    descricaoModal:"Requisitos: Boa comunicação verbal e escrita; persistência, resiliência e maturidade emocional; perfil Closer (vendas consultivas / fechamento); disponibilidade para trabalho presencial. Local: Londrina – PR. Empresa: PRO7 (Processo em Recrutamento).",
+    whatsapp: "5543991306586",
+    email: "",
+    banner: "banners/pro7.jpeg"
+  },
   
 
 ];
