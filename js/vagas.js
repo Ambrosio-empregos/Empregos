@@ -8029,6 +8029,17 @@ const vagas = [
     email: "",
     banner: "banners/admp.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "telemarketing / Call Center",
+    empresa: "Negoci.IA",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Telemarketing / Call Center na Negocia Sales Group, com atuação de segunda a sexta-feira e exigência de experiência prévia na área ou em vendas.",
+    descricaoModal:"Detalhes da Vaga: Horário de trabalho de segunda a sexta-feira, das 08:45 às 17:30. Requisitos: Experiência em vendas ou telemarketing. Empresa: Negocia Sales Group.",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/nego.jpeg"
+  },
 
 ];
     
