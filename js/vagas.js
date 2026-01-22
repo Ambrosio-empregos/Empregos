@@ -8205,6 +8205,17 @@ const vagas = [
     email: "",
     banner: "banners/nista.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Assistente Administrativo",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Assistente Administrativo com foco em financeiro e departamento pessoal, oferecendo salário inicial de R$ 3.300,00 e benefícios como plano de saúde e vale transporte.",
+    descricaoModal:"Descrição: O profissional atuará em contas a pagar e a receber, lançamentos, boletos e controle de departamento pessoal, incluindo admissões, rescisões, férias e benefícios; enviará dados mensais para a contabilidade e fará a conferência da folha de pagamento.",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/dpto.jpeg"
+  },
   
 
 ];
