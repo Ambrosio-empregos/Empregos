@@ -7734,6 +7734,17 @@ const vagas = [
   },
   {
     data: "2026-01-22",
+    titulo: "Auxiliar de Expedição",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Expedição com atuação em setor de produtos de informática, oferecendo salário inicial de R$ 2.057,00 mais Vale Alimentação e transporte.",
+    descricaoModal:"Descrição: Atuar no setor de almoxarifado com recepção, conferência, armazenamento, organização e expedição de mercadorias (produtos de informática); auxiliar no inventário e arrumação do setor.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/exx.jpeg"
+  },
+  {
+    data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
     empresa: "Franco",
     cidade: "Londrina",
