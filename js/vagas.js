@@ -7743,6 +7743,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/exx.jpeg"
   },
+   {
+    data: "2026-01-22",
+    titulo: "Vendas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) no Shopping Maringá Park, com salário base de R$ 2.552,00 mais comissões e jornada de trabalho das 12h às 20h.",
+    descricaoModal:"Atribuições: Atuação com vendas e prospecção; atendimento presencial e via redes sociais; auxílio com vitrines e identidade visual da loja; trabalho orientado por metas e indicadores. Requisitos: Experiência em vendas de Shopping; histórico de trabalho com metas e indicadores; boa comunicação; proatividade; gosto por vendas.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/vendass.jpeg"
+  },
   {
     data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
