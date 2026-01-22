@@ -8150,6 +8150,17 @@ const vagas = [
     email: "",
     banner: "banners/fini.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Analista Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista Administrativo/Financeiro com ensino superior completo e experiência de 3 anos, oferecendo salário de R$ 3.000,00 e benefícios como cartão Caju, PLR e bolsa de estudo.",
+    descricaoModal:"Responsabilidades: Controlar orçado x realizado e apoiar a gestão orçamentária; executar contas a pagar e a receber, conciliações bancárias e controle de caixa;",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/vagaaa.jpeg"
+  },
   
 
 ];
