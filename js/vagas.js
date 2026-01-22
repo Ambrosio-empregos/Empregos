@@ -8073,6 +8073,17 @@ const vagas = [
     email: "qlaranjasuco@gmail.com",
     banner: "banners/suco.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Vendedor(a)",
+    empresa: "Legno",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) com experiência comprovada em móveis planejados, marcenaria ou construção para atuar em Londrina ou Cambé, oferecendo salário mais comissão",
+    descricaoModal:"Funções: Atendimento e captação de clientes; apresentação de propostas e fechamento de vendas; acompanhamento do cliente do início ao pós-venda; organização de orçamentos e follow-up.",
+    whatsapp: "5543991567544",
+    email: "",
+    banner: "banners/legno.jpeg"
+  },
   
 
 ];
