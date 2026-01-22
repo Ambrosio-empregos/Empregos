@@ -7809,6 +7809,17 @@ const vagas = [
     email: "rh@ipvpecas.com.br",
     banner: "banners/rosa.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Caldeireiro",
+    empresa: "Avança RH",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caldeireiro em Londrina/PR, exigindo ensino fundamental completo e experiência comprovada na função.",
+    descricaoModal:"Atribuições: Leitura e interpretação de desenhos técnicos; marcação e traçagem de peças metálicas; corte e montagem de chapas e tubos; alinhamento e ponteamento de peças.",
+    whatsapp: "5543991213268",
+    email: "rh.avancarh@gmail.com",
+    banner: "banners/calde.jpeg"
+  },
 
 
 
