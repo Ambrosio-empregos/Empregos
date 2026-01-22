@@ -7833,6 +7833,17 @@ const vagas = [
   },
   {
     data: "2026-01-22",
+    titulo: "Estágio de Administração",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade de estágio em administração para atuar em loja de móveis de alto padrão, oferecendo bolsa de R$ 1.200,00 e jornada de 6 horas diárias.",
+    descricaoModal:"Descrição: Realizar lançamentos no sistema de pedidos de clientes e fornecedores, contas a pagar e receber, além de entradas e saídas de mercadoria; colaborar na implantação do sistema da loja (loja de móveis de alto padrão).",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/lembro.jpeg"
+  },
+  {
+    data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
     empresa: "Franco",
     cidade: "Londrina",
