@@ -7875,6 +7875,18 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/bel.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "Auxiliar Pleno de Padaria",
+    empresa: "Dom . Rocha",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Auxiliar Pleno de Padaria em Londrina-PR, com jornada de segunda a domingo e benefícios integrais não descontados em folha.",
+    descricaoModal:"Detalhes da Vaga: Vaga masculina para a unidade Dom Rocha em Londrina. Horário: Segunda a sábado, das 11h40 às 20h00, e domingos, das 06h30 às 12h30.",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/ana.jpeg"
+  },
+
 
 
 
