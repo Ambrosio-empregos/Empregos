@@ -8040,6 +8040,29 @@ const vagas = [
     email: "",
     banner: "banners/nego.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Chapeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã",
+    descricaoModal:"Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã. Envie seu currículo",
+    whatsapp: "5543999706423",
+    email: "",
+    banner: "banners/apost.jpeg"
+  },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Limpeza Feminino",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade temporária para Auxiliar de Limpeza feminina em Londrina, com jornada de segunda a sábado em horário reduzido.",
+    descricaoModal:"Requisitos: Experiência na área da limpeza; idade acima de 35 anos; residir em Londrina. Detalhes da Vaga: Função de Auxiliar de Limpeza feminina temporária com registro em carteira; escala de segunda a sábado; horário das 08h às 15h.",
+    whatsapp: "5543998369305",
+    email: "",
+    banner: "banners/nuc.jpeg"
+  },
+  
 
 ];
     
