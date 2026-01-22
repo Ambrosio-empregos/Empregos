@@ -8271,6 +8271,17 @@ const vagas = [
     email: "",
     banner: "banners/drean.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Atendente Interno",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Atendente Interno com ganho inicial de R$ 2.500,00 e plano de crescimento em empresa localizada na Rua Pernambuco.",
+    descricaoModal:"Funções: Atendimento ao cliente de forma online e presencial. Requisitos: Ensino médio completo e idade entre 18 e 25 anos; não é necessária experiência anterior, pois a empresa oferece treinamento. Remuneração e Benefícios: Ganho inicial de R$ 2.500,00 com possibilidade de aumento conforme o desempenho e plano de crescimento na empresa.",
+    whatsapp: "5543999644353",
+    email: "",
+    banner: "banners/interno.jpeg"
+  },
   
 
 ];
