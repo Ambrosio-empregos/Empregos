@@ -7732,6 +7732,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/recee.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Motorista de Caminhão Noturno",
+    empresa: "Franco",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de Caminhão Noturno em Londrina, PR, com início às 14h, exigindo CNH C ou D e experiência comprovada em carteira.",
+    descricaoModal:"Requisitos: CNH categoria C ou D; experiência comprovada em carteira. Benefícios: Salário compatível; vale-alimentação Pluxee de R$ 32,50 por dia trabalhado (média de R$ 682,50 por mês); Wellhub (Gympass); plano de saúde Unimed 70%; cesta básica; convênios com faculdades Unicesumar e Anhanguera; parceria com o SEST/SENAT para serviços gratuitos de saúde; estacionamento gratuito no local; café matinal; plano de carreira;",
+    whatsapp: "5543999321137",
+    email: "",
+    banner: "banners/frank.jpeg"
+  },
 
 
 
