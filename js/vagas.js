@@ -7655,6 +7655,17 @@ const vagas = [
     email: "",
     banner: "banners/esto.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "Supervisor de Expedição e Dobra",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Supervisor de Expedição e Dobra em Mundo Novo - MS, com remuneração de R$ 8.000,00 (PJ), exigindo experiência em liderança no setor têxtil e disponibilidade para mudança.",
+    descricaoModal:"Descrição: Responsável por liderar e supervisionar a equipe de finalização e expedição de produtos de confecção, organizando rotinas, delegando tarefas, acompanhando desempenho e promovendo treinamentos",
+    whatsapp: "5544984012026",
+    email: "contato@principiurh.com.br",
+    banner: "banners/superv.jpeg"
+  },
 
 
 
