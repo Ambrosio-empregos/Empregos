@@ -8240,14 +8240,14 @@ const vagas = [
   },
   {
     data: "2026-01-22",
-    titulo: "Movimentador de Mercadoria",
-    empresa: "Distribuidora Dife Log",
-    cidade: "Londrina",
-    descricao: "Oportunidade masculina para Movimentador de Mercadoria em Londrina/PR, exigindo experiência na área e disponibilidade para jornada de segunda a sexta-feira.",
-    descricaoModal:"Pré-requisitos: Sexo masculino; experiência na área. Jornada: Segunda a sexta. Localização: R. Nei José de Oliveira Machado, 270 - Parque Industrial Buena Vista, Londrina/PR (Ponto de Ref.: Bairro em frente ao CEASA). Empresa: Distribuidora Dife Log.",
-    whatsapp: "5515997071066",
-    email: "fernanda@ferrazlog.com.br",
-    banner: "banners/pass.jpeg"
+    titulo: "Empregada Doméstica",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Empregada Doméstica em Maringá-PR com salário de R$ 2.500,00, atuando em apartamento com rotinas de limpeza, passadoria e culinária trivial.",
+    descricaoModal:"Descrição: Atuará com atividades de limpeza e organização da casa, lavar e passar a roupa, e cozinhar (café da manhã e almoço) para 2 adultos e um adolescente em apartamento.",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/empregada.jpeg"
   },
   
 
