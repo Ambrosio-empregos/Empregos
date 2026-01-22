@@ -8018,6 +8018,17 @@ const vagas = [
     email: "",
     banner: "banners/dpa.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Preventseg",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo em Londrina/PR, exigindo experiência na função e conhecimento do Pacote Office, com benefícios de vale transporte e refeição.",
+    descricaoModal:"Requisitos: Experiência com a função; conhecimento em Pacote Office; habilidades com organização; proatividade. Benefícios: Vale transporte; vale refeição. Localização: Londrina/PR. Empresa: Preventseg Segurança Ltda.",
+    whatsapp: "5543991480880",
+    email: "",
+    banner: "banners/admp.jpeg"
+  },
 
 ];
     
