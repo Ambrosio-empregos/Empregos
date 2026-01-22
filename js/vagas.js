@@ -7941,6 +7941,17 @@ const vagas = [
     email: "recrutamento@kobratec.com.br",
     banner: "banners/kobra.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Assistente de Qualidade",
+    empresa: "Kobra",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Qualidade na empresa Kobra, com foco em inspeção de linhas de produção e monitoramento de qualidade, oferecendo benefícios como plano de saúde, alimentação e descontos em faculdades.",
+    descricaoModal:"Principais Atividades: Realizar inspeções diárias nas linhas de produção; acompanhar diariamente as etapas do processo de produção; monitorar diariamente a qualidade dos produtos; levantar informações e emitir Relatórios de Não Conformidade (RNCs) quando necessário;",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/kobraa.jpeg"
+  },
 
 ];
     
