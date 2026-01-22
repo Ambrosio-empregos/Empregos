@@ -1223,7 +1223,7 @@ const vagas = [
   {
     data: "2026-01-06",
     titulo: "Operador(a) Caixa",
-    empresa: "Fruttaria",
+    empresa: "  ",
     cidade: "Londrina",
     descricao: "A Fruttaria está contratando Operador de Caixa para início imediato com foco em agilidade e responsabilidade.",
     descricaoModal:"A oportunidade exige experiência comprovada na área, buscando profissionais ágeis, responsáveis e comprometidos para preenchimento imediato da vaga.",
@@ -7908,13 +7908,28 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
-
-
-
-
-
-
-
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Cozinha Fria",
+    empresa: "Fruttaria",
+    cidade: "Londrina",
+    descricao: "portunidade para Auxiliar de Cozinha Fria com início imediato, focada na preparação de vegetais processados, sucos e saladas.",
+    descricaoModal:"Descrição: Auxiliar na preparação de frutas, verduras e legumes processados, sucos, saladas, entre outros. Requisitos Básicos: Experiência com preparo e corte de alimentos; pessoa ágil e comprometida com trabalho em equipe. Detalhes: Início imediato.",
+    whatsapp: "554333213060",
+    email: "fruttariarh2@hotmail.com",
+    banner: "banners/frutta.jpeg"
+  },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Produção",
+    empresa: "Kobra",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção na empresa Kobra, com atividades focadas em separação de matérias-primas e organização de linha produtiva, oferecendo benefícios como plano de saúde e alimentação.",
+    descricaoModal:"Principais Atividades: Auxiliar na separação e fracionamento de matérias-primas; fracionar, pesar, selar e etiquetar produtos; auxiliar na organização, separação e conferência de itens destinados à linha de produção;",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/kobra.jpeg"
+  },
 
 ];
     
