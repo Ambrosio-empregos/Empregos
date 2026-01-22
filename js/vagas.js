@@ -8249,6 +8249,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/empregada.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Londrina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo com experiência em emissão de notas fiscais, cadastro de clientes e atendimento telefônico.",
+    descricaoModal:"Requisitos: Com experiência em emissão de notas fiscais; cadastro de clientes; atendimento telefônico; emissão de relatórios; outros serviços pertinentes à função. Empresa: Mang-Teste Mangueiras / Incêndio.",
+    whatsapp: "",
+    email: "rh.extintores@hotmail.com",
+    banner: "banners/mang.jpeg"
+  },
   
 
 ];
