@@ -7677,6 +7677,17 @@ const vagas = [
     email: "",
     banner: "banners/pdf.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo com ganhos estimados de R$ 3.600,00, incluindo salário fixo, benefícios e bônus por vendas, com atuação de segunda a sexta-feira.",
+    descricaoModal:"anhos Estimados: R$ 3.600,00 (Fixo + Benefícios + Bônus). Benefícios: R$ 800 de auxílio; Plano Odontológico; Bônus por Vendas. Detalhes da Vaga: Horário de segunda a sexta-feira.",
+    whatsapp: "5543999701583",
+    email: "",
+    banner: "banners/golpe.jpeg"
+  },
 
 
 
