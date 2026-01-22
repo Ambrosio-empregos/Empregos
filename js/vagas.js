@@ -7754,6 +7754,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/vendass.jpeg"
   },
+   {
+    data: "2026-01-22",
+    titulo: "Sdr - Pré vendas",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para SDR em Paiçandu com foco em prospecção e análise de leads, oferecendo salário fixo de R$ 2.300,00 mais remuneração variável e benefícios.",
+    descricaoModal:"Descrição: Realizar prospecção e mapeamento contínuo de novas oportunidades de negócio; utilizar ferramentas e bases de dados para expansão de mercado; análise e qualificação de leads. Requisitos: Experiência prévia em prospecção, telemarketing ativo ou SDR; excelentes habilidades de comunicação verbal e escrita; capacidade analítica e foco em metas; conhecimento e utilização de CRM.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/cuuu.jpeg"
+  },
   {
     data: "2026-01-22",
     titulo: "Motorista de Caminhão Noturno",
