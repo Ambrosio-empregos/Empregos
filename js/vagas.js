@@ -8183,6 +8183,17 @@ const vagas = [
     email: "",
     banner: "banners/minas.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Restaurante na zona sul contrata Auxiliar de Cozinha com experiência para início imediato com jornada de segunda-feira a sábado.",
+    descricaoModal:" Experiência necessária para a função. Localização: Restaurante na zona sul. Horário: De segunda-feira a sábado, das 08h às 17h. Início imediato. Observação: Vaga destinada a quem realmente deseja trabalhar.",
+    whatsapp: "5543984779439",
+    email: "",
+    banner: "banners/cozinhac.jpeg"
+  },
   
 
 ];
