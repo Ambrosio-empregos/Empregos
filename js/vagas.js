@@ -7644,6 +7644,17 @@ const vagas = [
     email: "",
     banner: "banners/bemake.jpeg"
   },
+  {
+    data: "2026-01-22", 
+    titulo: "Auxiliar de Estoque",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Estoque com disponibilidade para início imediato, oferecendo benefícios como gratificação por assiduidade e refeição no local.",
+    descricaoModal:"Requisitos: Profissional organizado(a) e proativo(a); disponibilidade para início imediato. Benefícios: Vale transporte; vale refeição; refeição no local; gratificação por assiduidade.",
+    whatsapp: "552135564170",
+    email: "",
+    banner: "banners/esto.jpeg"
+  },
 
 
 
