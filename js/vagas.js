@@ -8273,14 +8273,14 @@ const vagas = [
   },
   {
     data: "2026-01-22",
-    titulo: "Atendente Interno",
-    empresa: "Empresa não identificada",
+    titulo: "vendedor(A)",
+    empresa: "Via Inox",
     cidade: "Londrina",
-    descricao: "Vaga para Atendente Interno com ganho inicial de R$ 2.500,00 e plano de crescimento em empresa localizada na Rua Pernambuco.",
-    descricaoModal:"Funções: Atendimento ao cliente de forma online e presencial. Requisitos: Ensino médio completo e idade entre 18 e 25 anos; não é necessária experiência anterior, pois a empresa oferece treinamento. Remuneração e Benefícios: Ganho inicial de R$ 2.500,00 com possibilidade de aumento conforme o desempenho e plano de crescimento na empresa.",
-    whatsapp: "5543999644353",
+    descricao: "Oportunidade para Vendedores na Via Inox (revendedor Tramontina) em Londrina, onde a experiência prévia na função será considerada um diferencial.",
+    descricaoModal:"A Via Inox, revendedora autorizada Tramontina, está contratando vendedores para integrar sua equipe em Londrina. Requisitos: Ter experiência na área será um diferencial para os candidatos. Localização: Londrina. Empresa: Via Inox.",
+    whatsapp: "5543991805360",
     email: "",
-    banner: "banners/interno.jpeg"
+    banner: "banners/noxa.jpeg"
   },
   
 
