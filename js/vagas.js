@@ -7798,6 +7798,17 @@ const vagas = [
     email: "",
     banner: "banners/cadastr.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "IPV peças",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza com disponibilidade para início imediato e contratação via CLT, exigindo que o candidato seja maior de 18 anos.",
+    descricaoModal:"Requisitos: Disponibilidade para início imediato; ser uma pessoa organizada e proativa; maior de 18 anos. Informações Adicionais: Vagas para contratação CLT. Empresa: IPV Peças.",
+    whatsapp: "5543999828485",
+    email: "rh@ipvpecas.com.br",
+    banner: "banners/rosa.jpeg"
+  },
 
 
 
