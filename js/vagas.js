@@ -7633,6 +7633,17 @@ const vagas = [
     email: "",
     banner: "banners/notu.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Área de vendas",
+    empresa: "Be Make",
+    cidade: "Maringá",
+    descricao: "Trabalhe na Be Make em Maringá! Vaga aberta para a área de vendas na Avenida Brasil (Zona 1). Salário compatível com o mercado e diversos benefícios inclusos!",
+    descricaoModal:"Requisitos e Benefícios: Procuramos profissional empática, solícita, comunicativa, proativa, organizada, gentil, paciente e determinada. Oferecemos salário compatível com o comércio local, Vale Transporte, Vale Alimentação e Auxílio Saúde.",
+    whatsapp: "5544991007320",
+    email: "",
+    banner: "banners/bemake.jpeg"
+  },
 
 
 
