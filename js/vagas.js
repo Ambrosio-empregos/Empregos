@@ -7776,6 +7776,17 @@ const vagas = [
     email: "contatosumera.adv@hotmail.com",
     banner: "banners/juri.jpeg"
   },
+  {
+    data: "2026-01-22",
+    titulo: "Setor de Cadastramento",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para o Setor de Cadastramento com ganhos médios entre R$ 2.000,00 e R$ 5.000,00, incluindo CLT, comissão e vale transporte.",
+    descricaoModal:"Requisitos e Atividades: Ser maior de 18 anos; possuir habilidade com redes sociais; experiência com vendas é um diferencial; atuar na prospecção de novos clientes com atendimento presencial e on-line. Detalhes: Ganhos médios entre R$ 2.000,00 e R$ 5.000,00; contratação via CLT, comissão e vale transporte; contratação imediata.",
+    whatsapp: "5543998508587",
+    email: "",
+    banner: "banners/cadastr.jpeg"
+  },
 
 
 
@@ -7784,3 +7795,4 @@ const vagas = [
 
 
 ];
+    
