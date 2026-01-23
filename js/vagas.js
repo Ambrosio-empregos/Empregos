@@ -8415,7 +8415,7 @@ const vagas = [
     banner: "banners/help.jpeg"
   },
    {
-    data: "2026-01-12", 
+    data: "2026-01-23", 
     titulo: "Auxiliar de Limpeza",
     empresa: "Beta Serv",
     cidade: "Londrina",
