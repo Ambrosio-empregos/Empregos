@@ -8732,7 +8732,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência mínima de 1 ano na função. Benefícios: Vale transporte; vale alimentação de R$ 450,00 mensal; desconto em farmácias e academias; premiação por assiduidade (2% do salário); alimentação no local.",
     whatsapp: "5543991846200",
     email: "",
-    banner: "banners/manha.jpg"
+    banner: "banners/manha.jpeg"
   },
   
   
