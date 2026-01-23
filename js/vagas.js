@@ -8690,6 +8690,28 @@ const vagas = [
     email: "baronelondrina@gmail.com",
     banner: "banners/baro.jpeg"
   },
+   {
+    data: "2026-01-23",
+    titulo: "Atendente Geral",
+    empresa: "Deposito El Dourado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente Geral em Londrina com salário de R$ 2.000,00 mais vale transporte, para atuação em jornada de segunda a sábado.",
+    descricaoModal:"Requisitos: Atendimento geral. Jornada: Segunda a sexta, das 08:00 às 18:00, e sábado, das 08:00 às 12:00. Benefícios: Salário de R$ 2.000,00; Vale transporte.",
+    whatsapp: "5543991610863",
+    email: "",
+    banner: "banners/prec.jpeg"
+  },
+   {
+    data: "2026-01-23",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Vaga para Operador de Caixa no Max Norte Shopping - Londrina. Faça sua carreira no Grupo Muffato com diversas oportunidades inclusive para PCD e 60+.",
+    descricaoModal:"Benefícios: Assistência de saúde e odontológica, seguro de vida, clube de vantagens com descontos em farmácias, vale refeição, programas de premiação e oportunidade de carreira pela Uniffato.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/opemufa.jpg"
+  },
   
   
 
