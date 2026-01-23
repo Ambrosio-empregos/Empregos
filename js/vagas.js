@@ -8404,7 +8404,7 @@ const vagas = [
     banner: "banners/doras.jpeg"
   },
   {
-    data: "2026-01-05",
+    data: "2026-01-23",
     titulo: "Vendedor(a)",
     empresa: "Help Multas",
     cidade: "Balneário Camboriú",
