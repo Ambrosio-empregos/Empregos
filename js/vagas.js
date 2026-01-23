@@ -8721,7 +8721,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Zelar pela limpeza e conservação das áreas comuns; controle de materiais de limpeza/manutenção; responsável pelo café 2x ao dia.",
     whatsapp: "5544988149570",
     email: "",
-    banner: "banners/jet.jpg"
+    banner: "banners/jet.jpeg"
   },
   {
     data: "2026-01-23",
