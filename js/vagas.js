@@ -8414,6 +8414,17 @@ const vagas = [
     email: "curriculo@helpmultas.com",
     banner: "banners/help.jpeg"
   },
+   {
+    data: "2026-01-12", 
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza na Beta Serv, com jornada semanal de 8h e disponibilidade para trabalhar em fins de semana intercalados.",
+    descricaoModal:"Requisitos: Experiência mínima na função. Horário: Jornada na semana de 8h; necessária disponibilidade para também trabalhar aos fins de semana intercalados.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/betalimp.jpeg"
+  },
   
 
 ];
