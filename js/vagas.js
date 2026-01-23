@@ -8536,6 +8536,17 @@ const vagas = [
     email: "",
     banner: "banners/lejon.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor em loja de produtos naturais com remuneração composta por salário fixo mais comissão, além de vale transporte.",
+    descricaoModal:"Local de Trabalho: Loja de produtos naturais. Jornada de Trabalho: Segunda a sexta-feira, das 08h00 às 18h30 (com 2 horas de almoço), e sábados, das 09h00 às 13h00.",
+    whatsapp: "5511978000101",
+    email: "",
+    banner: "banners/0101.jpeg"
+  },
   
 
 ];
