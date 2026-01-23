@@ -8469,6 +8469,17 @@ const vagas = [
     email: "jr.dieselpecas@hotmail.com",
     banner: "banners/diesel.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Auxiliar de produção",
+    empresa: "Industria",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Produção em Maringá-PR com salário de R$ 2.169,00, exigindo perfil comprometido e dinâmico para atuação em jornada de segunda a sexta-feira.",
+    descricaoModal:"Requisitos: Profissional comprometido, rápido e dinâmico; exclusivo para pessoas que residem em Maringá. Diferencial: Possuir locomoção própria e/ou morar próximo.",
+    whatsapp: "5544991399990",
+    email: "",
+    banner: "banners/greka.jpeg"
+  },
   
 
 ];
