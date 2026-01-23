@@ -8679,6 +8679,17 @@ const vagas = [
     email: "londrisplit@londrisplit.com.br",
     banner: "banners/arrr.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "atendente",
+    empresa: "Sorvetes barone",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente em Londrina-PR com remuneração composta por salário fixo de R$ 1.980,00 e diversos benefícios, incluindo auxílio, adicional noturno e prêmio por assiduidade.",
+    descricaoModal:"Requisitos: Ser maior de 18 anos; ter 2º grau completo; disponibilidade de horário; pronto para trabalhar em equipe; experiência em atendimento ao cliente.",
+    whatsapp: "5518981078115",
+    email: "baronelondrina@gmail.com",
+    banner: "banners/baro.jpeg"
+  },
   
   
 
