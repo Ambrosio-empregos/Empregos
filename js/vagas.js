@@ -8723,6 +8723,17 @@ const vagas = [
     email: "",
     banner: "banners/jet.jpg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: ": Oportunidade para Auxiliar de Limpeza com experiência mínima de 1 ano, oferecendo salário mensal de R$ 1.688,00 e diversos benefícios para atuação em Londrina e região.",
+    descricaoModal:"Requisitos: Experiência mínima de 1 ano na função. Benefícios: Vale transporte; vale alimentação de R$ 450,00 mensal; desconto em farmácias e academias; premiação por assiduidade (2% do salário); alimentação no local.",
+    whatsapp: "5543991846200",
+    email: "",
+    banner: "banners/manha.jpg"
+  },
   
   
 
