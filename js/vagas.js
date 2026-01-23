@@ -8448,7 +8448,7 @@ const vagas = [
     banner: "banners/cbb.jpeg"
   },
   {
-    data: "2026-01-06",
+    data: "2026-01-23",
     titulo: "Supervisor de Equipe",
     empresa: "Beta Serv",
     cidade: "Londrina",
