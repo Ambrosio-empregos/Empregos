@@ -8613,6 +8613,17 @@ const vagas = [
     email: "",
     banner: "banners/lejonnn.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Promotor Instrutor de Patinetes Elétricos",
+    empresa: "JET",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Promotor Instrutor de Patinetes Elétricos JET sob regime PJ, oferecendo ganhos semanais de até ou mais de R$ 2.500,00 através de comissionamento de 70% a 90%.",
+    descricaoModal:"Principais Atividades: Atendimento externo dos clientes nos pontos de atuação; ensinar os clientes o uso do App e do patinete conforme as regras de segurança; auxiliar na escolha do pacote ideal.",
+    whatsapp: "5541984956984",
+    email: "",
+    banner: "banners/pati.jpeg"
+  },
   
 
 ];
