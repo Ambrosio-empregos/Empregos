@@ -8657,6 +8657,18 @@ const vagas = [
     email: "juliano.filho@gprcargo.com.br",
     banner: "banners/ccc.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Vendedor Interno",
+    empresa: "Londrigifts",
+    cidade: "Londrina",
+    descricao: "APENAS EMAIL; A Londrigifts está contratando Vendedor Interno em Londrina! Oportunidade para profissionais com Ensino Médio completo e experiência em televendas e negociação.",
+    descricaoModal:"Atribuições e Requisitos: Responsável por prospecção, negociação em vendas, manutenção em CRM e tratamento follow-up. Necessário Ensino Médio completo, experiência em televendas e habilidades com negociação e fechamentos (experiência com vendas de brindes e produtos corporativos será um diferencial).",
+    whatsapp: "",
+    email: "rh@londrigifts.com.br",
+    banner: "banners/gifts.jpeg"
+  },
+  
   
 
 ];
