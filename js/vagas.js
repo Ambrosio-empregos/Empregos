@@ -8569,6 +8569,17 @@ const vagas = [
     email: "",
     banner: "banners/lejonn.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza com início imediato e jornada de 36 horas semanais, atuando de segunda a sábado no período da manhã.",
+    descricaoModal:"Informações da Vaga: Carga horária de 36 horas semanais. Jornada: Segunda a sábado, das 07:00 às 13:00. Observações: Início imediato. Empresa: Lidere Service.",
+    whatsapp: "5543996420088",
+    email: "",
+    banner: "banners/lin.jpeg"
+  },
   
 
 ];
