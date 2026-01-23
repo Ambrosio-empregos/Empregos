@@ -8445,7 +8445,18 @@ const vagas = [
     descricaoModal:"Remuneração e Benefícios: Salário fixo de R$ 1.900,00, Vale Transporte, Vale Alimentação de R$ 28,50 por dia e prêmio por assiduidade e metas atingidas.",
     whatsapp: "5544999730762",
     email: "",
-    banner: "banners/cobra.jpeg"
+    banner: "banners/cbb.jpeg"
+  },
+  {
+    data: "2026-01-06",
+    titulo: "Supervisor de Equipe",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "A Beta Serv está contratando Supervisor de Equipe com experiência na área e habilidades em liderança e pensamento estratégico para acompanhamento de trabalho em equipe.",
+    descricaoModal:"Requisitos e Habilidades: Experiência na área, habilidades em tratamento com cliente e funcionários (liderança), acompanhamento de trabalho de equipe, organização de escalas de serviço, habilidades interpessoais e pensamento estratégico.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/super.jpeg"
   },
   
 
