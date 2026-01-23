@@ -8547,6 +8547,17 @@ const vagas = [
     email: "",
     banner: "banners/0101.jpeg"
   },
+   {
+    data: "2026-01-23", 
+    titulo: "Corretor de Locação",
+    empresa: "Atual Imobiliária",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor de Locação na Atual Imobiliária, exigindo registro no CRECI, veículo próprio e experiência prévia no setor.",
+    descricaoModal:"Requisitos: Necessário possuir registro no CRECI; possuir carro próprio; ter experiência comprovada em imobiliária.",
+    whatsapp: "554333414060",
+    email: "imobiliariaatualltda@gmail.com",
+    banner: "banners/cor.jpeg"
+  },
   
 
 ];
