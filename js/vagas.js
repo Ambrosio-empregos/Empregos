@@ -8624,6 +8624,17 @@ const vagas = [
     email: "",
     banner: "banners/pati.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Assistente Contábil",
+    empresa: "Contmax",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Contábil na Contmax Contabilidade, buscando profissionais para integrar sua equipe técnica.",
+    descricaoModal:"A empresa Contmax Contabilidade está com processo seletivo aberto para a função de Assistente Contábil. Empresa: Contmax Contabilidade.",
+    whatsapp: "",
+    email: "rh@contmax.com.br",
+    banner: "banners/maxs.jpeg"
+  },
   
 
 ];
