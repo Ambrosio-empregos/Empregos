@@ -8370,6 +8370,17 @@ const vagas = [
     email: "dudalinalondrina@grupoac.net",
     banner: "banners/dudi.jpeg"
   },
+   {
+    data: "2026-01-23",
+    titulo: "Vendedora de Roupas",
+    empresa: "G F  Store",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora de Roupas na GF Store Premium no Camelódromo de Londrina, com salário de R$ 2.000,00 mais comissão e ajuda de custo.",
+    descricaoModal:"Requisitos: Ter experiência em vendas; ensino médio completo; cursos na área serão um diferencial; conhecimento em redes sociais; conhecimento básico de computadores e sistemas.",
+    whatsapp: "5543920006972",
+    email: "",
+    banner: "banners/iuventus.jpeg"
+  },
   
 
 ];
