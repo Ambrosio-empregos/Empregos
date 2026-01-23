@@ -8603,7 +8603,7 @@ const vagas = [
     banner: "banners/branelo.jpeg"
   },
   {
-    data: "2026-01-20",
+    data: "2026-01-23",
     titulo: "Repositor de Mercadorias",
     empresa: "Lejon",
     cidade: "Maringá",
