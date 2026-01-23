@@ -8646,6 +8646,17 @@ const vagas = [
     email: "juliano.filho@gprcargo.com.br",
     banner: "banners/gpr.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Conferente 1",
+    empresa: "GPR",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Conferente I em Londrina com salário de R$ 2.494,62 e benefícios como vale alimentação, bônus por desempenho e plano de saúde Unimed.",
+    descricaoModal:"Atividades: Fechamento da operação; responsável pelas atividades de recebimento e expedição; conferência de NFs físicas e entrada de nota via sistema; tratativas de avarias/anomalias; participação em reunião matinal; movimentação de mercadoria via WMS; inventário; acompanhamento e direcionamento dos auxiliares de armazém.",
+    whatsapp: "",
+    email: "juliano.filho@gprcargo.com.br",
+    banner: "banners/ccc.jpeg"
+  },
   
 
 ];
