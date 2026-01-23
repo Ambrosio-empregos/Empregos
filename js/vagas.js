@@ -8503,6 +8503,17 @@ const vagas = [
     email: "",
     banner: "banners/comprass.jpeg"
   },
+   {
+    data: "2026-01-23",
+    titulo: "Operadpor de Guilhotina",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Operador de Guilhotina em Rolândia/PR, exigindo experiência na função, conhecimento com medidas e leitura de desenhos.",
+    descricaoModal:"Requisitos: Experiência na função; experiência com leitura de desenhos; conhecimento com medidas. Oferecemos: Salário compatível com a função; vale-alimentação; seguro de vida.",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/tina.jpeg"
+  },
   
 
 ];
