@@ -8525,6 +8525,17 @@ const vagas = [
     email: "",
     banner: "banners/noxa.jpeg"
   },
+   {
+    data: "2026-01-23",
+    titulo: "Encarregado de Loja",
+    empresa: "Lejon",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Encarregado de Loja no Lejon Atacarejo, voltada para profissionais que buscam atuação no setor de varejo de alimentos.",
+    descricaoModal:"Vaga aberta para a função de Encarregado de Loja. Empresa: Lejon Atacarejo de Verdade.",
+    whatsapp: "554430332741",
+    email: "",
+    banner: "banners/lejon.jpeg"
+  },
   
 
 ];
