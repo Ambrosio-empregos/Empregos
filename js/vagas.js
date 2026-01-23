@@ -8677,7 +8677,7 @@ const vagas = [
     descricaoModal:"equisitos: Ter CNH categoria AB; não é necessário possuir experiência na função. Informações da Vaga: Salário fixo de R$ 1.600,00; jornada de trabalho de segunda-feira a sexta-feira. Empresa: Londri Split.",
     whatsapp: "5543991815617",
     email: "londrisplit@londrisplit.com.br",
-    banner: "banners/arr.jpeg"
+    banner: "banners/arrr.jpeg"
   },
   
   
