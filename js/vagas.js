@@ -8492,6 +8492,17 @@ const vagas = [
     email: "",
     banner: "banners/mecin.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Assistente de Compras",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Assistente de Compras em Ibiporã/PR para realizar cotações, organização de documentos e atendimento ao público interno, com jornada de segunda a sexta-feira.",
+    descricaoModal:"tividades: Realizar cotações; preencher relatórios; comunicação com fornecedores; organização de notas e documentos do setor; finalizar compras e acompanhar processos; realizar atendimento ao público interno da empresa.",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/comprass.jpeg"
+  },
   
 
 ];
