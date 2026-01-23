@@ -8490,7 +8490,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Apoiar rotinas de manutenção preventiva e corretiva de máquinas industriais; atuar com organização, proatividade e boa comunicação.",
     whatsapp: "5543996320137",
     email: "",
-    banner: "banners/mecin.jpg"
+    banner: "banners/mecin.jpeg"
   },
   
 
