@@ -8514,6 +8514,17 @@ const vagas = [
     email: "",
     banner: "banners/tina.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "vendedor(A)",
+    empresa: "Via Inox",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedores na Via Inox (revendedor Tramontina) em Londrina, onde a experiência prévia na função será considerada um diferencial.",
+    descricaoModal:"A Via Inox, revendedora autorizada Tramontina, está contratando vendedores para integrar sua equipe em Londrina. Requisitos: Ter experiência na área será um diferencial para os candidatos. Localização: Londrina. Empresa: Via Inox.",
+    whatsapp: "5543991805360",
+    email: "",
+    banner: "banners/noxa.jpeg"
+  },
   
 
 ];
