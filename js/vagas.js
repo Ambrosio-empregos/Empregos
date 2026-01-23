@@ -8580,6 +8580,17 @@ const vagas = [
     email: "",
     banner: "banners/lin.jpeg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Vendedor(a) Interno",
+    empresa: "ConeLub",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) Interno na Conelub com remuneração composta por salário fixo, comissão e bônus por meta, exigindo experiência prévia em vendas.",
+    descricaoModal:"Função: Vendas ativo e receptivo por telefone, WhatsApp, entre outros.",
+    whatsapp: "",
+    email: "dp@conelub.com.br",
+    banner: "banners/cone.jpeg"
+  },
   
 
 ];
