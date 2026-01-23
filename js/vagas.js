@@ -8480,6 +8480,18 @@ const vagas = [
     email: "",
     banner: "banners/greka.jpeg"
   },
+
+  {
+    data: "2026-01-23",
+    titulo: "Mecânico Industrial",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Mecânico Industrial em Ibiporã/PR, buscando profissional organizado e proativo para rotinas de manutenção preventiva e corretiva em máquinas industriais.",
+    descricaoModal:"Responsabilidades: Apoiar rotinas de manutenção preventiva e corretiva de máquinas industriais; atuar com organização, proatividade e boa comunicação.",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/mecin.jpg"
+  },
   
 
 ];
