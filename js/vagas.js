@@ -8712,6 +8712,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-23",
+    titulo: "Zelador de Escritório corporaivo",
+    empresa: "MEGASULT",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Zelador(a) em escritório corporativo sob regime CLT (efetivo), para atuação em jornada de segunda a sexta-feira.",
+    descricaoModal:"Responsabilidades: Zelar pela limpeza e conservação das áreas comuns; controle de materiais de limpeza/manutenção; responsável pelo café 2x ao dia.",
+    whatsapp: "5544988149570",
+    email: "",
+    banner: "banners/jet.jpg"
+  },
   
   
 
