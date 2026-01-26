@@ -9416,6 +9416,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/empregada.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Auxiliar de Marketing /Social Media",
+    empresa: "LDN",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Marketing / Social Media na região de Londrina-PR, com foco em planejamento de conteúdo e gestão de redes sociais.",
+    descricaoModal:"Atividades: Planejamento, criação e produção de conteúdo; gestão de redes sociais e de comunidade; campanhas de tráfego pago em alguns casos; acompanhamento de tendências e inovação. Requisitos: Desejável experiência na área.",
+    whatsapp: "5543991757379",
+    email: "rh@ldndistribuidora.com.br",
+    banner: "banners/shar.jpeg"
+  },
 
   
   
