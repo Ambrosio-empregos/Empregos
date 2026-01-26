@@ -9372,6 +9372,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/nazareno.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "técnico em Esquadrias de Alumínios (Sênior)",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Técnico em Esquadrias de Alumínio nível sênior na Principiu's RH, exigindo domínio técnico em leitura de plantas, normas ABNT e softwares específicos da área.",
+    descricaoModal:"Descrição: A função envolve leitura de plantas, desenhos técnicos e conhecimento sobre alumínio, vidros e acessórios; é necessário saber medir com precisão, elaborar planos de corte e dominar normas ABNT NBR 10.821, NBR 7199 e NBR 15.575.",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/naza.jpeg"
+  },
 
   
   
