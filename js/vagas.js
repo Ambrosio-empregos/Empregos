@@ -9284,6 +9284,17 @@ const vagas = [
     email: "contatoempregoldna@gmail.com",
     banner: "banners/interr.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Vistoriador(a)",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vistoriador(a) com foco em organização e atenção aos detalhes, oferecendo salário a combinar e cartão de benefícios.",
+    descricaoModal:"Requisitos: Experiência anterior; atenção aos detalhes; organização; CNH categoria A; possuir veículo próprio será considerado um diferencial.",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/abbaaa.jpeg"
+  },
 
   
   
