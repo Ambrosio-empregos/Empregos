@@ -9405,6 +9405,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/predio.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Empregada Doméstica",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Empregada Doméstica em Maringá-PR com salário de R$ 2.500,00, atuando em apartamento com rotinas de limpeza, passadoria e culinária trivial.",
+    descricaoModal:"Descrição: Atuará com atividades de limpeza e organização da casa, lavar e passar a roupa, e cozinhar (café da manhã e almoço) para 2 adultos e um adolescente em apartamento.",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/empregada.jpeg"
+  },
 
   
   
