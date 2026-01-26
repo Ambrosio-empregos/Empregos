@@ -8954,6 +8954,17 @@ const vagas = [
     email: "",
     banner: "banners/dia.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Eletricista de Redes",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Eletricista de Redes na Eletro Cabines Eng., com foco em montagens eletromecânicas e subestações de energia em alta tensão.",
+    descricaoModal:"Requisitos: Experiência comprovada em montagens eletromecânicas; possuir CNH e as NRs (Normas Regulamentadoras). Observações: Enviar currículo com pretensão salarial.",
+    whatsapp: "554333484105",
+    email: "",
+    banner: "banners/medi.jpeg"
+  },
 
   
   
