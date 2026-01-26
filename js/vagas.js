@@ -8855,6 +8855,17 @@ const vagas = [
     email: "",
     banner: "banners/sab.jpeg"
   },
+  {
+    data: "2026-01-24",
+    titulo: "Montador ",
+    empresa: "QHydronlubz",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Montador em Ibiporã-PR, com jornada de segunda a sexta-feira no setor de montagem da produção e previsão de início imediato após aprovação.",
+    descricaoModal:"Atividades: Manuseio e montagem de equipamentos; testagem de equipamentos; conferência de padrões de peças e de montagem; realizar a organização de itens; realizar processos de produção de acordo com demandas; relatar problemas ao encarregado do setor.",
+    whatsapp: "5543999675616",
+    email: "",
+    banner: "banners/sabb.jpeg"
+  },
 
   
   
