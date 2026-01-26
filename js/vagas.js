@@ -9020,6 +9020,17 @@ const vagas = [
     email: "",
     banner: "banners/gela.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Auxiliar de Recepção",
+    empresa: "GoldMen",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Manutenção no GoldMen Select em Maringá, sendo responsável pelo apoio à conservação e reparo de instalações, equipamentos e sistemas.",
+    descricaoModal:"Responsabilidades: Apoiar a conservação e reparo de instalações, equipamentos e sistemas; realizar tarefas preventivas e corretivas como troca de lâmpadas, consertos hidráulicos, pintura e organização; atuar sob supervisão com foco na segurança e no bom funcionamento do ambiente.",
+    whatsapp: "554430271311",
+    email: "",
+    banner: "banners/coss.jpeg"
+  },
 
   
   
