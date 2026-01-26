@@ -9240,6 +9240,17 @@ const vagas = [
     email: "",
     banner: "banners/queima.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Assistente Contábil",
+    empresa: "Brites",
+    cidade: "Maringá",
+    descricao: "Vaga para Assistente Contábil em Maringá-PR exigindo ensino superior em Ciências Contábeis.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5544988232992",
+    email: "britesconsultoriarh@gmail.com",
+    banner: "banners/chamame.jpeg"
+  },
 
   
   
