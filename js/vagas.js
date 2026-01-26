@@ -9234,11 +9234,11 @@ const vagas = [
     titulo: "Vendedor(a)",
     empresa: "Estação Fitness",
     cidade: "Londrina",
-    descricao: "Vaga aberta para Vendedor(a) na Unidade Saul Elkind da Academia Estação Fitness para atuação em meio período.",
-    descricaoModal:"Requisitos: Experiência em vendas, proatividade, boa comunicação e vontade de aprender. Disponibilidade: Vaga para meio período, nos turnos tarde ou noite. Observação: É necessário morar próximo da unidade Saul Elkind.",
+    descricao: "Vaga aberta para Vendedor(a) na Estação Fitness para atuação",
+    descricaoModal:"Requisitos: Experiência em vendas, proatividade, boa comunicação e vontade de aprender. Disponibilidade: Vaga para meio período, nos turnos tarde ou noite.",
     whatsapp: "5543984081727",
     email: "",
-    banner: "banners/fitn.jpeg"
+    banner: "banners/queima.jpeg"
   },
 
   
