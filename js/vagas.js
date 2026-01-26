@@ -9306,6 +9306,17 @@ const vagas = [
     email: "",
     banner: "banners/inten.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Caixa",
+    empresa: "Guaporé Pneus",
+    cidade: "Londrina",
+    descricao: "Oportunidade para a função de Caixa na Guaporé Pneus em Londrina-PR, oferecendo ótima remuneração salarial e um pacote completo de benefícios.",
+    descricaoModal:"Localização: Londrina-PR. Benefícios: Plano de saúde; vale alimentação; Total Pass; plano odontológico; vale transporte.",
+    whatsapp: "554330321911",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/cami.jpeg"
+  },
 
   
   
