@@ -9436,7 +9436,7 @@ const vagas = [
     descricaoModal:"Requisitos e Perfil: Profissionais comunicativos, que gostem de desafios e busquem crescimento profissional. Detalhes da Oportunidade: Salário de até R$ 2.500,00; horário de trabalho de segunda a sexta-feira. Localização: Centro de Itajaí.",
     whatsapp: "5547989290299",
     email: "",
-    banner: "banners/freee.jpeg"
+    banner: "banners/new.jpeg"
   },
 
   
