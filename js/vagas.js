@@ -9174,6 +9174,17 @@ const vagas = [
     email: "crocs.qq.mga@gmail.com",
     banner: "banners/croc.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Vendedor Externo",
+    empresa: "Consig RH",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Vendedor(a) Externo(a) para atuar estrategicamente na comercialização de linhas de tintas automotiva e imobiliária, com foco em prospecção e expansão de mercado.",
+    descricaoModal:"Responsabilidades: Prospecção ativa de novos clientes nos segmentos automotivo (oficinas, funilarias) e imobiliário/construtivo (construtoras, imobiliárias, pintores); realização de visitas externas para apresentação de produtos;",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/misterio.jpeg"
+  },
 
   
   
