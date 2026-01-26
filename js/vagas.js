@@ -8943,6 +8943,17 @@ const vagas = [
     email: "",
     banner: "banners/uso.jpg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Diarista",
+    empresa: "2 IZy",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Diaristas Autônomas na 2izy, exigindo experiência obrigatória com serviços de limpeza.",
+    descricaoModal:"Requisitos: Obrigatório experiência com serviços de limpeza. Empresa: 2izy.",
+    whatsapp: "5544991018587",
+    email: "",
+    banner: "banners/dia.jpg"
+  },
 
   
   
