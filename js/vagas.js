@@ -8952,7 +8952,7 @@ const vagas = [
     descricaoModal:"Requisitos: Obrigatório experiência com serviços de limpeza. Empresa: 2izy.",
     whatsapp: "5544991018587",
     email: "",
-    banner: "banners/dia.jpg"
+    banner: "banners/dia.jpeg"
   },
 
   
