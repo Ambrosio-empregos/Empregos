@@ -9119,6 +9119,17 @@ const vagas = [
     email: "",
     banner: "banners/fica.jpeg"
   },
+   {
+    data: "2026-01-26", 
+    titulo: "Auxiliar Administrativo",
+    empresa: "Paraná A&R Imóveis",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Administrativo na Paraná A&R Imóveis, aberta para candidatos sem experiência prévia e que possuam vontade de aprender.",
+    descricaoModal:"Requisitos: Não é necessário ter experiência; a vontade de aprender é um diferencial valorizado. Benefícios: Salário; Vale Alimentação; Vale Transporte. Empresa: Paraná A&R Imóveis.",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/iza.jpeg"
+  },
 
   
   
