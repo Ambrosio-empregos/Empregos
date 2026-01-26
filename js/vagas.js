@@ -9053,6 +9053,17 @@ const vagas = [
     email: "",
     banner: "banners/medd.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Repositor de Loja",
+    empresa: "LP",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Repositor de Loja, exigindo idade acima de 21 anos e experiência na função para atuar com atendimento e organização de mercadorias.",
+    descricaoModal:"Requisitos: Acima de 21 anos; experiência como repositor(a); boa comunicação; comprometimento; organização; bom relacionamento com clientes, garantindo uma experiência positiva.",
+    whatsapp: "5543999512537",
+    email: "lp.nailslashes@gmail.com",
+    banner: "banners/luan.jpeg"
+  },
 
   
   
