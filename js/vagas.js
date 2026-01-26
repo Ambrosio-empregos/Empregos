@@ -9218,6 +9218,17 @@ const vagas = [
     email: "",
     banner: "banners/olhei.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Altenburg",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de vendas na Altenburg do Catuaí Shopping Londrina, com média salarial entre R$ 3.000,00 e R$ 6.000,00 e benefícios inclusos.",
+    descricaoModal:"Informações: Média salarial de R$ 3.000,00 a R$ 6.000,00; vale transporte; vale alimentação; plano de saúde. Horário: Das 10:00 às 16:00 horas ou das 16:00 às 22:00 horas.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/caled.jpeg"
+  },
 
   
   
