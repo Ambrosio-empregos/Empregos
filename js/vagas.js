@@ -9130,6 +9130,17 @@ const vagas = [
     email: "",
     banner: "banners/iza.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Vendedor(a)",
+    empresa: "LP",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na LP Nails & Lashes, com foco em atendimento via redes sociais e vendas online direto da loja.",
+    descricaoModal:"Funções: Atender clientes via WhatsApp e Instagram; realizar vendas online diretamente da loja. Requisitos: Experiência em vendas online; boa comunicação escrita e atendimento cordial; comprometimento; organização. Benefícios: Vale transporte; comissão (após o período de experiência).",
+    whatsapp: "5543996279426",
+    email: "lp.nailslashes@gmail.com",
+    banner: "banners/luca.jpeg"
+  },
 
   
   
