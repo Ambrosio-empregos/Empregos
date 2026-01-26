@@ -8985,7 +8985,18 @@ const vagas = [
     descricaoModal:"Requisitos: Pessoas acima de 18 anos; homem ou mulher; perfil comprometido, comunicativo e disposto a aprender. Benefícios: Ganhos acima da média; flexibilidade de horário; treinamento e capacitação diária; oportunidade de crescimento. Localização: Ademicon Londrina Centro.",
     whatsapp: "554333243090",
     email: "rh.grupoaurea@gmail.com",
-    banner: "banners/ademii.jpeg"
+    banner: "banners/medpuclon.jpeg"
+  },
+  {
+    data: "2026-01-26", 
+    titulo: "Auxiliar Administrativo",
+    empresa: "Hr Motores eletrônicos",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Administrativo com salário de R$ 2.280,00 e disponibilidade para início imediato na empresa HP Motores Elétricos.",
+    descricaoModal:"Requisitos: Experiência em atendimento; rotinas administrativas; disponibilidade para início imediato. Benefícios: Salário de R$ 2.280,00; cesta básica ou vale refeição de R$ 340,00; vale transporte. Empresa: HP Motores Elétricos.",
+    whatsapp: "5544999270629",
+    email: "",
+    banner: "banners/medcesmar.jpeg"
   },
 
   
