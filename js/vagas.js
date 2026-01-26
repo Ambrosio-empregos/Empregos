@@ -8767,6 +8767,95 @@ const vagas = [
     email: "recrutamentocamponesaimoveis@gmail.com",
     banner: "banners/imo.jpeg"
   },
+   {
+    data: "2026-01-24",
+    titulo: "Atendente de Loja",
+    empresa: "Sorveteria não identificada",
+    cidade: "Arapongas",
+    descricao: "Vaga para Atendente de Loja em Sorveteria - Arapongas (Centro) - Ótima oportunidade para quem busca trabalhar com atendimento ao público!",
+    descricaoModal:"Requisitos: Ensino Médio completo com excelente comunicação. Experiência ou facilidade para lidar com o atendimento ao cliente. Proatividade, simpatia e organização.",
+    whatsapp: "55439915997711",
+    email: "valgas3007@gmail.com",
+    banner: "banners/sorveteria.jpg"
+  },
+  {
+    data: "2026-01-19", 
+    titulo: "Caixa",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caixa na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 2.500,00 e R$ 3.500,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Caixa na loja Dudalina do Catuaí Shopping Londrina. Média salarial: R$ 2.500,00 - 3.500,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/santo.jpeg"
+  },
+   {
+    data: "2026-01-24", 
+    titulo: "Consultor(A) de Vendas",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de Vendas na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 4.000,00 e R$ 5.000,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/dudi.jpeg"
+  },
+  {
+    data: "2026-01-24",
+    titulo: "Setor de Cadastros",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Setor de Cadastros com ganhos entre R$ 2.000 e R$ 10.000 e plano de carreira.",
+    descricaoModal:"A vaga oferece treinamento, acompanhamento, premiações mensais por resultado e happy hour semanal. Os requisitos incluem idade entre 18 e 30 anos.",
+    whatsapp: "5543988083435",
+    email: "",
+    banner: "banners/cadas.jpeg"
+  },
+   {
+    data: "2026-01-26",
+    titulo: "Atendente de Sorveteria",
+    empresa: "",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Atendente de Sorveteria em Arapongas, oferecendo salário compatível com a função, benefícios e um ambiente de trabalho agradável com chances de crescimento.",
+    descricaoModal:"Requisitos: Ensino Médio completo; habilidade com atendimento ao público; disponibilidade de dias e horários para trabalhar, inclusive finais de semana e feriados. Habilidades: Comunicação; produtividade e comprometimento; organização e limpeza; agilidade e vontade de aprender. Atribuições: Atendimento ao cliente e no caixa da loja;",
+    whatsapp: "5543991597711",
+    email: "valgas3007@gmail.com",
+    banner: "banners/pongas.jpeg"
+  },
+  {
+    data: "2026-01-26",
+    titulo: "vagas para EMPREENDEDORAS",
+    empresa: "Incrível Sotre/romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando! Revenda moda fitness e lingerie no sistema de consignado, sem necessidade de investimento inicial.",
+    descricaoModal:"Informações da Vaga: Seja uma revendedora Romance Favorita e Invencível Store. Oferecemos sistema de consignado (você só paga o que vender) e não é necessário investimento inicial para começar. Ideal para quem busca autonomia e faturamento imediato em 2026.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/doras.jpeg"
+  },
+  {
+    data: "2026-01-26",
+    titulo: "Vendedora",
+    empresa: "Avatim",
+    cidade: "Londrina",
+    descricao: "Vaga para Vendedora na unidade do Shopping Catuaí Londrina. Venha trabalhar com bem-estar e aromatização de ambientes!",
+    descricaoModal:"Vaga para o Shopping Catuaí Londrina. Requisitos: Ter mais de 25 anos, Ensino Médio completo, habilidade com vendas, proatividade e dinamismo",
+    whatsapp: "554333017869",
+    email: "prlojasrank@gmail.com",
+    banner: "banners/avatim.jpg"
+  },
+   {
+    data: "2026-01-26",
+    titulo: "Cozinheira",
+    empresa: "QUiosque da Marmita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Cozinheira em Londrina com salário a combinar, para atuação em jornada de segunda a sexta-feira no Quiosque da Marmita.",
+    descricaoModal:"Horário: Segunda a sexta, das 8h às 16h. Salário: A combinar. Localização: Rua Espírito Santo, 470, Londrina. Empresa: Quiosque da Marmita.",
+    whatsapp: "5543988350552",
+    email: "",
+    banner: "banners/sab.jpg"
+  },
+
   
   
 
