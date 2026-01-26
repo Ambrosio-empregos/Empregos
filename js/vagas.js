@@ -9251,6 +9251,17 @@ const vagas = [
     email: "britesconsultoriarh@gmail.com",
     banner: "banners/chamame.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Operador(a) de Caixa",
+    empresa: "Consig RH",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador(a) de Caixa na Consig Recursos Humanos, sendo responsável pelo atendimento aos clientes no momento da finalização das compras e operação do caixa.",
+    descricaoModal:"Responsabilidades: Realizar o atendimento aos clientes no momento da finalização das compras, operando o caixa, registrando produtos e recebendo pagamentos.",
+    whatsapp: "",
+    email: "recrutamentoconsig2026@gmail.com",
+    banner: "banners/juven.jpeg"
+  },
 
   
   
