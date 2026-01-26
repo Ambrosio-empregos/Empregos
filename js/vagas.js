@@ -9350,6 +9350,17 @@ const vagas = [
     email: "contrata@forboys.com.br",
     banner: "banners/rainha.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "vendedor(a)",
+    empresa: "For Boys For Girls",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na FOR BOYS FOR GIRLS, oferecendo comissões de até 5%, vale alimentação e plano de saúde.",
+    descricaoModal:"Requisitos: Desejável experiência em vendas e atendimento ao cliente; ser comunicativo(a), paciente, simpático(a) e atencioso(a); possuir ensino médio completo.",
+    whatsapp: "5543984322473",
+    email: "contrata@forboys.com.br",
+    banner: "banners/rabasu.jpeg"
+  },
 
   
   
