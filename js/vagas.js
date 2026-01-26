@@ -9185,6 +9185,17 @@ const vagas = [
     email: "recrutamentoconsig2026@gmail.com",
     banner: "banners/misterio.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Lavador de veículos",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "Oportunidade de Emprego para Lavador de Veículos no Shopping Catuaí. Início imediato com remuneração de R$ 2.200,00!",
+    descricaoModal:"Atividades: Realizar lavagem completa de veículos (externa e interna), aplicação de produtos adequados seguindo normas de segurança, acabamento final e organização do ambiente.",
+    whatsapp: "554391502191",
+    email: "",
+    banner: "banners/lavador.jpg"
+  },
 
   
   
