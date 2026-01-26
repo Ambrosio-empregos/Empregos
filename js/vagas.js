@@ -9075,6 +9075,17 @@ const vagas = [
     email: "",
     banner: "banners/sabbb.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Auxiliar Contábil",
+    empresa: "Angus",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Contábil em Cambé/PR para atuar com lançamentos, DRE, fluxo de caixa e rotinas financeiras, sendo necessário formação ou estar cursando Ciências Contábeis.",
+    descricaoModal:"Atribuições: Lançamentos contábeis; elaboração de DRE + Fluxo de Caixa; rotinas financeiras; conciliação bancária; controles administrativos; controles de relatórios pertinentes ao setor. Requisitos: Formação ou cursando Ciências Contábeis.",
+    whatsapp: "554331547937",
+    email: "recrutamento@anguslog.com.br",
+    banner: "banners/angus.jpeg"
+  },
 
   
   
