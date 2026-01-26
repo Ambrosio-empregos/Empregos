@@ -8910,6 +8910,28 @@ const vagas = [
     email: "",
     banner: "banners/oli.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Atendimento ao cliente / Pré vendas",
+    empresa: "Guaporé Pneus",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendimento ao Cliente / Pré Vendas na Guaporé Pneus em Londrina-PR, oferecendo ótima remuneração salarial e benefícios como planos de saúde e odontológico.",
+    descricaoModal:"Benefícios: Plano de saúde; Vale Alimentação; Total Pass; Plano Odontológico; Vale Transporte. Observações: Ótima remuneração salarial. Localização: Londrina-PR. Empresa: Guaporé Pneus.",
+    whatsapp: "554330321911",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/atc.jpeg"
+  },
+  {
+    data: "2026-01-26",
+    titulo: "Zelador",
+    empresa: "L.N.H Serviços",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Zelador de Condomínio de Casas com início imediato, oferecendo salário de R$ 2.252,22 e benefícios como Vale Alimentação e Vale Transporte.",
+    descricaoModal:"Requisitos: Necessário experiência; possuir CNH para Moto (A) válida; ter conhecimento com jardinagem e pequenos reparos.",
+    whatsapp: "5543988345229",
+    email: "",
+    banner: "banners/inco.jpeg"
+  },
 
   
   
