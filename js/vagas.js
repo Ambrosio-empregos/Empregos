@@ -9370,7 +9370,7 @@ const vagas = [
     descricaoModal:"Descrição: Atuará com limpeza da loja, salas administrativas, banheiros, varrer a calçada; cuidará da copa e refeitório, fazer café, lista de compras de materiais de limpeza, etc.",
     whatsapp: "",
     email: "contato@principiusrh.com.br",
-    banner: "banners/rabasu.jpeg"
+    banner: "banners/nazareno.jpeg"
   },
 
   
