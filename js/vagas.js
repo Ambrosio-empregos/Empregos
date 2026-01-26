@@ -9361,6 +9361,17 @@ const vagas = [
     email: "contrata@forboys.com.br",
     banner: "banners/rabasu.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Zeladoria de Loja",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Zeladoria de Loja na Principiu's RH, com salário de R$ 2.750,00 e jornada de segunda a sexta-feira em horário comercial.",
+    descricaoModal:"Descrição: Atuará com limpeza da loja, salas administrativas, banheiros, varrer a calçada; cuidará da copa e refeitório, fazer café, lista de compras de materiais de limpeza, etc.",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rabasu.jpeg"
+  },
 
   
   
