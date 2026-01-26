@@ -9031,6 +9031,28 @@ const vagas = [
     email: "",
     banner: "banners/coss.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Ajudante de Montador",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Montador com ganhos de até R$ 2.400,00 sob contrato intermitente, exigindo habilidade com ferramentas como parafusadeira e lixadeira.",
+    descricaoModal:"Requisitos: Saber manusear as ferramentas parafusadeira, martelete e lixadeira; ser proativo e responsável com o trabalho. Diferencial: Experiência em canteiro de obras.",
+    whatsapp: "5543984435997",
+    email: "",
+    banner: "banners/val.jpeg"
+  },
+   {
+    data: "2026-01-26", 
+    titulo: "Auxiliar de Escrita",
+    empresa: "EVo Estágios",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Escrita Fiscal em Londrina/PR, oferecendo bolsa auxílio de até R$ 3.000,00 e pacote completo de benefícios para atuação em escritório de contabilidade.",
+    descricaoModal:"Atividades: Escrituração fiscal; importação de Nfe e Nfi, conferência e geração de DAs; importação de arquivos. Requisitos: Experiência em Auxiliar de Escrita Fiscal com no mínimo 3 anos; experiência com empresas do Simples Nacional; experiência com empresas do Lucro Resumido; responsabilidade, assiduidade, boa comunicação oral e escrita.",
+    whatsapp: "5543996178841",
+    email: "",
+    banner: "banners/medd.jpeg"
+  },
 
   
   
