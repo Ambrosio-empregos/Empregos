@@ -9273,6 +9273,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Auxiliar Técnico Informática",
+    empresa: "Interativa",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Técnico em Informática na empresa Alternativa, exigindo CNH B obrigatória e oferecendo benefícios como seguro de vida e ajuda alimentação.",
+    descricaoModal:"Trabalho a ser desenvolvido: Suporte ao cliente; atendimento técnico externo; manutenção de impressoras; limpeza e reparo de peças e equipamentos; instalação e configuração de impressora. Pré-requisitos: CNH B (Obrigatório); ensino médio completo; comprometimento e proatividade; boa comunicação; conhecimento em informática será um diferencial.",
+    whatsapp: "",
+    email: "contatoempregoldna@gmail.com",
+    banner: "banners/interr.jpeg"
+  },
 
   
   
