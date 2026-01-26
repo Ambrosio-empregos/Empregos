@@ -9394,6 +9394,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/exx.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Cozinha em regime 12x36, atuando em cozinha industrial com foco no preparo de refeições para grande público, oferecendo salário de R$ 2.166,00 e diversos benefícios.",
+    descricaoModal:"Descrição: Atuar em uma cozinha industrial auxiliando no preparo de refeições para grande público; atividades de preparar legumes, verduras, cortes, entre outros.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/predio.jpeg"
+  },
 
   
   
