@@ -8888,6 +8888,17 @@ const vagas = [
     email: "contato@grupoautofaz.com.br",
     banner: "banners/sabbbb.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Estagiário",
+    empresa: "Salmen & Azevedo",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Estagiário na Salmen & Azevedo Advogados Associados, buscando estudantes com conhecimento em direito material cível e trabalhista para atuação presencial.",
+    descricaoModal:"Requisitos: Atuação presencial; conhecimento em direito material cível e trabalhista. Principais Atividades: Peticionamento eletrônico; cumprimento de prazos; confecção de documentos gerais; elaboração de guias e relatórios. Empresa: Salmen & Azevedo Advogados Associados.",
+    whatsapp: "",
+    email: "contato@salmenazevedo.com.br",
+    banner: "banners/salmo.jpeg"
+  },
 
   
   
