@@ -8899,6 +8899,17 @@ const vagas = [
     email: "contato@salmenazevedo.com.br",
     banner: "banners/salmo.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Atendente de Balcão",
+    empresa: "OliVEIRA sORVETES",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Balcão na Oliveira Sorvetes em Cambé, com remuneração média livre entre R$ 2.150,00 e R$ 2.300,00 e escala 6x1.",
+    descricaoModal:"Perfil: Profissional comunicativa, proativa e que ame atender pessoas. Remuneração e Benefícios: Piso salarial de R$ 1.980,00; Vale Alimentação de R$ 310,00; Vale Transporte (caso precise); média de salário livre entre R$ 2.150,00 e R$ 2.300,00 de acordo com os dias trabalhados (valor aumenta com trabalho em finais de semana e feriados).",
+    whatsapp: "5543991288468",
+    email: "",
+    banner: "banners/oli.jpeg"
+  },
 
   
   
