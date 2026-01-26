@@ -3048,17 +3048,6 @@ const vagas = [
   },
   {
     data: "2026-01-09",
-    titulo: "Diarista 2x na semana",
-    empresa: "Empresa não idetificada",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Diarista com atuação duas vezes por semana, sendo necessário residir próximo ao Muffato do Conjunto Cafezal.",
-    descricaoModal:"Detalhes da Oportunidade: Vaga aberta para Diarista; frequência de trabalho de 2x na semana. Requisitos: Residir próximo ao Muffato do Conjunto Cafezal.",
-    whatsapp: "5543998438698",
-    email: "",
-    banner: "banners/diarista.jpeg"
-  },
-  {
-    data: "2026-01-09",
     titulo: "Auxiliar Fiscal",
     empresa: "Fortcon",
     cidade: "Londrina",
