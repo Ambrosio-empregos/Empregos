@@ -8866,6 +8866,17 @@ const vagas = [
     email: "",
     banner: "banners/sabb.jpeg"
   },
+  {
+    data: "2026-01-24",
+    titulo: "Setor de Cadastramento",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para o Setor de Cadastros com ganhos mensais de R$ 2.500,00 a R$ 7.500,00, oferecendo plano de carreira e treinamento constante.",
+    descricaoModal:"Benefícios e Diferenciais: Ganhos mensais entre R$ 2.500,00 e R$ 7.500,00; plano de carreira por evolução na empresa já desenhado; Happy Hour semanal; treinamento constante e individualizado. Requisitos: Ser comunicativo; ter experiência com vendas é considerado um diferencial.",
+    whatsapp: "5543988083435",
+    email: "",
+    banner: "banners/sabbb.jpeg"
+  },
 
   
   
