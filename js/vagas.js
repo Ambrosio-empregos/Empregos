@@ -9317,6 +9317,17 @@ const vagas = [
     email: "",
     banner: "banners/zela.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Corretor(a)",
+    empresa: "Sua House",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor(a) para atuar em equipe de lançamento na Sua House, disponível para profissionais com ou sem experiência prévia.",
+    descricaoModal:"Detalhes da vaga: Atuação em equipe de lançamento; candidatos com ou sem experiência são bem-vindos.",
+    whatsapp: "5543984557699",
+    email: "",
+    banner: "banners/hous.jpeg"
+  },
 
   
   
