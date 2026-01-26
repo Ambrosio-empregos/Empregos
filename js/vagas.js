@@ -9009,6 +9009,17 @@ const vagas = [
     email: "",
     banner: "banners/cucu.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Atendente de Loja",
+    empresa: "gelaboca",
+    cidade: "Maringá",
+    descricao: "Vaga para Atendente de Loja em Maringá-PR, especificamente no Jardim Alvorada, para quem busca um ambiente dinâmico e gosta de atendimento ao público.",
+    descricaoModal:"A Gela Boca oferece oportunidade para quem gosta de atuar na área de atendimento ao público e busca um ambiente dinâmico. Horário: 14h40 às 23h20. Localização: Jardim Alvorada, Maringá-PR.",
+    whatsapp: "5544999872393",
+    email: "",
+    banner: "banners/gela.jpeg"
+  },
 
   
   
