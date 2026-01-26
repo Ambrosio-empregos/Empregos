@@ -9339,6 +9339,17 @@ const vagas = [
     email: "contrata@forboys.com.br",
     banner: "banners/rei.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Caixa de Loja",
+    empresa: "For Boys For Girls",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caixa de Loja em Londrina, com exigência de ensino médio completo e foco em resultados.",
+    descricaoModal:"Requisitos: Desejável experiência na função; ensino médio completo; saber trabalhar em equipe com foco em resultados.",
+    whatsapp: "5543984322473",
+    email: "contrata@forboys.com.br",
+    banner: "banners/rainha.jpeg"
+  },
 
   
   
