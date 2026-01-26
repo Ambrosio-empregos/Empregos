@@ -9196,6 +9196,17 @@ const vagas = [
     email: "",
     banner: "banners/lavador.jpg"
   },
+   {
+    data: "2026-01-26", 
+    titulo: "Motorista de caminhão",
+    empresa: "Ictus Pescado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de Caminhão para entregas na Ictus Pescado, exigindo Carteira C e oferecendo pacote de benefícios incluindo alimentação e seguro de vida.",
+    descricaoModal:"Requisitos: Possuir Carteira C; experiência com entregas; disponibilidade de horário; utilizará veículo da empresa.",
+    whatsapp: "554333422260",
+    email: "",
+    banner: "banners/deus.jpeg"
+  },
 
   
   
