@@ -9328,6 +9328,17 @@ const vagas = [
     email: "",
     banner: "banners/hous.jpeg"
   },
+  {
+    data: "2026-01-26",
+    titulo: "Visual Merchandising",
+    empresa: "For Boys For Girls",
+    cidade: "Londrina",
+    descricao: "Oportunidade para profissionais de Visual Merchandising em Londrina - PR, exigindo conhecimento em moda e domínio do Pacote Office.",
+    descricaoModal:"Requisitos: Experiência prévia como visual merchandising; curso ou treinamento na área de visual merchandising e/ou vitrinismo; habilidade com Pacote Office; conhecimento em moda.",
+    whatsapp: "5543984322473",
+    email: "contrata@forboys.com.br",
+    banner: "banners/rei.jpeg"
+  },
 
   
   
