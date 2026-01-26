@@ -8877,6 +8877,17 @@ const vagas = [
     email: "",
     banner: "banners/sabbb.jpeg"
   },
+  {
+    data: "2026-01-24",
+    titulo: "MEcânico Automotivo",
+    empresa: "autoFaz",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Mecânico Automotivo na Autofaz em Maringá/PR, exigindo habilitação B e experiência em reparos de sistemas mecânicos e manutenção preventiva.",
+    descricaoModal:"mpetências Técnicas: Habilitação B (obrigatório); reparo de sistemas mecânicos (motor, suspensão, freios, direção); manutenção preventiva e corretiva; identificação de falhas mecânicas e elétricas básicas;",
+    whatsapp: "",
+    email: "contato@grupoautofaz.com.br",
+    banner: "banners/sabbbb.jpeg"
+  },
 
   
   
