@@ -8845,7 +8845,7 @@ const vagas = [
     banner: "banners/avatim.jpg"
   },
    {
-    data: "2026-01-26",
+    data: "2026-01-24",
     titulo: "Cozinheira",
     empresa: "QUiosque da Marmita",
     cidade: "Londrina",
@@ -8853,7 +8853,7 @@ const vagas = [
     descricaoModal:"Horário: Segunda a sexta, das 8h às 16h. Salário: A combinar. Localização: Rua Espírito Santo, 470, Londrina. Empresa: Quiosque da Marmita.",
     whatsapp: "5543988350552",
     email: "",
-    banner: "banners/sab.jpg"
+    banner: "banners/sab.jpeg"
   },
 
   
