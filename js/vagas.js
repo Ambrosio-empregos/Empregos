@@ -9108,6 +9108,17 @@ const vagas = [
     email: "",
     banner: "banners/cris.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Assistente Fincaneiro",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Assistente Financeiro com foco em relacionamento interpessoal e comunicação, oferecendo salário compatível e benefícios.",
+    descricaoModal:"Requisitos: Excelente capacidade de comunicação; habilidade em relacionamento interpessoal; experiência prévia será considerada um diferencial. Oferecemos: Salário; vale alimentação; vale transporte.",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/fica.jpeg"
+  },
 
   
   
