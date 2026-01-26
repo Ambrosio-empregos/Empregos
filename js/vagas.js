@@ -9086,6 +9086,28 @@ const vagas = [
     email: "recrutamento@anguslog.com.br",
     banner: "banners/angus.jpeg"
   },
+  {
+    data: "2026-01-26", 
+    titulo: "Camareira",
+    empresa: "GoldMen",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Camareira no GoldMen Select em Maringá.",
+    descricaoModal:"Envie seu currículo por Whatsapp",
+    whatsapp: "554430271311",
+    email: "",
+    banner: "banners/sheila.jpeg"
+  },
+  {
+    data: "2026-01-26", 
+    titulo: "Representante Comercial Externo",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Representante Comercial Externo com foco em fechamento de grandes negócios e altos ganhos em uma indústria forte, disponível para as cidades de Maringá, Cascavel e Londrina.",
+    descricaoModal:"Perfil: Profissionais que buscam fechar grandes negócios e ter altos ganhos em uma indústria forte, com produto de qualidade e suporte total ao consultor.",
+    whatsapp: "5542988741927",
+    email: "",
+    banner: "banners/cris.jpeg"
+  },
 
   
   
