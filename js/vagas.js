@@ -9471,6 +9471,17 @@ const vagas = [
     email: "",
     banner: "banners/italian.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Vendedor(A)",
+    empresa: "Le Postiche",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Le Postiche, aberta para maiores de 18 anos com perfil proativo e vontade de aprender.",
+    descricaoModal:"Requisitos: Ser maior de 18 anos; experiência na função será um diferencial; proatividade; boa comunicação; vontade de aprender. Empresa: Le Postiche.",
+    whatsapp: "5543991355658",
+    email: "",
+    banner: "banners/lepoo.jpeg"
+  },
 
   
   
