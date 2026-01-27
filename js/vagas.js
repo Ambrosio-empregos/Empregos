@@ -9449,6 +9449,17 @@ const vagas = [
     email: "",
     banner: "banners/ranco.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Hospital Oto centro",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo no Hospital do Centro, com foco em processos de liberação e agendamento de cirurgias.",
+    descricaoModal:"Requisitos: Experiência comprovada em liberação e agendamento de cirurgias. Empresa: Hospital do Centro.",
+    whatsapp: "554333735522",
+    email: "rh@hospitalotocentro.com.br",
+    banner: "banners/otoo.jpeg"
+  },
 
   
   
