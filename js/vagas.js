@@ -9900,6 +9900,17 @@ const vagas = [
     email: "",
     banner: "banners/veu.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Setor Comercial",
+    empresa: "Mônaco Imob",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para o Setor Comercial na Mônaco Imobi para profissionais dinâmicos e voltados para resultados, oferecendo salário fixo mais benefícios e ganhos por meta.",
+    descricaoModal:"Profissional dinâmico, empático, voltado para resultados e capaz de bater metas; boa comunicação, simpatia e espírito colaborativo. Principais Funções: Atendimento ao cliente; acompanhar visitas aos imóveis; documentação de cliente. Requisitos: Maior de 20 anos; ensino médio completo; início imediato;",
+    whatsapp: "",
+    email: "bruna@imobiliariamonaco.com.br",
+    banner: "banners/mona.jpeg"
+  },
   
   
 
