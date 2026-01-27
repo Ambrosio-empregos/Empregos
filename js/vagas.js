@@ -9854,7 +9854,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Atuar no pré-preparo dos produtos servidos; organização, limpeza e conservação da cozinha.",
     whatsapp: "5544999978523",
     email: "",
-    banner: "banners/ponk.jpg"
+    banner: "banners/ponk.jpeg"
   },
   
   
