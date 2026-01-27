@@ -9658,6 +9658,17 @@ const vagas = [
     email: "locacaolondrina@gmail.com",
     banner: "banners/vic.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Vendedora",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora em boutique especializada em roupas de festa localizada no centro de Londrina.",
+    descricaoModal:"Localização: Centro de Londrina. Atuação: Boutique de roupas de festa.",
+    whatsapp: "5543988235160",
+    email: "",
+    banner: "banners/pink.jpeg"
+  },
   
   
 
