@@ -9889,6 +9889,17 @@ const vagas = [
     email: "",
     banner: "banners/ceu.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Cozinheiro/Churrasqueiro",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Somente com experiência mínima de 3 anos.",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/veu.jpeg"
+  },
   
   
 
