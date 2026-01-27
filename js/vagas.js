@@ -9702,6 +9702,17 @@ const vagas = [
     email: "",
     banner: "banners/maar.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Estagiário de Música",
+    empresa: "Escola Apoena",
+    cidade: "Londrina",
+    descricao: "Oportunidade de estágio na área de música com carga horária flexível entre 20h e 30h semanais, voltada para um ambiente educacional colaborativo.",
+    descricaoModal:"O que oferecemos: Carga horária de 20h a 30h semanais; formação continuada e plano de carreira estruturado; ambiente colaborativo e inspirador. Empresa: Escola Apoena.",
+    whatsapp: "",
+    email: "talentos@escolaapoena.com.br",
+    banner: "banners/educ.jpeg"
+  },
   
   
 
