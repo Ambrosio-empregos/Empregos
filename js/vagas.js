@@ -9922,6 +9922,17 @@ const vagas = [
     email: "selecaoaplixgesso@gmail.com",
     banner: "banners/aplix.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "Vendedor",
+    empresa: "Physical Shop",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora em Londrina, com salário de R$ 2.000,00 mais bonificações por metas, voltada para profissionais com experiência em vendas remotas e presenciais.",
+    descricaoModal:"Detalhes: Busca-se profissional comprometida, comunicativa e proativa para atendimento ao público e vendas.",
+    whatsapp: "5543991926960",
+    email: "",
+    banner: "banners/chy.jpeg"
+  },
   
   
 
