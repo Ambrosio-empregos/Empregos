@@ -9438,6 +9438,17 @@ const vagas = [
     email: "",
     banner: "banners/new.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Auxiliar de Estoque/Depósito",
+    empresa: "Fpp",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Estoque/Depósito no FPP Centro de Distribuição, com preferência para residentes em Cambé e contratação via CLT convencional.",
+    descricaoModal:"Requisitos: Sexo feminino; idade superior a 21 anos; profissional com responsabilidade e comprometimento.",
+    whatsapp: "5543991321611",
+    email: "",
+    banner: "banners/ranco.jpeg"
+  },
 
   
   
