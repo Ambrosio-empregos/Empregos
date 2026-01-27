@@ -9867,6 +9867,17 @@ const vagas = [
     email: "",
     banner: "banners/ativamot.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Auxiliar de Montador",
+    empresa: "JAT",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Montador em Maringá, com início imediato e jornada de trabalho de segunda a sexta-feira.",
+    descricaoModal:"Informações adicionais: Salário a combinar; início imediato. Horário: De segunda a quinta-feira das 07h30 às 17h30; sexta-feira das 07h30 às 16h30. Localização: Unidade com vagas em Maringá. Empresa: JAT Locação e Serviços.",
+    whatsapp: "5543988142880",
+    email: "",
+    banner: "banners/cria.jpeg"
+  },
   
   
 
