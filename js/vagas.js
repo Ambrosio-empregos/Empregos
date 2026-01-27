@@ -9647,6 +9647,17 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "Corretor de Imóveis",
+    empresa: "Paraná",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Corretor de Imóveis com foco em captação e atendimento ao cliente, buscando profissionais organizados e com vontade de se desenvolver na área.",
+    descricaoModal:"Organizado, concentrado, focado, trabalho em equipe, pontualidade, desejo de evoluir, crescer e aprender novas ferramentas.",
+    whatsapp: "5543996660565",
+    email: "locacaolondrina@gmail.com",
+    banner: "banners/vic.jpeg"
+  },
   
   
 
