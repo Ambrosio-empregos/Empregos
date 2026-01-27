@@ -9559,6 +9559,18 @@ const vagas = [
     email: "",
     banner: "banners/azul.jpg"
   },
+  {
+    data: "2026-01-27", 
+    titulo: "Analista de Recursos Humanos",
+    empresa: "Ordem RH",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Analista de Recursos Humanos em regime híbrido para Itajaí/SC, com foco em rotinas de Departamento Pessoal e gestão de pessoas.",
+    descricaoModal:"Atividades: Análise e administração de documentos do Departamento Pessoal; conferência da folha de pagamento, férias e rescisões; apoio aos líderes para assuntos de gestão de pessoas.",
+    whatsapp: "554799269207",
+    email: "",
+    banner: "banners/rhhh.jpeg"
+  },
+  
 
   
   
