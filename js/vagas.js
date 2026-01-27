@@ -9460,6 +9460,17 @@ const vagas = [
     email: "rh@hospitalotocentro.com.br",
     banner: "banners/otoo.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Atendente/Caixa",
+    empresa: "Italin House",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente/Caixa em restaurante italiano em Londrina/PR, com salário de R$ 1.980,00 mais benefícios e sem exigência de experiência prévia.",
+    descricaoModal:"Detalhes: Vaga para praça de alimentação; não precisa ter experiência (a empresa treina); busca-se alguém responsável, pontual e que queira estabilidade.",
+    whatsapp: "5543991141055",
+    email: "",
+    banner: "banners/italian.jpeg"
+  },
 
   
   
