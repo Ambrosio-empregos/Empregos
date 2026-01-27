@@ -9781,7 +9781,7 @@ const vagas = [
   },
   {
     data: "2026-01-27",
-    titulo: "Passadeira",
+    titulo: "Costureira",
     empresa: "Dedicar Confecções",
     cidade: "Londrina",
     descricao: "Oportunidade para costureira na Dedicar Confecções, com foco em acabamento de peças de vestuário.",
