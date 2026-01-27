@@ -9812,6 +9812,17 @@ const vagas = [
     email: "rh@londrigifts.com.br",
     banner: "banners/gifts.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Ativa Express",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo na cidade de Londrina, sem exigência de experiência anterior e com vínculo efetivo via registro CLT.",
+    descricaoModal:"Requisitos: Necessário informática básica; não exige experiência anterior; vaga destinada ao público feminino e masculino, sem distinção de gênero.",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/zago.jpeg"
+  },
   
   
 
