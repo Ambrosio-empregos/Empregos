@@ -9911,6 +9911,17 @@ const vagas = [
     email: "bruna@imobiliariamonaco.com.br",
     banner: "banners/mona.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "Vendedor",
+    empresa: "Aplix",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor em Londrina-PR, com salário fixo de R$ 2.040,00 acrescido de comissão e benefícios.",
+    descricaoModal:"Requisitos: Profissional dinâmico e com boa comunicação; experiência em vendas; conhecimento em cálculo básico.",
+    whatsapp: "",
+    email: "selecaoaplixgesso@gmail.com",
+    banner: "banners/aplix.jpeg"
+  },
   
   
 
