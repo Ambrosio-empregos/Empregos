@@ -9537,6 +9537,17 @@ const vagas = [
     email: "",
     banner: "banners/iolo.jpeg"
   },
+  {
+    data: "2026-01-27", 
+    titulo: "Analista Fiscal",
+    empresa: "Ordem RH",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Analista Fiscal em regime híbrido para Itajaí/SC, com atuação em regimes de Lucro Presumido e Lucro Real.",
+    descricaoModal:"Atividades: Conferência mensal do balancete contábil em conjunto com a contabilidade; apoio na apuração e análise de tributos dos regimes Lucro Presumido; emissão e conferência de notas fiscais; análise da tributação das atividades da empresa, avaliando enquadramentos e impactos fiscais.",
+    whatsapp: "5547992692047",
+    email: "",
+    banner: "banners/wal.jpeg"
+  },
 
   
   
