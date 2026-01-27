@@ -9526,6 +9526,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/bel.jpeg"
   },
+  {
+    data: "2026-01-27", 
+    titulo: "Pizzaiolo",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Pizzaiolo com salário de R$ 4.500,00, para atuar no período noturno com foco em toda a linha de produção e forneamento.",
+    descricaoModal:"Responsabilidades: Saber fazer toda a produção necessária; bolear a massa; abrir massa; fornear as pizzas; saber cortar para rodízio.",
+    whatsapp: "5544999788523",
+    email: "",
+    banner: "banners/iolo.jpeg"
+  },
 
   
   
