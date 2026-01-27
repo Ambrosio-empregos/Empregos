@@ -9747,7 +9747,7 @@ const vagas = [
     banner: "banners/billie.jpeg"
   },
   {
-    data: "2026-01-16",
+    data: "2026-01-27",
     titulo: "Caixa",
     empresa: "Auto Posto Cupimzão",
     cidade: "Arapongas",
