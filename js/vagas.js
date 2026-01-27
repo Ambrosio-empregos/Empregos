@@ -9548,6 +9548,17 @@ const vagas = [
     email: "",
     banner: "banners/wal.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Atendente/Serviços Gerais",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Oportunidade CLT para Atendente/Serviços Gerais em Maringá (Vila Morangueira). Salário de R$ 2.500,00 + Benefícios e almoço no local!",
+    descricaoModal:"Detalhes da Vaga: Regime CLT com escala 6x1 (segunda a domingo) no horário das 08:00 às 16:00, incluindo 40 minutos de intervalo e almoço no local. Requisitos: Saber montar marmitas. Salário: R$ 2.500,00 + Benefícios.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/azul.jpg"
+  },
 
   
   
