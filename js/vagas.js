@@ -9878,6 +9878,17 @@ const vagas = [
     email: "",
     banner: "banners/cria.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "RH",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Salário bom, benefícios, ramo de restaurante",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/ceu.jpeg"
+  },
   
   
 
