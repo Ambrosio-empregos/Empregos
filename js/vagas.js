@@ -9845,6 +9845,17 @@ const vagas = [
     email: "",
     banner: "banners/catarino.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "JL Pizzaria e Costelaria",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Cozinha na JL Pizzaria e Costelaria em Vila Morangueira, com início imediato e escala 6x1.",
+    descricaoModal:"Responsabilidades: Atuar no pré-preparo dos produtos servidos; organização, limpeza e conservação da cozinha.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/ponk.jpg"
+  },
   
   
 
