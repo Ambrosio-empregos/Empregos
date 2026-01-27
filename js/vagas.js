@@ -9669,6 +9669,17 @@ const vagas = [
     email: "",
     banner: "banners/pink.jpeg"
   },
+  {
+    data: "2026-01-27",
+    titulo: "SDR",
+    empresa: "Paraná",
+    cidade: "Londrina",
+    descricao: "Oportunidade para SDR na Paraná A&R Imóveis, buscando profissionais com perfil comercial, experiência em atendimento e foco em resultados.",
+    descricaoModal:"Requisitos: Perfil comercial; ser comunicativa; ter vontade de aprender; ser focada; experiência em atendimento. Informações adicionais: Horário de trabalho das 08h às 18h (de segunda a sexta-feira). Empresa: Paraná A&R Imóveis.",
+    whatsapp: "5543996660565",
+    email: "locacaolondrina@gmail.com",
+    banner: "banners/vomi.jpeg"
+  },
   
   
 
