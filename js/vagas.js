@@ -9746,6 +9746,17 @@ const vagas = [
     email: "",
     banner: "banners/billie.jpeg"
   },
+  {
+    data: "2026-01-16",
+    titulo: "Caixa",
+    empresa: "Auto Posto Cupimzão",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Caixa em Londrina/PR no Auto Posto Cupimzão, com escala 6x1 e um pacote de benefícios que inclui vale-alimentação de R$ 739,70, comissão de vendas e Gympass.",
+    descricaoModal:"Requisitos: Experiência na área; disponibilidade de horário (14h às 23h); escala 6x1 (folga fixa + 1 domingo de folga no mês); residir em Londrina; facilidade em atendimento ao cliente e vendas. Benefícios: Vale-alimentação (739,70); Vale-transporte/combustível; Plano de Saúde; Convênio com faculdade; Comissão de vendas; Plano odontológico; Gympass. Localização: Av. Inglaterra, 88 Igapó, Londrina/PR. Empresa: Auto Posto Cupimzão.",
+    whatsapp: "5543999760164",
+    email: "rh@cupimcambé.com.br",
+    banner: "banners/domi.jpeg"
+  },
   
   
 
