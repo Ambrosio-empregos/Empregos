@@ -9614,6 +9614,28 @@ const vagas = [
     email: "",
     banner: "banners/gerais.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "Consultor de Vendas",
+    empresa: "Plenus",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor de Vendas com experiência em Camboriú, oferecendo premiações semanais e mensais para profissionais que residam na região.",
+    descricaoModal:"Requisitos: Com experiência comprovada em vendas. Benefícios: Premiações semanais; premiações mensais. Informações adicionais: Preferência para candidatos com moradia em Camboriú ou cidades próximas.",
+    whatsapp: "5547984910899",
+    email: "adm.ctplenus@gmail.com",
+    banner: "banners/bace.jpeg"
+  },
+  {
+    data: "2026-01-27",
+    titulo: "Frentista",
+    empresa: "Auto Posto Cupimzão",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Frentista em Cambé/PR no Auto Posto Cupimzão, com escala 6x1 e um pacote de benefícios que inclui vale-alimentação de R$ 739,70, comissão de vendas e Gympass.",
+    descricaoModal:"Requisitos: Experiência na área; escala 6x1 (folga fixa + 1 domingo de folga no mês) Benefícios: Vale-alimentação (739,70); Vale-transporte/combustível; Plano de Saúde; Convênio com faculdade; Comissão de vendas; Plano odontológico; Gympass.",
+    whatsapp: "5543999760164",
+    email: "rh@cupimcambé.com.br",
+    banner: "banners/cupinchoo.jpeg"
+  },
   
   
 
