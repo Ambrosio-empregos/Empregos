@@ -9513,7 +9513,7 @@ const vagas = [
     descricaoModal:"Atividades: Atuar no Play Kids acompanhando as crianças, garantindo segurança, organização e atividades adequadas durante a permanência no espaço.",
     whatsapp: "5543996610197",
     email: "rh@gelobel.com.br",
-    banner: "banners/gelobelC.jpeg"
+    banner: "banners/gelobelC.jpg"
   },
 
   
