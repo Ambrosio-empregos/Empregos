@@ -9581,6 +9581,17 @@ const vagas = [
     email: "adm.ctplenus@gmail.com",
     banner: "banners/muscu.jpeg"
   },
+   {
+    data: "2026-01-27",
+    titulo: "VEndedor",
+    empresa: "Branello",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) na rede de estética automotiva Branello, para atuação em Maringá/PR.",
+    descricaoModal:"Vaga para Vendedor(a) de Serviços de Estética Automotiva; Local: Maringá/PR. Empresa: Branello.",
+    whatsapp: "5543998550040",
+    email: "",
+    banner: "banners/rafinha.jpeg"
+  },
   
 
   
