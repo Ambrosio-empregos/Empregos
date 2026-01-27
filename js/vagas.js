@@ -9724,6 +9724,17 @@ const vagas = [
     email: "carlosdeabreujunior.financeiro@gmail.com",
     banner: "banners/carlo.jpeg"
   },
+   {
+    data: "2026-01-27", 
+    titulo: "Assistente de Departamento Social",
+    empresa: "Escola Apoena",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Departamento Pessoal com início imediato e jornada de 44h semanais de segunda a sexta-feira.",
+    descricaoModal:"Requisitos: Carga horária de 44h, de segunda a sexta-feira; início imediato; experiência comprovada na área (ponto, benefícios, banco de horas, admissão/rescisão).",
+    whatsapp: "",
+    email: "talentos@escolaapoena.com.br",
+    banner: "banners/dpd.jpeg"
+  },
   
   
 
