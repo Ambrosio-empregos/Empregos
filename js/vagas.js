@@ -10505,6 +10505,17 @@ const vagas = [
     email: "",
     banner: "banners/caxias.jpeg"
   },
+  {
+    data: "2026-01-28", 
+    titulo: "Vendedor Interno e Externo",
+    empresa: "Midias Telecom",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor Interno e Externo na Midas Telecom, representante TIM Empresas, com salário fixo e comissionamento agressivo de até 300%.",
+    descricaoModal:"Informações Adicionais: Salário fixo; ajuda de custo; comissionamento agressivo (até 300%). Empresa: Midas Telecom (Representante TIM Empresas).",
+    whatsapp: "5543999210900",
+    email: "",
+    banner: "banners/mt.jpeg"
+  },
   
   
   
