@@ -9966,6 +9966,17 @@ const vagas = [
     email: "",
     banner: "banners/doras.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Caseiro",
+    empresa: "Sítio",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Caseiro trabalhar em um sítio localizado na cidade de Tamarana-PR.",
+    descricaoModal:"Localização: Tamarana-PR. Atuação: Trabalho em sítio. Função: Caseiro.",
+    whatsapp: "5543996000308",
+    email: "",
+    banner: "banners/casejpeg"
+  },
   
   
   
