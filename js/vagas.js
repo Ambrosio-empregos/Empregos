@@ -10450,6 +10450,17 @@ const vagas = [
     email: "",
     banner: "banners/daretta.jpeg"
   },
+  {
+    data: "2026-01-28", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor(a) de Vendas em Navegantes-SC, sem exigência de experiência e com oferta de treinamento especializado e possibilidade de ganhos ilimitados.",
+    descricaoModal:"Requisitos: Idade mínima de 18 anos; perfil proativo, organizado e orientado para resultados.",
+    whatsapp: "5547991166608",
+    email: "",
+    banner: "banners/mara.jpeg"
+  },
   
   
   
