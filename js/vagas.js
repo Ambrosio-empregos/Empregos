@@ -10065,6 +10065,17 @@ const vagas = [
     email: "",
     banner: "banners/boule.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Auxiliar Geral",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Geral de Limpeza em Londrina-PR, com pacote completo de benefícios que não são descontados em folha.",
+    descricaoModal:"Informações Adicionais: Salário mais benefícios (Vale Transporte, Cartão Alimentação/Refeição, Plano de Saúde e Plano Odontológico); os benefícios não são descontados do holerite.",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/jets.jpeg"
+  },
   
   
   
