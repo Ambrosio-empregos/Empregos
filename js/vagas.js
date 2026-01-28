@@ -10362,6 +10362,17 @@ const vagas = [
     email: "vagas@2sagrimensura.com.br",
     banner: "banners/2ss.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Consultor de Relacionamento com o Cliente",
+    empresa: "Boutique Dental",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor de Relacionamento com o Cliente em horário comercial, com pacote de benefícios incluindo seguro de vida e vale-refeição.",
+    descricaoModal:"Atividades: Conversar com potenciais clientes (leads), apresentar serviços e agendar avaliações na clínica.",
+    whatsapp: "5543998478245",
+    email: "",
+    banner: "banners/crc.jpeg"
+  },
   
   
   
