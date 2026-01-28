@@ -10213,11 +10213,22 @@ const vagas = [
     titulo: "Pisicóloga Organizacional",
     empresa: "Negoci.IA",
     cidade: "Maringá",
-    descricao: "portunidade para Psicóloga Organizacional na Negocia Sales Group.",
+    descricao: "Oportunidade para Psicóloga Organizacional na Negocia Sales Group.",
     descricaoModal:"Vaga aberta para a função de Psicóloga Organizacional. Empresa: Negocia Sales Group.",
     whatsapp: "5544997309246",
     email: "",
     banner: "banners/rosaa.jpeg"
+  },
+  {
+    data: "2026-01-28", 
+    titulo: "Auxiliar Junior de Recrutamento e Seleção",
+    empresa: "Negoci.IA",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Junior de Recrutamento e Seleção na Negocia Sales Group.",
+    descricaoModal:"Vaga aberta para a função de Auxiliar Junior de Recrutamento e Seleção. Empresa: Negocia Sales Group.",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/recse.jpeg"
   },
   
   
