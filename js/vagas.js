@@ -10098,6 +10098,17 @@ const vagas = [
     email: "",
     banner: "banners/orange.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Karilu",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza na Karilu, com jornada de segunda a sexta-feira e benefícios como Cartão VR e TotalPass.",
+    descricaoModal:"Informações Adicionais: Horário de segunda a sexta das 07h32 às 17h20; salário compatível com a função. Benefícios: Cartão VR; Seguro de Vida; TotalPass. Empresa: Karilu.",
+    whatsapp: "554333711469",
+    email: "rh@karilu.com.br",
+    banner: "banners/karilu.jpeg"
+  },
   
   
   
