@@ -10307,6 +10307,17 @@ const vagas = [
     email: "",
     banner: "banners/presi.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Produção",
+    empresa: "V1 Vidors",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção (06 vagas masculinas) em Londrina-PR, com salário de R$ 2.050,00 e jornada de segunda a sexta-feira.",
+    descricaoModal:"equisitos: Ensino fundamental; não é exigida experiência na função. Atividades: Auxílio geral nas linhas de produção; movimentação de produtos; organização e limpeza setorial.",
+    whatsapp: "5543999093356",
+    email: "rh@v1vidros.com.br",
+    banner: "banners/pdi.jpeg"
+  },
   
   
   
