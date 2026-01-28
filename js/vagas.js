@@ -10373,6 +10373,17 @@ const vagas = [
     email: "",
     banner: "banners/crc.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Saúde Bucal",
+    empresa: "Boutique Dental",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Saúde Bucal em Londrina, com jornada de segunda a sábado e pacote de benefícios incluindo seguro de vida e vale-refeição.",
+    descricaoModal:"Atividades: Auxiliar dentistas durante atendimentos; organizar materiais utilizados e demais atividades inerentes à função.",
+    whatsapp: "5543998478245",
+    email: "",
+    banner: "banners/bucal.jpeg"
+  },
   
   
   
