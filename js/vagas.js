@@ -10303,7 +10303,7 @@ const vagas = [
     cidade: "Balneário Camboriú",
     descricao: "Oportunidade para Instrutor de Treinamento em Costura em Itajaí, exigindo ensino médio completo, CNH categoria B e experiência no setor.",
     descricaoModal:"Requisitos: Experiência no setor de costura; ensino médio completo; CNH categoria B. Horário: Disponibilidade para atuar em horário comercial, das 7h30 às 18h. Localização: Itajaí.",
-    whatsapp: "5547984079645",
+    whatsapp: "5547984076945",
     email: "",
     banner: "banners/presi.jpeg"
   },
@@ -10383,6 +10383,17 @@ const vagas = [
     whatsapp: "5543998478245",
     email: "",
     banner: "banners/bucal.jpeg"
+  },
+  {
+    data: "2026-01-28",
+    titulo: "Supervisor de produção",
+    empresa: "Atuação em Presídio",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Supervisor de Produção no setor de costura para atuar no Presídio de Itajaí/SC, exigindo experiência em gestão de equipes e disponibilidade para turnos.",
+    descricaoModal:"Requisitos: Experiência em gestão de equipes, com foco em acompanhamento e desenvolvimento de pessoas; ensino superior incompleto; CNH categoria B. Horários: Disponibilidade para trabalhar em 1º e 2º turno. Localização: Itajaí/SC (Atuação no Presídio).",
+    whatsapp: "5547984076945",
+    email: "",
+    banner: "banners/sss.jpeg"
   },
   
   
