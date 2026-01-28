@@ -10142,6 +10142,17 @@ const vagas = [
     email: "",
     banner: "banners/prec.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Vendedora",
+    empresa: "Atlântico Atacado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Atlântico Atacado em Londrina-PR, com salário fixo de R$ 2.040,00 mais comissão e alimentação no local.",
+    descricaoModal:"Informações adicionais: Salário de R$ 2.040,00 + comissão; alimentação no local; vale transporte. Horário de trabalho: Segunda a sexta das 09:00 às 18:00 e sábados das 09:00 às 16:00. Localização: Av. Tiradentes, 3177 - Londrina-PR. Empresa: Atlântico Atacado.",
+    whatsapp: "",
+    email: "claudio1@atlanticoatacado.com.br",
+    banner: "banners/calu.jpeg"
+  },
   
   
   
