@@ -9999,6 +9999,17 @@ const vagas = [
     email: "altenburglda@grupoac.nte",
     banner: "banners/burg.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "gerência de Sorveteria",
+    empresa: "Sorveteria",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Gerência de Sorveteria nas cidades de Arapongas e Cambé, destinada a profissionais com perfil de liderança e foco em resultados.",
+    descricaoModal:"Responsabilidades: Gerenciar equipes e a rotina das lojas; garantir qualidade no atendimento e produtos; controlar estoque e apoiar nas escalas; assegurar padrões de higiene e operação.",
+    whatsapp: "5543991597711",
+    email: "",
+    banner: "banners/geree.jpeg"
+  },
   
   
   
