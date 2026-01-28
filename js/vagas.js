@@ -10153,6 +10153,17 @@ const vagas = [
     email: "claudio1@atlanticoatacado.com.br",
     banner: "banners/calu.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Contrat-se Vendedor",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543998012955",
+    email: "",
+    banner: "banners/onde.jpeg"
+  },
   
   
   
