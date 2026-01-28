@@ -9975,7 +9975,7 @@ const vagas = [
     descricaoModal:"Localização: Tamarana-PR. Atuação: Trabalho em sítio. Função: Caseiro.",
     whatsapp: "5543996000308",
     email: "",
-    banner: "banners/casejpeg"
+    banner: "banners/case.jpeg"
   },
   
   
