@@ -10087,6 +10087,17 @@ const vagas = [
     email: "",
     banner: "banners/gree.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Chapeiro",
+    empresa: "Kelli",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Chapeiro em Londrina-PR, vaga masculina com benefícios integrais não descontados em folha e jornada que inclui domingos.",
+    descricaoModal:"Informações Adicionais: Vaga masculina; salário mais benefícios (Vale Transporte, Cartão Alimentação/Refeição, Plano de Saúde e Plano Odontológico); os benefícios não são descontados do holerite.",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/orange.jpeg"
+  },
   
   
   
