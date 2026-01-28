@@ -10527,6 +10527,17 @@ const vagas = [
     email: "",
     banner: "banners/claire.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Auxiliar de limpeza",
+    empresa: "Velocity",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Limpeza em Maringá, exigindo disponibilidade de horário e perfil proativo para trabalhar em equipe.",
+    descricaoModal:"Requisitos: Disponibilidade de horário; ser responsável; proativo(a); saber trabalhar em equipe. Localização: Maringá. Empresa: Velocity.",
+    whatsapp: "55544988434913",
+    email: "maringavelocity@gmail.com",
+    banner: "banners/claire.jpeg"
+  },
   
   
   
