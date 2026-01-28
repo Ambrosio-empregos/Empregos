@@ -10329,6 +10329,17 @@ const vagas = [
     email: "rh@v1vidros.com.br",
     banner: "banners/pensar.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Delicato",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Londrina-PR, com jornada de segunda a sábado e pacote de benefícios incluindo vale alimentação e transporte.",
+    descricaoModal:"Informações Adicionais: Salário base; vale alimentação; vale transporte. Horário: Segunda a sábado das 10h às 18h20. Empresa: Delicato Brigadeiria Gourmet.",
+    whatsapp: "5543991705051",
+    email: "",
+    banner: "banners/amar.jpeg"
+  },
   
   
   
