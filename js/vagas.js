@@ -10536,7 +10536,7 @@ const vagas = [
     descricaoModal:"Requisitos: Disponibilidade de horário; ser responsável; proativo(a); saber trabalhar em equipe. Localização: Maringá. Empresa: Velocity.",
     whatsapp: "55544988434913",
     email: "maringavelocity@gmail.com",
-    banner: "banners/claire.jpeg"
+    banner: "banners/loly.jpeg"
   },
   
   
