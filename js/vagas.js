@@ -10439,6 +10439,17 @@ const vagas = [
     email: "documentacao@tecengenharia.net.br",
     banner: "banners/obra.jpeg"
   },
+  {
+    data: "2026-01-28", 
+    titulo: "vendedora",
+    empresa: "daretta",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Daretta, com jornada de segunda a sábado e exigência de experiência na função.",
+    descricaoModal:"Atividades: Captação de clientes; participação em eventos; apoio na divulgação de produtos; organização da loja; fechamento de vendas; apresentação de produtos; atendimento PF e PJ.",
+    whatsapp: "5543991387603",
+    email: "",
+    banner: "banners/daretta.jpeg"
+  },
   
   
   
