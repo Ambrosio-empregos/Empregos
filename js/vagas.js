@@ -10417,6 +10417,17 @@ const vagas = [
     email: "centralatendimento@gmail.com",
     banner: "banners/poder.jpeg"
   },
+  {
+    data: "2026-01-28", 
+    titulo: "Auxiliar Administrativo",
+    empresa: "Atual Imobiliária",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo na Atual Imobiliária, com salário inicial de R$ 2.200,00 e exigência de CNH categoria B.",
+    descricaoModal:"Requisitos: Possuir CNH - B; facilidade com tecnologia; experiência no ramo imobiliário será considerada um diferencial. Remuneração e Benefícios: Salário inicial de R$ 2.200,00; auxílio transporte. Horário: De segunda a sexta, das 8h às 18h; sábados alternados, das 8h às 12h.",
+    whatsapp: "554333414060",
+    email: "imobiliariaatualltda@gmail.com",
+    banner: "banners/atual.jpeg"
+  },
   
   
   
