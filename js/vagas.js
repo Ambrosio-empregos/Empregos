@@ -10516,6 +10516,17 @@ const vagas = [
     email: "",
     banner: "banners/mt.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Auxiliar de Cozinha em Balneário Camboriú",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5554991470955",
+    email: "",
+    banner: "banners/claire.jpeg"
+  },
   
   
   
