@@ -10186,6 +10186,17 @@ const vagas = [
     email: "adrianacanazart.dh@gmail.com",
     banner: "banners/junior.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Mecânico a Diesel",
+    empresa: "JR Diesel Caminhões",
+    cidade: "Londrina",
+    descricao: "A JR Diesel Caminhões está contratando Mecânico a Diesel com experiência para integrar sua equipe em Londrina.",
+    descricaoModal:"A oportunidade é destinada a profissionais que possuam experiência comprovada na área de mecânica a diesel para atuar no time de peças e serviços da empresa.",
+    whatsapp: "5543996826603",
+    email: "jr.dieselpecas@hotmail.com",
+    banner: "banners/diesel.jpeg"
+  },
   
   
   
