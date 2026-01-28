@@ -10351,6 +10351,17 @@ const vagas = [
     email: "",
     banner: "banners/marial.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Agente de Visitas",
+    empresa: "2S",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Agente de Visitas residente em Maringá e região, com disponibilidade para viagens diárias e perfil preferencial de vendas.",
+    descricaoModal:"Requisitos: Residente em Maringá e região; disponibilidade para viagens diárias; ensino médio completo; facilidade com uso de celulares e tecnologias; necessária boa comunicação.",
+    whatsapp: "55659991054",
+    email: "vagas@2sagrimensura.com.br",
+    banner: "banners/2ss.jpeg"
+  },
   
   
   
