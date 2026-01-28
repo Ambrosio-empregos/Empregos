@@ -10428,6 +10428,17 @@ const vagas = [
     email: "imobiliariaatualltda@gmail.com",
     banner: "banners/atual.jpeg"
   },
+  {
+    data: "2026-01-28", 
+    titulo: "Auxiliar de Obra",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Obra (Laboratório) com treinamento incluso para candidatos sem experiência, oferecendo salário de R$ 2.056,82 e vale alimentação de R$ 980,00.",
+    descricaoModal:"Atividades: Trabalho operacional envolvendo coleta, preparo de amostras e ensaios de materiais da construção civil sob orientação; os serviços podem ser internos ou externos em obras.",
+    whatsapp: "5543998430550",
+    email: "documentacao@tecengenharia.net.br",
+    banner: "banners/obra.jpeg"
+  },
   
   
   
