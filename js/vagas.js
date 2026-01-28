@@ -10406,6 +10406,17 @@ const vagas = [
     email: "contratacao.pmol@gmail.com",
     banner: "banners/prefis.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Consultor de Negócios",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Consultor de Negócios para ambos os sexos, com remuneração composta por salário fixo, participação nos lucros e comissão por vendas.",
+    descricaoModal:"Requisitos: Ter acima de 18 anos; perfil proativo e comunicativo; vagas disponíveis para ambos os sexos. Benefícios: Salário fixo; participação nos lucros da empresa; comissão por vendas.",
+    whatsapp: "5544998419940",
+    email: "centralatendimento@gmail.com",
+    banner: "banners/poder.jpeg"
+  },
   
   
   
