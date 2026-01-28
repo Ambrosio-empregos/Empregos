@@ -10274,6 +10274,17 @@ const vagas = [
     email: "",
     banner: "banners/boo.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Repositor",
+    empresa: "Atlântico Atacado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Repositor na Atlântico Atacado em Londrina-PR, com salário de R$ 2.040,00 e benefícios como alimentação na empresa.",
+    descricaoModal:"Informações Adicionais: Salário de R$ 2.040,00; alimentação na empresa; vale transporte. Carga Horária: Segunda a sexta das 09h às 18h e sábado das 09h às 16h. Localização: Av. Tiradentes, 3173 - Londrina-PR. Empresa: Atlântico Atacado.",
+    whatsapp: "554333722700",
+    email: "claudio1@atlanticoatacado.com.br",
+    banner: "banners/tudo.jpeg"
+  },
   
   
   
