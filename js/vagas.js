@@ -10076,6 +10076,17 @@ const vagas = [
     email: "",
     banner: "banners/jets.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Atendente",
+    empresa: "Kelli",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Balcão em Londrina-PR, com salário, benefícios integrais e jornada que inclui domingos.",
+    descricaoModal:"Informações Adicionais: Salário mais benefícios (Vale Transporte, Cartão Alimentação/Refeição, Plano de Saúde e Plano Odontológico); os benefícios não são descontados do holerite.",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/gree.jpeg"
+  },
   
   
   
