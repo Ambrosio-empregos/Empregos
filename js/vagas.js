@@ -10164,6 +10164,17 @@ const vagas = [
     email: "",
     banner: "banners/onde.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Atendente De Suporte Nível 1 - Analista de Customer Success - CSQ - Qualificação (AC Desenvolvimento Humano)",
+    empresa: "Vagas AC Desenvolvimento Humano",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Suporte Nível I em Londrina para trabalho presencial - Oportunidade para Analista de Customer Success em Londrina, com perfil consultivo",
+    descricaoModal:"Requisitos: Experiência em atendimento ao cliente; boa comunicação oral e escrita.",
+    whatsapp: "",
+    email: "adrianacanazart.dh@gmail.com",
+    banner: "banners/luz.jpeg"
+  },
   
   
   
