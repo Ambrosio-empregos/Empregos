@@ -10208,6 +10208,17 @@ const vagas = [
     email: "",
     banner: "banners/sabor.jpeg"
   },
+   {
+    data: "2026-01-28", 
+    titulo: "Pisicóloga Organizacional",
+    empresa: "Negoci.IA",
+    cidade: "Maringá",
+    descricao: "portunidade para Psicóloga Organizacional na Negocia Sales Group.",
+    descricaoModal:"Vaga aberta para a função de Psicóloga Organizacional. Empresa: Negocia Sales Group.",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/rosaa.jpeg"
+  },
   
   
   
