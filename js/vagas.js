@@ -10538,6 +10538,28 @@ const vagas = [
     email: "maringavelocity@gmail.com",
     banner: "banners/loly.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Plantonista Funerário",
+    empresa: "Ello",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Plantonista Funerário em regime PJ na Ello Assistencial, exigindo ensino médio completo, CNH categorias AB e disponibilidade de horário.",
+    descricaoModal:"Requisitos: Ensino médio completo; disponibilidade de horário; CNH categorias AB; conhecimento básico de informática; perfil proativo e empatia no atendimento. Empresa: Ello Assistencial (Programa Assistencial).",
+    whatsapp: "554333449000",
+    email: "",
+    banner: "banners/ello.jpeg"
+  },
+   {
+    data: "2026-01-28",
+    titulo: "vendedor",
+    empresa: "Smart",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor em Maringá na Smart Acessórios, com salário de R$ 2.100,00 acrescido de comissões.",
+    descricaoModal:"Requisitos: Experiência em vendas; pontualidade; paixão por tecnologia. Benefícios: Salário de R$ 2.100,00 + comissões. Localização: Maringá. Empresa: Smart Acessórios.",
+    whatsapp: "5543984822354",
+    email: "",
+    banner: "banners/odi.jpeg"
+  },
   
   
   
