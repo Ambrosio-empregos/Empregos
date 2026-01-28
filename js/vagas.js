@@ -10010,6 +10010,17 @@ const vagas = [
     email: "",
     banner: "banners/geree.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Operador de Caixa-Atendimento",
+    empresa: "Não identificada",
+    cidade: "Londrina",
+    descricao: "Se você é comprometido, pontual e busca uma oportunidade em um ambiente organizado e colaborativo, envie seu currículo pelo WHATSAPP",
+    descricaoModal:"REQUISITOS: Ensino médio completo; Experiência em caixa/atendimento de restaurante; Capacidade de organização e agilidade; Bom relacionamento em equipe; Será um diferencial ter conhecimento no sistema Sagres.",
+    whatsapp: "5543991319691",
+    email: "",
+    banner: "banners/opcaixa.jpg"
+  },
   
   
   
