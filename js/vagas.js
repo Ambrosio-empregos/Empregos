@@ -10230,6 +10230,17 @@ const vagas = [
     email: "",
     banner: "banners/recse.jpeg"
   },
+   {
+    data: "2026-01-28", 
+    titulo: "Cozinheira",
+    empresa: "Ifood",
+    cidade: "Maringá",
+    descricao: "Oportunidade para mulheres com experiência em cozinha trivial para trabalhar em domicílio na preparação de refeições e saladas para a plataforma iFood.",
+    descricaoModal:"Requisitos: Experiência em cozinha; saber fazer o trivial perfeito; manter o local organizado e limpo; realizar a higienização e corte de legumes e carnes para o dia seguinte.",
+    whatsapp: "5544998750019",
+    email: "",
+    banner: "banners/seguir.jpeg"
+  },
   
   
   
