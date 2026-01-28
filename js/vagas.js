@@ -10560,6 +10560,17 @@ const vagas = [
     email: "",
     banner: "banners/odi.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Instalador técnico",
+    empresa: "Conecta",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Instalador Técnico em Balneário Camboriú/SC, exigindo experiência em sistemas de automação ou segurança eletrônica e CNH categoria B.",
+    descricaoModal:"Requisitos: Experiência com instalação de sistemas de automação, segurança eletrônica, áudio e vídeo ou telecom; conhecimento em cabeamento e conexão de equipamentos; perfil organizado, responsável e comprometido com qualidade; boa comunicação e postura profissional; CNH categoria B.",
+    whatsapp: "5547988401102",
+    email: "",
+    banner: "banners/teco.jpeg"
+  },
   
   
   
