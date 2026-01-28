@@ -10032,6 +10032,17 @@ const vagas = [
     email: "",
     banner: "banners/food.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Auxiliar de Cozinha com experiência em chapa e grelha, oferecendo salário de até R$ 2.450,00, registro CLT e alimentação no local.",
+    descricaoModal:"Requisitos: Experiência na função de chapa/grelhador; disponibilidade e responsabilidade com horário; saber trabalhar em equipe, ouvir e seguir instruções; vontade de aprender; zelar pela limpeza e organização; ter mais de 20 anos. Detalhes da Oportunidade: Vaga fixa com registro em carteira pela CLT. Benefícios: Salário de R$ 2.250,00 a R$ 2.450,00; Vale transporte (se necessário); alimentação no local; pagamento de horas extras.",
+    whatsapp: "5547996048251",
+    email: "",
+    banner: "banners/chap.jpeg"
+  },
   
   
   
