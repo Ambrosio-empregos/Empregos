@@ -10120,6 +10120,28 @@ const vagas = [
     email: "",
     banner: "banners/cadastr.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Cadista",
+    empresa: "2S",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Cadista residente em Maringá e região, para atuar com projetos de saneamento e geotecnologia.",
+    descricaoModal:"Responsabilidades: Produzir plantas de redes de água e esgoto, estações elevatórias e reservatórios; organizar layers e textos conforme normas ABNT; montar pranchas com legendas e escalas;",
+    whatsapp: "5565999105224",
+    email: "",
+    banner: "banners/cadis.jpeg"
+  },
+  {
+    data: "2026-01-28",
+    titulo: "Atendente Geral",
+    empresa: "Deposito El Dourado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente Geral em Londrina com salário de R$ 2.000,00 mais vale transporte, para atuação em jornada de segunda a sábado.",
+    descricaoModal:"Requisitos: Atendimento geral. Jornada: Segunda a sexta, das 08:00 às 18:00, e sábado, das 08:00 às 12:00. Benefícios: Salário de R$ 2.000,00; Vale transporte.",
+    whatsapp: "5543991610863",
+    email: "",
+    banner: "banners/prec.jpeg"
+  },
   
   
   
