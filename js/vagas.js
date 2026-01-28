@@ -10285,6 +10285,17 @@ const vagas = [
     email: "claudio1@atlanticoatacado.com.br",
     banner: "banners/tudo.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "Vendedor",
+    empresa: "AtivaMente",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Vendedor em Itajaí para atuar em Loja de Auto Peças - Caminhões, com salário de R$ 2.100,00 mais comissões.",
+    descricaoModal:"Atividades: Atender clientes no balcão e via WhatsApp; fazer orçamentos e cotações; prospectar novos clientes; atingir metas; fazer visitas em PDV.",
+    whatsapp: "5547991159685",
+    email: "",
+    banner: "banners/recebo.jpeg"
+  },
   
   
   
