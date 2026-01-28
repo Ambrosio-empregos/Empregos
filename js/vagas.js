@@ -10175,6 +10175,17 @@ const vagas = [
     email: "adrianacanazart.dh@gmail.com",
     banner: "banners/luz.jpeg"
   },
+   {
+    data: "2026-01-28",
+    titulo: "SDR Jr",
+    empresa: "Vagas AC Desenvolvimento Humano",
+    cidade: "Londrina",
+    descricao: "Oportunidade para SDR Jr em Londrina, exigindo experiência em prospecção e negociação, com pacote de benefícios incluindo bonificação variável e Gympass.",
+    descricaoModal:"Requisitos: Experiência em prospecção e negociação; experiência em SDR; comunicação clara, objetiva e profissional; contato com dados e metas, cadência multicanal.",
+    whatsapp: "",
+    email: "adrianacanazart.dh@gmail.com",
+    banner: "banners/junior.jpeg"
+  },
   
   
   
