@@ -10582,6 +10582,17 @@ const vagas = [
     email: "",
     banner: "banners/ritz.jpg"
   },
+  {
+    data: "2026-01-05",
+    titulo: "Atendente",
+    empresa: "Ritz",
+    cidade: "Arapongas",
+    descricao: "Vaga para Atendente de Loja em Sorveteria - Arapongas (Centro) - Ótima oportunidade para quem busca trabalhar com atendimento ao público!",
+    descricaoModal:"Requisitos: Ensino Médio completo com excelente comunicação. Experiência ou facilidade para lidar com o atendimento ao cliente. Proatividade, simpatia e organização.",
+    whatsapp: "55439915997711",
+    email: "",
+    banner: "banners/ensinar.jpg"
+  },
   
   
   
