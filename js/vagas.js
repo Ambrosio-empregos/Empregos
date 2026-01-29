@@ -10835,6 +10835,17 @@ const vagas = [
     email: "atendimento@craftrubber.com.br",
     banner: "banners/ruber.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Vendedor Interno",
+    empresa: "Velox",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor Interno com ensino médio completo, oferecendo salário fixo mais variável por venda e benefícios para residentes de Maringá ou Sarandi.",
+    descricaoModal:"Requisitos: Ensino médio completo; residir em Maringá ou Sarandi. Salário e Benefícios: Fixo + Variável por venda; Vale-Transporte; Vale-Refeição. Carga Horária: Das 09h00 às 17h37. Empresa: Vem Pra Velox.",
+    whatsapp: "5544991396677",
+    email: "",
+    banner: "banners/bi.jpeg"
+  },
 
   
   
