@@ -10791,6 +10791,28 @@ const vagas = [
     email: "",
     banner: "banners/esg.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Estoquista",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Estoquista em Londrina para atuar no ramo de semi joias, com remuneração fixa, vale alimentação e vale transporte.",
+    descricaoModal:"Principais atividades: Organização e controle de estoque; etiquetagem e reposição de materiais; montagem de peças e pequenos consertos; reposição de itens com alta saída; controle básico em sistema; apoio na organização do setor operacional.",
+    whatsapp: "5543991032907",
+    email: "regiane.mendes@upgrowth.com.br",
+    banner: "banners/ranc.jpeg"
+  },
+  {
+    data: "2026-01-29",
+    titulo: "Instalador de Engate",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Instalador de Engate Carretinha em Itajaí/SC, no bairro Ressacada, exigindo ensino médio completo e experiência em instalação automotiva.",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência com instalação automotiva e/ou engate de carretas; disponibilidade aos sábados. Benefícios: Salário compatível com o mercado; vale-transporte; vale-alimentação/refeição.",
+    whatsapp: "5541995470600",
+    email: "",
+    banner: "banners/enga.jpeg"
+  },
   
   
   
