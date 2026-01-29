@@ -10824,9 +10824,6 @@ const vagas = [
     email: "recrutamento@vsgold.com.br",
     banner: "banners/goldl.jpeg"
   },
-  
-  
-  
 
   
   
