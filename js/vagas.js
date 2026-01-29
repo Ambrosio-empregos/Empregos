@@ -10604,6 +10604,17 @@ const vagas = [
     email: "",
     banner: "banners/consua.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Mecânico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico com especialidade em mecânica geral e suspensão para agendamento imediato de entrevista.",
+    descricaoModal:"Especialidade: Mecânica geral e suspensão. Ações: Agende já uma entrevista.",
+    whatsapp: "554333279037",
+    email: "",
+    banner: "banners/mete.jpeg"
+  },
   
   
   
