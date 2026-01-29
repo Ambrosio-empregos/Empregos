@@ -10780,6 +10780,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/mort.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Assistente Técnico em DDL",
+    empresa: "ESG",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Técnico em DDL para atuar com desentupimentos e controle de pragas, exigindo CNH B ou D e disponibilidade de horário.",
+    descricaoModal:"Atividades: Desentupimentos em geral; dedetização (controle de pragas); limpeza e higienização de caixa d'água; limpeza de caixa de gordura.",
+    whatsapp: "5543984073546",
+    email: "",
+    banner: "banners/esg.jpeg"
+  },
   
   
   
