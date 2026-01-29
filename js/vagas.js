@@ -10934,6 +10934,17 @@ const vagas = [
     email: "",
     banner: "banners/petg.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Auxiliar Geral",
+    empresa: "Granosul",
+    cidade: "Londrina",
+    descricao: "A Granosul está contratamdo auxiliar Geral",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5543991545729",
+    email: "",
+    banner: "banners/fol.jpeg"
+  },
 
   
   
