@@ -10747,6 +10747,17 @@ const vagas = [
     email: "",
     banner: "banners/fergus.jpeg"
   },
+   {
+    data: "2026-01-08",
+    titulo: "Auxiliar de RH",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de RH na Gelobel em Londrina-PR, oferecendo benefícios como plano de saúde e day off no aniversário.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/cocc.jpeg"
+  },
   
   
   
