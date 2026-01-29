@@ -10714,6 +10714,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Zelador(a)",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Zelador(a) no Muffato/Max Atacadista em Londrina, com vagas inclusivas para PCD, pessoas acima de 60 anos e estrangeiros, oferecendo um amplo pacote de benefícios.",
+    descricaoModal:"Informações Adicionais: Vagas abertas para PCD, melhor idade (60+), estrangeiros e público em geral.",
+    whatsapp: "5543984472560",
+    email: "",
+    banner: "banners/zemu.jpg"
+  },
   
   
   
