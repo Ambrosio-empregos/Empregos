@@ -10637,6 +10637,17 @@ const vagas = [
     email: "naspcontrata@outlook.com",
     banner: "banners/qui.jpeg"
   },
+   {
+    data: "2026-01-29",
+    titulo: "farmáceutico(a)",
+    empresa: "Oficialmed",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Farmacêutico(a) para atuação presencial em Apucarana/PR, em farmácia de manipulação em fase de expansão.",
+    descricaoModal:"tividades: Atuação ética e personalizada em farmácia de manipulação; orientação de pacientes; responsabilidade técnica.",
+    whatsapp: "5543991339168",
+    email: "rh@oficialmed.com.br",
+    banner: "banners/farma.jpeg"
+  },
   
   
   
