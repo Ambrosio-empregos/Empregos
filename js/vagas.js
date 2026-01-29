@@ -10979,7 +10979,7 @@ const vagas = [
     banner: "banners/gerais.jpeg"
   },
   {
-    data: "2026-01-08",
+    data: "2026-01-29",
     titulo: "Responsável Técnico",
     empresa: "Arthorom",
     cidade: "Londrina",
