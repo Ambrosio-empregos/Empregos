@@ -10648,6 +10648,17 @@ const vagas = [
     email: "rh@oficialmed.com.br",
     banner: "banners/farma.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Orçamentista",
+    empresa: "Oficialmed",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Orçamentista com atuação presencial em Apucarana/PR, buscando profissionais com disponibilidade para crescer na operação.",
+    descricaoModal:"Requisitos: Ser uma pessoa organizada; possuir facilidade com informática e tecnologia; ter disposição e disponibilidade para crescer na operação da empresa.",
+    whatsapp: "5543991339168",
+    email: "rh@oficialmed.com.br",
+    banner: "banners/orca.jpeg"
+  },
   
   
   
