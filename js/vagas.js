@@ -10626,6 +10626,17 @@ const vagas = [
     email: "rh@londrigifts.com.br",
     banner: "banners/gifts.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "vendedora Quiosque",
+    empresa: "Nasp",
+    cidade: "Maringá",
+    descricao: "Vaga para Vendedora de quiosque no Shopping Catuaí em Maringá-Pr, com salário fixo de R$ 2.030,00 e comissão por vendas.",
+    descricaoModal:"A Nasp busca profissionais que amam vendas e são comunicativos para atuar em quiosque. Benefícios: Salário fixo de R$ 2.030,00, Vale-alimentação, Vale transporte e comissão por vendas. A empresa oferece oportunidade real de crescimento. Localização: Shopping Catuaí, Maringá-Pr.",
+    whatsapp: "5544999962932",
+    email: "naspcontrata@outlook.com",
+    banner: "banners/qui.jpeg"
+  },
   
   
   
