@@ -10978,6 +10978,17 @@ const vagas = [
     email: "",
     banner: "banners/gerais.jpeg"
   },
+  {
+    data: "2026-01-08",
+    titulo: "Responsável Técnico",
+    empresa: "Arthorom",
+    cidade: "Londrina",
+    descricao: "Vaga para Responsável Técnico em Londrina",
+    descricaoModal:"envie seu curriculo",
+    whatsapp: "",
+    email: "recrutamneto@arthrom.com",
+    banner: "banners/dugal.jpeg"
+  },
 
   
   
