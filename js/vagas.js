@@ -10583,7 +10583,7 @@ const vagas = [
     banner: "banners/ritz.jpg"
   },
   {
-    data: "2026-01-05",
+    data: "2026-01-29",
     titulo: "Atendente",
     empresa: "Ritz",
     cidade: "Arapongas",
