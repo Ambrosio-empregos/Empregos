@@ -10989,6 +10989,17 @@ const vagas = [
     email: "recrutamneto@arthrom.com",
     banner: "banners/dugal.jpeg"
   },
+   {
+    data: "2026-01-29",
+    titulo: "Promotor de Vendas",
+    empresa: "Dalsan",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Promotor de Vendas em Londrina e região, oferecendo contratação CLT e premiação por vendas.",
+    descricaoModal:"envie seu curriculo",
+    whatsapp: "5543999675336",
+    email: "",
+    banner: "banners/sui.jpeg"
+  },
 
   
   
