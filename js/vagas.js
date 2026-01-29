@@ -10659,6 +10659,17 @@ const vagas = [
     email: "rh@oficialmed.com.br",
     banner: "banners/orca.jpeg"
   },
+   {
+    data: "2026-01-29",
+    titulo: "Auxiliar de Perito",
+    empresa: "3° Visão",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Perito em Londrina, com jornada de segunda a sexta e sábados alternados, sem exigência de experiência anterior.",
+    descricaoModal:"Requisitos: Habilitação categorias A/B; não é exigida experiência na função. Horário: Segunda a sexta das 08h às 18h e sábados alternados. Empresa: 3ª Visão (Perícias e Vistorias Automotivas).",
+    whatsapp: "",
+    email: "contato@terceiravisaolondrina.com.br",
+    banner: "banners/perito.jpeg"
+  },
   
   
   
