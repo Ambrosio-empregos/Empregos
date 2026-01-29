@@ -11000,6 +11000,17 @@ const vagas = [
     email: "",
     banner: "banners/sui.jpeg"
   },
+   {
+    data: "2026-01-29",
+    titulo: "Instalador",
+    empresa: "DBL",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Instalador/entregador de baterias em Londrina, oferecendo contratação CLT e premiação por vendas.",
+    descricaoModal:"envie seu curriculo",
+    whatsapp: "5543999690306",
+    email: "",
+    banner: "banners/saae.jpeg"
+  },
 
   
   
