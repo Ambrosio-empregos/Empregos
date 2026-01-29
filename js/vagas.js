@@ -10692,6 +10692,17 @@ const vagas = [
     email: "rh.seçecao@trepis.com.br",
     banner: "banners/morada.jpeg"
   },
+   {
+    data: "2026-01-29", 
+    titulo: "Zelador(a)",
+    empresa: "Colégio Prime",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Zelador(a) em Londrina com jornada de 44 horas semanais, exigindo experiência comprovada e oferecendo pacote completo de benefícios, incluindo planos de saúde e odontológico.",
+    descricaoModal:"Atividades: Realizar a limpeza e organização de salas de aula, corredores, banheiros e áreas comuns; garantir a limpeza, conservação e higiene dos ambientes internos; manter os ambientes organizados e adequados para uso de alunos e colaboradores.",
+    whatsapp: "554333740612",
+    email: "trabalheconosco@cursoprimelondrina.com.br",
+    banner: "banners/prime.jpeg"
+  },
   
   
   
