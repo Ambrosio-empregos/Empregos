@@ -10758,6 +10758,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/cocc.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Encarregado de Delivery",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Encarregado de Delivery na Gelobel em Londrina-PR, oferecendo benefícios como plano de saúde e day off no aniversário.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/jame.jpeg"
+  },
   
   
   
