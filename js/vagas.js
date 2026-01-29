@@ -10945,6 +10945,17 @@ const vagas = [
     email: "",
     banner: "banners/fol.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Analista de Pendencia",
+    empresa: "Ativa Express",
+    cidade: "Londrina",
+    descricao: "Vaga para Analista de Pendencia na Ativa Express em Londrina!",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5543988418630",
+    email: "",
+    banner: "banners/nac.jpeg"
+  },
 
   
   
