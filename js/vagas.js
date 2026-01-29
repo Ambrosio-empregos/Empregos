@@ -10902,7 +10902,7 @@ const vagas = [
     banner: "banners/assve.jpeg"
   },
   {
-    data: "2026-01-22",
+    data: "2026-01-29",
     titulo: "Vendedora",
     empresa: "",
     cidade: "Londrina",
