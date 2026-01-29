@@ -10824,6 +10824,17 @@ const vagas = [
     email: "recrutamento@vsgold.com.br",
     banner: "banners/goldl.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Televendas",
+    empresa: "Craft Rubber",
+    cidade: "Londrina",
+    descricao: "A Craft Rubber está contratando profissional para Televendas em tempo integral com bonificações sobre vendas e metas alcançadas.",
+    descricaoModal:"Requisitos: Ensino médio completo, informática básica, boa comunicação oral e escrita, organização, proatividade e trabalho em equipe. Horário: Tempo integral de segunda a quinta das 08h às 18h e sexta-feira das 08h às 17h. Benefícios: Bonificação sobre vendas, bonificação sobre metas alcançadas e vale alimentação.",
+    whatsapp: "554333283818",
+    email: "atendimento@craftrubber.com.br",
+    banner: "banners/ruber.jpeg"
+  },
 
   
   
