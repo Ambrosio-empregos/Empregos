@@ -10723,7 +10723,7 @@ const vagas = [
     descricaoModal:"Informações Adicionais: Vagas abertas para PCD, melhor idade (60+), estrangeiros e público em geral.",
     whatsapp: "5543984472560",
     email: "",
-    banner: "banners/zemu.jpg"
+    banner: "banners/zemu.jpeg"
   },
   
   
