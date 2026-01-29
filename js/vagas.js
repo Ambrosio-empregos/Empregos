@@ -10857,6 +10857,17 @@ const vagas = [
     email: "",
     banner: "banners/enge.jpeg"
   },
+  {
+    data: "2026-01-14", 
+    titulo: "Auxiliar de Manutenção de Peças",
+    empresa: "Ativa Store",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Manutenção de Peças na Ativa Store em Londrina/PR, com regime CLT e pacote de benefícios que inclui cestas básica e de limpeza, além de planos de saúde e odontológico.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/joao.jpeg"
+  },
 
   
   
