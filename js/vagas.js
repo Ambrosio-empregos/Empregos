@@ -10591,7 +10591,7 @@ const vagas = [
     descricaoModal:"Requisitos: Ensino Médio completo com excelente comunicação. Experiência ou facilidade para lidar com o atendimento ao cliente. Proatividade, simpatia e organização.",
     whatsapp: "55439915997711",
     email: "",
-    banner: "banners/ensinar.jpg"
+    banner: "banners/ensinar.jpeg"
   },
   {
     data: "2026-01-29",
@@ -10602,7 +10602,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Gerenciar a equipe e a rotina da loja; garantir qualidade no atendimento e nos produtos; controlar estoque e apoiar nas escalas de trabalho; assegurar os padrões de higiene e operação. Requisitos: Ter experiência em sorveteria; experiência em liderança no varejo alimentício (sorveteria, cafeteria, padaria ou fast-food); boa comunicação e organização. Oferecemos: Salário compatível mais benefícios; ambiente agradável e oportunidades de crescimento. Localização: Arapongas e Cambé.",
     whatsapp: "5543984267084",
     email: "",
-    banner: "banners/geren.jpeg"
+    banner: "banners/consua.jpeg"
   },
   
   
