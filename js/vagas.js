@@ -10737,7 +10737,7 @@ const vagas = [
     banner: "banners/dalsan.jpeg"
   },
    {
-    data: "2026-01-22",
+    data: "2026-01-29",
     titulo: "Mecânico de moto",
     empresa: "Motos RBM",
     cidade: "Londrina",
@@ -10748,7 +10748,7 @@ const vagas = [
     banner: "banners/fergus.jpeg"
   },
    {
-    data: "2026-01-08",
+    data: "2026-01-29",
     titulo: "Auxiliar de RH",
     empresa: "Gelobel",
     cidade: "Londrina",
