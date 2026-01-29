@@ -10868,6 +10868,17 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/joao.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "faxina em condomínio",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Oportunidade para profissionais de limpeza em Maringá com experiência em condomínios e benefícios como vale-refeição e transporte.",
+    descricaoModal:"Requisitos: Boa comunicação; experiência em condomínio; experiência com limpeza e diluição de produtos. Benefícios: Vale-refeição e transporte. Localização: Maringá-PR.",
+    whatsapp: "5544999958936",
+    email: "",
+    banner: "banners/faxina.jpeg"
+  },
 
   
   
