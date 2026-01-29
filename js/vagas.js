@@ -10912,6 +10912,17 @@ const vagas = [
     email: "",
     banner: "banners/fruto.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Auxiliar Geral",
+    empresa: "Espetinhos Martins",
+    cidade: "Londrina",
+    descricao: "O Espetinhos Martins está contratando Auxiliar Geral para trabalhar em Londrina de segunda a sexta-feira.",
+    descricaoModal:"A oportunidade oferece horário de trabalho das 08h às 18h, de segunda a sexta-feira. O pacote de benefícios inclui vale alimentação e bonificação.",
+    whatsapp: "5543984572241",
+    email: "",
+    banner: "banners/peto.jpeg"
+  },
 
   
   
