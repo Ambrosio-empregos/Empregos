@@ -10725,6 +10725,17 @@ const vagas = [
     email: "",
     banner: "banners/zemu.jpeg"
   },
+   {
+    data: "2026-01-29",
+    titulo: "vendedor(a)",
+    empresa: "Dalsan",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) interno de lojas de cosméticos em Londrina e região, oferecendo contratação CLT e premiação por vendas.",
+    descricaoModal:"Requisitos: Residir em Londrina e região; experiência em vendas; boa comunicação e carisma; comprometimento com metas e resultados; facilidade para trabalhar em equipe e atender clientes.",
+    whatsapp: "5543999675336",
+    email: "",
+    banner: "banners/dalsan.jpeg"
+  },
   
   
   
