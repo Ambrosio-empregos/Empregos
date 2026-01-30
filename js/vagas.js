@@ -11317,7 +11317,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Separação de produtos conforme NF; embalagem e etiquetagem para envio conforme padrão; conferência de quantidades e códigos dos produtos antes do envio; carga e descarga, quando necessário.",
     whatsapp: "",
     email: "rh@mamibrinquedos.com.br",
-    banner: "banners/mama.jpg"
+    banner: "banners/mama.jpeg"
   },
   
 
