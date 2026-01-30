@@ -11244,7 +11244,7 @@ const vagas = [
   },
   {
     data: "2026-01-30",
-    titulo: "Vendedor9a)",
+    titulo: "Vendedor(a)",
     empresa: "Magazine Luiza",
     cidade: "Maringá",
     descricao: "Oportunidade para Vendedor(a) no Quiosque Magazine Luiza em Maringá, buscando profissionais com perfil proativo e vontade de crescer.",
