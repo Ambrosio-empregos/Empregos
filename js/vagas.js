@@ -11044,16 +11044,16 @@ const vagas = [
     email: "",
     banner: "banners/mete.jpeg"
   },
-   {
-    data: "2026-01-30", 
-    titulo: "Consultor(A) de Vendas",
-    empresa: "Dudalina",
+  {
+    data: "2026-01-30",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Altenburg",
     cidade: "Londrina",
-    descricao: "Oportunidade para Consultor(A) de Vendas na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 4.000,00 e R$ 5.000,00 e benefícios.",
-    descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    descricao: "Oportunidade para Consultor(a) de Vendas no Catuaí Shopping Londrina, com média salarial entre R$ 3.000,00 e R$ 6.000,00 e diversos benefícios.",
+    descricaoModal:"Informações: Média salarial de R$ 3.000,00 a R$ 6.000,00. Benefícios: Vale transporte; vale alimentação; plano de saúde. Horários: Das 10:00 às 16:00 horas ou das 16:00 às 22:00 horas. Localização: Catuaí Shopping Londrina. Empresa: Altenburg.",
     whatsapp: "",
-    email: "dudalinalondrina@grupoac.net",
-    banner: "banners/dudi.jpeg"
+    email: "altenburglda@grupoac.nte",
+    banner: "banners/burg.jpeg"
   },
 
   
