@@ -11308,6 +11308,17 @@ const vagas = [
     email: "",
     banner: "banners/betazel.jpg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Auxiliar de Logística",
+    empresa: "Mami Brinquedos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Logística em Londrina/PR na Mami Brinquedos, com jornada de segunda a sexta e possibilidade de escalas aos sábados.",
+    descricaoModal:"Responsabilidades: Separação de produtos conforme NF; embalagem e etiquetagem para envio conforme padrão; conferência de quantidades e códigos dos produtos antes do envio; carga e descarga, quando necessário.",
+    whatsapp: "",
+    email: "rh@mamibrinquedos.com.br",
+    banner: "banners/mama.jpg"
+  },
   
 
   
