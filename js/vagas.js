@@ -11015,7 +11015,7 @@ const vagas = [
     data: "2026-01-29",
     titulo: "vendedor(a)",
     empresa: "Dalsan",
-    cidade: "balneário Camboriú",
+    cidade: "Balneário Camboriú",
     descricao: "Oportunidade para Vendedor(a) interno de lojas de cosméticos em Londrina e região, oferecendo contratação CLT e premiação por vendas.",
     descricaoModal:"envie seu curriculo",
     whatsapp: "5543999673536",
