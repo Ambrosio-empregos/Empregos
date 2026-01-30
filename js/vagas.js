@@ -11264,6 +11264,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/pana.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Camareira",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Camareira em hotel, com salário de R$ 1.989,59 e benefícios como vale alimentação e Unimed participativa.",
+    descricaoModal:"Informações da Vaga: Horário de trabalho das 08:00 às 16:20. Remuneração e Benefícios: Salário de R$ 1.989,59; Vale Alimentação de R$ 310,00; Unimed Participativo disponível após o período de experiência. Requisitos: Experiência na área da limpeza será considerada um diferencial.",
+    whatsapp: "554330268434",
+    email: "",
+    banner: "banners/camar.jpeg"
+  },
   
 
   
