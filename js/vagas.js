@@ -11484,6 +11484,17 @@ const vagas = [
     email: "autopostoformigao@gmail.com",
     banner: "banners/moraa.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Assistente de Departamento Pessoal",
+    empresa: "Escritório Contábil",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Departamento Pessoal em Londrina (conforme código de área 43), ideal para quem está cursando Contábeis ou RH e possui conhecimento no Sistema Domínio.",
+    descricaoModal:"Requisitos: Desejável experiência na área; cursando graduação em Ciências Contábeis ou Recursos Humanos (RH); conhecimento no Sistema Domínio; domínio do Pacote Office.",
+    whatsapp: "5543999320659",
+    email: "rh.planej@gmail.com",
+    banner: "banners/voz.jpeg"
+  },
   
 
   
