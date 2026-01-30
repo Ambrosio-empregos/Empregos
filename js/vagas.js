@@ -11242,6 +11242,17 @@ const vagas = [
     email: "",
     banner: "banners/dolor.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Vendedor9a)",
+    empresa: "Magazine Luiza",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) no Quiosque Magazine Luiza em Maringá, buscando profissionais com perfil proativo e vontade de crescer.",
+    descricaoModal:"Requisitos: Perfil proativo; capacidade de trabalhar em equipe; organização e responsabilidade; boa comunicação e vontade de crescer.",
+    whatsapp: "5551991392432",
+    email: "",
+    banner: "banners/magalu.jpeg"
+  },
   
 
   
