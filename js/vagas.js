@@ -11220,6 +11220,17 @@ const vagas = [
     email: "",
     banner: "banners/know.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "balconista/atendente",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Salário bom, premiações vantajosas e diversos benefícios",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/aparecida.jpeg"
+  },
   
 
   
