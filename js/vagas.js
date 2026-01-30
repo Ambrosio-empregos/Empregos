@@ -11097,7 +11097,7 @@ const vagas = [
     descricaoModal:"Descrição: Auxiliar na separação e preparação de mercadorias; carga e descarga de materiais; limpeza e organização do setor; controle de estoque; expedição (recebimento e envio de mercadorias).",
     whatsapp: "",
     email: "contato@principiurh.com.br",
-    banner: "banners/sevs.jpeg"
+    banner: "banners/16.jpeg"
   },
 
   
