@@ -11363,6 +11363,17 @@ const vagas = [
     email: "",
     banner: "banners/cubos.jpeg"
   },
+  {
+    data: "2026-01-30", 
+    titulo: "Encarregdo de produção",
+    empresa: "Mudaas Londrina",
+    cidade: "Ibiporâ",
+    descricao: "Oportunidade para Encarregado de Produção em Ibiporã - PR, com contratação em regime CLT e exigência de conhecimentos em agricultura e informática básica.",
+    descricaoModal:"equisitos: Conhecimento em agricultura; domínio básico de informática. Benefícios: Contratação CLT + benefícios. Localização: Ibiporã - PR. Empresa: Mudas Londrina.",
+    whatsapp: "554332680874",
+    email: "",
+    banner: "banners/muda.jpeg"
+  },
   
 
   
