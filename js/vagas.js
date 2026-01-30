@@ -11559,7 +11559,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência prévia na função para atuação em restaurante buffet. Detalhes da Oportunidade: Horário de trabalho das 08:00 às 16:20. Localização: Atlântico Shopping.",
     whatsapp: "5547988192632",
     email: "",
-    banner: "banners/cozzz.jpeg"
+    banner: "banners/vale.jpeg"
   },
   
 
