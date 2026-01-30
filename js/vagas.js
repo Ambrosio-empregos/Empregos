@@ -11198,6 +11198,18 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/veio.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "recepcionista",
+    empresa: "Fatima Martins Cabeleleiros",
+    cidade: "Londrina",
+    descricao: "Fátima Martins Cabeleireiros contrata recepcionista para excelente oportunidade em ambiente de shopping.",
+    descricaoModal:"Os requisitos incluem disponibilidade para atender agenda em horários de shopping.",
+    whatsapp: "554333443040",
+    email: "",
+    banner: "banners/fat.jpeg"
+  },
+  
 
   
   
