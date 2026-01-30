@@ -11419,7 +11419,7 @@ const vagas = [
     banner: "banners/rainbow.jpeg"
   },
   {
-    data: "2026-01-28",
+    data: "2026-01-30",
     titulo: "Atendente de Balcão",
     empresa: "Conecta",
     cidade: "Balneário Camboriú",
