@@ -11286,6 +11286,28 @@ const vagas = [
     email: "",
     banner: "banners/hoteel.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Temos Vaga! Auxiliar de Limpeza na Beta Serv. Oportunidade para profissionais com experiência mínima na área e disponibilidade de horário.",
+    descricaoModal:"Requisitos: Experiência mínima comprovada na função. Horário: Jornada semanal de 8h com necessidade de disponibilidade para trabalhar também aos fins de semana intercalados.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/beta.jpg"
+  },
+  {
+    data: "2026-01-30",
+    titulo: "Zelador",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Temos Vaga! Oportunidade para Zelador na Beta Serv com experiência em manutenção geral e limpeza. Envie seu currículo!",
+    descricaoModal:"Requisitos: Experiência comprovada em rotinas de hidráulica, elétrica e limpeza em geral. Perfil proativo e responsável para manutenção predial.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/betazel.jpg"
+  },
   
 
   
