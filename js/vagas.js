@@ -11407,6 +11407,17 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/cux.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "vendedora",
+    empresa: "Puket Procura",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Puket para integrar um time criativo e dinâmico.",
+    descricaoModal:"A Puket busca vendedora para fazer parte de seu time de unicórnios, dinos e humanos felizes da vida.",
+    whatsapp: "5543984923215",
+    email: "",
+    banner: "banners/rainbow.jpeg"
+  },
   
 
   
