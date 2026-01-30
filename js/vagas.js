@@ -11429,6 +11429,17 @@ const vagas = [
     email: "",
     banner: "banners/bebep.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "Instalador de Internet",
+    empresa: "Ired",
+    cidade: "Maringá",
+    descricao: "Vaga para Instalador de Internet em Maringá-PR",
+    descricaoModal:"Localização: Maringá - PR. - Envie seu currículo",
+    whatsapp: "5544991776801",
+    email: "",
+    banner: "banners/dons.jpeg"
+  },
   
 
   
