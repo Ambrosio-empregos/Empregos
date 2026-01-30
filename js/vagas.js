@@ -11528,6 +11528,17 @@ const vagas = [
     email: "rh@camponesaimoveis.com.br",
     banner: "banners/perf.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "Atendente",
+    empresa: "Shopping",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Atendente no Atlântico Shopping em Balneário Camboriú, com salário de R$ 2.450,00 e benefícios inclusos.",
+    descricaoModal:"Requisitos: Experiência em atendimento; ensino médio completo; ser proativo. Benefícios: Vale-transporte; alimentação no local. Faixa Salarial: R$ 2.450,00. Horário: 14:00 - 22:20. Localização: Atlântico Shopping, Balneário Camboriú.",
+    whatsapp: "5547988192632",
+    email: "",
+    banner: "banners/doa.jpeg"
+  },
   
 
   
