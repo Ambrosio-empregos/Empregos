@@ -11341,6 +11341,17 @@ const vagas = [
     email: "rh@mamibrinquedos.com.br",
     banner: "banners/log.jpeg"
   },
+  {
+    data: "2026-01-30", 
+    titulo: "Atendente",
+    empresa: "Bobs",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente no Bob's do Shopping Catuaí Londrina, com jornada das 14:10 às 22:30 e chances de crescimento profissional.",
+    descricaoModal:"Funções: Atendimento ao cliente com simpatia e agilidade; preparo de milk shakes, sorvetes e outros produtos; organização e limpeza do quiosque. Horário e Escala: Das 14:10 às 22:30; escala de domingo a segunda, com uma folga semanal e um domingo de folga no mês. Benefícios e Diferenciais: Treinamento completo; ambiente de trabalho dinâmico; oportunidade de crescimento. Localização: Shopping Catuaí Londrina.",
+    whatsapp: "5544984219731",
+    email: "bobslondrina20@gmail.com",
+    banner: "banners/bobs.jpeg"
+  },
   
 
   
