@@ -11165,6 +11165,17 @@ const vagas = [
     email: "",
     banner: "banners/acesso.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Professora",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Professora de Berçário em período integral, exigindo formação completa em Pedagogia e experiência comprovada na área de educação infantil.",
+    descricaoModal:"Requisitos: Formação completa em Pedagogia; experiência comprovada na área da educação infantil/berçário; responsabilidade, carinho e postura profissional.",
+    whatsapp: "5543991220155",
+    email: "",
+    banner: "banners/frase.jpeg"
+  },
 
   
   
