@@ -11088,6 +11088,17 @@ const vagas = [
     email: "",
     banner: "banners/bbo.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Auxiliar de Almoxarifado",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Almoxarifado com salário de R$ 2.100,00 mais benefícios, incluindo plano de saúde corporativo e vale alimentação de R$ 500,00.",
+    descricaoModal:"Descrição: Auxiliar na separação e preparação de mercadorias; carga e descarga de materiais; limpeza e organização do setor; controle de estoque; expedição (recebimento e envio de mercadorias).",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/sevs.jpeg"
+  },
 
   
   
