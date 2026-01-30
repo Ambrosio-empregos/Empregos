@@ -11231,6 +11231,17 @@ const vagas = [
     email: "",
     banner: "banners/aparecida.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Cabeleleiro",
+    empresa: "Fatima Martins Cabeleleiros",
+    cidade: "Londrina",
+    descricao: "Fátima Martins Cabeleireiros contrata cabeleleiro(a) para excelente oportunidade em ambiente de shopping.",
+    descricaoModal:"Os requisitos incluem disponibilidade para atender agenda em horários de shopping.",
+    whatsapp: "554333443040",
+    email: "",
+    banner: "banners/dolor.jpeg"
+  },
   
 
   
