@@ -11099,6 +11099,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/16.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Vendas Internas - Bombas & Motores",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Internas de Bombas & Motores, com salário fixo de R$ 2.500,00, comissões progressivas e bônus por metas, além de pacote completo de benefícios.",
+    descricaoModal:"Atividades: Atuação na geração e fechamento de vendas visando crescimento de faturamento; recuperação de oportunidades com atendimento técnico comercial consultivo.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/bomba.jpeg"
+  },
 
   
   
