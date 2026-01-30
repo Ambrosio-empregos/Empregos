@@ -11352,6 +11352,17 @@ const vagas = [
     email: "bobslondrina20@gmail.com",
     banner: "banners/bobs.jpeg"
   },
+  {
+    data: "2026-01-30", 
+    titulo: "vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedores de Loja com oferta de salário fixo e comissão sobre vendas, em um ambiente de trabalho agradável.",
+    descricaoModal:"Requisitos: Experiência em vendas; boa aparência e simpatia; compromisso e pontualidade. Benefícios: Salário Fixo; Comissão sobre Vendas; Ambiente de Trabalho agradável.",
+    whatsapp: "5543988571122",
+    email: "",
+    banner: "banners/cubos.jpeg"
+  },
   
 
   
