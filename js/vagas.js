@@ -11515,7 +11515,7 @@ const vagas = [
     descricaoModal:"A vaga busca profissionais com boa comunicação, iniciativa, experiência em vendas externas, vontade de aprender e vocação comercial. O pacote de benefícios inclui salário fixo, plano de saúde e ajuda de custo.",
     whatsapp: "5543999321975",
     email: "recrutamentocamponesaimoveis@gmail.com",
-    banner: "banners/anga.jpeg"
+    banner: "banners/eis.jpeg"
   },
   
 
