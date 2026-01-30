@@ -11473,6 +11473,17 @@ const vagas = [
     email: "autopostoformigao@gmail.com",
     banner: "banners/tan.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Operador(a) de Caixa",
+    empresa: "Auto Posto Formigão",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador(a) de Caixa em Londrina/PR no Auto Posto Formigão, oferecendo vale transporte e vale alimentação para candidatos com ensino médio completo.",
+    descricaoModal:"Requisitos: Ensino médio completo; boa comunicação e habilidades interpessoais; disponibilidade para trabalhar em turnos flexíveis.",
+    whatsapp: "5543991288366",
+    email: "autopostoformigao@gmail.com",
+    banner: "banners/moraa.jpeg"
+  },
   
 
   
