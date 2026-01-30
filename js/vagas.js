@@ -11451,6 +11451,17 @@ const vagas = [
     email: "",
     banner: "banners/lepo.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Operador de caixa",
+    empresa: "Lejon",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Operador de Caixa no Lejon Auto Serviço, voltada para profissionais que buscam atuação no setor de varejo de alimentos.",
+    descricaoModal:"Vaga aberta para a função de Operador de Caixa. Empresa: Lejon Auto Serviço.",
+    whatsapp: "554430332741",
+    email: "",
+    banner: "banners/lejonn.jpeg"
+  },
   
 
   
