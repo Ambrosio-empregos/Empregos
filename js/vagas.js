@@ -11374,6 +11374,17 @@ const vagas = [
     email: "",
     banner: "banners/muda.jpeg"
   },
+    {
+    data: "2026-01-30", 
+    titulo: "Vendedor(a)",
+    empresa: "Queen Shoes",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) no Shopping Catuaí em Londrina para o período da noite, com jornada das 16h às 22h.",
+    descricaoModal:"Horário: 16h às 22h (período da noite). Localização: Shopping Catuaí, Londrina. Empresa: Queen Shoes.",
+    whatsapp: "5543988703769",
+    email: "catuai@queenshoes.com.br",
+    banner: "banners/queen.jpeg"
+  },
   
 
   
