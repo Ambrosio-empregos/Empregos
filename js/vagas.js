@@ -11319,6 +11319,17 @@ const vagas = [
     email: "rh@mamibrinquedos.com.br",
     banner: "banners/mama.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Trevima",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza em Londrina com remuneração total de R$ 2.550,00 (salário + ticket), atuando na organização de imóveis para locação por temporada.",
+    descricaoModal:"Atividade: Limpeza e organização de imóveis para locação por temporada.",
+    whatsapp: "5543991195212",
+    email: "",
+    banner: "banners/arman.jpeg"
+  },
   
 
   
