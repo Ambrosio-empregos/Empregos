@@ -11418,6 +11418,17 @@ const vagas = [
     email: "",
     banner: "banners/rainbow.jpeg"
   },
+  {
+    data: "2026-01-28",
+    titulo: "Atendente de Balcão",
+    empresa: "Conecta",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Atendente de Balcão em Balneário Camboriú/SC",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5547988401102",
+    email: "",
+    banner: "banners/bebep.jpeg"
+  },
   
 
   
