@@ -11253,6 +11253,17 @@ const vagas = [
     email: "",
     banner: "banners/magalu.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Vendedor(a) de Pneus",
+    empresa: "Guaporé Pneus",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Vendedor de Pneus em Arapongas-PR, oferecendo ótima remuneração salarial e pacote de benefícios.",
+    descricaoModal:"Benefícios: Ótima remuneração salarial; Vale Alimentação; Vale Transporte. Localização: Arapongas-PR. Empresa: Guaporé Pneus.",
+    whatsapp: "554330321911",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/pana.jpeg"
+  },
   
 
   
