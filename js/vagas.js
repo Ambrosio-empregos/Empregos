@@ -11396,6 +11396,17 @@ const vagas = [
     email: "",
     banner: "banners/free.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) em Londrina/PR, com contratação em regime CLT e pacote completo de benefícios, incluindo cestas, planos de saúde e day off no aniversário.",
+    descricaoModal:"Atividades: Atender clientes com excelência e empatia; contribuir para o alcance das metas da equipe; prospectar novos clientes; administrar a carteira de clientes; realizar contatos pós-venda.",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp3.com.br",
+    banner: "banners/cux.jpeg"
+  },
   
 
   
