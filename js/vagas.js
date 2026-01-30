@@ -11209,6 +11209,17 @@ const vagas = [
     email: "",
     banner: "banners/fat.jpeg"
   },
+   {
+    data: "2026-01-30",
+    titulo: "Garçom/Garçonete",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Salário bom, premiações vantajosas e diversos benefícios",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/know.jpeg"
+  },
   
 
   
