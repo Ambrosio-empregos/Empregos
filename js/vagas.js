@@ -11174,7 +11174,7 @@ const vagas = [
     descricaoModal:"Requisitos: Formação completa em Pedagogia; experiência comprovada na área da educação infantil/berçário; responsabilidade, carinho e postura profissional.",
     whatsapp: "5543991220155",
     email: "",
-    banner: "banners/frase.jpeg"
+    banner: "banners/fraser.jpeg"
   },
 
   
