@@ -11177,7 +11177,7 @@ const vagas = [
     banner: "banners/fraser.jpeg"
   },
   {
-    data: "2026-01-",
+    data: "2026-01-30",
     titulo: "Auxiliar de Expedição",
     empresa: "Principius",
     cidade: "Maringá",
@@ -11188,7 +11188,7 @@ const vagas = [
     banner: "banners/exx.jpeg"
   },
   {
-    data: "2026-01-",
+    data: "2026-01-30",
     titulo: "Engenheiro Especialista em planejamento e orçamento de obras verticais",
     empresa: "Principius",
     cidade: "Maringá",
