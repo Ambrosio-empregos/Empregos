@@ -11526,7 +11526,7 @@ const vagas = [
     descricaoModal:"A vaga busca profissionais dinâmicos e comunicativos, com bom relacionamento interpessoal, conhecimentos em informática, experiência na área comercial e CNH categoria A. A empresa oferece salário fixo, comissionamento, treinamentos e ajuda de custo composta por vale-alimentação e vale-transporte.",
     whatsapp: "5543999321975",
     email: "rh@camponesaimoveis.com.br",
-    banner: "banners/corret.jpeg"
+    banner: "banners/perf.jpeg"
   },
   
 
