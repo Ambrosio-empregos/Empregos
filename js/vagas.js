@@ -11462,6 +11462,17 @@ const vagas = [
     email: "",
     banner: "banners/lejonn.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Frentista",
+    empresa: "Auto Posto Formigão",
+    cidade: "Londrina",
+    descricao: "portunidade para Frentista em Londrina/PR no Auto Posto Formigão, com benefícios de vale transporte e vale alimentação e exigência de disponibilidade para turnos flexíveis.",
+    descricaoModal:"Requisitos: Ensino médio completo; boa comunicação e habilidades interpessoais; disponibilidade para trabalhar em turnos flexíveis.",
+    whatsapp: "5543991288366",
+    email: "autopostoformigao@gmail.com",
+    banner: "banners/tan.jpeg"
+  },
   
 
   
