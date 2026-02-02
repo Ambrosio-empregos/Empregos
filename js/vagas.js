@@ -11913,6 +11913,17 @@ const vagas = [
     email: "bobslondrina20@gmail.com",
     banner: "banners/bobs.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Fonoaudiólogo(a)",
+    empresa: "PRO MEDICINA",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Fonoaudiólogo(a) em Londrina, voltada para profissionais organizados e pontuais com experiência comprovada em Medicina Ocupacional.",
+    descricaoModal:"Perfil: Organizado(a), concentrado(a), focado(a) e pontualidade. Requisitos: Experiência comprovada em Medicina Ocupacional; atuação com exames e rotinas ocupacionais; organização, responsabilidade e comprometimento profissional.",
+    whatsapp: "5543988630337",
+    email: "jurdico@proocupacional64.com.br",
+    banner: "banners/fono.jpeg"
+  },
   
 
   
