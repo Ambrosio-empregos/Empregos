@@ -11583,6 +11583,17 @@ const vagas = [
     email: "",
     banner: "banners/gra.jpeg"
   },
+    {
+    data: "2026-02-02", 
+    titulo: "Auxiliar de Armazén",
+    empresa: "BRF",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Armazém com salário de R$ 2.105,40, incluindo benefícios como cesta básica de R$ 315,00 e adicionais de insalubridade e noturno.",
+    descricaoModal:"Atividades: Carregamento e separação de alimentos refrigerados.",
+    whatsapp: "5543996960116",
+    email: "",
+    banner: "banners/brf.jpeg"
+  },
   
 
   
