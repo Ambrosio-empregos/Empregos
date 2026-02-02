@@ -11891,6 +11891,17 @@ const vagas = [
     email: "",
     banner: "banners/prova.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Pizzaiolo",
+    empresa: "Pizza Londrina",
+    cidade: "Londrina",
+    descricao: "A Pizza Londrina está contratando Auxiliar de Pizzaiolo! Vaga para o período noturno com foco em quem possui agilidade e organização. Envie seu currículo via WhatsApp.",
+    descricaoModal:"Informações e Requisitos: Atuação no auxílio à rotina do pizzaiolo e abertura de massa na modeladora. Buscamos profissionais proativos, organizados, ágeis e que saibam trabalhar em equipe.",
+    whatsapp: "5543999100676",
+    email: "",
+    banner: "banners/pizza.jpeg"
+  },
   
 
   
