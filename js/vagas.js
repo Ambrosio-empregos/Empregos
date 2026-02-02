@@ -11770,6 +11770,17 @@ const vagas = [
     email: "rh@hospitalotocentro.com.br",
     banner: "banners/cadad.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Técnico de Segurança do trabalho",
+    empresa: "PRO MEDICINA",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Técnico em Segurança do Trabalho em Londrina, com foco em treinamentos de NRs e elaboração de laudos técnicos.",
+    descricaoModal:"Requisitos: Experiência com treinamentos de NRs; elaboração de laudos técnicos (PGR, PCMSO e LTCAT); conhecimento e prática em envios do eSocial.",
+    whatsapp: "5543988630337",
+    email: "jurdico@proocupacional64.com.br",
+    banner: "banners/medvet.jpeg"
+  },
   
 
   
