@@ -11572,6 +11572,17 @@ const vagas = [
     email: "dudalinalondrina@grupoac.net",
     banner: "banners/caled.jpeg"
   },
+   {
+    data: "2026-02-02", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas com ganhos mensais acima de R$ 3.000,00, dependendo do desempenho, e treinamentos de capacitação inclusos.",
+    descricaoModal:"Requisitos: Pode possuir ou não experiência prévia; necessária disponibilidade de horário comercial; ter experiência em redes sociais. Oferece: Treinamentos de capacitação; ajuda de custo para locomoção; comissionamento justo; oportunidades de crescimento; ganhos mensais acima de R$ 3.000,00 conforme desempenho.",
+    whatsapp: "5541996263920",
+    email: "",
+    banner: "banners/gra.jpeg"
+  },
   
 
   
