@@ -12166,6 +12166,17 @@ const vagas = [
     email: "",
     banner: "banners/gelaboca.jpg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Recepcionista/Secretária",
+    empresa: "Alurie",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista/ Secretária em Londrina (conforme código de área 43), para atuar com atendimento ao cliente e organização de agenda em clínica de estética.",
+    descricaoModal:"Requisitos: Boa comunicação; organização; ensino médio completo; desejável experiência em atendimento.",
+    whatsapp: "5543988154040",
+    email: "",
+    banner: "banners/aluri.jpg"
+  },
   
 
   
