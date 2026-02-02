@@ -11726,6 +11726,17 @@ const vagas = [
     email: "",
     banner: "banners/mania.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Analista Fiscal e contábil",
+    empresa: "Conexão Bueno",
+    cidade: "Londrina",
+    descricao: "A Conexão Bueno está contratando Analista Fiscal e Contábil! Salário de R$ 4.000,00 + Benefícios para profissionais graduados em Ciências Contábeis com experiência na área.",
+    descricaoModal:"Responsabilidades e Requisitos: Atuar com rotinas de escrituração, apuração de impostos (diretos/indiretos), obrigações acessórias, conciliação e fechamentos. Necessário formação em Ciências Contábeis, domínio do Sistema Domínio e Excel, e conhecimento em regimes tributários.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/bueno.jpeg"
+  },
   
 
   
