@@ -12067,6 +12067,17 @@ const vagas = [
     email: "",
     banner: "banners/profe.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Cambé/PR no Restaurante O Casarão Br, com foco em profissionais que possuam experiência específica em saladas.",
+    descricaoModal:"Requisitos: Experiência como Auxiliar de Cozinha, principalmente no preparo de saladas. Localização: Cambé/PR. Empresa: Restaurante O Casarão Br.",
+    whatsapp: "5543999023816",
+    email: "",
+    banner: "banners/laranja.jpeg"
+  },
   
 
   
