@@ -11968,6 +11968,17 @@ const vagas = [
     email: "rh@nrwork.com.br",
     banner: "banners/nr.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Mecânico Automotivo",
+    empresa: "Grupo Barigui",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico Automotivo em Londrina para integrar o time técnico do maior Grupo de Concessionárias Multimarcas do Sul do País.",
+    descricaoModal:"Responsabilidades: Realizar revisões e manutenções preventivas e corretivas; efetuar troca e manutenção de peças automotivas; realizar diagnósticos de baixa a média complexidade; atuar de acordo com os padrões de qualidade e segurança da concessionária.",
+    whatsapp: "554430325730",
+    email: "",
+    banner: "banners/bari.jpeg"
+  },
   
 
   
