@@ -12153,7 +12153,18 @@ const vagas = [
     descricaoModal:"Atividades incluem realizar processo produtivo com máquinas, cuidados com equipamentos e matéria-prima, organização de materiais e auxílio em demandas do setor, exigindo ensino fundamental completo, experiência em área fabril, atenção e proatividade, sendo desejável experiência no setor metalúrgico.",
     whatsapp: "5543999675616",
     email: "recruta.solutionrh@gmail.com",
-    banner: "banners/hydro.jpeg"
+    banner: "banners/marac.jpeg"
+  },
+   {
+    data: "2026-02-02",
+    titulo: "Atendente",
+    empresa: "Gelaboca",
+    cidade: "Londrina",
+    descricao: "Vaga de Atendente na Gela Boca - Salário de R$ 2.500,00 + Benefícios. Venha fazer parte do time mais gelado e divertido da cidade!",
+    descricaoModal:"Benefícios e Informações: Salário de R$ 2.500,00, Vale transporte, Vale alimentação e Bônus por desempenho. Se você se identificou com a vaga, mande seu currículo agora mesmo!",
+    whatsapp: "5543999127431",
+    email: "",
+    banner: "banners/gelaboca.jpg"
   },
   
 
