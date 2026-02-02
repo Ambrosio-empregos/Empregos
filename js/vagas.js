@@ -12177,6 +12177,17 @@ const vagas = [
     email: "",
     banner: "banners/aluri.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Vendedor Responsável",
+    empresa: "LE Postiche",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) Responsávelna Le Postiche, aberta para maiores de 18 anos com segundo grau completo e disponibilidade de horário.",
+    descricaoModal:": Requisitos: Ser maior de 18 anos; segundo grau completo; Disponibilidade de horário. Empresa: Le Postiche.",
+    whatsapp: "5544988668668",
+    email: "",
+    banner: "banners/mesaex.jpeg"
+  },
   
 
   
