@@ -11836,6 +11836,17 @@ const vagas = [
     email: "centrautoveiculos@hotmail.com",
     banner: "banners/centra.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Produção",
+    empresa: "Gelateria",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção em uma Gelateria (Londrina), com exigência de disponibilidade para trabalhar de terça a domingo.",
+    descricaoModal:"Requisitos: Interesse na área de produção de gelatos; disponibilidade para horário de terça a domingo. Empresa: Gelateria.",
+    whatsapp: "5543988684069",
+    email: "",
+    banner: "banners/gelate.jpeg"
+  },
   
 
   
