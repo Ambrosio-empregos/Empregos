@@ -12210,6 +12210,17 @@ const vagas = [
     email: "fabricadocespio@gmail.com",
     banner: "banners/pio.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Vendedora",
+    empresa: "Loja Rery catuaí",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Loja Rery Catuai em Londrina (conforme código de área 43), voltada para quem gosta de moda e atendimento ao cliente.",
+    descricaoModal:"Requisitos: Ter mais de 25 anos; experiência em vendas; disponibilidade de horário; ser pontual; gostar de moda e atendimento ao cliente. Observação: Enviar currículo com foto. Localização: Londrina (código 43). Empresa: Loja Rery Catuai.",
+    whatsapp: "5543999747372",
+    email: "",
+    banner: "banners/rery.jpeg"
+  },
   
 
   
