@@ -11847,6 +11847,17 @@ const vagas = [
     email: "",
     banner: "banners/gelate.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Operador(a) de Caixa",
+    empresa: "Muffato",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Operador(a) de Caixa no Super Muffato em Maringá/PR, aberta também para PCD, 60+ e estrangeiros, oferecendo uma ampla gama de benefícios e planos de carreira.",
+    descricaoModal:"O que oferecemos: Assistência de saúde (Telemedicina, Plano Odontológico, Telepsicologia); Seguro de Vida e Assistência Funeral;",
+    whatsapp: "5545991336550",
+    email: "",
+    banner: "banners/fasa.jpeg"
+  },
   
 
   
