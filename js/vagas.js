@@ -11792,6 +11792,17 @@ const vagas = [
     email: "",
     banner: "banners/pinka.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Pizzailo",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Pizzaiolo em Maringá-PR, com salário mais bonificação e alimentação no local para atuação no período noturno.",
+    descricaoModal:"Atividades: Saber fazer toda a produção necessária; bolear a massa; abrir massa; fornear as pizzas; saber cortar para rodízio.",
+    whatsapp: "5544998581395",
+    email: "",
+    banner: "banners/zai.jpeg"
+  },
   
 
   
