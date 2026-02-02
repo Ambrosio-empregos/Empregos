@@ -11790,7 +11790,7 @@ const vagas = [
     descricaoModal:"Atividades e Requisitos: Preparar pratos e sobremesas para buffet conforme receitas, manipular alimentos e realizar cortes decorativos de saladas. Necessário experiência em carteira.",
     whatsapp: "5544999978523",
     email: "",
-    banner: "banners/salada.jpg"
+    banner: "banners/pinka.jpg"
   },
   
 
