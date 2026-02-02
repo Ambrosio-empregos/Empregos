@@ -12199,6 +12199,17 @@ const vagas = [
     email: "",
     banner: "banners/pedro.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Doceiro",
+    empresa: "Pio fabrica de Doces",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Auxiliar de Doceiro na Pio Fábrica de Doces Ltda, com foco no tratamento de amendoim e suporte geral na produção e despacho.",
+    descricaoModal:"Atividades: Tratamento com amendoim (torra e cozimento); trabalhar com tacho; manutenção da higiene e limpeza na produção; auxiliar no preparo, embalo e despacho; recebimento de mercadorias.",
+    whatsapp: "",
+    email: "fabricadocespio@gmail.com",
+    banner: "banners/pio.jpeg"
+  },
   
 
   
