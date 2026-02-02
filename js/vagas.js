@@ -12034,6 +12034,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/pasta.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar Contábil",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar contábil em Londrina (conforme código de área 43), com salário de R$ 2.200,00 e pacote de benefícios.",
+    descricaoModal:"Requisitos: Cursando pelo menos 1 ano de ciências contábeis ou administração. Benefícios: R$ 300,00 de Vale mercado + Plano de saúde + Vale transporte. Salário: R$ 2.200,00. Localização: Londrina (código 43).",
+    whatsapp: "5543999505958",
+    email: "",
+    banner: "banners/cnh.jpeg"
+  },
   
 
   
