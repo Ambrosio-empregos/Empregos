@@ -12175,7 +12175,7 @@ const vagas = [
     descricaoModal:"Requisitos: Boa comunicação; organização; ensino médio completo; desejável experiência em atendimento.",
     whatsapp: "5543988154040",
     email: "",
-    banner: "banners/aluri.jpg"
+    banner: "banners/aluri.jpeg"
   },
   
 
