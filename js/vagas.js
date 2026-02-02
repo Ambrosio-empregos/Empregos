@@ -11660,6 +11660,17 @@ const vagas = [
     email: "",
     banner: "banners/iuventus.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Costureira com Experiência",
+    empresa: "Vivânce Fitness",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Costureira com experiência em máquinas Reta e Overlock no segmento de moda fitness em Londrina, oferecendo salário de R$ 1.900,00 mais benefícios.",
+    descricaoModal:"Requisitos: Experiência em máquinas Reta e Overlock; residir em Londrina. Atuação: Segmento de moda fitness, próximo ao Shopping Norte.",
+    whatsapp: "5543992928254",
+    email: "",
+    banner: "banners/naus.jpeg"
+  },
   
 
   
