@@ -12142,7 +12142,18 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência comprovada; agilidade e destreza; facilidade de aprendizagem; organização; habilidade de trabalhar em equipe; comunicação clara e objetiva. Detalhes: Horário de segunda a sexta-feira; localização na Gleba Palhano; salário a combinar.",
     whatsapp: "5543991009513",
     email: "",
-    banner: "banners/tia.jpeg"
+    banner: "banners/basta.jpeg"
+  },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Produção",
+    empresa: "Hydronlubz - Negócios e Soluções",
+    cidade: "Ibiporâ",
+    descricao: "A Hydronlubz em Ibiporã está contratando Auxiliar de Produção para início imediato no departamento de ponteadeira com carga horária de segunda a sexta.",
+    descricaoModal:"Atividades incluem realizar processo produtivo com máquinas, cuidados com equipamentos e matéria-prima, organização de materiais e auxílio em demandas do setor, exigindo ensino fundamental completo, experiência em área fabril, atenção e proatividade, sendo desejável experiência no setor metalúrgico.",
+    whatsapp: "5543999675616",
+    email: "recruta.solutionrh@gmail.com",
+    banner: "banners/hydro.jpeg"
   },
   
 
