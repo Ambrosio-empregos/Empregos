@@ -11979,6 +11979,17 @@ const vagas = [
     email: "",
     banner: "banners/bari.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Assistente de Cadastro",
+    empresa: "Afinco Imóveis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Cadastros na Afinco Imóveis com rendimentos a partir de R$ 2.000,00 e plano de carreira estabelecido.",
+    descricaoModal:"Requisitos: Idade entre 18 e 30 anos; boa comunicação e experiência com vendas são considerados diferenciais. Oferecemos: Rendimentos a partir de R$ 2.000,00, treinamento e acompanhamento constante, além de um plano de carreira estabelecido.",
+    whatsapp: "5543991241112",
+    email: "",
+    banner: "banners/rosto.jpeg"
+  },
   
 
   
