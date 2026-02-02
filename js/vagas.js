@@ -11627,6 +11627,17 @@ const vagas = [
     email: "",
     banner: "banners/idoso.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Atendimento ao Cliente/Recepção",
+    empresa: "I red",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendimento ao Cliente / Recepção em Rolândia/PR, com benefícios que incluem Vale Alimentação, Plano de Saúde e Gympass/Wellhub.",
+    descricaoModal:"Requisitos: Experiência com atendimento ao cliente; informática básica; ensino médio completo ou superior cursando.",
+    whatsapp: "5543984190153",
+    email: "",
+    banner: "banners/red.jpeg"
+  },
   
 
   
