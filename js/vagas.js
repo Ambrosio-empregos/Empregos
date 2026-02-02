@@ -12133,6 +12133,17 @@ const vagas = [
     email: "odontolondrina21@outlook.com",
     banner: "banners/peace.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha na região da Gleba Palhano, com jornada de segunda a sexta-feira e salário a combinar.",
+    descricaoModal:"Requisitos: Experiência comprovada; agilidade e destreza; facilidade de aprendizagem; organização; habilidade de trabalhar em equipe; comunicação clara e objetiva. Detalhes: Horário de segunda a sexta-feira; localização na Gleba Palhano; salário a combinar.",
+    whatsapp: "5543991009513",
+    email: "",
+    banner: "banners/tia.jpeg"
+  },
   
 
   
