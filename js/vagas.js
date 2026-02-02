@@ -12221,6 +12221,17 @@ const vagas = [
     email: "",
     banner: "banners/rery.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Mensalista",
+    empresa: "Casa de Familia",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Mensalista em casa de família em Maringá (conforme código de área 44), com salário de R$ 2.500,00 livre e jornada de segunda a sexta-feira.",
+    descricaoModal:"Salário: R$ 2.500,00 livre. Horário: De segunda a sexta-feira. Localização: Maringá (código 44). Atuação: Casa de família.",
+    whatsapp: "5544991355581",
+    email: "",
+    banner: "banners/mensal.jpeg"
+  },
   
 
   
