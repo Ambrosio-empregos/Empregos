@@ -11825,6 +11825,17 @@ const vagas = [
     email: "centrautoveiculos@hotmail.com",
     banner: "banners/patio.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Administrativo",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para a função Administrativa em Londrina, com salário inicial de R$ 2.040,00 e possibilidade de ganhos acima de R$ 3.000,00 mensais através de bonificações e ajuda de custo.",
+    descricaoModal:"Requisitos: Experiência com documentação de veículos; ter trabalhado ou trabalhar em despachante será um diferencial obrigatório.",
+    whatsapp: "",
+    email: "centrautoveiculos@hotmail.com",
+    banner: "banners/centra.jpeg"
+  },
   
 
   
