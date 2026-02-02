@@ -12122,6 +12122,17 @@ const vagas = [
     email: "contatoempregoldna@gmail.com",
     banner: "banners/interr.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Recepcionista para clínica odontológica",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista em uma clínica odontológica em Londrina (conforme indicado no e-mail de contato), voltada para profissionais proativos e com boa comunicação.",
+    descricaoModal:"Requisitos: Experiência na função; proatividade; boa comunicação; vontade de aprender. Localização: Londrina (conforme referência no contato).",
+    whatsapp: "",
+    email: "odontolondrina21@outlook.com",
+    banner: "banners/peace.jpeg"
+  },
   
 
   
