@@ -11881,7 +11881,7 @@ const vagas = [
     banner: "banners/esta.jpeg"
   },
   {
-    data: "2026-01-20",
+    data: "2026-02-02",
     titulo: "Consultor de Vendas",
     empresa: "Innove Line - TIM",
     cidade: "Londrina",
