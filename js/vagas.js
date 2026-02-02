@@ -11814,6 +11814,17 @@ const vagas = [
     email: "",
     banner: "banners/azul.jpg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Ajudante de Pátio",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Pátio em Londrina e Cambé, com salário de R$ 2.040,00 e possibilidade de ganhos de até R$ 2.500,00 através de bonificações.",
+    descricaoModal:"Experiência com lavagem de veículos; experiência com polimento. Benefícios: Plano odontológico; seguro de vida; bonificação. Salário: R$ 2.040,00 (possibilidade de ganhos de até R$ 2.500,00). Horário: Segunda a sexta-feira.",
+    whatsapp: "",
+    email: "centrautoveiculos@hotmail.com",
+    banner: "banners/patio.jpg"
+  },
   
 
   
