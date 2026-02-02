@@ -12045,6 +12045,17 @@ const vagas = [
     email: "",
     banner: "banners/cnh.jpeg"
   },
+   {
+    data: "2026-01-19",
+    titulo: "Atendimento",
+    empresa: "Villa Melti",
+    cidade: "Londrina",
+    descricao: "O Villa Melti contrata Atendente!",
+    descricaoModal:"O Villa Melti contrata Atendente! Envie Seu currículo por email ou por Whatsapp",
+    whatsapp: "5543988249361",
+    email: "villamelti@gmail.com",
+    banner: "banners/nacoes.jpeg"
+  },
   
 
   
