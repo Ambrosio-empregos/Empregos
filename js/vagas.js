@@ -11869,6 +11869,17 @@ const vagas = [
     email: "",
     banner: "banners/fasap.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "vendedor",
+    empresa: "Vendas de Moto",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor no ramo de motos (Londrina), exigindo CNH de moto e foco em metas para atuação em regime CLT.",
+    descricaoModal:"Requisitos: Habilidades no atendimento ao cliente; foco em metas e resultados; boa comunicação; CNH de moto. Modelo de Trabalho: CLT. Horário: Disponibilidade para trabalho em horário comercial. Localização: Londrina (conforme código de área 43).",
+    whatsapp: "5543988684069",
+    email: "",
+    banner: "banners/esta.jpeg"
+  },
   
 
   
