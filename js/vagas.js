@@ -12012,6 +12012,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/costura.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Contmax",
+    cidade: "Londrina",
+    descricao: "A Contmax Contabilidade está contratando um Auxiliar Administrativo.",
+    descricaoModal:"Envie Seu currículo por Email",
+    whatsapp: "",
+    email: "rh@contmax.com.br",
+    banner: "banners/contmax.jpeg"
+  },
   
 
   
