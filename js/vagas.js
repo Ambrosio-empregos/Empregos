@@ -11924,6 +11924,28 @@ const vagas = [
     email: "jurdico@proocupacional64.com.br",
     banner: "banners/fono.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "vagas para EMPREENDEDORAS",
+    empresa: "Incrível Sotre/romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando! Revenda moda fitness e lingerie no sistema de consignado, sem necessidade de investimento inicial.",
+    descricaoModal:"Informações da Vaga: Seja uma revendedora Romance Favorita e Invencível Store. Oferecemos sistema de consignado (você só paga o que vender) e não é necessário investimento inicial para começar. Ideal para quem busca autonomia e faturamento imediato em 2026.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/dora.jpeg"
+  },
+  {
+    data: "2026-02-02",
+    titulo: "Consultor de Vendas",
+    empresa: "Innove Line - TIM",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Consultor de Vendas na Inove Line (TIM) em Londrina, oferecendo comissões agressivas, plano de saúde mental e benefícios como férias coletivas e descontos em academias.",
+    descricaoModal:"Requisitos: Experiência em vendas; proatividade; responsabilidade; boa comunicação. Benefícios: Vale refeição; comissões agressivas; vale transporte; plano odontológico; plano de saúde mental; convênio com farmácia; desconto em academias parceiras; programa nutricional; reconhecimento no iver; férias coletivas.",
+    whatsapp: "5544997230048",
+    email: "",
+    banner: "banners/defogo.jpeg"
+  },
   
 
   
