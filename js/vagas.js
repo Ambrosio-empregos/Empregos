@@ -11616,6 +11616,17 @@ const vagas = [
     email: "",
     banner: "banners/17.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Serviços Gerais",
+    empresa: "Recanto do Idoso",
+    cidade: "Londrina",
+    descricao: "Oportunidade para profissionais do sexo feminino em serviços gerais na Casa de Repouso Recanto do Idoso, com atendimento em horário comercial.",
+    descricaoModal:"Requisitos: Sexo feminino. Horário: Atendimento de informações em horário comercial. Empresa: Casa de Repouso Recanto do Idoso.",
+    whatsapp: "5543991347223",
+    email: "",
+    banner: "banners/idoso.jpeg"
+  },
   
 
   
