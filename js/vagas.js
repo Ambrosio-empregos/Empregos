@@ -11594,6 +11594,28 @@ const vagas = [
     email: "",
     banner: "banners/brf.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Cozinheiro",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Cozinheiro em Londrina/PR no Angeloni, com salário de R$ 3.283,76 e amplo pacote de benefícios, disponível também para pessoas com deficiência (PCD).",
+    descricaoModal:"O que esperamos de você: Ensino médio completo; experiência no setor; disponibilidade de horário; habilidade com gestão de processos e pessoas.",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/angl.jpeg"
+  },
+  {
+    data: "2026-02-02",
+    titulo: "Vendedor(a)",
+    empresa: "Magazine Luiza",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) no Quiosque Magazine Luiza (Londrina), exigindo experiência prévia com vendas.",
+    descricaoModal:"Pré-requisitos: Experiência com vendas. Localização: Londrina (conforme código de área 43). Empresa: Quiosque Magazine Luiza.",
+    whatsapp: "5543991233117",
+    email: "",
+    banner: "banners/17.jpeg"
+  },
   
 
   
