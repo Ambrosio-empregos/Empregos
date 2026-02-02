@@ -12046,7 +12046,7 @@ const vagas = [
     banner: "banners/cnh.jpeg"
   },
    {
-    data: "2026-01-19",
+    data: "2026-02-02",
     titulo: "Atendimento",
     empresa: "Villa Melti",
     cidade: "Londrina",
