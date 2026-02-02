@@ -11957,6 +11957,17 @@ const vagas = [
     email: "",
     banner: "banners/reci.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "NR Work",
+    cidade: "Maringá",
+    descricao: "Oportunidade CLT para Consultor(a) de Vendas em Maringá (conforme código de área 44) na NR Work, com salário fixo de R$ 1.800,00 mais comissões e bonificações atrativas.",
+    descricaoModal:"Requisitos: Experiência mínima de 2 anos comprovada em carteira; perfil comunicativo, resiliente, com foco em resultados e vontade de crescer.",
+    whatsapp: "554430405300",
+    email: "rh@nrwork.com.br",
+    banner: "banners/nr.jpeg"
+  },
   
 
   
