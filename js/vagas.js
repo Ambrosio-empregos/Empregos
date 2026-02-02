@@ -12078,6 +12078,28 @@ const vagas = [
     email: "",
     banner: "banners/laranja.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Açougueiro",
+    empresa: "Infinity Carnes",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Açougueiro em Maringá-PR pela Infinity Carnes, com excelente remuneração e jornada de segunda a sábado em horário comercial.",
+    descricaoModal:"Detalhes da Vaga: Horário comercial de segunda a sábado; excelente remuneração oferecida. Localização: Avenida das Grevíleas, 764 - Maringá-PR. Empresa: Infinity Carnes.",
+    whatsapp: "554432293659",
+    email: "",
+    banner: "banners/aço.jpeg"
+  },
+  {
+    data: "2026-02-02",
+    titulo: "Área de Produção",
+    empresa: "Infinity Carnes",
+    cidade: "Maringá",
+    descricao: "Faça parte da nossa equipe! A Infinity Carnes em Maringá está com vagas abertas para o setor de Produção com excelente remuneração e horário comercial.",
+    descricaoModal:"Detalhes da Vaga: Oportunidade para o setor de Produção na Infinity Carnes. Horário de trabalho: Segunda a Sábado em horário comercial. Oferecemos excelente remuneração.",
+    whatsapp: "554432293659",
+    email: "",
+    banner: "banners/carne.jpeg"
+  },
   
 
   
