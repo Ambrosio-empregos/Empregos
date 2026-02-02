@@ -11823,7 +11823,7 @@ const vagas = [
     descricaoModal:"Experiência com lavagem de veículos; experiência com polimento. Benefícios: Plano odontológico; seguro de vida; bonificação. Salário: R$ 2.040,00 (possibilidade de ganhos de até R$ 2.500,00). Horário: Segunda a sexta-feira.",
     whatsapp: "",
     email: "centrautoveiculos@hotmail.com",
-    banner: "banners/patio.jpg"
+    banner: "banners/patio.jpeg"
   },
   
 
