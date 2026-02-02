@@ -11858,6 +11858,17 @@ const vagas = [
     email: "",
     banner: "banners/fasa.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Promotor de Vendas",
+    empresa: "Muffato",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Promotor de Vendas no Super Muffato Cerro Azul, com ganhos compostos por salário fixo, comissão e bônus de assiduidade, disponível também para PCD, 50+ e estrangeiros.",
+    descricaoModal:"O que oferecemos: Salário fixo + Comissão + Assiduidade; Assistência de saúde (Telemedicina, Plano Odontológico, Telepsicologia); Seguro de Vida e Assistência Funeral;",
+    whatsapp: "5545991336550",
+    email: "",
+    banner: "banners/fasap.jpeg"
+  },
   
 
   
