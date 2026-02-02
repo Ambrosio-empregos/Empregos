@@ -11759,6 +11759,17 @@ const vagas = [
     email: "",
     banner: "banners/aff.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Auxiliar de Farmácia",
+    empresa: "Oto Centro",
+    cidade: "Londrina",
+    descricao: "Hospital Oto Centro de Londrina Contrata Auxiliar de Farmácia com experiência farmácia Hospitalar",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "554333735522",
+    email: "rh@hospitalotocentro.com.br",
+    banner: "banners/cadad.jpeg"
+  },
   
 
   
