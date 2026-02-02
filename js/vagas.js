@@ -11781,6 +11781,17 @@ const vagas = [
     email: "jurdico@proocupacional64.com.br",
     banner: "banners/medvet.jpeg"
   },
+   {
+    data: "2026-02-02",
+    titulo: "Saladeira",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Vaga para Saladeira com experiência em buffet e preparo de doces. Registro CLT, salário + bonificações e ótima localização em Maringá!",
+    descricaoModal:"Atividades e Requisitos: Preparar pratos e sobremesas para buffet conforme receitas, manipular alimentos e realizar cortes decorativos de saladas. Necessário experiência em carteira.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/salada.jpg"
+  },
   
 
   
