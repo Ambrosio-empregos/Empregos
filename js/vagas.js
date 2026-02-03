@@ -12562,6 +12562,28 @@ const vagas = [
     email: "",
     banner: "banners/melti.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Estágio em Biomedicina",
+    empresa: "Capilli",
+    cidade: "Londrina",
+    descricao: "Oportunidade de estágio em Biomedicina para o público feminino em Londrina, voltada para estudantes do 1º ou 2º ano com interesse em estética e tricologia.",
+    descricaoModal:"Requisitos: Sexo feminino; cursando o primeiro ou segundo ano da faculdade no período matutino; perfil extrovertido para atendimento ao público.",
+    whatsapp: "5543936180607",
+    email: "jbtricologia@gmail.com",
+    banner: "banners/biomed.jpeg"
+  },
+  {
+    data: "2026-02-03",
+    titulo: "Vendedor",
+    empresa: "RW Diesel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na RW Diesel em Londrina (conforme código de área 43), exigindo conhecimento em peças diesel e oferecendo salário fixo mais comissão.",
+    descricaoModal:"Requisitos: Experiência em vendas; habilidade de negociação; conhecimento de peças diesel. Oferecemos: Salário fixo + comissão; benefícios atrativos. Localização: Londrina (código 43). Empresa: RW Diesel.",
+    whatsapp: "5543991696633",
+    email: "Financeiro@rwdiesel.com.br",
+    banner: "banners/rw.jpeg"
+  },
   
 
   
