@@ -12318,7 +12318,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência em vendas (diferencial); disponibilidade para horário comercial; habilidade em negociação e comunicação.",
     whatsapp: "5543998508587",
     email: "",
-    banner: "banners/vagas.jpg"
+    banner: "banners/vagas.jpeg"
   },
   
 
