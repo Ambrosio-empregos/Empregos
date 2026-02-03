@@ -12406,7 +12406,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Ajudar clientes a planejar e reservar viagens; atuar de forma dinâmica e motivada junto à equipe. Perfil: Profissional dinâmico e motivado. Localização: Londrina (conforme código de área 43 e referência à unidade Jorge Velho). Empresa: CVC Jorge Velho.",
     whatsapp: "554333610606",
     email: "gustavo.2131@cvc.com.br",
-    banner: "banners/billie.jpeg"
+    banner: "banners/cvc.jpeg"
   },
   
 
