@@ -12430,6 +12430,17 @@ const vagas = [
     email: "",
     banner: "banners/benga.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Auxiliar de Produção",
+    empresa: "Kobra",
+    cidade: "Ibiporâ",
+    descricao: "Oportunidade para Auxiliar de Produção na empresa Kobra, com atividades focadas em separação de matérias-primas e organização de linha produtiva, oferecendo benefícios como plano de saúde e alimentação.",
+    descricaoModal:"Principais Atividades: Auxiliar na separação e fracionamento de matérias-primas; fracionar, pesar, selar e etiquetar produtos; auxiliar na organização, separação e conferência de itens destinados à linha de produção;",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/kobra.jpeg"
+  },
   
 
   
