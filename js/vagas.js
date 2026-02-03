@@ -12344,14 +12344,14 @@ const vagas = [
   },
   {
     data: "2026-02-03",
-    titulo: "técnico em Esquadrias de Alumínios (Sênior)",
+    titulo: "técnico em Instalação de Esquadrias de Alumínios",
     empresa: "Principius Rh",
     cidade: "Maringá",
-    descricao: "Oportunidade para Técnico em Esquadrias de Alumínio nível sênior na Principiu's RH, exigindo domínio técnico em leitura de plantas, normas ABNT e softwares específicos da área.",
+    descricao: "Oportunidade para técnico em Instalação de Esquadrias de Alumínios na Principiu's RH, exigindo domínio técnico em leitura de plantas, normas ABNT e softwares específicos da área.",
     descricaoModal:"Descrição: A função envolve leitura de plantas, desenhos técnicos e conhecimento sobre alumínio, vidros e acessórios; é necessário saber medir com precisão, elaborar planos de corte e dominar normas ABNT NBR 10.821, NBR 7199 e NBR 15.575.",
     whatsapp: "",
     email: "contato@principiusrh.com.br",
-    banner: "banners/naza.jpeg"
+    banner: "banners/alimentar.jpeg"
   },
   
 
