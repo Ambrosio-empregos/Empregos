@@ -12243,6 +12243,17 @@ const vagas = [
     email: "",
     banner: "banners/cucu.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Angariadores de Imóveis",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Angariadores de Imóveis em Londrina (conforme código de área 43), para profissionais proativos que gostem de trabalho externo e desejem crescer no mercado imobiliário.",
+    descricaoModal:"Atividades: Fotografar e cadastrar imóveis; realizar captação ativa e passiva; acompanhar visitas. Perfil ideal: Comunicativo; proativo; organizado; gostar de trabalho externo. Localização: Londrina (código 43).",
+    whatsapp: "5543988699091",
+    email: "",
+    banner: "banners/xerere.jpeg"
+  },
   
 
   
