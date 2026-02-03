@@ -12254,6 +12254,17 @@ const vagas = [
     email: "",
     banner: "banners/xerere.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Gerente de Atendimento",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Gerente de Atendimento em Londrina (conforme código de área 43) para atuar em lava rápido, com salário de R$ 3.000,00 e vale-transporte.",
+    descricaoModal:"Requisitos e informações: Profissional responsável, com bom atendimento ao cliente e organização da equipe; trabalho de segunda a domingo com 1 folga por semana e 1 domingo de folga por mês.",
+    whatsapp: "5543991502191",
+    email: "",
+    banner: "banners/gere.jpeg"
+  },
   
 
   
