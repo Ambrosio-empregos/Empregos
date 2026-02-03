@@ -12331,6 +12331,17 @@ const vagas = [
     email: "",
     banner: "banners/betazel.jpg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Vendedor(a)",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor de Vendas em Balneário Camboriú/SC, sem exigência de experiência prévia e com média salarial entre R$ 5 mil e R$ 15 mil.",
+    descricaoModal:"Características da vaga: Vaga para consultor de Vendas; não precisa de experiência, pois a empresa oferece toda a capacitação e treinamento; perfil desejado inclui 'fome de vencer e mudar de vida'. Salário: Média salarial de R$ 5 mil a R$ 15 mil.",
+    whatsapp: "5547999433393",
+    email: "",
+    banner: "banners/bre.jpeg"
+  },
   
 
   
