@@ -12364,6 +12364,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/maxil.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Engenheiro Especialista em planejamento e orçamento de obras verticais",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Engenheiro Civil com CREA ativo para atuar no planejamento e orçamento de obras verticais, em regime PJ com remuneração a combinar.",
+    descricaoModal:"Atividades: Responsável pelo planejamento e controle de obras; elaboração e análise de orçamentos e cronogramas; garantia de viabilidade técnica e econômica; controle de custos e prazos.",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/veio.jpeg"
+  },
   
 
   
