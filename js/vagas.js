@@ -12383,7 +12383,7 @@ const vagas = [
     descricao: "Vaga para Operador de Caixa no Max. Faça sua carreira no Grupo Muffato com diversas oportunidades inclusive para PCD e 60+.",
     descricaoModal:"Envie seu currículo",
     whatsapp: "5545991510318",
-    email: "",
+    email: "toliveirap@muffatomax.com.br",
     banner: "banners/outlan.jpeg"
   },
   
