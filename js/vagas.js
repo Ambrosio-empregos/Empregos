@@ -12452,6 +12452,17 @@ const vagas = [
     email: "",
     banner: "banners/osva.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Vendedora",
+    empresa: "Vilalara",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Loja Vilalara do Catuaí Shopping em Londrina (conforme código de área 43), para candidatas com mais de 20 anos e perfil proativo",
+    descricaoModal:"Requisitos: Proatividade; responsabilidade; ser maior de 20 anos. Benefícios: Salário + Vale Transporte (VT) + Vale Alimentação (VA) + excelente comissão. Horário: Das 16:00 às 22:00.",
+    whatsapp: "5543988196473",
+    email: "",
+    banner: "banners/folha.jpeg"
+  },
   
 
   
