@@ -12397,6 +12397,17 @@ const vagas = [
     email: "",
     banner: "banners/billie.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "vendedor(a)",
+    empresa: "CVC",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) de Viagens na CVC Jorge Velho em Londrina (conforme código de área 43), buscando profissionais dinâmicos e motivados para ajudar clientes no planejamento de viagens.",
+    descricaoModal:"Responsabilidades: Ajudar clientes a planejar e reservar viagens; atuar de forma dinâmica e motivada junto à equipe. Perfil: Profissional dinâmico e motivado. Localização: Londrina (conforme código de área 43 e referência à unidade Jorge Velho). Empresa: CVC Jorge Velho.",
+    whatsapp: "554333610606",
+    email: "gustavo.2131@cvc.com.br",
+    banner: "banners/billie.jpeg"
+  },
   
 
   
