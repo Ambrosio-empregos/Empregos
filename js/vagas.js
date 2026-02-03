@@ -12584,6 +12584,17 @@ const vagas = [
     email: "Financeiro@rwdiesel.com.br",
     banner: "banners/rw.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Professora MAgistério ou Pedagogia",
+    empresa: "CEi Grilo Falante",
+    cidade: "Londrina",
+    descricao: "Vaga para Professora no período vespertino no CEI O Grilo Falante em Londrina-PR, exigindo formação em Magistério ou Pedagogia",
+    descricaoModal:"Requisitos: Formação concluída em Magistério ou Pedagogia. Detalhes da Oportunidade: Atuação no período vespertino. Localização: R. Sérvula Assunção, 511 - C. H. São Pedro, Londrina-PR.",
+    whatsapp: "5543991033400",
+    email: "falantegrilo2021@gmail.com",
+    banner: "banners/juju.jpeg"
+  },
   
 
   
