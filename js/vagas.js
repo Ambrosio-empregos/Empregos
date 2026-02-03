@@ -12277,7 +12277,7 @@ const vagas = [
     banner: "banners/intox.jpeg"
   },
   {
-    data: "2026-02-02",
+    data: "2026-02-03",
     titulo: "Venedora",
     empresa: "",
     cidade: "Londrina",
