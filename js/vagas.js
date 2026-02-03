@@ -12483,7 +12483,7 @@ const vagas = [
     descricaoModal:"Perfil: Profissional que ame moda, atendimento ao cliente e queira fazer parte de um time criativo e acolhedor. Localização: Balneário Camboriú. Empresa: Onlauri.",
     whatsapp: "5534992454552",
     email: "marketing@onaluri.com.br",
-    banner: "banners/dom.jpeg"
+    banner: "banners/molt.jpeg"
   },
   
 
