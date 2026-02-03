@@ -12496,6 +12496,17 @@ const vagas = [
     email: "",
     banner: "banners/ayu.jpeg"
   },
+    {
+    data: "2026-02-03",
+    titulo: "Comercial",
+    empresa: "Avive",
+    cidade: "Londrina",
+    descricao: "Oportunidade na área Comercial no Grupo Avive em Londrina (conforme código de área 43), sob regime de contrato PJ, com foco em vendas de serviços contábeis e seguros.",
+    descricaoModal:"Responsabilidades: Vendas de serviços de contabilidade e de seguros (foco em responsabilidade civil para médicos); fechar e auxiliar na organização de feiras e eventos.",
+    whatsapp: "5543991870865",
+    email: "",
+    banner: "banners/avive.jpeg"
+  },
   
 
   
