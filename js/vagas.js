@@ -12474,6 +12474,17 @@ const vagas = [
     email: "marketing@onaluri.com.br",
     banner: "banners/molt.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "Vaga para Operador de Caixa no Max Norte Shopping - Londrina. Faça sua carreira no Grupo Muffato com diversas oportunidades inclusive para PCD e 60+.",
+    descricaoModal:"Benefícios: Assistência de saúde e odontológica, seguro de vida, clube de vantagens com descontos em farmácias, vale refeição, programas de premiação e oportunidade de carreira pela Uniffato.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/opemufa.jpg"
+  },
   
 
   
