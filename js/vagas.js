@@ -12375,6 +12375,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/veio.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Maringá",
+    descricao: "Vaga para Operador de Caixa no Max. Faça sua carreira no Grupo Muffato com diversas oportunidades inclusive para PCD e 60+.",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5545991510318",
+    email: "",
+    banner: "banners/outlan.jpg"
+  },
   
 
   
