@@ -12408,6 +12408,17 @@ const vagas = [
     email: "gustavo.2131@cvc.com.br",
     banner: "banners/cvc.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Entregador",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Entregador em Londrina (conforme código de área 43), exigindo veículo próprio e disponibilidade para trabalhar em horários noturnos e de madrugada.",
+    descricaoModal:"Requisitos: Possuir moto própria; disponibilidade de horário. Horários: De domingo a quinta, das 18h30 às 03h00; sexta e sábado, das 18h30 às 05h00. Localização: Londrina (código 43).",
+    whatsapp: "5543996699540",
+    email: "",
+    banner: "banners/nazar.jpeg"
+  },
   
 
   
