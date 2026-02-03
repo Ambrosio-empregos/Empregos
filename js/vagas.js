@@ -12529,6 +12529,17 @@ const vagas = [
     email: "",
     banner: "banners/sato.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Promotor(a) de VEndas Internas",
+    empresa: "LIVE ONE",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Promotor(a) de Vendas Internas em Londrina/PR pela Live One, atuando em lojas de varejo com serviços da operadora Claro e diversos benefícios.",
+    descricaoModal:"Atividades: Atuar em lojas do varejo vendendo serviços da operadora Claro. Requisitos: Ensino Médio completo; possuir experiências anteriores com vendas; ser maior de 18 anos e possuir documentação completa; habilidade para uso de ferramentas digitais.",
+    whatsapp: "5543988631633",
+    email: "",
+    banner: "banners/redj.jpeg"
+  },
   
 
   
