@@ -12441,6 +12441,17 @@ const vagas = [
     email: "recrutamento@kobratec.com.br",
     banner: "banners/kobra.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Atendente",
+    empresa: "Paninó77",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente na Panino 77 em Londrina, com atuação em atendimento e produção nos períodos da manhã e noite sob escala 6x1.",
+    descricaoModal:"Atividades: Atendimento ao cliente e auxílio na produção. Informações da vaga: Escala de trabalho 6x1; disponibilidade para horários de manhã e noite.",
+    whatsapp: "5547996495953",
+    email: "",
+    banner: "banners/osva.jpeg"
+  },
   
 
   
