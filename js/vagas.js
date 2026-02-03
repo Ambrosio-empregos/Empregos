@@ -12384,7 +12384,7 @@ const vagas = [
     descricaoModal:"Envie seu currículo",
     whatsapp: "5545991510318",
     email: "",
-    banner: "banners/outlan.jpg"
+    banner: "banners/outlan.jpeg"
   },
   
 
