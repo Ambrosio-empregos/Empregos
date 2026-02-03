@@ -12494,7 +12494,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência na função; dinamismo e determinação; habilidades com organização; proatividade; disponibilidade para trabalhar no período noturno.",
     whatsapp: "554333453635",
     email: "",
-    banner: "banners/ayu.jpg"
+    banner: "banners/ayu.jpeg"
   },
   
 
