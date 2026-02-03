@@ -12353,6 +12353,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/alimentar.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Vendas Técnicas - Bombas & Motores",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendas Técnicas de Bombas & Motores, com salário fixo de R$ 2.500,00, comissões progressivas e bônus por metas, além de pacote completo de benefícios.",
+    descricaoModal:"Atividades: Atuação na geração e fechamento de vendas visando crescimento de faturamento; recuperação de oportunidades com atendimento técnico comercial consultivo.",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/maxil.jpeg"
+  },
   
 
   
