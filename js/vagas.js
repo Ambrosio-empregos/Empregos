@@ -12274,7 +12274,7 @@ const vagas = [
     descricaoModal:"Atividades: Atendimento ao cliente, recepção e organização de pedidos, controle de entrada e saída de veículos e apoio nas rotinas do caixa.",
     whatsapp: "554391502191",
     email: "",
-    banner: "banners/recepcionista.jpg"
+    banner: "banners/intox.jpeg"
   },
   
 
