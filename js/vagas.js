@@ -12518,6 +12518,17 @@ const vagas = [
     email: "",
     banner: "banners/defina.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Área Administrativa",
+    empresa: "HelpFax",
+    cidade: "Londrina",
+    descricao: "Oportunidade para a Área Administrativa na Helpfax Solução em Impressão em Londrina (conforme código de área 43), para profissionais com experiência em atendimento remoto e liderança.",
+    descricaoModal:"Requisitos: Experiência com atendimento remoto; conhecimento prático em AnyDesk e TeamViewer; boa comunicação; liderança de equipe. Informações da vaga: Trabalho de segunda a sexta-feira; ótimo salário oferecido. Localização: Londrina (código 43). Empresa: Helpfax.",
+    whatsapp: "5543991549926",
+    email: "",
+    banner: "banners/sato.jpeg"
+  },
   
 
   
