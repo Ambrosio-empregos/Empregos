@@ -12463,6 +12463,17 @@ const vagas = [
     email: "",
     banner: "banners/folha.jpeg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Funcionária Doméstica",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Funcionária Doméstica em Londrina (conforme indicado no e-mail de contato), para profissionais com experiência e que saibam cozinhar.",
+    descricaoModal:"Requisitos: Experiência na função; proatividade; saber cozinhar. Disponibilidade: Carga horária das 08:00 às 15:00 horas. Localização: Londrina (conforme referência no contato).",
+    whatsapp: "5543996961016",
+    email: "contato.rhlondrina@outlook.com",
+    banner: "banners/dom.jpeg"
+  },
   
 
   
