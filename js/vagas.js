@@ -12485,6 +12485,17 @@ const vagas = [
     email: "",
     banner: "banners/opemufa.jpg"
   },
+   {
+    data: "2026-02-03",
+    titulo: "Atendente",
+    empresa: "Ayumi Lanches",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente na unidade 1 da Ayumi Lanches em Londrina, voltada para profissionais proativos e com disponibilidade para o período noturno.",
+    descricaoModal:"Requisitos: Experiência na função; dinamismo e determinação; habilidades com organização; proatividade; disponibilidade para trabalhar no período noturno.",
+    whatsapp: "554333453635",
+    email: "",
+    banner: "banners/ayu.jpg"
+  },
   
 
   
