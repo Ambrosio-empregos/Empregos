@@ -10793,17 +10793,6 @@ const vagas = [
   },
   {
     data: "2026-01-29",
-    titulo: "Estoquista",
-    empresa: "",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Estoquista em Londrina para atuar no ramo de semi joias, com remuneração fixa, vale alimentação e vale transporte.",
-    descricaoModal:"Principais atividades: Organização e controle de estoque; etiquetagem e reposição de materiais; montagem de peças e pequenos consertos; reposição de itens com alta saída; controle básico em sistema; apoio na organização do setor operacional.",
-    whatsapp: "5543991032907",
-    email: "regiane.mendes@upgrowth.com.br",
-    banner: "banners/ranc.jpeg"
-  },
-  {
-    data: "2026-01-29",
     titulo: "Instalador de Engate",
     empresa: "",
     cidade: "Balneário Camboriú",
