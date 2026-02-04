@@ -12980,6 +12980,17 @@ const vagas = [
     email: "",
     banner: "banners/gra.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Londrina/PR, com salário de R$ 1.980,00 e benefícios, voltada para profissionais comprometidos e com interesse em culinária japonesa.",
+    descricaoModal:"Requisitos: Noções de cozinha de restaurante; interesse em aprender a manipular peixes e demais pratos da culinária japonesa; capacidade de organização e agilidade; bom relacionamento em equipe.",
+    whatsapp: "5543991319691",
+    email: "",
+    banner: "banners/olhei.jpeg"
+  },
  
 
   
