@@ -12681,7 +12681,7 @@ const vagas = [
     descricaoModal:"O que você vai fazer: Atender clientes com atenção e cordialidade; organizar e repor os produtos no balcão; manter o espaço sempre limpo e agradável.",
     whatsapp: "",
     email: "rhdilato@gmail.com",
-    banner: "ban/ners/vem.jpeg"
+    banner: "banners/vem.jpeg"
   },
   
 
