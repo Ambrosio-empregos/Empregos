@@ -12947,6 +12947,17 @@ const vagas = [
     email: "",
     banner: "banners/gira.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Analista de Departamento Pessoal",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista de Departamento Pessoal na Personality Contabilidade, destinada a profissionais graduados ou graduandos em áreas de gestão e negócios.",
+    descricaoModal:"Formação Requerida: Graduados ou Graduandos em Contabilidade, Economia, Administração, Direito e áreas afins.",
+    whatsapp: "",
+    email: "rh@personalitycontabilidade.com.br",
+    banner: "banners/rhd.jpeg"
+  },
  
 
   
