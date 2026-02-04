@@ -12661,6 +12661,17 @@ const vagas = [
     email: "",
     banner: "banners/nali.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Distribuidora de Produtos Automotivos",
+    empresa: "Brites",
+    cidade: "Maringá",
+    descricao: "Oportunidade presencial para Consultor de Vendas em Maringá/PR, atuando em distribuidora de produtos automotivos com vendas ativas e passivas por telefone e WhatsApp.",
+    descricaoModal:"Atividades: Prospecção e vendas por WhatsApp e telefone; realizar vendas ativas e passivas. Requisitos básicos: Ensino médio completo; experiência na área; informática básica.",
+    whatsapp: "5544988232992",
+    email: "",
+    banner: "banners/cavalo.jpeg"
+  },
   
 
   
