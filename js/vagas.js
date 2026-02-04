@@ -12760,6 +12760,17 @@ const vagas = [
     email: "recepcao.nnnidiomasbc@gmail.com",
     banner: "banners/knk.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Atendente ed Vendas",
+    empresa: "Granarium",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Vendas na Granarium, loja de alimentos naturais em Londrina (conforme código de área 43), com salário a partir de R$ 2.350,00 e vale-transporte.",
+    descricaoModal:"Requisitos: Ensino médio completo ou superior; experiência prévia com trabalhos em estabelecimentos comerciais, principalmente como atendente e caixa; desejável formação escolar na área de alimentos, nutrição ou relacionados.",
+    whatsapp: "5543988534200",
+    email: "granarium.alimentos@gmail.com",
+    banner: "banners/verde.jpeg"
+  },
 
   
   
