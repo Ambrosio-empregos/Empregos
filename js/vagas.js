@@ -13035,6 +13035,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/lembro.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Chapeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã",
+    descricaoModal:"Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã. Envie seu currículo",
+    whatsapp: "5543999706423",
+    email: "",
+    banner: "banners/apost.jpeg"
+  },
  
 
   
