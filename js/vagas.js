@@ -12727,6 +12727,28 @@ const vagas = [
     email: "",
     banner: "banners/todos.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Líder de Área",
+    empresa: "Live Onde",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Líder de Área na Live One em Londrina (conforme código de área 43), atuando em lojas de varejo com serviços da operadora Claro e oferecendo diversos benefícios, incluindo ajuda de custo para veículo.",
+    descricaoModal:"Atividades: Atuar em lojas do varejo vendendo serviços da operadora Claro. Requisitos: Ensino Médio completo; possuir experiências anteriores com vendas; ter carro e habilitação categoria B; ser maior de 18 anos e possuir documentação completa; habilidade para uso de ferramentas digitais.",
+    whatsapp: "5543988631633",
+    email: "",
+    banner: "banners/live.jpeg"
+  },
+  {
+    data: "2026-02-04",
+    titulo: "Professor de Inglês",
+    empresa: "KNN",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Professor de Inglês na KNN Idiomas em Balneário Camboriú (conforme indicado no e-mail de contato), convidando profissionais a integrarem a equipe da unidade.",
+    descricaoModal:"Informações da vaga: Oportunidade para atuar como Professor de Inglês. Localização: Balneário Camboriú (conforme referência bc no e-mail). Empresa: KNN Idiomas.",
+    whatsapp: "",
+    email: "recepcao.nnnidiomasbc@gmail.com",
+    banner: "banners/knn.jpeg"
+  },
 
   
   
