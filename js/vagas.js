@@ -12870,6 +12870,17 @@ const vagas = [
     email: "",
     banner: "banners/indi.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Estagiário em Engenharia Mecâncica",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Estagiário em Engenharia Mecâncica em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/meco.jpeg"
+  },
  
 
   
