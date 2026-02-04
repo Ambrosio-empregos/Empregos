@@ -12804,6 +12804,17 @@ const vagas = [
     email: "",
     banner: "banners/leo.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Pintor",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Pintor em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/fraseri.jpeg"
+  },
 
   
   
