@@ -12683,6 +12683,17 @@ const vagas = [
     email: "rhdilato@gmail.com",
     banner: "banners/vem.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Auxiliar Operacional",
+    empresa: "Ello RH",
+    cidade: "Londrina",
+    descricao: "Oportunidade com início imediato para Auxiliar Operacional em Londrina pela Ello RH, sem exigência de experiência e com disponibilidade para viagens e trabalho noturno.",
+    descricaoModal:"Atividades: Realizar contagem de mercadorias em lojas, mercados e farmácias. Requisitos: Ser maior de 18 anos; disponibilidade para trabalhar à noite; estar disposto(a) a fazer viagens pela região; não precisa ter experiência (oferecem treinamento).",
+    whatsapp: "5545999766238",
+    email: "",
+    banner: "banners/todo.jpeg"
+  },
   
 
   
