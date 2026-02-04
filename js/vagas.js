@@ -12639,6 +12639,17 @@ const vagas = [
     email: "",
     banner: "banners/iuventus.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Balconista",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Balconista em conceituada empresa do ramo de padaria em Londrina (conforme código de área 43), oferecendo ótimo salário e benefícios.",
+    descricaoModal:"Informações da vaga: Trabalho inclusive aos sábados, domingos e feriados. Oferecemos: Ótimo salário e benefícios.",
+    whatsapp: "5543991077677",
+    email: "",
+    banner: "banners/trans.jpeg"
+  },
   
 
   
