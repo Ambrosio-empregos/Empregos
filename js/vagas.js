@@ -13037,14 +13037,14 @@ const vagas = [
   },
   {
     data: "2026-02-04",
-    titulo: "Chapeiro",
-    empresa: "",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Montana Grill",
     cidade: "Londrina",
-    descricao: "Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã",
-    descricaoModal:"Oportuidade para trabalhar em padaria como Chapeiro no peródo da manhã. Envie seu currículo",
-    whatsapp: "5543999706423",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Restaurante Montana Grill do Shopping Catuaí Londrina, com salário de R$ 2.100,00 e escala de shopping.",
+    descricaoModal:"Atividades: Auxiliar no preparo dos alimentos; organização e limpeza da cozinha; higienização de utensílios e alimentos; apoio geral à equipe de cozinha; manter o padrão de qualidade e segurança alimentar.",
+    whatsapp: "5543991360642",
     email: "",
-    banner: "banners/apost.jpeg"
+    banner: "banners/azulb.jpeg"
   },
  
 
