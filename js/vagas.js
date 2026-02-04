@@ -12914,6 +12914,17 @@ const vagas = [
     email: "",
     banner: "banners/toto.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Costureira de Ajustes",
+    empresa: "Fernanda nabhan",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Costureira de Ajustes na Fernanda Nabhan em Londrina (conforme código de área 43), com média salarial de R$ 3.000,00 mais benefícios para profissionais com experiência.",
+    descricaoModal:"Requisitos: Profissional com experiência na função de ajustes; voltada para quem ama moda e deseja integrar a equipe.",
+    whatsapp: "5543996524600",
+    email: "",
+    banner: "banners/dama.jpeg"
+  },
  
 
   
