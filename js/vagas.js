@@ -12595,6 +12595,17 @@ const vagas = [
     email: "falantegrilo2021@gmail.com",
     banner: "banners/juju.jpeg"
   },
+  {
+    data: "2026-02-04", 
+    titulo: "Consultor(A) de Vendas",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de Vendas na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 4.000,00 e R$ 5.000,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/carro.jpeg"
+  },
   
 
   
