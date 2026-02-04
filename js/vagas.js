@@ -12958,6 +12958,28 @@ const vagas = [
     email: "rh@personalitycontabilidade.com.br",
     banner: "banners/rhd.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Auxiliar de Departamento Fiscal",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Departamento Fiscal na Personality Contabilidade, voltada para estudantes de graduação em contabilidade, economia, administração ou direito.",
+    descricaoModal:"Formação Requerida: Graduandos em Contabilidade, Economia, Administração, Direito e áreas afins.",
+    whatsapp: "",
+    email: "rh@personalitycontabilidade.com.br",
+    banner: "banners/anadpo.jpeg"
+  },
+   {
+    data: "2026-02-04", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas com ganhos mensais acima de R$ 3.000,00, dependendo do desempenho, e treinamentos de capacitação inclusos.",
+    descricaoModal:"Requisitos: Pode possuir ou não experiência prévia; necessária disponibilidade de horário comercial; ter experiência em redes sociais. Oferece: Treinamentos de capacitação; ajuda de custo para locomoção; comissionamento justo; oportunidades de crescimento; ganhos mensais acima de R$ 3.000,00 conforme desempenho.",
+    whatsapp: "5541996263920",
+    email: "",
+    banner: "banners/gra.jpeg"
+  },
  
 
   
