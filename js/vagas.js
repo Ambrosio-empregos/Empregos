@@ -12848,6 +12848,17 @@ const vagas = [
     email: "",
     banner: "banners/mont.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Promotor de Vendas Internas",
+    empresa: "Claro",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Promotor(a) de Vendas Internas em Maringá/PR pela Live One, representando a Claro em lojas de varejo com salário de até R$ 1.911,00 após o terceiro mês e premiações.",
+    descricaoModal:"O que esperamos de você: Paixão por vendas e negociações; oferecer suporte a lojistas e clientes; vontade de crescimento.",
+    whatsapp: "5543988115636",
+    email: "",
+    banner: "banners/claro.jpeg"
+  },
 
   
   
