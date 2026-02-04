@@ -12650,6 +12650,17 @@ const vagas = [
     email: "",
     banner: "banners/trans.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Auxiliar Contábil",
+    empresa: "Aprimorato",
+    cidade: "Maringá",
+    descricao: "Vaga para Auxiiar Contábil em Maringá-PR exigindo ensino superior em Ciências Contábeis.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5544988232992",
+    email: "",
+    banner: "banners/nali.jpeg"
+  },
   
 
   
