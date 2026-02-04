@@ -12749,6 +12749,17 @@ const vagas = [
     email: "recepcao.nnnidiomasbc@gmail.com",
     banner: "banners/knn.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Consultor Comercial",
+    empresa: "KNN",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor Comercial na KNN Idiomas em Balneário Camboriú (conforme indicado no e-mail de contato), convidando profissionais a integrarem a equipe da unidade.",
+    descricaoModal:"Informações da vaga: Oportunidade para atuar como Consultor Comercial. Localização: Balneário Camboriú (conforme referência bc no e-mail). Empresa: KNN Idiomas.",
+    whatsapp: "",
+    email: "recepcao.nnnidiomasbc@gmail.com",
+    banner: "banners/knk.jpeg"
+  },
 
   
   
