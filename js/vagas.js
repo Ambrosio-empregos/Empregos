@@ -13013,6 +13013,17 @@ const vagas = [
     email: "",
     banner: "banners/54.jpeg"
   },
+  {
+    data: "2026-02-04", 
+    titulo: "Consultora Comercial",
+    empresa: "Unopar",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de E-commerce na Homeney Acabamentos em Londrina, com salário de R$ 2.040,00, bônus por desempenho e benefícios como Wellhub Gympass e auxílio alimentação.",
+    descricaoModal:"Responsabilidades: Responder perguntas de clientes em marketplaces; acompanhar fluxo de pedidos no ERP; auxiliar clientes em dúvidas; criar e cuidar de anúncios; atualizar tabelas de preços e integrações; abertura de tickets de suporte com ERP e marketplaces.",
+    whatsapp: "5511996422299",
+    email: "",
+    banner: "banners/unopar.jpeg"
+  },
  
 
   
