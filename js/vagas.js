@@ -12892,6 +12892,17 @@ const vagas = [
     email: "",
     banner: "banners/rosin.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Assistente de Cadastros",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente de Cadastros em Curitiba ou Região Metropolitana (conforme código de área 41), com rendimentos a partir de R$ 2.000,00 e plano de carreira estabelecido.",
+    descricaoModal:"Requisitos: Boa comunicação; organização e responsabilidade; experiência com vendas será um diferencial; idade entre 18 a 30 anos.",
+    whatsapp: "5541987109025",
+    email: "",
+    banner: "banners/cadu.jpeg"
+  },
  
 
   
