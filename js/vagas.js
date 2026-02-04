@@ -12837,6 +12837,17 @@ const vagas = [
     email: "",
     banner: "banners/sold.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Montador",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para montador em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/mont.jpeg"
+  },
 
   
   
