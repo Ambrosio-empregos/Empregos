@@ -12815,6 +12815,28 @@ const vagas = [
     email: "",
     banner: "banners/fraseri.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Operador de CNC a Laser",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Operador de CNC a Laser em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/cnc.jpeg"
+  },
+  {
+    data: "2026-02-04",
+    titulo: "Soldador",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Soldador em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/sold.jpeg"
+  },
 
   
   
