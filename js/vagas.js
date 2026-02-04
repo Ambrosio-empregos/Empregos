@@ -12672,6 +12672,17 @@ const vagas = [
     email: "",
     banner: "banners/cavalo.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Atendente de Balcão",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Atendente de Balcão na Dilato em Maringá, com foco em atendimento cordial, organização de produtos e manutenção do ambiente.",
+    descricaoModal:"O que você vai fazer: Atender clientes com atenção e cordialidade; organizar e repor os produtos no balcão; manter o espaço sempre limpo e agradável.",
+    whatsapp: "",
+    email: "rhdilato@gmail.com",
+    banner: "ban/ners/vem.jpeg"
+  },
   
 
   
