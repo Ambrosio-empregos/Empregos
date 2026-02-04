@@ -12716,7 +12716,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/past.jpeg"
   },
-  
+   {
+    data: "2026-02-04",
+    titulo: "Agente de Atendimento",
+    empresa: "Cartão de Todos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Agente de Atendimento no Cartão de TODOS em Londrina (conforme código de área 43), para profissionais com ensino médio completo e boa habilidade em negociação.",
+    descricaoModal:"Requisitos: Ensino médio completo; boa comunicação verbal; facilidade em negociação e argumentação; experiência com cobrança será um diferencial.",
+    whatsapp: "5543988163244",
+    email: "",
+    banner: "banners/todos.jpeg"
+  },
 
   
   
