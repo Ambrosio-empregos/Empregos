@@ -12859,6 +12859,17 @@ const vagas = [
     email: "",
     banner: "banners/claro.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Projetista Industrial",
+    empresa: "Maxon",
+    cidade: "Rolândia",
+    descricao: "Oportunidade para Projetista Industrial em Rolândia/PR",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991469008",
+    email: "",
+    banner: "banners/indi.jpeg"
+  },
 
   
   
