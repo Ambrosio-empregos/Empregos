@@ -12991,6 +12991,28 @@ const vagas = [
     email: "",
     banner: "banners/olhei.jpeg"
   },
+  {
+    data: "2026-02-04", 
+    titulo: "Atendente",
+    empresa: "Baudelaire Cookies",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Atendente na Baudelaire Cookies em Londrina, com jornada de segunda a sábado em horário comercial.",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "",
+    email: "baudelairecookieslondrina@gmail.com",
+    banner: "banners/laire.jpeg"
+  },
+   {
+    data: "2026-02-04",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "empresa não identificada",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor(a) de Vendas no Centro de Itajaí, com salário de até R$ 2.500,00 e ajuda de custo mensal.",
+    descricaoModal:"Requisitos: Salário de até R$ 2.500,00; horário de segunda a sexta; ser resiliente e organizado; saber trabalhar com metas. Informações Adicionais: Oferece ajuda de custo de R$ 500,00 mensal; oportunidade voltada para pessoas comunicativas que gostam de desafios e buscam crescimento profissional. Localização: Centro de Itajaí.",
+    whatsapp: "5547997268654",
+    email: "",
+    banner: "banners/54.jpeg"
+  },
  
 
   
