@@ -12771,6 +12771,17 @@ const vagas = [
     email: "granarium.alimentos@gmail.com",
     banner: "banners/verde.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor de Consórcio em Londrina (conforme código de área 43), oferecendo comissões acima da média, premiações e treinamentos para crescimento profissional.",
+    descricaoModal:"Diferencial: Experiência anterior com consórcio será considerada um diferencial. Oferecemos: Comissão acima da média; premiações e bônus; treinamentos e oportunidade de crescimento. Localização: Londrina (conforme código 43).",
+    whatsapp: "5543988704587",
+    email: "",
+    banner: "banners/lally.jpeg"
+  },
 
   
   
