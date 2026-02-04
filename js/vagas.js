@@ -12782,6 +12782,28 @@ const vagas = [
     email: "",
     banner: "banners/lally.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Vendedor",
+    empresa: "ARTWALK",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Artwalk do Shopping Catuaí Londrina, voltada para profissionais que curtem o lifestyle esportivo e possuem disponibilidade de horário.",
+    descricaoModal:"Requisitos: Ser maior de 18 anos; ensino médio completo; ter disponibilidade de horário. Perfil: Candidatos que se identifiquem com o lifestyle esportivo. Localização: Shopping Catuaí Londrina. Empresa: Artwalk.",
+    whatsapp: "5543999039319",
+    email: "",
+    banner: "banners/art.jpeg"
+  },
+   {
+    data: "2026-02-04",
+    titulo: "Conferente com ou sem experiência",
+    empresa: "Fortz",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Conferente na Fortz Distribuidora de Elétricos e Hidráulicos em Londrina (conforme código de área 43), disponível para candidatos com ou sem experiência.",
+    descricaoModal:"Informações da vaga: Oportunidade para o cargo de Conferente; aceita-se candidatos com ou sem experiência prévia. Localização: Londrina (conforme código 43). Empresa: Fortz - Distribuidora de Elétricos e Hidráulicos.",
+    whatsapp: "5543996893150",
+    email: "",
+    banner: "banners/leo.jpeg"
+  },
 
   
   
