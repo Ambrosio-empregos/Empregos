@@ -13024,6 +13024,17 @@ const vagas = [
     email: "",
     banner: "banners/unopar.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Estágio de Administração",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "Oportunidade de estágio em administração para atuar em loja de móveis de alto padrão, oferecendo bolsa de R$ 1.200,00 e jornada de 6 horas diárias.",
+    descricaoModal:"Descrição: Realizar lançamentos no sistema de pedidos de clientes e fornecedores, contas a pagar e receber, além de entradas e saídas de mercadoria; colaborar na implantação do sistema da loja (loja de móveis de alto padrão).",
+    whatsapp: "",
+    email: "contato@principiurh.com.br",
+    banner: "banners/lembro.jpeg"
+  },
  
 
   
