@@ -12870,17 +12870,7 @@ const vagas = [
     email: "",
     banner: "banners/indi.jpeg"
   },
-   {
-    data: "2026-02-04",
-    titulo: "Porteiro",
-    empresa: "",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Porteiro em Londrina (conforme código de área 43), com início imediato, exigindo experiência em condomínio e oferecendo salário de R$ 2.415,00 mais benefícios.",
-    descricaoModal:"Requisitos: Precisa ter experiência em condomínio. Benefícios e Informações: Salário de R$ 2.415,00; vale alimentação de R$ 900,00; assiduidade; vale transporte.",
-    whatsapp: "5543991597030",
-    email: "",
-    banner: "banners/chuta.jpeg"
-  },
+ 
 
   
   
