@@ -12925,6 +12925,17 @@ const vagas = [
     email: "",
     banner: "banners/dama.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Telemarketing",
+    empresa: "Negoci.IA",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Telemarketing na Negocia Sales Group em Maringá (conforme código de área 44), com trabalho de segunda a sexta-feira e diversos benefícios, incluindo plano de saúde.",
+    descricaoModal:"Informações da vaga: Atuação na área de Telemarketing. Horário: De segunda a sexta-feira, das 08:45 às 17:30. Benefícios: Salário; vale-alimentação de R$ 20,00 por dia trabalhado; vale-transporte ou ajuda de custo;",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/cia.jpeg"
+  },
  
 
   
