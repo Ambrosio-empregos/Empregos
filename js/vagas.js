@@ -12617,6 +12617,17 @@ const vagas = [
     email: "altenburglda@grupoac.nte",
     banner: "banners/burg.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "vagas para EMPREENDEDORAS",
+    empresa: "Incrível Sotre/romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando! Revenda moda fitness e lingerie no sistema de consignado, sem necessidade de investimento inicial.",
+    descricaoModal:"Informações da Vaga: Seja uma revendedora Romance Favorita e Invencível Store. Oferecemos sistema de consignado (você só paga o que vender) e não é necessário investimento inicial para começar. Ideal para quem busca autonomia e faturamento imediato em 2026.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/dora.jpeg"
+  },
   
 
   
