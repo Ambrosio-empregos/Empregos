@@ -12881,6 +12881,17 @@ const vagas = [
     email: "",
     banner: "banners/meco.jpeg"
   },
+   {
+    data: "2026-02-04",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Pet Pure",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha na Pet Pure em Londrina (conforme código de área 43), atuando na produção de alimentação natural para cães e gatos com salário de R$ 2.040,00.",
+    descricaoModal:"Requisitos: Experiência na função. Atividades: Produção de alimentação natural para cães e gatos. Benefícios e Informações: Salário de R$ 2.040,00; vale transporte; bonificação.",
+    whatsapp: "5543996533847",
+    email: "",
+    banner: "banners/rosin.jpeg"
+  },
  
 
   
