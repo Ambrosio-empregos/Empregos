@@ -13112,6 +13112,17 @@ const vagas = [
     email: "",
     banner: "banners/corpos.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Auxiliar De Vendas",
+    empresa: "Provincia",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Vendas na Província Marcas e Patentes em Maringá, com trabalho de segunda a sexta-feira, oferecendo treinamento especializado e bonificações por desempenho.",
+    descricaoModal:"O que buscamos: Boa comunicação e proatividade; vontade de aprender e crescer; facilidade em liderar, tomar decisões e habilidade para motivar.",
+    whatsapp: "5544999350022",
+    email: "maringa@provinciamarcas.com.br",
+    banner: "banners/axi.jpeg"
+  },
  
 
   
