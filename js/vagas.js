@@ -13321,6 +13321,17 @@ const vagas = [
     email: "",
     banner: "banners/acesso.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Operador de Caixa",
+    empresa: "Farmácias São Paulo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador de Caixa nas Farmácias São Paulo em Maringá (conforme código de área 44), sem exigência de experiência e com diversos benefícios",
+    descricaoModal:"Requisitos: Não precisa de experiência. Benefícios: Planos de saúde e odontológico coparticipativo; Wellhub (Gympass) para desconto em academias; eventos comemorativos e premiações durante o ano; descontos em faculdades, escolas e medicamentos.",
+    whatsapp: "5544991313269",
+    email: "",
+    banner: "banners/saop.jpeg"
+  },
  
 
   
