@@ -13396,7 +13396,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência mínima de seis meses; ensino médio completo; habilidades de comunicação; espírito de equipe; conhecimento de higiene alimentar.",
     whatsapp: "5543999911711",
     email: "",
-    banner: "banners/fire.jpg"
+    banner: "banners/fire.jpeg"
   },
  
 
