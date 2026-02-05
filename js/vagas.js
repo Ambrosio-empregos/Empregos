@@ -13442,9 +13442,20 @@ const vagas = [
     email: "",
     banner: "banners/rapa.jpeg"
   },
+   {
+    data: "2026-01-14", 
+    titulo: "Auxiliar de Produção",
+    empresa: "Homeney",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção na Homeney Acabamentos em Londrina, com salário de R$ 2.040,00 e diversos benefícios, incluindo Gympass e premiação por metas",
+    descricaoModal:"Atividades: Manusear perfis de alumínio; realizar montagem de acessórios; separar, contar e conferir materiais; executar Ordens de Produção (OP); realizar etiquetagem e auxiliar na organização do estoque",
+    whatsapp: "5543984039934",
+    email: "",
+    banner: "banners/lana.jpeg"
+  },
  
 
 
-  
+
 ];
     
