@@ -13189,6 +13189,17 @@ const vagas = [
     email: "",
     banner: "banners/vagas.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Recepcionista/Atendente",
+    empresa: "Net Digital",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista/Atendente na Netdigital Telecomunicações em Cambé/PR, oferecendo salário acima da média e vale refeição superior a R$ 700,00.",
+    descricaoModal:"Requisitos: Experiência em atendimento ao público; ensino médio completo; boa comunicação; bom relacionamento interpessoal; proatividade; informática básica; organização, planejamento e disciplina.",
+    whatsapp: "5543976025528",
+    email: "",
+    banner: "banners/cambo.jpeg"
+  },
  
 
   
