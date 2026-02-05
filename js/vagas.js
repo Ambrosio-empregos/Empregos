@@ -13530,6 +13530,17 @@ const vagas = [
     email: "",
     banner: "banners/esva.jpeg"
   },
+   {
+    data: "2026-02-05", 
+    titulo: "Rebobinador de Motores",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Rebobinador de Motores para trabalhar com compressores de refrigeração, com salário a combinar e jornada de segunda a sexta-feira.",
+    descricaoModal:"Informações Adicionais: Contratação para trabalho com compressores de refrigeração; salário a combinar. Horário de expediente: Segunda-feira a sexta-feira, das 07:00 às 17:00, com intervalo das 11:45 às 13:00.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/rebobi.jpeg"
+  },
  
 
 
