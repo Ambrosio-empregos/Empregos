@@ -13266,6 +13266,17 @@ const vagas = [
     email: "",
     banner: "banners/bro.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Atendente de Padaria",
+    empresa: "Posto Malassise",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Padaria no Posto e Conveniência Malassise em Londrina, com local de trabalho situado na Rua Araguaia.",
+    descricaoModal:"Informações da Vaga: Atuação como Atendente de Padaria. Localização: Rua Araguaia, 345, Londrina. Empresa: Posto e Conveniência Malassise.",
+    whatsapp: "5543996660302",
+    email: "",
+    banner: "banners/pau.jpeg"
+  },
  
 
   
