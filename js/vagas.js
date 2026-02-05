@@ -13563,6 +13563,17 @@ const vagas = [
     email: "juliano.filho@gprcargo.com.br",
     banner: "banners/gpr.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Ajudante de Motorista",
+    empresa: "Geep",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Motorista na Geep Transportes em Cambé/PR, com piso salarial de R$ 1.958,81 e benefícios como plano de saúde e seguro de vida.",
+    descricaoModal:"Requisitos: Experiência com carga e descarga, caixas e móveis; disponibilidade de horário; agilidade, organização e facilidade em trabalho em equipe; comprometimento e responsabilidade",
+    whatsapp: "",
+    email: "",
+    banner: "banners/geep.jpeg"
+  },
  
 
 
