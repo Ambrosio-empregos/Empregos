@@ -13222,6 +13222,17 @@ const vagas = [
     email: "",
     banner: "banners/barraa.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Net Digital",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar Administrativo na Netdigital Telecomunicações em Cambé/PR, com salário acima da média, vale refeição superior a R$ 700,00 e jornada que inclui sábados.",
+    descricaoModal:"Requisitos: Experiência na função; conhecimento em sistemas informatizados (Word e Excel); informática básica; ensino médio completo; organização, planejamento, disciplina e proatividade.",
+    whatsapp: "5543976025528",
+    email: "",
+    banner: "banners/marc.jpeg"
+  },
  
 
   
