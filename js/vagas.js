@@ -13409,6 +13409,17 @@ const vagas = [
     email: "",
     banner: "banners/campe.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Instrutor de Treinamento em Costura",
+    empresa: "Atuação em Presídio",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Instrutor de Treinamento em Costura em Itajaí, exigindo ensino médio completo, CNH categoria B e experiência no setor.",
+    descricaoModal:"Requisitos: Experiência no setor de costura; ensino médio completo; CNH categoria B. Horário: Disponibilidade para atuar em horário comercial, das 7h30 às 18h. Localização: Itajaí.",
+    whatsapp: "5547984076945",
+    email: "",
+    banner: "banners/presi.jpeg"
+  },
  
 
   
