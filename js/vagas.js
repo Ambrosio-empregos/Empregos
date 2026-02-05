@@ -13365,6 +13365,17 @@ const vagas = [
     email: "",
     banner: "banners/jona.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Soldador de MIG",
+    empresa: "JL Truck Laser",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Soldador de MIG na JL Truck Laser em Londrina (conforme código de área 43), para atuação em oficina de caminhões com jornada de segunda a sexta-feira.",
+    descricaoModal:"Informações da Vaga: Atuação em oficina de caminhões. Horário: Segunda a sexta, das 08:00 às 18:00. Localização: Londrina (conforme código 43). Empresa: JL Truck Laser.",
+    whatsapp: "5543996227608",
+    email: "",
+    banner: "banners/solda.jpeg"
+  },
  
 
   
