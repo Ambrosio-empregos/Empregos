@@ -13057,6 +13057,17 @@ const vagas = [
     email: "",
     banner: "banners/redc.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Consultora de Vendas",
+    empresa: "LEZ a LEZ",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultora de Vendas na Lez a Lez do Shopping Catuaí Londrina, voltada para profissionais com experiência indispensável em moda feminina.",
+    descricaoModal:"Requisitos: Indispensável experiência com moda feminina. Perfil: Candidatas que se identifiquem com a marca e acreditem que cada pessoa é única.",
+    whatsapp: "",
+    email: "londrina.catuaishopping.g@lezalez.com",
+    banner: "banners/hale.jpeg"
+  },
  
 
   
