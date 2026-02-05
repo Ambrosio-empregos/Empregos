@@ -13574,6 +13574,17 @@ const vagas = [
     email: "",
     banner: "banners/geep.jpeg"
   },
+  {
+    data: "2026-02-05", 
+    titulo: "Atendente",
+    empresa: "Hera - Café Saudável",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; Oportunidade para Atendente no Hera Café Saudável, com jornada de terça a sábado e diversos benefícios como seguro de vida e desconto em consumo.",
+    descricaoModal:"Benefícios: Salário; vale-transporte; vale-alimentação; seguro de vida; desconto em consumo na cafeteria.",
+    whatsapp: "",
+    email: "heracafesaudavel@gmail.com",
+    banner: "banners/mixf.jpeg"
+  },
  
 
 
