@@ -13519,6 +13519,17 @@ const vagas = [
     email: "",
     banner: "banners/torn.jpeg"
   },
+  {
+    data: "2026-02-05", 
+    titulo: "Operador /Preparador - CNC",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Operador / Preparador de torno CNC com experiência comprovada, atuando em horário comercial de segunda a sexta-feira.",
+    descricaoModal:"Descrição: Contratação de operador / preparador de torno CNC com experiência comprovada. Horário de Expediente: Segunda a sexta-feira, das 07:00 às 17:00, com intervalo das 11:45 às 13:00.",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/esva.jpeg"
+  },
  
 
 
