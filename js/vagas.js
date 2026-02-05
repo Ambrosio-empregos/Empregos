@@ -13484,7 +13484,7 @@ const vagas = [
     descricaoModal:"Requisitos e Benefícios: Buscamos pessoas comprometidas, comunicativas e dispostas a aprender (homens ou mulheres acima de 18 anos). Oferecemos ganhos acima da média, flexibilidade de horário, treinamento diário e oportunidade de crescimento. Local: Rua Paranaguá, nº 1266.",
     whatsapp: "554333243090",
     email: "",
-    banner: "banners/ale.jpeg"
+    banner: "banners/bag.jpeg"
   },
  
 
