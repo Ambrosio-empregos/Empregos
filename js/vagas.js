@@ -13354,6 +13354,17 @@ const vagas = [
     email: "",
     banner: "banners/cosst.jpeg"
   },
+  {
+    data: "2026-01-30",
+    titulo: "Limpador de Vidros",
+    empresa: "Conecta",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Limpador de Vidros em Balneário Camboriú/SC",
+    descricaoModal:"Envie seu curriculo",
+    whatsapp: "5547988401102",
+    email: "",
+    banner: "banners/jona.jpeg"
+  },
  
 
   
