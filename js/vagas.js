@@ -13145,6 +13145,17 @@ const vagas = [
     email: "curriculo@helpmultas.com",
     banner: "banners/help.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Conferente de Cargas",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Conferente de Cargas em Londrina (conforme código de área 43), com salário bruto de R$ 2.138,38 e diversos benefícios, incluindo Gympass e prêmio assiduidade.",
+    descricaoModal:"Benefícios e Informações: Salário bruto de R$ 2.138,38; vale alimentação de R$ 30,00 por dia útil trabalhado (com desconto de 20% em folha pelo PAT); prêmio assiduidade em cesta básica; t",
+    whatsapp: "554333051730",
+    email: "",
+    banner: "banners/cofe.jpeg"
+  },
  
 
   
