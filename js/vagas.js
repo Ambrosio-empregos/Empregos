@@ -13255,6 +13255,17 @@ const vagas = [
     email: "",
     banner: "banners/django.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha na Hamburgueria Django em Londrina (conforme código de área 43), com salário de R$ 1.980,00 e escala 6x1 no período noturno.",
+    descricaoModal:"Requisitos: Necessário ter experiência em cozinha; buscamos pessoas responsáveis, comprometidas e com agilidade para trabalhar em hamburgueria",
+    whatsapp: "554333675077",
+    email: "",
+    banner: "banners/bro.jpeg"
+  },
  
 
   
