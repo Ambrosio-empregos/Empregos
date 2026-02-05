@@ -13398,6 +13398,17 @@ const vagas = [
     email: "",
     banner: "banners/fire.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Balconista Feminino",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Balconista de Padaria feminina na Panificadora Family, no calçadão de Londrina, voltada para candidatas acima de 25 anos e com escala 6x1.",
+    descricaoModal:"Requisitos: Sexo feminino; idade acima de 25 anos; preferência por candidatas com experiência em atendimento ao público.",
+    whatsapp: "5543999386310",
+    email: "",
+    banner: "banners/campe.jpeg"
+  },
  
 
   
