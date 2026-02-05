@@ -13123,6 +13123,17 @@ const vagas = [
     email: "maringa@provinciamarcas.com.br",
     banner: "banners/axi.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Serviços Gerais",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para profissional feminina de Serviços Gerais em condomínio residencial, com jornada de meio período (manhã) e remuneração total de R$ 1.800,00.",
+    descricaoModal:"Informações da Vaga: Atuação em condomínio residencial sem portaria, sendo a única pessoa no local; regime CLT. Atividades: Limpeza do salão de festas, hall de entrada, garagens, elevador e escadarias.",
+    whatsapp: "5547996503412",
+    email: "",
+    banner: "banners/bombo.jpeg"
+  },
  
 
   
