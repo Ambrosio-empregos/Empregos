@@ -13355,7 +13355,7 @@ const vagas = [
     banner: "banners/cosst.jpeg"
   },
   {
-    data: "2026-01-30",
+    data: "2026-02-05",
     titulo: "Limpador de Vidros",
     empresa: "Conecta",
     cidade: "Balneário Camboriú",
