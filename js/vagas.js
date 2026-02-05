@@ -13552,6 +13552,17 @@ const vagas = [
     email: "",
     banner: "banners/exalo.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Auxiliar de Armazén",
+    empresa: "GPR",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Armazém em Londrina com salário de R$ 2.138,38 e diversos benefícios, incluindo vale alimentação, bônus por desempenho e plano de saúde.",
+    descricaoModal:"Atividades: Separação de mercadoria conforme romaneio; utilização de aplicativo no celular corporativo para separação; conferência física dos produtos; docagem de material conforme indicações do conferente; descarga e carregamento de veículos; operar empilhadeira quando necessário (movimentar palete, carga e descarga).",
+    whatsapp: "",
+    email: "juliano.filho@gprcargo.com.br",
+    banner: "banners/gpr.jpeg"
+  },
  
 
 
