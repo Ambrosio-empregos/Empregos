@@ -13233,6 +13233,17 @@ const vagas = [
     email: "",
     banner: "banners/marc.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Auxiliar Administrativo",
+    empresa: "WMOTORS",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo na WMOTORS Multimarcas em Londrina (conforme código de área 43), exigindo experiência específica em mídias sociais.",
+    descricaoModal:"Requisitos: Experiência comprovada com mídias sociais. Localização: Av. Waldemar Spranger, 285, Londrina (conforme código 43). Empresa: WMOTORS Multimarcas.",
+    whatsapp: "5543988111947",
+    email: "wmotorsmultimarcas@gmail.com",
+    banner: "banners/meu.jpeg"
+  },
  
 
   
