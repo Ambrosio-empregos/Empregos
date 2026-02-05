@@ -13541,6 +13541,17 @@ const vagas = [
     email: "",
     banner: "banners/rebobi.jpeg"
   },
+  {
+    data: "2026-02-05", 
+    titulo: "Auxiliar de Limpeza Industrial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Limpeza Industrial",
+    descricaoModal:"Oportunidade para Auxiliar de Limpeza Industrial. Envie seu currículo",
+    whatsapp: "5543999298447",
+    email: "",
+    banner: "banners/exalo.jpeg"
+  },
  
 
 
