@@ -13332,6 +13332,28 @@ const vagas = [
     email: "",
     banner: "banners/saop.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Passadeira",
+    empresa: "Dedicar Confecções",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Passadeira na Dedicar Confecções, com foco em acabamento de peças de vestuário.",
+    descricaoModal:"Cargo: Passadeira. Empresa: Dedicar Confecções.",
+    whatsapp: "554332535209",
+    email: "",
+    banner: "banners/passa.jpeg"
+  },
+  {
+    data: "2026-02-05",
+    titulo: "Costureira",
+    empresa: "Dedicar Confecções",
+    cidade: "Londrina",
+    descricao: "Oportunidade para costureira na Dedicar Confecções, com foco em acabamento de peças de vestuário.",
+    descricaoModal:"Cargo: Costureira. Empresa: Dedicar Confecções.",
+    whatsapp: "554332535209",
+    email: "",
+    banner: "banners/cosst.jpeg"
+  },
  
 
   
