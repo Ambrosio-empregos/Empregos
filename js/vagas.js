@@ -13443,7 +13443,7 @@ const vagas = [
     banner: "banners/rapa.jpeg"
   },
    {
-    data: "2026-01-14", 
+    data: "2026-02-05", 
     titulo: "Auxiliar de Produção",
     empresa: "Homeney",
     cidade: "Londrina",
