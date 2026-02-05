@@ -13486,6 +13486,17 @@ const vagas = [
     email: "",
     banner: "banners/bag.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Auxiliar Geral de Limpeza",
+    empresa: "DOm Rocha",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Geral de Limpeza na Dom Rocha em Londrina, oferecendo salário mais benefícios sem descontos em holerite e jornada que inclui domingos.",
+    descricaoModal:"Benefícios e Informações: Salário + benefícios; vale transporte; cartão alimentação/refeição; plano de saúde e plano odontológico; os benefícios não são descontados do holerite",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/duda.jpeg"
+  },
  
 
 
