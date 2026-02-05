@@ -13585,6 +13585,17 @@ const vagas = [
     email: "heracafesaudavel@gmail.com",
     banner: "banners/mixf.jpeg"
   },
+   {
+    data: "2026-02-05", 
+    titulo: "Impressor OFF",
+    empresa: "Hera - Café Saudável",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Impressor Off Set 4 Cores (modelo Roland 204) em Londrina (conforme código de área 43), destinada a profissionais com experiência comprovada na função",
+    descricaoModal:"Requisitos: Experiência na operação de máquinas Off Set de 4 cores, especificamente o modelo Roland 204. Localização: Londrina (conforme código 43).",
+    whatsapp: "5543999915026",
+    email: "",
+    banner: "banners/impre.jpeg"
+  },
  
 
 
