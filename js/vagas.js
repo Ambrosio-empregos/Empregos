@@ -13431,6 +13431,17 @@ const vagas = [
     email: "vagas@remateweb.com",
     banner: "banners/web.jpeg"
   },
+   {
+    data: "2026-02-05", 
+    titulo: "Mecânico de Veículos",
+    empresa: "Auto Center",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico de Veículos na Loja dos Pneus Auto Center em Londrina (conforme código de área 43), exigindo experiência comprovada em mecânica geral.",
+    descricaoModal:"Requisitos: Experiência em mecânica geral. Localização: Londrina (conforme código 43). Empresa: Loja dos Pneus Auto Center.",
+    whatsapp: "5543984040678",
+    email: "",
+    banner: "banners/rapa.jpeg"
+  },
  
 
   
