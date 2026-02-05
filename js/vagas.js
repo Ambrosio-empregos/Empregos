@@ -13453,6 +13453,28 @@ const vagas = [
     email: "",
     banner: "banners/lana.jpeg"
   },
+  {
+    data: "2026-02-05", 
+    titulo: "Atendente de Sorveteria",
+    empresa: "Gelaboca",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Sorveteria na Gelaboca da Duque em Londrina, exigindo disponibilidade para trabalhar aos finais de semana e ensino médio completo ou cursando.",
+    descricaoModal:"Requisitos e Habilidades: Escolaridade ensino médio completo ou cursando; disponibilidade de dias e horários (inclusive finais de semana); habilidades em comunicação, produtividade, organização, limpeza, comprometimento, agilidade e aprendizado.",
+    whatsapp: "5543998028432",
+    email: "",
+    banner: "banners/pinkona.jpeg"
+  },
+  {
+    data: "2026-02-05", 
+    titulo: "Atendente de Restaurante",
+    empresa: "Popeyes",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Restaurante na Popeyes Louisiana Kitchen, com salário de R$ 2.100,00 e benefícios como participação nos lucros e bônus mensal",
+    descricaoModal:"Funções: Atendimento em balcão, totens e drive-thru; realização de pedidos; auxílio na montagem de bandejas e organização do ambiente.",
+    whatsapp: "5541996439017",
+    email: "",
+    banner: "banners/zamp.jpeg"
+  },
  
 
 
