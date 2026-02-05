@@ -13211,6 +13211,17 @@ const vagas = [
     email: "",
     banner: "banners/barra.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Auxiliar Técnico (Externo)",
+    empresa: "Net Digital",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar Técnico Externo na Netdigital Telecomunicações em Cambé/PR, com salário acima da média acrescido de comissão e vale refeição superior a R$ 700,00",
+    descricaoModal:"Requisitos: Possuir CNH categoria B; informática básica; ensino médio completo. Benefícios e Informações: Salário acima da média + comissão; vale transporte; vale refeição acima de R$ 700,00.",
+    whatsapp: "5543976025528",
+    email: "",
+    banner: "banners/barraa.jpeg"
+  },
  
 
   
