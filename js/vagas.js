@@ -13299,6 +13299,17 @@ const vagas = [
     email: "",
     banner: "banners/carma.jpeg"
   },
+   {
+    data: "2026-02-05",
+    titulo: "Pintor Industrial",
+    empresa: "Empinox",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Pintor Industrial na Empinox em Londrina, destinada a profissionais com experiência na função e que residam na cidade.",
+    descricaoModal:"Requisitos: Ter experiência na função; morar em Londrina. Benefícios e Informações: Vale-transporte; alimentação no local; convênio farmácia e ótica. Localização: Londrina. Empresa: Empinox (Indústria Eletromecânica Preventiva Ltda.).",
+    whatsapp: "5543991107529",
+    email: "rh@empinox.com.br",
+    banner: "banners/noxe.jpeg"
+  },
  
 
   
