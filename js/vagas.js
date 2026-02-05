@@ -13193,12 +13193,23 @@ const vagas = [
     data: "2026-02-05",
     titulo: "Recepcionista/Atendente",
     empresa: "Net Digital",
-    cidade: "Londrina",
+    cidade: "Cambé",
     descricao: "Oportunidade para Recepcionista/Atendente na Netdigital Telecomunicações em Cambé/PR, oferecendo salário acima da média e vale refeição superior a R$ 700,00.",
     descricaoModal:"Requisitos: Experiência em atendimento ao público; ensino médio completo; boa comunicação; bom relacionamento interpessoal; proatividade; informática básica; organização, planejamento e disciplina.",
     whatsapp: "5543976025528",
     email: "",
     banner: "banners/cambo.jpeg"
+  },
+  {
+    data: "2026-02-05",
+    titulo: "Auxiliar Almoxarifado",
+    empresa: "Net Digital",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar Almoxarifado na Netdigital Telecomunicações em Cambé/PR, com salário acima da média e jornada que inclui sábados",
+    descricaoModal:"Requisitos: Experiência na função e conhecimento em sistema informatizados Word e Excel; informática básica; ensino médio completo; organização, planejamento, disciplina e proatividade.",
+    whatsapp: "5543976025528",
+    email: "",
+    banner: "banners/barra.jpeg"
   },
  
 
