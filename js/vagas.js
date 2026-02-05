@@ -13420,6 +13420,17 @@ const vagas = [
     email: "",
     banner: "banners/presi.jpeg"
   },
+   {
+    data: "2026-02-05", 
+    titulo: "Analista de Marketing",
+    empresa: "Remate Web",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista de Marketing na Remate WEB, oferecendo um pacote completo de benefícios, incluindo plano de saúde Unimed nacional e incentivo ao esporte.",
+    descricaoModal:"Benefícios: Plano de saúde Unimed nacional; plano odontológico Uniodonto; vale transporte; refeição no restaurante da sede; seguro de vida; Day Off (dia livre no aniversário); Wellhub (GymPass) com acesso a academias em todo o Brasil; atendimento de saúde emocional com psicóloga parceira (100% custeado pela empresa); incentivo ao esporte",
+    whatsapp: "5543991246163",
+    email: "vagas@remateweb.com",
+    banner: "banners/web.jpeg"
+  },
  
 
   
