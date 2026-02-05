@@ -13092,14 +13092,25 @@ const vagas = [
   },
    {
     data: "2026-02-05",
-    titulo: "Auxiliar de Serviços Gerais em condomínios",
+    titulo: "Auxiliar de Serviços Gerais",
     empresa: "Empresa não identificada",
     cidade: "Londrina",
-    descricao: "Vaga para Auxiliar de Serviços Gerais em Londrina! Salário de R$ 1.764,00 + VT + VR e adicional de insalubridade. Necessária experiência em condomínios e disponibilidade para fins de semana.",
-    descricaoModal:"Requisitos e Benefícios: Buscamos profissionais com experiência em condomínios e conhecimento em produtos de limpeza. É indispensável ter disponibilidade para trabalhar aos finais de semana.",
+    descricao: "Vaga para Auxiliar de Serviços Gerais em Londrina!",
+    descricaoModal:"Envia seu currículo",
     whatsapp: "5543991871063",
     email: "",
-    banner: "banners/gerais.jpeg"
+    banner: "banners/tarci.jpeg"
+  },
+   {
+    data: "2026-02-05",
+    titulo: "Auxiliar Multifuncional",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Multifuncional! ",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/corpos.jpeg"
   },
  
 
