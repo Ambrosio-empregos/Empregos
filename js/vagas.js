@@ -13046,6 +13046,17 @@ const vagas = [
     email: "",
     banner: "banners/azulb.jpeg"
   },
+  {
+    data: "2026-02-04",
+    titulo: "Chapeiro",
+    empresa: "Montana Grill",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Chapeiro no Restaurante Montana Grill do Shopping Catuaí Londrina, com salário de R$ 2.100,00 e escala de shopping para profissionais com agilidade e atenção aos detalhes.",
+    descricaoModal:"Atividades: Preparar carnes, lanches e demais itens na chapa; montagem dos pratos conforme padrão da casa; organização e limpeza da área de trabalho; controle de qualidade e tempo de preparo; apoio geral à equipe da cozinha.",
+    whatsapp: "5543991360642",
+    email: "",
+    banner: "banners/redc.jpeg"
+  },
  
 
   
