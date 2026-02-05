@@ -13310,6 +13310,17 @@ const vagas = [
     email: "rh@empinox.com.br",
     banner: "banners/noxe.jpeg"
   },
+  {
+    data: "2026-02-05",
+    titulo: "Controlador de Acesso",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Controlador de Acesso em Londrina! Salário de R$ 2.021,00 + Vale Alimentação de R$ 805,00. Necessário Ensino Médio completo, CNH A/B e disponibilidade para escala 12x36.",
+    descricaoModal:"Requisitos e Benefícios: Necessário Ensino Médio completo, experiência em portaria e CNH categorias A e B. O candidato deve residir em Londrina e ter disponibilidade para escala 12x36.",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/acesso.jpeg"
+  },
  
 
   
