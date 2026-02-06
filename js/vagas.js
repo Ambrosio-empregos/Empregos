@@ -14014,6 +14014,17 @@ const vagas = [
     email: "rh@allowportariaremota.com.br",
     banner: "banners/mulan.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Vistoriador(a) de Imóveis",
+    empresa: "Quinta",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vistoriador(a) de Imóveis (PJ) na Quinta Avenida Vistorias em Londrina (conforme código de área 43), com ganhos acima de R$ 3.000,00 por mês conforme desempenho.",
+    descricaoModal:"Público-alvo: Recém-formados no curso de TTI (Técnico em Transações Imobiliárias); profissionais da área de manutenção (elétrica, hidráulica, pintura, construção, reformas); pessoas sem profissão definida, mas com responsabilidade, disciplina e vontade de se destacar na área.",
+    whatsapp: "5543991045140",
+    email: "",
+    banner: "banners/visa.jpeg"
+  },
  
 
 
