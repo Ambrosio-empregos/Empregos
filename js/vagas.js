@@ -14058,6 +14058,17 @@ const vagas = [
     email: "",
     banner: "banners/somos.jpeg"
   },
+   {
+    data: "2026-01-28", 
+    titulo: "Atendente de Vendas",
+    empresa: "Riachuelo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Vendas na Riachuelo do Shopping Boulevard em Londrina-PR, exigindo disponibilidade para trabalhar em finais de semana e feriados.",
+    descricaoModal:"Requisitos: Ter acima de 18 anos; disponibilidade de horário, inclusive nos finais de semana e feriado. Localização: Shopping Boulevard - Londrina/PR. Empresa: Riachuelo.",
+    whatsapp: "5543996615919",
+    email: "",
+    banner: "banners/chuchuu.jpeg"
+  },
  
 
 
