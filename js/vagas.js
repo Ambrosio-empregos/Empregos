@@ -14036,6 +14036,17 @@ const vagas = [
     email: "",
     banner: "banners/visa.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Estoquista",
+    empresa: "Embalagens",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Estoquista em uma empresa de embalagens em Londrina (conforme código de área 43), com salário fixo e benefícios como cesta básica",
+    descricaoModal:"Benefícios e Informações: Salário fixo; vale transporte e cesta básica. Horário: Comercial, de segunda a sexta-feira. Localização: Londrina (conforme código 43).",
+    whatsapp: "554333377884",
+    email: "",
+    banner: "banners/raiva.jpeg"
+  },
  
 
 
