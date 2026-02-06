@@ -13836,7 +13836,7 @@ const vagas = [
     descricaoModal:"Responsabilidades: Atendimento consultivo em moda feminina; vendas com foco em metas e resultados; relacionamento, fidelização e pós-vendas com clientes; apoio às redes sociais da loja; organização do salão de vendas; execução de VM conforme orientação da marca.",
     whatsapp: "5543999688274",
     email: "",
-    banner: "banners/fruto.jpeg"
+    banner: "banners/esper.jpeg"
   },
  
 
