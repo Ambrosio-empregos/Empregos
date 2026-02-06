@@ -14091,6 +14091,17 @@ const vagas = [
     email: "",
     banner: "banners/lac.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Vendedor(a)",
+    empresa: "Ace  Tennis",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Ace Tennis em Londrina, com processo de seleção aberto para envio de currículos via WhatsApp",
+    descricaoModal:"Localização: Londrina. Empresa: Ace Tennis.",
+    whatsapp: "5543996699790",
+    email: "",
+    banner: "banners/cccc.jpeg"
+  },
  
 
 
