@@ -13970,6 +13970,17 @@ const vagas = [
     email: "",
     banner: "banners/feia.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Recepcionista",
+    empresa: "Pecorino Cucina Italiana.",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Recepcionista na Pecorino Cucina Italiana com entrevistas imediatas, oferecendo ótimo salário e benefícios na região de Caxias do Sul (conforme código de área 54)",
+    descricaoModal:"Informações da Vaga: Convite para juntar-se à equipe; ótimo salário e benefícios; entrevistas imediatas. Localização: Caxias do Sul e região (conforme código 54). Empresa: Pecorino Cucina Italiana.",
+    whatsapp: "5554997151782",
+    email: "",
+    banner: "banners/feio.jpeg"
+  },
  
 
 
