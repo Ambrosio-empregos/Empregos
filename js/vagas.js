@@ -13750,6 +13750,17 @@ const vagas = [
     email: "",
     banner: "banners/creusa.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Assistente de Marketing",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Assistente de Marketing no Centro de Balneário Camboriú/SC, com salário de R$ 2.500,00 e jornada comercial de segunda a sexta-feira",
+    descricaoModal:"Benefícios e Informações: Salário de R$ 2.500,00; Vale Alimentação (VA) e Vale Combustível (VC). Horário: Comercial, de segunda a sexta, das 08:42 às 18:30. Localização: Bairro Centro, Balneário Camboriú/SC.",
+    whatsapp: "5547991159685",
+    email: "",
+    banner: "banners/creusaa.jpeg"
+  },
  
 
 
