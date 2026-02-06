@@ -13926,6 +13926,17 @@ const vagas = [
     email: "",
     banner: "banners/billie.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Comercial",
+    empresa: "Odonto Sempre",
+    cidade: "Londrina",
+    descricao: "SOMENTE POR EMAIL; A Odonto Sempre está contratando profissional para a área Comercial com perfil focado em vendas e metas.",
+    descricaoModal:"A Odonto Sempre está contratando profissional para a área Comercial com perfil focado em vendas e metas.As funções incluem realizar ligações diariamente, possuir perfil comunicativo, ter vontade de trabalhar com vendas e não ter medo de metas. A oportunidade oferece salário mais comissão",
+    whatsapp: "",
+    email: "odontosempresaude@gmail.com",
+    banner: "banners/odontoc.jpeg"
+  },
  
 
 
