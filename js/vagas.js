@@ -13959,6 +13959,17 @@ const vagas = [
     email: "",
     banner: "banners/agoraaa.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Auxiliar Contábil",
+    empresa: "G7 Associados",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Contábil com experiência em Londrina, PR, oferecendo salário compatível com a função e oportunidade de crescimento profissional na G7 Associados.",
+    descricaoModal:"Requisitos: Profissional com experiência na área contábil. Benefícios: Salário compatível com a função; oportunidade de crescimento profissional. Informações Adicionais: Início imediato. Localização: Londrina, PR. Empresa: G7 Associados.",
+    whatsapp: "",
+    email: "secretaria@g7associaods.com.br",
+    banner: "banners/g7.jpeg"
+  },
  
 
 
