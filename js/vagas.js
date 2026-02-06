@@ -14047,6 +14047,17 @@ const vagas = [
     email: "",
     banner: "banners/raiva.jpeg"
   },
+  {
+    data: "2026-02-06",
+    titulo: "Secretária",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Secretária em Londrina (conforme código de área 43), com funções que incluem atendimento ao cliente, organização de agenda e apoio administrativo básico",
+    descricaoModal:"Funções: Atendimento telefônico e presencial; recepção de clientes; organização de agenda; controle e organização de documentos; apoio administrativo básico e comunicação interna e externa",
+    whatsapp: "5543996080670",
+    email: "",
+    banner: "banners/somos.jpeg"
+  },
  
 
 
