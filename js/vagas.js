@@ -13937,6 +13937,17 @@ const vagas = [
     email: "odontosempresaude@gmail.com",
     banner: "banners/odontoc.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Angariador de Imóveis",
+    empresa: "Camponesa imóveis",
+    cidade: "Londrina",
+    descricao: "A Camponesa Imóveis está contratando Angariadores de Imóveis com perfil focado em vendas externas e iniciativa.",
+    descricaoModal:"A vaga busca profissionais com boa comunicação, iniciativa, experiência em vendas externas, vontade de aprender e vocação comercial. O pacote de benefícios inclui salário fixo, plano de saúde e ajuda de custo.",
+    whatsapp: "5543999321975",
+    email: "recrutamentocamponesaimoveis@gmail.com",
+    banner: "banners/eis.jpeg"
+  },
  
 
 
