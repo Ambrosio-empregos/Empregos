@@ -14113,6 +14113,17 @@ const vagas = [
     email: "",
     banner: "banners/pii.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Gestor de Negócios",
+    empresa: "Magalu",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Gestor de Negócios (PJ) no Consórcio Magalu, destinada a profissionais com conhecimento no produto consórcio para atuar dentro das lojas",
+    descricaoModal:"Requisitos: Conhecimento sobre o produto consórcio. Informações da Vaga: Regime de contratação PJ; atuação dentro das lojas do Magalu. Empresa: Consórcio Magalu.",
+    whatsapp: "5549991616819",
+    email: "",
+    banner: "banners/acaba.jpeg"
+  },
  
 
 
