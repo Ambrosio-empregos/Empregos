@@ -13961,14 +13961,14 @@ const vagas = [
   },
   {
     data: "2026-02-06", 
-    titulo: "Auxiliar Contábil",
-    empresa: "G7 Associados",
-    cidade: "Londrina",
-    descricao: "Oportunidade para Auxiliar Contábil com experiência em Londrina, PR, oferecendo salário compatível com a função e oportunidade de crescimento profissional na G7 Associados.",
-    descricaoModal:"Requisitos: Profissional com experiência na área contábil. Benefícios: Salário compatível com a função; oportunidade de crescimento profissional. Informações Adicionais: Início imediato. Localização: Londrina, PR. Empresa: G7 Associados.",
-    whatsapp: "",
-    email: "secretaria@g7associaods.com.br",
-    banner: "banners/are.jpeg"
+    titulo: "Garçom",
+    empresa: "Pecorino Cucina Italiana.",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Garçom na Pecorino Cucina Italiana com entrevistas imediatas, oferecendo ótimo salário e benefícios na região de Caxias do Sul (conforme código de área 54).",
+    descricaoModal:"Informações da Vaga: Entrevistas imediatas; ótimo salário e benefícios. Localização: Caxias do Sul e região (conforme código 54). Empresa: Pecorino Cucina Italiana.",
+    whatsapp: "5554997151782",
+    email: "",
+    banner: "banners/feia.jpeg"
   },
  
 
