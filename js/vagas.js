@@ -13981,6 +13981,17 @@ const vagas = [
     email: "",
     banner: "banners/feio.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Auxiliar de Serviços Operacionais",
+    empresa: "Ello RH",
+    cidade: "Maringá",
+    descricao: "A Ello Rh oferece 8 vagas urgentes para Auxiliar de Serviços Operacionais com contratação imediata, sem exigência de experiência, para atuar em Maringá e região no período noturno",
+    descricaoModal:"Atividades: Realizar contagem de estoque em lojas, mercados e farmácias. Requisitos: Não precisa ter experiência; disponibilidade para trabalhar à noite, realizar viagens e trabalhar aos fins de semana; o candidato deve estar registrado, não pode possuir outro emprego nem estar estudando devido às viagens",
+    whatsapp: "5545999766238",
+    email: "",
+    banner: "banners/uo.jpeg"
+  },
  
 
 
