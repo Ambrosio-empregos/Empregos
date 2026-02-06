@@ -13828,7 +13828,7 @@ const vagas = [
     banner: "banners/leone.jpeg"
   },
   {
-    data: "2026-02-05",
+    data: "2026-02-06",
     titulo: "Vendedora",
     empresa: "",
     cidade: "Londrina",
