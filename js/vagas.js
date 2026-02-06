@@ -13968,7 +13968,7 @@ const vagas = [
     descricaoModal:"Requisitos: Profissional com experiência na área contábil. Benefícios: Salário compatível com a função; oportunidade de crescimento profissional. Informações Adicionais: Início imediato. Localização: Londrina, PR. Empresa: G7 Associados.",
     whatsapp: "",
     email: "secretaria@g7associaods.com.br",
-    banner: "banners/g7.jpeg"
+    banner: "banners/are.jpeg"
   },
  
 
