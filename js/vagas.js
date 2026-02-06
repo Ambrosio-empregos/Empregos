@@ -13827,6 +13827,17 @@ const vagas = [
     email: "",
     banner: "banners/leone.jpeg"
   },
+  {
+    data: "2026-01-29",
+    titulo: "Vendedora",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora de moda feminina com foco em metas e resultados, oferecendo salário de até R$ 2.100,00 após a experiência, mais comissões e benefícios como Plano de Saúde MedShopping.",
+    descricaoModal:"Responsabilidades: Atendimento consultivo em moda feminina; vendas com foco em metas e resultados; relacionamento, fidelização e pós-vendas com clientes; apoio às redes sociais da loja; organização do salão de vendas; execução de VM conforme orientação da marca.",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/fruto.jpeg"
+  },
  
 
 
