@@ -13618,6 +13618,17 @@ const vagas = [
     email: "baudelairecookieslondrina@gmail.com",
     banner: "banners/laire.jpeg"
   },
+  {
+    data: "2026-02-06",
+    titulo: "Auxiliar Multifuncional",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Multifuncional! ",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/corpos.jpeg"
+  },
  
 
 
