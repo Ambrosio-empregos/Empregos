@@ -14102,6 +14102,17 @@ const vagas = [
     email: "",
     banner: "banners/cccc.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Auxiliar Administrativo setor de pós venda",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Administrativo setor de pós venda em Maringá",
+    descricaoModal:"envie seu currículo",
+    whatsapp: "5544988576595",
+    email: "",
+    banner: "banners/pii.jpeg"
+  },
  
 
 
