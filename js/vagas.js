@@ -13904,6 +13904,17 @@ const vagas = [
     email: "",
     banner: "banners/mikael.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Topógrafo",
+    empresa: "Agritel Topografia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Topógrafo na Agritel Topografia para residentes no Paraná, exigindo ensino médio completo, habilitação e experiência prévia na área",
+    descricaoModal:"Requisitos: Ensino médio completo; já ter trabalhado na área antes; habilitação; residir no Paraná. Empresa: Agritel Topografia (conforme domínio do e-mail).",
+    whatsapp: "",
+    email: "contato@agriteltop.com.br",
+    banner: "banners/topa.jpeg"
+  },
  
 
 
