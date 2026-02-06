@@ -14071,14 +14071,14 @@ const vagas = [
   },
    {
     data: "2026-02-06",
-    titulo: "Vendedor",
-    empresa: "Defina Banker",
-    cidade: "Ibiporã",
-    descricao: "Oportunidade para Vendedor(a) na Defina Banker para as filiais de Ibiporã e Londrina, oferecendo remuneração fixa mais comissões e premiações.",
-    descricaoModal:"Requisitos: Possuir boa comunicação; ser responsável; ter ensino médio completo; ter disponibilidade de horário. Benefícios: Remuneração fixa; comissão; vale-transporte; premiações. Localização: Vagas disponíveis para as filiais de Ibiporã e Londrina.",
-    whatsapp: "5543988471745",
-    email: "",
-    banner: "banners/defina.jpeg"
+    titulo: "Atendente de Farmácia de Manipulação",
+    empresa: "Magistral Pharmacia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Farmácia de Manipulação na Magistral Pharmacia em Londrina (conforme código de área 43), exigindo experiência essencial na função e conhecimento do sistema Fórmula Certa",
+    descricaoModal:"Atividades: Atendimento ao cliente; realização de orçamentos de receitas e fórmulas manipuladas; conhecimento do sistema Fórmula Certa.",
+    whatsapp: "5543998410209",
+    email: "contato@magistralpharmacia.com.br",
+    banner: "banners/tral.jpeg"
   },
  
 
