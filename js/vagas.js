@@ -13849,6 +13849,17 @@ const vagas = [
     email: "",
     banner: "banners/euso.jpeg"
   },
+  {
+    data: "2026-02-06",
+    titulo: "Vendedor PAP",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor PAP de Placa Solar, com salário de R$ 2.200,00 mais comissões atrativas e premiações por desempenho.",
+    descricaoModal:"Responsabilidades: Realizar visitas externas porta a porta (PAP) de Placa Solar; identificar oportunidades de venda e apresentar soluções da empresa; elaborar propostas comerciais e conduzir negociações; cumprir metas de vendas e indicadores de desempenho; registrar informações de visitas em sistema; participar de ações comerciais",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/pap.jpeg"
+  },
  
 
 
