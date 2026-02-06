@@ -13783,6 +13783,17 @@ const vagas = [
     email: "julia.rh@tex3digital.com.br",
     banner: "banners/consult.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Auxiliar Técnico",
+    empresa: "Stara",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar Técnico na Raiz Agro Stara em Maringá (conforme código de área 44), oferecendo programa de desenvolvimento e progressão de carreira",
+    descricaoModal:"Benefícios e Informações: Programa de desenvolvimento e progressão de carreira; vale alimentação e vale refeição; plano de saúde e plano odontológico",
+    whatsapp: "5544988576595",
+    email: "rh@raizagrostara.com.br",
+    banner: "banners/stara.jpeg"
+  },
  
 
 
