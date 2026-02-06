@@ -13629,6 +13629,83 @@ const vagas = [
     email: "",
     banner: "banners/corpos.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Auxiliar de Serviços Gerais em Londrina!",
+    descricaoModal:"Envia seu currículo",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/tarci.jpeg"
+  },
+  {
+    data: "2026-02-06", 
+    titulo: "Consultor(A) de Vendas",
+    empresa: "Dudalina",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de Vendas na Dudalina do Catuaí Shopping Londrina, com média salarial entre R$ 4.000,00 e R$ 5.000,00 e benefícios.",
+    descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/carro.jpeg"
+  },
+  {
+    data: "2026-02-06", 
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Altenburg",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(A) de vendas na Altenburg do Catuaí Shopping Londrina, com média salarial entre R$ 3.000,00 e R$ 6.000,00 e benefícios inclusos.",
+    descricaoModal:"Informações: Média salarial de R$ 3.000,00 a R$ 6.000,00; vale transporte; vale alimentação; plano de saúde. Horário: Das 10:00 às 16:00 horas ou das 16:00 às 22:00 horas.",
+    whatsapp: "",
+    email: "dudalinalondrina@grupoac.net",
+    banner: "banners/caled.jpeg"
+  },
+  {
+    data: "2026-02-06",
+    titulo: "vagas para EMPREENDEDORAS",
+    empresa: "Incrível Sotre/romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando! Revenda moda fitness e lingerie no sistema de consignado, sem necessidade de investimento inicial.",
+    descricaoModal:"Informações da Vaga: Seja uma revendedora Romance Favorita e Invencível Store. Oferecemos sistema de consignado (você só paga o que vender) e não é necessário investimento inicial para começar. Ideal para quem busca autonomia e faturamento imediato em 2026.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/dora.jpeg"
+  },
+   {
+    data: "2026-02-06",
+    titulo: "Vendedora de Roupas",
+    empresa: "G F  Store",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora de Roupas na GF Store Premium no Camelódromo de Londrina, com salário de R$ 2.000,00 mais comissão e ajuda de custo.",
+    descricaoModal:"Requisitos: Ter experiência em vendas; ensino médio completo; cursos na área serão um diferencial; conhecimento em redes sociais; conhecimento básico de computadores e sistemas.",
+    whatsapp: "5543920006972",
+    email: "",
+    banner: "banners/iuventus.jpeg"
+  },
+   {
+    data: "2026-01-06", 
+    titulo: "Consultor(a) de vendas",
+    empresa: "Ademicon",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas na Ademicon Londrina Centro, aberta para homens e mulheres acima de 18 anos que buscam crescimento e ganhos acima da média.",
+    descricaoModal:"Requisitos: Pessoas acima de 18 anos; homem ou mulher; perfil comprometido, comunicativo e disposto a aprender. Benefícios: Ganhos acima da média; flexibilidade de horário; treinamento e capacitação diária; oportunidade de crescimento. Localização: Ademicon Londrina Centro.",
+    whatsapp: "554333243090",
+    email: "rh.grupoaurea@gmail.com",
+    banner: "banners/medpuclon.jpeg"
+  },
+  {
+    data: "2026-02-06",
+    titulo: "Telemarketing",
+    empresa: "Rufino",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Telemarketing focada em primeiro emprego! Buscamos candidatos pontuais, com boa comunicação e vontade de aprender. Candidate-se via WhatsApp ou e-mail.",
+    descricaoModal:"Requisitos e Informações: Vaga ideal para primeiro emprego. Buscamos profissionais pontuais, com boa comunicação, responsáveis, organizados e com vontade de aprender.",
+    whatsapp: "5543988367204",
+    email: "rufinovagas@gmail.com",
+    banner: "banners/rufino.jpeg"
+  },
  
 
 
