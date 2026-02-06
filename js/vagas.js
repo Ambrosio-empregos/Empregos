@@ -13706,6 +13706,17 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Caixa - Período da Tarde",
+    empresa: "Dom Rocha",
+    cidade: "Londrina",
+    descricao: "Oportunidade feminina para Caixa na Dom Rocha em Londrina, com jornada no período da tarde, incluindo sábados e domingos, e benefícios sem descontos em holerite",
+    descricaoModal:"Requisitos: Vaga feminina. Benefícios e Informações: Salário + benefícios; vale transporte; cartão alimentação/refeição; plano de saúde e odontológico; os benefícios não são descontados do holerite",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/dao.jpeg"
+  },
  
 
 
