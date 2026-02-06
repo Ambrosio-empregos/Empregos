@@ -14059,7 +14059,7 @@ const vagas = [
     banner: "banners/somos.jpeg"
   },
    {
-    data: "2026-01-28", 
+    data: "2026-02-06", 
     titulo: "Atendente de Vendas",
     empresa: "Riachuelo",
     cidade: "Londrina",
