@@ -13883,7 +13883,7 @@ const vagas = [
     banner: "banners/beta.jpg"
   },
    {
-    data: "2026-01-15",
+    data: "2026-02-06",
     titulo: "Motorista de Caminhão",
     empresa: "Franco",
     cidade: "Londrina",
