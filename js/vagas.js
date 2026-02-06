@@ -13992,6 +13992,17 @@ const vagas = [
     email: "",
     banner: "banners/uo.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Supervisor Técnico",
+    empresa: "Allow",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Supervisor Técnico na Allow Portaria Remota em Londrina-PR, exigindo experiência comprovada na área e disponibilidade para viagens",
+    descricaoModal:"Requisitos: Experiência comprovada na área; ter CNH válida; disponibilidade de horários e para viagens",
+    whatsapp: "",
+    email: "rh@allowportariaremota.com.br",
+    banner: "banners/all.jpeg"
+  },
  
 
 
