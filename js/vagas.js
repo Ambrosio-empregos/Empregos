@@ -13739,6 +13739,17 @@ const vagas = [
     email: "",
     banner: "banners/demi.jpeg"
   },
+   {
+    data: "2026-02-06", 
+    titulo: "Auxiliar Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo no Centro de Balneário Camboriú/SC, com salário de R$ 2.500,00 e jornada de segunda a sexta-feira",
+    descricaoModal:"Benefícios e Informações: Salário de R$ 2.500,00; Vale Combustível (VC) e Vale Alimentação (VA). Horário: Segunda a sexta, das 08:42 às 18:30. Localização: Bairro Centro, Balneário Camboriú.",
+    whatsapp: "5547991159685",
+    email: "",
+    banner: "banners/creusa.jpeg"
+  },
  
 
 
