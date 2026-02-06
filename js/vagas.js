@@ -13902,7 +13902,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência em vendas; proatividade; responsabilidade; boa comunicação. Benefícios: Vale refeição; comissões agressivas; vale transporte; plano odontológico; plano de saúde mental; convênio com farmácia; desconto em academias parceiras; programa nutricional; reconhecimento no iver; férias coletivas.",
     whatsapp: "5543984267289",
     email: "",
-    banner: "banners/prova.jpeg"
+    banner: "banners/mikael.jpeg"
   },
  
 
