@@ -13871,6 +13871,17 @@ const vagas = [
     email: "",
     banner: "banners/bucal.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Beta Serv",
+    cidade: "Londrina",
+    descricao: "Temos Vaga! Auxiliar de Limpeza na Beta Serv. Oportunidade para profissionais com experiência mínima na área e disponibilidade de horário.",
+    descricaoModal:"Requisitos: Experiência mínima comprovada na função. Horário: Jornada semanal de 8h com necessidade de disponibilidade para trabalhar também aos fins de semana intercalados.",
+    whatsapp: "5543988256040",
+    email: "",
+    banner: "banners/beta.jpg"
+  },
  
 
 
