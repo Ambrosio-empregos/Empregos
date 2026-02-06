@@ -14003,6 +14003,17 @@ const vagas = [
     email: "rh@allowportariaremota.com.br",
     banner: "banners/all.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Atendente Tático Externo",
+    empresa: "Allow",
+    cidade: "Londrina",
+    descricao: "Oportunidade masculina para Atendente Tático Externo na Allow Portaria Remota em Londrina-PR, com jornada em escala 12/36 e atuação em rondas de moto para condomínios",
+    descricaoModal:"Requisitos: Vaga masculina; possuir CNH AB válida. Funções: Atendimento específico para condomínios, realizando rondas com moto",
+    whatsapp: "",
+    email: "rh@allowportariaremota.com.br",
+    banner: "banners/mulan.jpeg"
+  },
  
 
 
