@@ -14080,6 +14080,17 @@ const vagas = [
     email: "contato@magistralpharmacia.com.br",
     banner: "banners/tral.jpeg"
   },
+   {
+    data: "2026-02-06",
+    titulo: "Vendedora",
+    empresa: "Lacoste",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Lacoste do Shopping Catuaí, com jornada das 14h às 22h, oferecendo comissões, bonificações e plano de saúde.",
+    descricaoModal:"Requisitos: Ter mais de 25 anos; ser organizada; ter disponibilidade de horário; gostar de moda e vendas",
+    whatsapp: "5514998522465",
+    email: "",
+    banner: "banners/lac.jpeg"
+  },
  
 
 
