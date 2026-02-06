@@ -13847,7 +13847,7 @@ const vagas = [
     descricaoModal:"Detalhes da Vaga: Atuação com atendimento via ligação e WhatsApp; horário de segunda a sexta, das 08h às 18h; modelo de trabalho presencial. Requisitos: Idade entre 17 e 35 anos; boa comunicação; informática básica; vontade de crescer e ser movido por metas. Benefícios: Salário fixo; vale-transporte; comissões acima de R$ 2.000,00; bonificações por desempenho.",
     whatsapp: "5544991044108",
     email: "",
-    banner: "banners/maar.jpeg"
+    banner: "banners/euso.jpeg"
   },
  
 
