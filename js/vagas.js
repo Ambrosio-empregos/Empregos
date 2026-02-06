@@ -13728,6 +13728,17 @@ const vagas = [
     email: "",
     banner: "banners/ana.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Atendente de Balcão",
+    empresa: "Dom . Rocha",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Balcão na Dom Rocha em Londrina, com jornada que abrange de segunda a domingo e benefícios integrais sem descontos em folha.",
+    descricaoModal:"Benefícios e Informações: Salário + benefícios; vale transporte; cartão alimentação/refeição; plano de saúde e plano odontológico; os benefícios não são descontados do holerite.",
+    whatsapp: "5543991019002",
+    email: "",
+    banner: "banners/demi.jpeg"
+  },
  
 
 
