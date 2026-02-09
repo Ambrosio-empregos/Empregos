@@ -14553,6 +14553,17 @@ const vagas = [
     email: "",
     banner: "banners/aaaa.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Vendedor",
+    empresa: "ARTWALK",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) na Artwalk do Shopping Catuaí Londrina, voltada para profissionais que curtem o lifestyle esportivo e possuem disponibilidade de horário.",
+    descricaoModal:"Requisitos: Ser maior de 18 anos; ensino médio completo; ter disponibilidade de horário. Perfil: Candidatos que se identifiquem com o lifestyle esportivo. Localização: Shopping Catuaí Londrina. Empresa: Artwalk.",
+    whatsapp: "5543999039319",
+    email: "",
+    banner: "banners/art.jpeg"
+  },
  
  
 
