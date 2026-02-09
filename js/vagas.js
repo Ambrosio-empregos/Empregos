@@ -14619,6 +14619,17 @@ const vagas = [
     email: "ide",
     banner: "banners/ide.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Telemarketing",
+    empresa: "Rufino",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Telemarketing focada em primeiro emprego! Buscamos candidatos pontuais, com boa comunicação e vontade de aprender. Candidate-se via WhatsApp ou e-mail.",
+    descricaoModal:"Requisitos e Informações: Vaga ideal para primeiro emprego. Buscamos profissionais pontuais, com boa comunicação, responsáveis, organizados e com vontade de aprender.",
+    whatsapp: "5543988367204",
+    email: "rufinovagas@gmail.com",
+    banner: "banners/rufino.jpeg"
+  },
  
  
 
