@@ -3787,7 +3787,7 @@ const vagas = [
     data: "2026-01-12", 
     titulo: "Vendedora",
     empresa: "OutLet Center.br",
-    cidade: "Londrina",
+    cidade: "Cambé",
     descricao: "Oportunidade para Vendedora em Cambé/PR, destinada a mulheres com experiência comprovada em vendas e idade acima de 20 anos.",
     descricaoModal:"Requisitos: Sexo feminino; idade acima de 20 anos; experiência comprovada em vendas de qualquer segmento; boa comunicação e perfil proativo; responsabilidade e comprometimento. Benefícios: Salário fixo mensal. Localização: Empresa localizada em Cambé/PR, em frente à Coca-Cola.",
     whatsapp: "5543991713025",
@@ -14420,6 +14420,17 @@ const vagas = [
     whatsapp: "5544997309246",
     email: "",
     banner: "banners/cucu.jpeg"
+  },
+  {
+    data: "2026-02-09", 
+    titulo: "Auxiliar de Loja",
+    empresa: "OutLet Center.br",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Auxiliar de Loja em Cambé/PR",
+    descricaoModal:"Benefícios: Salário fixo mensal. Localização: Empresa localizada em Cambé/PR, em frente à Coca-Cola.",
+    whatsapp: "5543991713025",
+    email: "",
+    banner: "banners/dores.jpeg"
   },
  
  
