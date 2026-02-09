@@ -2,7 +2,7 @@ const container = document.getElementById("jobsContainer");
 const searchInput = document.getElementById("searchInput");
 const cityFilter = document.getElementById("cityFilter");
 
-const PRAZO_EXPIRACAO_DIAS = 15; // MUDE AQUI SE ELE PEDIR 
+const PRAZO_EXPIRACAO_DIAS = 30; // MUDE AQUI SE ELE PEDIR 
 
 function vagaEhNova(dataVaga) {
   const hoje = new Date();
