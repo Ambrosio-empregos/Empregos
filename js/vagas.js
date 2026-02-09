@@ -14476,6 +14476,17 @@ const vagas = [
     email: "",
     banner: "banners/carne.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Desenhista/Projetista",
+    empresa: "Flex Lajes",
+    cidade: "Londrina",
+    descricao: "A FlexLajes em Londrina (conforme código de área 43) está contratando Desenhista/Projetista, com preferência para candidatos da área de Engenharia e domínio de AutoCAD",
+    descricaoModal:"Requisitos: Preferência por profissionais formados ou cursando Engenharia e áreas afins; curso de AutoCAD; habilidade em leitura e interpretação de desenhos; domínio de Excel; noções de vendas e noções básicas de levantamento de obra",
+    whatsapp: "5543996571555",
+    email: "",
+    banner: "banners/salma.jpeg"
+  },
  
  
 
