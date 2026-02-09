@@ -14311,6 +14311,28 @@ const vagas = [
     email: "",
     banner: "banners/chap.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "O Angeloni em Londrina/PR oferece vaga para Atendente de Padaria Balcão, aberta também para pessoas com deficiência (PCD), com jornada em escala 6x1 e diversos benefícios",
+    descricaoModal:"Requisitos: Ensino médio completo; disponibilidade de horário; habilidade em atendimento ao cliente e auxílio no preparo de produtos",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/raboni.jpeg"
+  },
+   {
+    data: "2026-02-09",
+    titulo: "Atendente Padaria Balcão",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Padaria Balcão no Angeloni em Londrina/PR, vaga aberta também para pessoas com deficiência (PCD), com escala 6x1 e pacote completo de benefícios.",
+    descricaoModal:"O que esperamos de você: Ensino médio completo; disponibilidade de horário; foco no atendimento ao cliente; auxílio no preparo de produtos. Detalhes da Jornada: Horário das 13:30 às 22:20; escala de trabalho 6x1 (DSR semanal / Domingo 2x1). Benefícios: Refeições na empresa; plano de saúde; folga no aniversário; plano de carreira; prêmio assiduidade; prêmio casamento; vale-transporte; plano odontológico; seguro de vida; desconto para funcionário; programa de desenvolvimento. Localização: Londrina/PR.",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/pada.jpeg"
+  },
  
  
 
