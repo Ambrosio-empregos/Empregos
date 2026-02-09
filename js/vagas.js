@@ -14597,6 +14597,17 @@ const vagas = [
     email: "rh@naclub.com.br",
     banner: "banners/naca.jpeg"
   },
+  {
+    data: "2026-02-09", 
+    titulo: "Atendente/Operador",
+    empresa: "Hermanito Mexican Food",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente / Operador na rede Hermanito Mexican Food em Londrina, voltada para profissionais proativos e que gostem de trabalhar com metas.",
+    descricaoModal:": Requisitos e Perfil: Boa comunicação; proatividade e iniciativa; gostar de trabalhar com metas e objetivos a serem alcançados. Detalhes: Venha fazer parte da rede de comida mexicana que mais cresce no Brasil. Localização: Londrina/PR.",
+    whatsapp: "5543999020965",
+    email: "londrina@hermanito.com.br",
+    banner: "banners/herma.jpeg"
+  },
  
  
 
