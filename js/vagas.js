@@ -14575,6 +14575,17 @@ const vagas = [
     email: "",
     banner: "banners/rabon.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Assistente de Contas a pagar e receber",
+    empresa: "Fauel",
+    cidade: "Londrina",
+    descricao: "A FAUEL em Londrina oferece vaga CLT para Assistente de Contas a Receber, com remuneração de R$ 2.300,00 mais benefícios, exigindo graduação em áreas administrativas ou correlatas.",
+    descricaoModal:"Atividades: Renegociar dívidas, providenciar novos boletos e termo de confissão de dívida; acompanhar a carteira de clientes, inadimplência, cobranças e renegociações; efetuar cadastros ou implantar títulos novos; emissão de nota fiscal; prestar atendimento via e-mail e por telefone",
+    whatsapp: "",
+    email: "rh@fauel.org.br",
+    banner: "banners/uel.jpeg"
+  },
  
  
 
