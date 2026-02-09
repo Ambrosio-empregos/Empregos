@@ -14179,6 +14179,17 @@ const vagas = [
     email: "",
     banner: "banners/pico.jpeg"
   },
+  {
+    data: "2026-02-07",
+    titulo: "Atendente",
+    empresa: "Berrys",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente na Berry's Iced Food em Londrina, oferecendo remuneração de R$ 1.980,00 mais benefícios para atuação em escala 6x1",
+    descricaoModal:"Benefícios e Informações: Remuneração de R$ 1.980,00; cartão alimentação e vale transporte. Horário: Escala 6x1, turno das 15:00 às 23:20 horas",
+    whatsapp: "5562999336546",
+    email: "",
+    banner: "banners/vaca.jpeg"
+  },
  
  
 
