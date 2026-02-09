@@ -14190,6 +14190,17 @@ const vagas = [
     email: "",
     banner: "banners/vaca.jpeg"
   },
+  {
+    data: "2026-02-07",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Versa",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas na Versa em Londrina (conforme código de área 43), com processo de seleção aberto para envio de currículos",
+    descricaoModal:"Localização: Londrina (conforme código 43). Empresa: Versa.",
+    whatsapp: "5543999375026",
+    email: "",
+    banner: "banners/vers.jpeg"
+  },
  
  
 
