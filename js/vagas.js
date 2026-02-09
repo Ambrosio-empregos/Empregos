@@ -14155,7 +14155,7 @@ const vagas = [
     descricaoModal:"Informações da vaga: Atuação como Consultor(A) de Vendas na loja Dudalina do Catuaí Shopping Londrina. com média salarial entre R$ 4.000,00 e R$ 5.000,00. Benefícios: Vale transporte; Vale alimentação; Plano de Saúde.",
     whatsapp: "",
     email: "dudalinalondrina@grupoac.net",
-    banner: "banners/dudi.jpeg"
+    banner: "banners/terna.jpeg"
   },
  
  
