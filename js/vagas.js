@@ -14643,7 +14643,7 @@ const vagas = [
   },
   {
     data: "2026-02-09",
-    titulo: "Vendedora",
+    titulo: "Vendedor(a)",
     empresa: "Atlântico Atacado",
     cidade: "Londrina",
     descricao: "Oportunidade para Vendedor(a) Presencial no Centro de Londrina, com plano de carreira e treinamento oferecido pela empresa, destinada a candidatos entre 18 e 30 anos",
@@ -14651,6 +14651,17 @@ const vagas = [
     whatsapp: "554333722700",
     email: "claudio1atlanticoatacado.com.br",
     banner: "banners/kaio.jpeg"
+  },
+  {
+    data: "2026-02-09",
+    titulo: "Vendedora",
+    empresa: "Atlântico Atacado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora no Atlântico Atacado em Londrina / PR, com remuneração de R$ 2.040,00 mais comissão e benefícios inclusos",
+    descricaoModal:"Benefícios: Salário de R$ 2.040,00 + comissão; alimentação na empresa e vale transporte. Horário: Segunda a sexta das 09h às 18h; sábado das 09h às 16h. Localização: Av. Tiradentes, 3173, Londrina / PR. Empresa: Atlântico Atacado",
+    whatsapp: "554333722700",
+    email: "claudio1atlanticoatacado.com.br",
+    banner: "banners/ets.jpeg"
   },
  
  
