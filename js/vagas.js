@@ -14441,7 +14441,7 @@ const vagas = [
     descricaoModal:"Atividades: Saber fazer toda a produção necessária; bolear a massa; abrir massa; fornear as pizzas; saber cortar para rodízio.",
     whatsapp: "5544998581395",
     email: "",
-    banner: "banners/zai.jpeg"
+    banner: "banners/perma.jpeg"
   },
  
  
