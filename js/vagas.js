@@ -14212,6 +14212,17 @@ const vagas = [
     email: "rhbudopet@gmail.com",
     banner: "banners/esvi.jpeg"
   },
+   {
+    data: "2026-02-07",
+    titulo: "Atenente na Loja Conceito",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Atendente na Loja Conceito da Gela Boca em Maringá / PR, com jornada das 14h40 às 23h em escala 6x1",
+    descricaoModal:"Informações da Vaga: Destinada a quem gosta de atuar na área de atendimento ao público e busca um ambiente dinâmico",
+    whatsapp: "5544999872393",
+    email: "",
+    banner: "banners/conceito.jpeg"
+  },
  
  
 
