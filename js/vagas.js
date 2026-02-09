@@ -14388,6 +14388,17 @@ const vagas = [
     email: "",
     banner: "banners/defogo.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Vendedora",
+    empresa: "Armário de Princesa",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora no Shopping Boulevard em Londrina (conforme código de área 43), destinada a pessoas apaixonadas por moda e acessórios, oferecendo salário fixo mais benefícios",
+    descricaoModal:"Requisitos: Ser simpática e comunicativa; experiência com vendas; ser apaixonada por moda, tendências e acessórios; atenciosa e organizada. Benefícios: Salário fixo + comissão; vale transporte; vale alimentação e plano de saúde",
+    whatsapp: "5543984920170",
+    email: "",
+    banner: "banners/line.jpeg"
+  },
  
  
 
