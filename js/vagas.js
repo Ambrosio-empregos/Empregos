@@ -14289,6 +14289,17 @@ const vagas = [
     email: "",
     banner: "banners/dora.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Atendente de Restaurante",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Atendente de Restaurante com experiência em vendas ou caixa e conhecimento da plataforma iFood.",
+    descricaoModal:"Requisitos: Ser maior de 25 anos; ter experiência em vendas ou caixa; ser comunicativo e gostar de trabalhar com público; ser proativo; ter responsabilidade com horários e trabalho; conhecimento do IFOOD; limpeza e organização do local de trabalho.",
+    whatsapp: "5547996048251",
+    email: "",
+    banner: "banners/food.jpeg"
+  },
  
  
 
