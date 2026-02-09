@@ -14608,6 +14608,17 @@ const vagas = [
     email: "londrina@hermanito.com.br",
     banner: "banners/herma.jpeg"
   },
+  {
+    data: "2026-02-09", 
+    titulo: "Consultor de Vendas",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Consultor de Vendas em Maringá / PR (conforme código de área 44), exigindo ensino médio completo e experiência com rotina de vendas",
+    descricaoModal:"Requisitos: Ensino médio completo (desejável ensino superior em andamento); experiência com rotina de vendas; boa comunicação e organização. Localização: Maringá / PR (conforme código 44). Empresa: iGUi Maringá.",
+    whatsapp: "5544920012068",
+    email: "ide",
+    banner: "banners/ide.jpeg"
+  },
  
  
 
