@@ -14542,6 +14542,17 @@ const vagas = [
     email: "contato@involvebordados.com.br",
     banner: "banners/vul.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Internista de Veículos",
+    empresa: "Lava Rápido",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Internista de Veículos em lava rápido de Shopping em Londrina (conforme código de área 43), com atuação de segunda a domingo e exigência de experiência na função",
+    descricaoModal:"Funções: Limpeza e higienização interna de veículos. Requisitos: Necessário ter experiência. Informações da Vaga: Salário a combinar; horário de shopping",
+    whatsapp: "5543996611827",
+    email: "",
+    banner: "banners/aaaa.jpeg"
+  },
  
  
 
