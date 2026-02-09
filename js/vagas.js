@@ -14531,6 +14531,17 @@ const vagas = [
     email: "",
     banner: "banners/rosto.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Setor de Acabamento e Embalagem de Peças de Enxoval Clínico",
+    empresa: "Invole Bordados",
+    cidade: "Maringá",
+    descricao: "Oportunidade para o Setor de Acabamento e Embalagem em Maringá / PR (conforme código de área 44), sem exigência de experiência prévia, oferecendo salário compatível e bonificações",
+    descricaoModal:"Pré-requisitos: Ser maior de 18 anos; ser proativa; organizada e detalhista; não precisa ter experiência na área",
+    whatsapp: "5544991320463",
+    email: "contato@involvebordados.com.br",
+    banner: "banners/vul.jpeg"
+  },
  
  
 
