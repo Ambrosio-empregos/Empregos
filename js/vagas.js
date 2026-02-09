@@ -14654,14 +14654,14 @@ const vagas = [
   },
   {
     data: "2026-02-09",
-    titulo: "Vendedora",
+    titulo: "Repositor",
     empresa: "Atlântico Atacado",
     cidade: "Londrina",
-    descricao: "Oportunidade para Vendedora no Atlântico Atacado em Londrina / PR, com remuneração de R$ 2.040,00 mais comissão e benefícios inclusos",
-    descricaoModal:"Benefícios: Salário de R$ 2.040,00 + comissão; alimentação na empresa e vale transporte. Horário: Segunda a sexta das 09h às 18h; sábado das 09h às 16h. Localização: Av. Tiradentes, 3173, Londrina / PR. Empresa: Atlântico Atacado",
+    descricao: "O Atlântico Atacado em Londrina / PR oferece vaga para Repositor com salário de R$ 2.040,00 e benefícios, atuando em jornada de segunda a sábado",
+    descricaoModal:"Benefícios: Salário de R$ 2.040,00; alimentação na empresa e vale transporte. Horário: Segunda a sexta das 09h às 18h; sábado das 09h às 16h",
     whatsapp: "554333722700",
     email: "claudio1atlanticoatacado.com.br",
-    banner: "banners/ets.jpeg"
+    banner: "banners/morta.jpeg"
   },
  
  
