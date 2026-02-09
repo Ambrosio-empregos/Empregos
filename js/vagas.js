@@ -14355,6 +14355,17 @@ const vagas = [
     email: "",
     banner: "banners/nal.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade temporária para Auxiliar de Serviços Gerais em São José do Rio Preto e região (conforme código de área 17), destinada à cobertura de férias, exigindo experiência em limpeza",
+    descricaoModal:"Requisitos: Experiência em limpeza; disponibilidade de horário e comprometimento com as funções",
+    whatsapp: "5517991847152",
+    email: "vagas@empresa.com.br",
+    banner: "banners/efusao.jpeg"
+  },
  
  
 
