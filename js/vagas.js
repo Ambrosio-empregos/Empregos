@@ -14213,7 +14213,7 @@ const vagas = [
     banner: "banners/esvi.jpeg"
   },
    {
-    data: "2026-02-07",
+    data: "2026-02-09",
     titulo: "Atenente na Loja Conceito",
     empresa: "",
     cidade: "Maringá",
