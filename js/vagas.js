@@ -14125,7 +14125,7 @@ const vagas = [
     banner: "banners/acaba.jpeg"
   },
    {
-    data: "2026-02-09",
+    data: "2026-02-07",
     titulo: "Operador de Caixa",
     empresa: "Max Atacadista",
     cidade: "Londrina",
@@ -14136,7 +14136,7 @@ const vagas = [
     banner: "banners/opemufa.jpg"
   },
    {
-    data: "2026-02-09",
+    data: "2026-02-07",
     titulo: "Consultor(a) de Vendas",
     empresa: "Altenburg",
     cidade: "Londrina",
@@ -14147,7 +14147,7 @@ const vagas = [
     banner: "banners/burg.jpeg"
   },
    {
-    data: "2026-02-09", 
+    data: "2026-02-07", 
     titulo: "Consultor(A) de Vendas",
     empresa: "Dudalina",
     cidade: "Londrina",
@@ -14158,7 +14158,7 @@ const vagas = [
     banner: "banners/terna.jpeg"
   },
    {
-    data: "2026-02-09",
+    data: "2026-02-07",
     titulo: "Atendente de Loja",
     empresa: "Ritz Sorveteria",
     cidade: "Cambé",
@@ -14167,6 +14167,17 @@ const vagas = [
     whatsapp: "5543991597711",
     email: "",
     banner: "banners/ritz.jpg"
+  },
+  {
+    data: "2026-02-07",
+    titulo: "Chapeiro",
+    empresa: "PicoLocos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Chapeiro no restaurante Pico Locos em Londrina, com jornada de trabalho das 16h às 23h30",
+    descricaoModal:"Diferenciais para a vaga: Ser uma pessoa que gosta de trabalhar em equipe; ter compromisso e determinação; possuir proatividade e agilidade",
+    whatsapp: "5543999780123",
+    email: "",
+    banner: "banners/pico.jpg"
   },
  
  
