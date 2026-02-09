@@ -14586,6 +14586,17 @@ const vagas = [
     email: "rh@fauel.org.br",
     banner: "banners/uel.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Zeladoria",
+    empresa: "NAC",
+    cidade: "Londrina",
+    descricao: "A Nacional Lubrificantes (NAC) em Londrina-PR está contratando Zeladora para uma jornada de 4 horas diárias, de segunda a sexta, oferecendo salário compatível com o mercado e benefícios",
+    descricaoModal:"Requisitos: Experiência prévia na área de atuação é desejável; capacidade de multitarefa e organização",
+    whatsapp: "",
+    email: "rh@naclub.com.br",
+    banner: "banners/naca.jpeg"
+  },
  
  
 
