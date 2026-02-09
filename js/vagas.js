@@ -14333,6 +14333,28 @@ const vagas = [
     email: "amanda.araujo@angeloni.com.br",
     banner: "banners/pada.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Vendedor de Eletro",
+    empresa: "Angeloni",
+    cidade: "Londrina",
+    descricao: "O Angeloni em Londrina/PR oferece vaga para Vendedor de Eletro, aberta também para pessoas com deficiência (PCD), exigindo experiência com vendas e afinidade com metas",
+    descricaoModal:"Requisitos: Ensino médio completo (ensino superior será um diferencial); afinidade com indicadores e metas; disponibilidade de horários; experiência com vendas",
+    whatsapp: "5543996220002",
+    email: "amanda.araujo@angeloni.com.br",
+    banner: "banners/ele.jpeg"
+  },
+  {
+    data: "2026-02-09",
+    titulo: "Profissional de Vendas",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Profissional de Vendas Externo em Londrina / PR, oferecendo salário fixo mais comissão e benefícios para candidatos com veículo próprio e experiência na área",
+    descricaoModal:"Atividades: Prospecção e atendimento a clientes; visitas externas e negociação; identificação de oportunidades; pós-vendas e relacionamento",
+    whatsapp: "5543999941333",
+    email: "",
+    banner: "banners/nal.jpeg"
+  },
  
  
 
