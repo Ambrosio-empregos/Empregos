@@ -14564,6 +14564,17 @@ const vagas = [
     email: "",
     banner: "banners/art.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Motorista Cat. C/D",
+    empresa: "JRA Transportes",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Motorista categorias C ou D na JRA Transportes em Maringá / PR (conforme código de área 44), para realização de viagens estaduais e interestaduais",
+    descricaoModal:"Informações da Vaga: Atuação com viagens estaduais e interestaduais. Requisitos: Carteira Nacional de Habilitação (CNH) categoria C ou D. Localização: Maringá / PR (conforme código 44). Empresa: JRA Transportes",
+    whatsapp: "5543991483851",
+    email: "",
+    banner: "banners/rabon.jpeg"
+  },
  
  
 
