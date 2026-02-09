@@ -14201,6 +14201,17 @@ const vagas = [
     email: "",
     banner: "banners/vers.jpeg"
   },
+  {
+    data: "2026-02-07",
+    titulo: "Freelancer - Auxiliar de produção",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Freelancer como Auxiliar de Produção em Londrina (conforme código de área 43), exigindo experiência com corte de carnes e frutas",
+    descricaoModal:"Atividades: Preparar, limpar e cortar carnes e frutas; colocar os produtos nas máquinas para fabricação; auxiliar na higienização da sala e dos utensílios após a atividade",
+    whatsapp: "5543999574713",
+    email: "rhbudopet@gmail.com",
+    banner: "banners/esvi.jpeg"
+  },
  
  
 
