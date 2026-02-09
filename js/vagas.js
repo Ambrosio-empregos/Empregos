@@ -14443,6 +14443,17 @@ const vagas = [
     email: "",
     banner: "banners/perma.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Venedora",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora atuar no Shopping Boulevard em Londrina-PR.",
+    descricaoModal:"Localização: Shopping Boulevard. Função: Vendedora.",
+    whatsapp: "554333390288",
+    email: "",
+    banner: "banners/boule.jpeg"
+  },
  
  
 
