@@ -14177,7 +14177,7 @@ const vagas = [
     descricaoModal:"Diferenciais para a vaga: Ser uma pessoa que gosta de trabalhar em equipe; ter compromisso e determinação; possuir proatividade e agilidade",
     whatsapp: "5543999780123",
     email: "",
-    banner: "banners/pico.jpg"
+    banner: "banners/pico.jpeg"
   },
  
  
