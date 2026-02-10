@@ -15213,6 +15213,17 @@ const vagas = [
     email: "",
     banner: "banners/acesso.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar Multifuncional",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Multifuncional! ",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/corpos.jpeg"
+  },
  
 
 
