@@ -14773,6 +14773,17 @@ const vagas = [
     email: "",
     banner: "banners/prid.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Motorista de Caminhão",
+    empresa: "Bitruck",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de caminhão bitruck em Londrina (conforme código de área 43), para atuação em transporte municipal e intermunicipal",
+    descricaoModal:"Informações da Vaga: Atuação com transporte municipal e intermunicipal. Localização: Londrina (conforme código 43",
+    whatsapp: "5543999505958",
+    email: "",
+    banner: "banners/bitu.jpeg"
+  },
  
 
 
