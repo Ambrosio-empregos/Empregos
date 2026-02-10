@@ -14927,6 +14927,17 @@ const vagas = [
     email: "conselho@alfabraz.com.br",
     banner: "banners/rapi.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Auxiliar Geral",
+    empresa: "Marimel",
+    cidade: "MAringá",
+    descricao: "A Marimel Distribuidora em Maringá/Pr oferece vaga para Auxiliar Geral em horário comercial, abrangendo atividades desde a organização de estoque até o atendimento ao cliente",
+    descricaoModal:"Atividades: Separação de pedidos; carga e descarga; organização de estoque; abastecer gôndolas e atendimento ao cliente",
+    whatsapp:"5544999250523",
+    email: "",
+    banner: "banners/mari.jpeg"
+  },
  
 
 
