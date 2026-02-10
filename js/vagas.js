@@ -15488,6 +15488,17 @@ const vagas = [
     email: "qlaranjasuco@gmail.com",
     banner: "banners/suco.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Marceneiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Marceneiro com experiência em Londrina (conforme código de área 43) para contrato imediato, destinada ao público masculino",
+    descricaoModal:"Requisitos: Experiência na função; sexo masculino. Informações Adicionais: Contrato imediato",
+    whatsapp: "5543991133032",
+    email: "",
+    banner: "banners/nazarenonazareno.jpeg"
+  },
  
 
 
