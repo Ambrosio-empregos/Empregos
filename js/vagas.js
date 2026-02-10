@@ -14729,6 +14729,17 @@ const vagas = [
     email: "",
     banner: "banners/monja.jpeg"
   },
+    {
+    data: "2026-02-09",
+    titulo: "Assistente COmercial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Comercial em Londrina (conforme código de área 43), destinada a vendedores comunicativos e proativos para atendimento ao cliente, com oferta de treinamento",
+    descricaoModal:"Requisitos: Boa comunicação; capacidade de trabalhar em equipe e proatividade. Informações da Vaga: Atendimento ao cliente; a empresa oferece treinamentos",
+    whatsapp: "5543988265278",
+    email: "",
+    banner: "banners/seri.jpeg"
+  },
  
  
 
