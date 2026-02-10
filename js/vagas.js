@@ -15444,6 +15444,17 @@ const vagas = [
     email: "lp.nailslashes@gmail.com",
     banner: "banners/olhapramim.jpeg"
   },
+   {
+    data: "2026-02-10", 
+    titulo: "Rebobinador",
+    empresa: "Flexo ZAP",
+    cidade: "Londrina",
+    descricao: "A Flexo Zap em Londrina (conforme código de área 43) contrata Rebobinador com experiência comprovada para atuar de segunda a sexta-feira na operação de máquinas e inspeção de etiquetas",
+    descricaoModal:"Descrição da Vaga: Operar máquina rebobinadora de etiquetas autoadesivas; realizar inspeção visual de qualidade do material (corte, alinhamento, falhas na impressão); separar e organizar bobinas conforme ordens de produção; ajustar quantidade de etiquetas por rolo conforme pedido do cliente; zelar pela limpeza e conservação do equipamento",
+    whatsapp: "5543991153821",
+    email: "ghdflexozap@gmail.com",
+    banner: "banners/zap.jpeg"
+  },
  
 
 
