@@ -14740,6 +14740,17 @@ const vagas = [
     email: "",
     banner: "banners/seri.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Suoporte Atendimento",
+    empresa: "Semi joias",
+    cidade: "Londrina",
+    descricao: "Empresa do ramo de Semi Joias em Londrina busca profissional para suporte e atendimento interno às revendedoras, com foco em relacionamento e organização, oferecendo remuneração fixa e benefícios",
+    descricaoModal:"Atividades: Atendimento interno às revendedoras via WhatsApp e canais internos; esclarecimento de dúvidas sobre produtos e pedidos; apoio na separação e conferência de peças; registro de solicitações em sistema e comunicação ativa",
+    whatsapp: "",
+    email: "regiane.mendes@upgrowth.com.br",
+    banner: "banners/rma.jpeg"
+  },
  
  
 
