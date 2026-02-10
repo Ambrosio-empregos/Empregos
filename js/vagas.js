@@ -14685,6 +14685,17 @@ const vagas = [
     email: "",
     banner: "banners/adi.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Atendente de Farmácia",
+    empresa: "Droga Raia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Farmácia na Droga Raia em Londrina e região, com horário das 13h às 23h, oferecendo mais de 40 benefícios e valorizando a diversidade",
+    descricaoModal:"Requisitos: Ter 18 anos ou mais; ensino médio completo. Benefícios: Programa de Participação nos Resultados; vale-refeição e/ou alimentação; assistência médica e telemedicina; mais de 40 benefícios para o colaborador e sua família",
+    whatsapp: "5541919466762",
+    email: "",
+    banner: "banners/raia.jpeg"
+  },
  
  
 
