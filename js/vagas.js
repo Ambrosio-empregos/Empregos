@@ -15246,6 +15246,28 @@ const vagas = [
     email: "",
     banner: "banners/lepoo.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar Fincaneiro / Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga para Auxiliar Financeiro / Administrativo em Londrina (conforme código de área 43) com salário de R$ 3.000,00 e benefícios, exigindo formação em Administração ou Contabilidade e domínio de Excel",
+    descricaoModal:"Responsabilidades: Rotinas de contas a pagar e receber; conferência de notas fiscais e boletos; lançamento de mercadorias no sistema; auditoria de caixa; cadastro de promoções e produtos; acompanhamento de DRE e organização de documentos",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/musa.jpeg"
+  },
+   {
+    data: "2026-02-10",
+    titulo: "Vendedor",
+    empresa: "Internet Fibra",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Vendedor de Internet Fibra na modalidade de trabalho remoto (home office), com ganhos de até R$ 200,00 por venda efetuada e fornecimento de material de apoio onlineRequisitos: Experiência com vendas. Diferenciais: Possibilidade de trabalhar de onde estiver; material de treinamento disponibilizado online; remuneração de até R$ 200,00 por venda",
+    descricaoModal:"Requisitos: Experiência com vendas. Diferenciais: Possibilidade de trabalhar de onde estiver; material de treinamento disponibilizado online; remuneração de até R$ 200,00 por venda",
+    whatsapp: "5541984757991",
+    email: "",
+    banner: "banners/fib.jpeg"
+  },
  
 
 
