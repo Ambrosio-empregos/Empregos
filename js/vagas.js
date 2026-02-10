@@ -14707,6 +14707,17 @@ const vagas = [
     email: "comercial@selatools.com.br",
     banner: "banners/telev.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Serviços Gerais",
+    empresa: "Ativa Store",
+    cidade: "Londrina",
+    descricao: "A Ativa Store em Londrina/PR oferece vaga para Serviços Gerais em regime CLT, com diversos benefícios inclusos e exigência de experiência na área de limpeza e conservação",
+    descricaoModal:"Requisitos: Experiência na área; agilidade, responsabilidade e atenção aos detalhes. Atividades: Realizar a limpeza e conservação da loja e ambientes de uso comum; zelar pela organização do espaço; repor materiais de higiene",
+    whatsapp: "5543991367846",
+    email: "curriculo@grupomp2.com.br",
+    banner: "banners/varejo.jpeg"
+  },
  
  
 
