@@ -15585,7 +15585,7 @@ const vagas = [
     descricaoModal:"Requisitos: Ensino médio completo; experiência em atendimento ao cliente; ter excelentes habilidades de comunicação verbal e escrita; perfil proativo, organizado e focado em resultados; conhecimentos com informática e sistemas de agendamento; experiência com sistema de gestão (CRM). Empresa: Odonto7 Cambé.",
     whatsapp: "5543988726810",
     email: "",
-    banner: "banners/odo7.jpeg"
+    banner: "banners/brado.jpeg"
   },
  
 
