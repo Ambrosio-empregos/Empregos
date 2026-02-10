@@ -14960,6 +14960,17 @@ const vagas = [
     email: "andrecarlotto@gmail.com",
     banner: "banners/vildo.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Professor Tecnologia",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Professor de Tecnologia direcionada a graduados ou graduandos em áreas de TI e Engenharia.",
+    descricaoModal:"Requisitos: Destinado a graduados ou graduandos em Análise e Desenvolvimento de Sistemas, Engenharia de Software, Engenharia da Computação e áreas afins.",
+    whatsapp: "5544991315568",
+    email: "maringa@franquia-wmbarros.com.br",
+    banner: "banners/tecno.jpeg"
+  },
  
 
 
