@@ -15125,6 +15125,17 @@ const vagas = [
     email: "",
     banner: "banners/enge.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Auxiliar de Expedição",
+    empresa: "Grupo Universo",
+    cidade: "Cambé",
+    descricao: "O Grupo Universo em Cambé-PR oferece vaga para Auxiliar de Expedição com jornada de segunda a sexta-feira, exigindo experiência e conhecimento em Excel para atividades de conferência e contato com clientes",
+    descricaoModal:"Atividades: Contato direto com clientes; conferência; liberação de transportadoras; elaboração de planilhas e cotação. Requisitos: Experiência e conhecimento em Excel",
+    whatsapp: "",
+    email: "uni@universoimpressoes.com.br",
+    banner: "banners/camb.jpeg"
+  },
  
 
 
