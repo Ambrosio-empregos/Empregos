@@ -15587,6 +15587,17 @@ const vagas = [
     email: "",
     banner: "banners/brado.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Atendente",
+    empresa: "Burger King",
+    cidade: "Londrina",
+    descricao: "O Burger King do Shopping Catuaí em Londrina (conforme código de área 43) está contratando Atendentes maiores de 18 anos com disponibilidade de horário",
+    descricaoModal:"Requisitos: Ser maior de 18 anos e possuir disponibilidade de horário para trabalhar em shopping",
+    whatsapp: "5543998568209",
+    email: "",
+    banner: "banners/tumba.jpeg"
+  },
  
 
 
