@@ -14850,6 +14850,17 @@ const vagas = [
     email: "programaleiloes.vagas.solides.com.br",
     banner: "banners/media.jpeg"
   },
+    {
+    data: "2026-02-09",
+    titulo: "Atendente fechador",
+    empresa: "Burger King",
+    cidade: "Londrina",
+    descricao: "O Burger King (Zamp) em Londrina contrata Atendente Fechador para o Londrina Norte Shopping, oferecendo diversos benefícios como participação nos lucros e trilha de carreira para maiores de 18 anos",
+    descricaoModal:"Responsabilidades: Atendimento ao cliente; operação de caixa; preparo e montagem de alimentos; limpeza e higienização; demais atividades pertinentes ao cargo",
+    whatsapp: "5511950872261",
+    email: "",
+    banner: "banners/bk.jpeg"
+  },
  
 
 
