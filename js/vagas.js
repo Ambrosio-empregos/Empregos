@@ -15455,6 +15455,17 @@ const vagas = [
     email: "ghdflexozap@gmail.com",
     banner: "banners/zap.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Analista de Departamento Pessoal",
+    empresa: "ROS Contabilidade",
+    cidade: "Londrina",
+    descricao: "A ROS Contabilidade em Londrina (conforme código de área 43) busca Analista de Departamento Pessoal para executar rotinas completas do setor, desde admissão até folha de pagamento, preferencialmente com domínio do Sistema Domínio",
+    descricaoModal:"Requisitos/Atividades: Executar rotinas de Dpto Pessoal, admissão, rescisão, férias e folha de pgto; controlar e validar ponto eletrônico e horas extras; efetuar cálculos e conferências de encargos sociais; realizar entregas e conferências das obrigações",
+    whatsapp: "5543984558227",
+    email: "",
+    banner: "banners/ros.jpeg"
+  },
  
 
 
