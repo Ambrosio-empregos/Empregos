@@ -14828,6 +14828,17 @@ const vagas = [
     email: "",
     banner: "banners/totti.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Auxiliar de Coleta / Auxiliar de Enfermagem",
+    empresa: "Pro medicina",
+    cidade: "Londrina",
+    descricao: "A PRO MEDICINA Segurança do Trabalho em Londrina oferece vaga para Auxiliar de Coleta ou de Enfermagem, exigindo experiência comprovada em coleta e disponibilidade para atuação conforme demanda",
+    descricaoModal:"Requisitos: Experiência comprovada em coleta; proatividade, responsabilidade, organização e comprometimento profissional; disponibilidade para atuação conforme demanda do setors",
+    whatsapp: "5543988630337",
+    email: "juridico@proocupacional64.com.br",
+    banner: "banners/cole.jpeg"
+  },
  
 
 
