@@ -15081,6 +15081,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/costura.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Padeiro/confeiteiro",
+    empresa: "",
+    cidade: "Londrna",
+    descricao: "A maior e mais tradicional confeitaria de Londrina (conforme código de área 43) busca Padeiro ou Confeiteiro com experiência comprovada, oferecendo ótimo salário e benefícios",
+    descricaoModal:"Requisitos: Experiência comprovada na função. Benefícios: Ótimo salário e benefícios",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/trova.jpeg"
+  },
  
 
 
