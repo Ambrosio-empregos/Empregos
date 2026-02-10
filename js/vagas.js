@@ -14806,6 +14806,17 @@ const vagas = [
     email: "",
     banner: "banners/junio.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Angariadores",
+    empresa: "Imobiliária",
+    cidade: "Londrina",
+    descricao: "Imobiliária em Londrina (conforme código de área 43) contrata Angariadores com ou sem experiência para captação e cadastro de imóveis, oferecendo salário fixo, comissão e ajuda de custo",
+    descricaoModal:"Atividades: Captação ativa e passiva; visita externa e cadastro de imóveis. Requisitos: Desejável veículo próprio; perfil comunicativo e proativo",
+    whatsapp: "5543999676008",
+    email: "",
+    banner: "banners/gos.jpeg"
+  },
  
 
 
