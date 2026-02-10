@@ -15466,6 +15466,17 @@ const vagas = [
     email: "",
     banner: "banners/ros.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Atendente",
+    empresa: "Casa Bauducco",
+    cidade: "Londrina",
+    descricao: "A Casa Bauducco em Londrina busca Atendente para trabalhar em escala 6x1 (horário de shopping), oferecendo pacote completo de benefícios incluindo planos de saúde e bonificação",
+    descricaoModal:"Atividades: Entrega de pedidos e recolhimento de mesas; atendimento ao público; auxílio nos preparos. Benefícios: Vale alimentação, vale transporte, plano de saúde, seguro de vida e bonificação",
+    whatsapp: "5543991968604",
+    email: "",
+    banner: "banners/baudu.jpeg"
+  },
  
 
 
