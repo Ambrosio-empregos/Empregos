@@ -14817,6 +14817,17 @@ const vagas = [
     email: "",
     banner: "banners/gos.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Atendente",
+    empresa: "Totti Sorveteria",
+    cidade: "Londrina",
+    descricao: "A Totti Sorvetes em Londrina (conforme código de área 43) oferece vaga para Atendente com salário de R$ 1.980,00 e benefícios, exigindo disponibilidade de horário para turnos tarde/noite",
+    descricaoModal:"Atividades: Atendimento ao cliente, reposição e organização de mercadorias e limpeza da loja. Requisitos: Comunicação clara e objetiva; bom relacionamento interpessoal; disponibilidade de horário",
+    whatsapp: "554333374263",
+    email: "",
+    banner: "banners/totti.jpeg"
+  },
  
 
 
