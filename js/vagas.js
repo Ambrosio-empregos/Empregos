@@ -15158,6 +15158,17 @@ const vagas = [
     email: "financeniro@pesenti.com.br",
     banner: "banners/pese.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar de Limpeza e Conservação",
+    empresa: "Pesenti",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; A Pesenti Smart Farming oferece vaga para Auxiliar Administrativo (Fiscal) com jornada de segunda a sexta-feira, exigindo formação ou curso em áreas contábeis/administrativas e oferecendo pacote de benefícios com saúde e odontológico",
+    descricaoModal:"Atividades: Emissão de notas fiscais; emissão de guias de recolhimento; rotinas administrativas. Requisitos: Formação ou cursando Ciências Contábeis, Administração (Faculdade ou Cursos Técnicos) ou áreas afins; conhecimento básico em informática (Pacote Office",
+    whatsapp: "",
+    email: "financeniro@pesenti.com.br",
+    banner: "banners/pres.jpeg"
+  },
  
 
 
