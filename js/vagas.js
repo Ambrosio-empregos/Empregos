@@ -15301,6 +15301,17 @@ const vagas = [
     email: "",
     banner: "banners/interc.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Recepcionista-Telefonista",
+    empresa: "Don Saúde",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Recepcionista / Telefonista via CLT na DonSaúde em Londrina, com foco em agendamentos, conversão e metas.",
+    descricaoModal:"Responsabilidades: Atendimento por telefone e WhatsApp; agendamento de consultas e exames; foco em conversão e metas; apoio aos processos internos. Benefícios: Vale-refeição; vale-transporte ou auxílio mobilidade; bonificação por metas.",
+    whatsapp: "5543991962030",
+    email: "supervisão.londrina@donsaude.com.br",
+    banner: "banners/clt.jpeg"
+  },
  
 
 
