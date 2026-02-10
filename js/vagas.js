@@ -15026,6 +15026,17 @@ const vagas = [
     email: "",
     banner: "banners/free.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Snacks Burger",
+    cidade: "Maringá",
+    descricao: "O Snack's Burguer em Maringá - PR oferece oportunidade para Auxiliar de Cozinha com salário e benefícios, para atuação na praça de alimentação do Shopping Avenida Center",
+    descricaoModal:"Informações da Vaga: Atuação como Auxiliar de Cozinha; oferta de salário mais benefícios.",
+    whatsapp: "5544998524318",
+    email: "",
+    banner: "banners/eisq.jpeg"
+  },
  
 
 
