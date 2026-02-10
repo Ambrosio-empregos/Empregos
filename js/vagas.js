@@ -15015,6 +15015,17 @@ const vagas = [
     email: "",
     banner: "banners/boule.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "FREELANCER",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Freelancer atuar na movimentação de carga e descarga de estruturas com valor de R$ 115,00 + R$ 18,00 de almoço.",
+    descricaoModal:"A função consiste na movimentação de carga e descarga de estruturas, com horário de trabalho das 08:00 às 18:00, sendo uma oportunidade para quem busca fazer uma renda extra.",
+    whatsapp: "5543991367846",
+    email: "",
+    banner: "banners/free.jpeg"
+  },
  
 
 
