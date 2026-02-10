@@ -14839,6 +14839,17 @@ const vagas = [
     email: "juridico@proocupacional64.com.br",
     banner: "banners/cole.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Social Media",
+    empresa: "Remate Web",
+    cidade: "Londrina",
+    descricao: "A Remate WEB em Londrina (conforme código de área 43) busca profissional de Social Media, oferecendo um amplo pacote de benefícios que inclui planos de saúde, odontológico e incentivo ao esporte",
+    descricaoModal:"Benefícios: Plano de saúde Unimed nacional; plano odontológico Uniodonto; vale transporte; refeição no restaurante da sede; atendimento de saúde emocional com psicóloga parceira (100% custeado pela empresa); seguro de vida; day off no aniversário; Wellhub (GymPass) com acesso a academias em todo o Brasil; incentivo ao esporte (Vôlei 100% custeado pela empresa",
+    whatsapp: "5543991738485",
+    email: "programaleiloes.vagas.solides.com.br",
+    banner: "banners/media.jpeg"
+  },
  
 
 
