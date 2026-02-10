@@ -15356,6 +15356,17 @@ const vagas = [
     email: "",
     banner: "banners/vigiai.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Designer",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Empresa em Londrina (conforme código de área 43) busca profissional detalhista e ágil com domínio em softwares de criação como Corel Draw e Photoshop para completar sua equipe",
+    descricaoModal:"Perfil desejado: Profissional detalhista, comunicativo e ágil. Requisitos técnicos: Conhecimento em Corel Draw, Photoshop, Illustrator ou InDesign",
+    whatsapp: "5543991467896",
+    email: "",
+    banner: "banners/estu.jpeg"
+  },
  
 
 
