@@ -15057,7 +15057,7 @@ const vagas = [
     descricaoModal:"envie seu currículo pelo Whatsapp!",
     whatsapp: "554330267710",
     email: "",
-    banner: "banners/veu.jpeg"
+    banner: "banners/bluea.jpeg"
   },
  
 
