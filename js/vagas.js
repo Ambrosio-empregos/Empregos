@@ -15411,6 +15411,17 @@ const vagas = [
     email: "",
     banner: "banners/defina.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Assistente Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Empresa em Londrina (conforme código de área 43) contrata Assistente Administrativo com perfil analítico e proativo para suporte à gestão e organização de documento",
+    descricaoModal:"Planejamento e acompanhamento de atividades do setor; monitoramento de prazos, custos e indicadores; relacionamento com fornecedores, parceiros e áreas internas; organização de documentos e suporte à gestão; apoio às rotinas administrativas.",
+    whatsapp: "5543988083694",
+    email: "",
+    banner: "banners/adms.jpeg"
+  },
  
 
 
