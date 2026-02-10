@@ -15422,6 +15422,17 @@ const vagas = [
     email: "",
     banner: "banners/adms.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar de Serviços em Limpeza Profissional",
+    empresa: "Sofistic Facilities",
+    cidade: "Londrina",
+    descricao: "A Sofistic Facilities em Londrina (conforme código de área 43) busca profissionais para a vaga de Auxiliar de Serviços em Limpeza Profissional, oferecendo um ambiente positivo focado em crescimento e respeito",
+    descricaoModal:"Informações da Vaga: Empresa busca profissionais que queiram melhorar seus ganhos e trabalhar em equipe; valorização do colaborador com foco em oportunidade e reconhecimento",
+    whatsapp: "5543991267096",
+    email: "",
+    banner: "banners/telet.jpeg"
+  },
  
 
 
