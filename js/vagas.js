@@ -15290,6 +15290,17 @@ const vagas = [
     email: "",
     banner: "banners/acen.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Supervisor de Pátio",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oficina mecânica em Londrina (conforme código de área 43) seleciona Supervisor de Pátio com perfil de liderança e experiência no atendimento a frotistas e locadoras",
+    descricaoModal:"Requisitos: Experiência em oficina mecânica; vivência no atendimento a frotistas e locadoras; perfil organizado e com habilidade de liderança",
+    whatsapp: "554333290043",
+    email: "",
+    banner: "banners/interc.jpeg"
+  },
  
 
 
