@@ -15284,7 +15284,7 @@ const vagas = [
     titulo: "Acentador de paver",
     empresa: "",
     cidade: "Londrina",
-    descricao: "Vaga para Acentador de paver. Sómensagem whatsapp.",
+    descricao: "Vaga para Acentador de paver. Só mensagem whatsapp.",
     descricaoModal:"Envie seu currículo pelo whatsapp, por favor não insista em ligar.",
     whatsapp: "5543991279953",
     email: "",
