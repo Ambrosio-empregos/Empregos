@@ -15532,6 +15532,17 @@ const vagas = [
     email: "vagas@granosul.com.br",
     banner: "banners/granooo.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Designer Multimidia",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Designer Multimidia com perfil criativo e executor para atuação presencial de segunda a sexta-feira.",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543996795268",
+    email: "rh.duolz@gmail.com",
+    banner: "banners/dentroprafora.jpeg"
+  },
  
 
 
