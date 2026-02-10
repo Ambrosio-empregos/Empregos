@@ -15499,6 +15499,17 @@ const vagas = [
     email: "",
     banner: "banners/nazarenonazareno.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Mecânico de manutenção Industrial",
+    empresa: "Granosul",
+    cidade: "Londrina",
+    descricao: "A Granosul em Cambé-PR oferece vaga para Mecânico de Manutenção Industrial, exigindo curso de mecânica e experiência comprovada para revisão e ajuste de máquinas e equipamentos da fábrica",
+    descricaoModal:"Principais Atividades: Revisar máquinas e equipamentos; realizar manutenção e ajustes necessários para o bom andamento da fábrica",
+    whatsapp: "5543991545729",
+    email: "vagas@granosul.com.br",
+    banner: "banners/grano.jpeg"
+  },
  
 
 
