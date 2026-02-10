@@ -14971,6 +14971,17 @@ const vagas = [
     email: "maringa@franquia-wmbarros.com.br",
     banner: "banners/tecno.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Vendedor",
+    empresa: "Loja comércio varejista",
+    cidade: "Londrina",
+    descricao: "Loja do comércio varejista na Zona Sul de Londrina contrata Vendedores acima de 22 anos para integrar sua equipe de vendas",
+    descricaoModal:"Requisitos: Ter idade acima de 22 anos. Localização: Zona Sul de Londrina. Ramo: Loja de comércio varejista",
+    whatsapp: "5543998639028",
+    email: "",
+    banner: "banners/sul.jpeg"
+  },
  
 
 
