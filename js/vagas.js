@@ -15510,6 +15510,17 @@ const vagas = [
     email: "vagas@granosul.com.br",
     banner: "banners/grano.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar Geral",
+    empresa: "Granosul",
+    cidade: "Londrina",
+    descricao: "A Granosul em Cambé - PR oferece vaga para Auxiliar Geral em escala 6x2, com atividades voltadas à operação e limpeza de máquinas, além de coleta de amostras para análise laboratorial",
+    descricaoModal:"Principais Atividades: Auxiliar na operação, controle, limpeza e conservação das máquinas e equipamentos; coletar amostras do processo intermediário para análise laboratorial; executar outras tarefas correlatas, conforme solicitação",
+    whatsapp: "5543991545729",
+    email: "vagas@granosul.com.br",
+    banner: "banners/granoo.jpeg"
+  },
  
 
 
