@@ -15037,6 +15037,28 @@ const vagas = [
     email: "",
     banner: "banners/eisq.jpeg"
   },
+    {
+    data: "2026-02-10",
+    titulo: "Auxiliar de E-commerce",
+    empresa: "Brites",
+    cidade: "Maringá",
+    descricao: "Vaga para Auxiliar de E-commerce em Maringá (conforme código de área 44), focada na operação de marketplaces como Mercado Livre e Shopee via sistema Bling",
+    descricaoModal:"Responsabilidades: Operação de marketplaces (Mercado Livre/Shopee) via Bling; criação de anúncios e conteúdo visual; gestão de vendas e promoções; atendimento ao cliente e suporte pós-venda; garantia de eficiência no fluxo de pedidos, devoluções e lançamentos na plataforma",
+    whatsapp: "5544988232992",
+    email: "",
+    banner: "banners/ecom.jpeg"
+  },
+  {
+    data: "2026-02-10",
+    titulo: "Cozinheiro/Churrasqueiro",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Somente com experiência mínima de 3 anos.",
+    descricaoModal:"envie seu currículo pelo Whatsapp!",
+    whatsapp: "554330267710",
+    email: "",
+    banner: "banners/veu.jpeg"
+  },
  
 
 
