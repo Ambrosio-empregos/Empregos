@@ -14751,6 +14751,17 @@ const vagas = [
     email: "regiane.mendes@upgrowth.com.br",
     banner: "banners/rma.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Auxiliar de Estoque",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Estoque em Londrina (próximo à EPESMEL), com início imediato para candidatos maiores de 18 anos, oferecendo salário de R$ 1.958,00 e benefícios",
+    descricaoModal:"Requisitos: Ensino médio completo; ser maior de 18 anos; organizado, assíduo, comprometido e proativo; boa disposição física",
+    whatsapp: "5543999828485",
+    email: "",
+    banner: "banners/pow.jpeg"
+  },
  
  
 
