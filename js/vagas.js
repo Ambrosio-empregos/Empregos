@@ -15521,6 +15521,17 @@ const vagas = [
     email: "vagas@granosul.com.br",
     banner: "banners/granoo.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Eletricista Industrial",
+    empresa: "Granosul",
+    cidade: "Londrina",
+    descricao: "A Granosul em Cambé-PR contrata Eletricista Industrial para manutenção preventiva e corretiva em circuitos, máquinas e equipamentos, além de diagnóstico de problemas elétricos",
+    descricaoModal:"Principais Atividades: Realizar serviços de manutenção preventiva e corretiva em circuitos, máquinas, equipamentos e predial; substituir peças e componentes elétricos em cabines elétricas, painéis e motores elétricos; diagnosticar possíveis problemas elétricos, vibrações, ruídos e/ou quaisquer outros problemas elétricos",
+    whatsapp: "5543991545729",
+    email: "vagas@granosul.com.br",
+    banner: "banners/granooo.jpeg"
+  },
  
 
 
