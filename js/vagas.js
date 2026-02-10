@@ -15330,9 +15330,20 @@ const vagas = [
     cidade: "Londrina",
     descricao: "Vaga para Padeiro em Londrina (conforme código de área 43), com o diferencial de folga fixa em todos os domingos",
     descricaoModal:"Informações da Vaga: Atuação como Padeiro; folga em todos os domingos",
-    whatsapp: "55433024005",
+    whatsapp: "554330240505",
     email: "",
     banner: "banners/pade.jpeg"
+  },
+   {
+    data: "2026-02-10", 
+    titulo: "Balconista",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga para Balconista em Londrina (conforme código de área 43), com o benefício de folga fixa em todos os domingos",
+    descricaoModal:"Informações da Vaga: Atuação como Balconista; folga garantida em todos os domingos",
+    whatsapp: "554330240505",
+    email: "",
+    banner: "banners/nis.jpeg"
   },
  
 
