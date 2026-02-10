@@ -14674,6 +14674,17 @@ const vagas = [
     email: "",
     banner: "banners/gra.jpeg"
   },
+   {
+    data: "2026-02-09", 
+    titulo: "Consultor(a) de vendas",
+    empresa: "Ademicon",
+    cidade: "Cambé",
+    descricao: "Oportunidade para Consultor(a) de Vendas na Ademicon Cambé Centro, aberta para homens e mulheres acima de 18 anos que buscam crescimento e ganhos acima da média.",
+    descricaoModal:"Requisitos: Pessoas acima de 18 anos; homem ou mulher; perfil comprometido, comunicativo e disposto a aprender. Benefícios: Ganhos acima da média; flexibilidade de horário; treinamento e capacitação diária; oportunidade de crescimento.",
+    whatsapp: "554333243090",
+    email: "",
+    banner: "banners/adi.jpeg"
+  },
  
  
 
