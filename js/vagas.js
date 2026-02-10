@@ -14762,7 +14762,17 @@ const vagas = [
     email: "",
     banner: "banners/pow.jpeg"
   },
- 
+  {
+    data: "2026-02-09",
+    titulo: "Estágio de Engenharia Civíl",
+    empresa: "Pride",
+    cidade: "Londrina",
+    descricao: "A Pride Construtora oferece vaga de estágio em Engenharia Civil em Londrina, com bolsa de R$ 1.800,00 e diversos benefícios, focada no acompanhamento e suporte técnico em obras",
+    descricaoModal:"Atividades: Acompanhar o dia a dia da obra; ajudar no controle de qualidade e checklists; apoiar nos relatórios de produção e custos; aprender com profissionais experientes do mercado",
+    whatsapp: "5541988113576",
+    email: "",
+    banner: "banners/prid.jpeg"
+  },
  
 
 
