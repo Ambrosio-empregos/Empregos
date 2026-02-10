@@ -14916,6 +14916,17 @@ const vagas = [
     email: "",
     banner: "banners/xerere.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Atendimento Comercial e Assistente de Orçamentos",
+    empresa: "Alfabraz",
+    cidade: "Londrina",
+    descricao: "Alfabraz Engenharia em Londrina oferece vaga para Atendimento Comercial e Assistente de Orçamentos com diversos benefícios inclusos, destinada a candidatos com ensino superior (cursando ou completo) e experiência na área",
+    descricaoModal:"Requisitos: Experiência prévia em atendimento ao cliente ou vendas internas; cursando ou já concluído curso superior (preferencialmente Administração de Empresas ou Ciências Contábeis); habilidade com Excel/Word e facilidade com sistemas de gestão",
+    whatsapp: "",
+    email: "conselho@alfabraz.com.br",
+    banner: "banners/rapi.jpeg"
+  },
  
 
 
