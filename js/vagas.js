@@ -14883,6 +14883,28 @@ const vagas = [
     email: "",
     banner: "banners/ictusc.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Entregador",
+    empresa: "Ictus Pescado",
+    cidade: "Londrina",
+    descricao: "A Ictus Pescado em Londrina (conforme código de área 43) oferece vaga para Entregador com jornada diária de segunda a sexta, exigindo CNH categoria B e experiência com entregas",
+    descricaoModal:"Requisitos: Carteira B; experiência com entregas; disponibilidade de horário e condução de carro da empresa",
+    whatsapp: "5543999413063",
+    email: "",
+    banner: "banners/isc.jpeg"
+  },
+  {
+    data: "2026-02-10",
+    titulo: "Angariadores",
+    empresa: "Imobiliária",
+    cidade: "Londrina",
+    descricao: "Imobiliária em Londrina (conforme código de área 43) contrata Angariadores com ou sem experiência para captação e cadastro de imóveis, oferecendo salário fixo, comissão e ajuda de custo",
+    descricaoModal:"Atividades: Captação ativa e passiva; visita externa e cadastro de imóveis. Requisitos: Desejável veículo próprio; perfil comunicativo e proativo",
+    whatsapp: "5543999676008",
+    email: "",
+    banner: "banners/gos.jpeg"
+  },
  
 
 
