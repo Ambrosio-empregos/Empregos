@@ -14795,6 +14795,17 @@ const vagas = [
     email: "",
     banner: "banners/recu.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Analista Contábil Júnior",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Analista Contábil Júnior em Londrina (conforme código de área 43), com salário de R$ 2.000,00 e vale alimentação de R$ 700,00, exigindo ensino superior em Ciências Contábeis",
+    descricaoModal:"Responsabilidades: Realizar lançamentos e conciliações contábeis; apoiar na elaboração de balancetes e demonstrações; organização e conferência de documentos; apoio no fechamento mensal e atendimento de demandas internas",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/junio.jpeg"
+  },
  
 
 
