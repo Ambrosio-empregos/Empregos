@@ -15378,6 +15378,17 @@ const vagas = [
     email: "",
     banner: "banners/toto.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Professor de Musculação",
+    empresa: "Estação Fitness",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Professor de Musculação na Estação Fitness, para contratação imediata de profissional com CREF ativo e boa comunicação.",
+    descricaoModal:"Requisitos: Experiência na função; CREF ativo; capacidade de inspirar alunos; boa comunicação. Benefícios e Ofertas: Treinamentos constantes; salário compatível com a função; contratação imediata. Empresa: Estação Fitness Academia.",
+    whatsapp: "5543984081727",
+    email: "",
+    banner: "banners/maromba.jpeg"
+  },
  
 
 
