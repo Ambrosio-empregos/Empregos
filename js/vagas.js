@@ -15279,6 +15279,17 @@ const vagas = [
     email: "",
     banner: "banners/musaa.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Acentador de paver",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga para Acentador de paver. Sómensagem whatsapp.",
+    descricaoModal:"Envie seu currículo pelo whatsapp, por favor não insista em ligar.",
+    whatsapp: "5543991279953",
+    email: "",
+    banner: "banners/acen.jpeg"
+  },
  
 
 
