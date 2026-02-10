@@ -15433,6 +15433,17 @@ const vagas = [
     email: "",
     banner: "banners/telet.jpeg"
   },
+   {
+    data: "2026-01-26", 
+    titulo: "Repositor de Loja",
+    empresa: "LP",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Repositor de LOja na LP Nails & Lashes.",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543996279426",
+    email: "lp.nailslashes@gmail.com",
+    banner: "banners/olhapramim.jpeg"
+  },
  
 
 
