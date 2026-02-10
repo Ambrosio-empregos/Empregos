@@ -15191,6 +15191,17 @@ const vagas = [
     email: "",
     banner: "banners/vagas.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Vendedora",
+    empresa: "Giramundo Girassol",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora na Giramundo Girassol Brinquedos em Londrina (conforme código de área 43), exigindo experiência mínima de um ano em carteira e perfil proativo.",
+    descricaoModal:"Pré-requisitos: Experiência em loja de 1 ano em carteira; ser maior de 18 anos; ser comunicativa; que seja proativa; que goste de vendas.",
+    whatsapp: "5543991864915",
+    email: "",
+    banner: "banners/gira.jpeg"
+  },
  
 
 
