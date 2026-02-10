@@ -15543,6 +15543,17 @@ const vagas = [
     email: "rh.duolz@gmail.com",
     banner: "banners/dentroprafora.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Costureira",
+    empresa: "Elis",
+    cidade: "Maringá",
+    descricao: "A Elis em Maringá (Frig.) oferece vaga para Costureira com salário de R$ 2.012,69 e benefícios, para atuar de segunda a sexta-feira em reparos e produção de peças de enxoval",
+    descricaoModal:"Principais Atividades: Separar manualmente peças de enxoval e dar reparo nelas; colocar faixa e bolsos em jalecos; produzir 70 kg diários de conserto de peças de enxoval",
+    whatsapp: "5544991337966",
+    email: "",
+    banner: "banners/elis.jpeg"
+  },
  
 
 
