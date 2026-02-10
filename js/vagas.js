@@ -15268,6 +15268,17 @@ const vagas = [
     email: "",
     banner: "banners/fib.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar Operacional de Manutenções",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga para Auxiliar Operacional de Manutenções em Londrina",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/musaa.jpeg"
+  },
  
 
 
