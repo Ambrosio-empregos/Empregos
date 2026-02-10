@@ -15103,6 +15103,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/past.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Consultora de Vendas",
+    empresa: "Onlauri",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultora de Vendas na loja Onlauri em Balneário Camboriú, voltada para profissionais que amam moda, atendimento e desejam integrar um time criativo.",
+    descricaoModal:"Perfil: Profissional que ame moda, atendimento ao cliente e queira fazer parte de um time criativo e acolhedor. Localização: Balneário Camboriú. Empresa: Onlauri.",
+    whatsapp: "5534992454552",
+    email: "marketing@onaluri.com.br",
+    banner: "banners/molt.jpeg"
+  },
  
 
 
