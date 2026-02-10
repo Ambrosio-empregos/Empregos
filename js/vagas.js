@@ -14718,6 +14718,17 @@ const vagas = [
     email: "curriculo@grupomp2.com.br",
     banner: "banners/varejo.jpeg"
   },
+   {
+    data: "2026-02-09",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em Londrina (conforme código de área 43), com ganhos de até R$ 2.070,00 e benefícios, para atuação na produção diária de bolos caseiros",
+    descricaoModal:"Atividades: Auxiliar nos afazeres da cozinha, incluindo preparo de bolos, recheios e coberturas, além de organização e limpeza. Requisitos: Gostar de cozinha; ser caprichosa; ter interesse real e disponibilidade para início imediato em vaga com registro em carteira",
+    whatsapp: "5543988435908",
+    email: "",
+    banner: "banners/monja.jpeg"
+  },
  
  
 
