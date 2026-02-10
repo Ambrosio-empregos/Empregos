@@ -15345,6 +15345,17 @@ const vagas = [
     email: "",
     banner: "banners/nis.jpeg"
   },
+  {
+    data: "2026-01-07",
+    titulo: "Designer",
+    empresa: "Work On Time",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Designer na Work On Time",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543996009566",
+    email: "",
+    banner: "banners/vigiai.jpeg"
+  },
  
 
 
