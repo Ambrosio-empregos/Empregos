@@ -15367,6 +15367,17 @@ const vagas = [
     email: "",
     banner: "banners/estu.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Entregador Noturno",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Entregador Noturno em Londrina com moto da empresa, oferecendo salário de R$ 1.800,00, lanche e folga semanal.",
+    descricaoModal:"Responsabilidades: Realizar entregas de lanches de forma ágil e cuidadosa; apoiar nas rotinas da loja quando necessário.",
+    whatsapp: "5543988406185",
+    email: "",
+    banner: "banners/toto.jpeg"
+  },
  
 
 
