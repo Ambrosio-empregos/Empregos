@@ -15565,6 +15565,17 @@ const vagas = [
     email: "",
     banner: "banners/eliss.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Auxiliar de Lavanderia",
+    empresa: "Elis",
+    cidade: "Maringá",
+    descricao: "A Elis em Maringá Frig. oferece vaga exclusiva para mulheres como Auxiliar de Lavanderia, com salário de R$ 1.621,00 e benefícios, para atuar no turno da noite em escala de domingo a sexta-feira.",
+    descricaoModal:"Principais Atividades: Separar manualmente os enxovais e analisar para evitar entrega de peças em mal estado ou misturas; dobrar manualmente os enxovais para acondicionamento; receber e inspecionar enxovais dobrados e passados para identificar defeitos; entregar para o cliente e abastecer os locais de troca",
+    whatsapp: "5544991337966",
+    email: "",
+    banner: "banners/elisss.jpeg"
+  },
  
 
 
