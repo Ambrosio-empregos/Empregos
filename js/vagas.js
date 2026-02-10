@@ -15323,6 +15323,17 @@ const vagas = [
     email: "",
     banner: "banners/canta.jpeg"
   },
+  {
+    data: "2026-02-10", 
+    titulo: "Padeiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga para Padeiro em Londrina (conforme código de área 43), com o diferencial de folga fixa em todos os domingos",
+    descricaoModal:"Informações da Vaga: Atuação como Padeiro; folga em todos os domingos",
+    whatsapp: "55433024005",
+    email: "",
+    banner: "banners/pade.jpeg"
+  },
  
 
 
