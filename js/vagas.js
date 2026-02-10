@@ -15554,6 +15554,17 @@ const vagas = [
     email: "",
     banner: "banners/elis.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Operador de Máquinas",
+    empresa: "Elis",
+    cidade: "Maringá",
+    descricao: "A Elis em Maringá (FRIG) contrata Operador(a) de Máquinas para atuar no processo de higienização, com salário de R$ 1.739,73 e benefícios, em escala de segunda a sexta-feira",
+    descricaoModal:"Principais Atividades: Coletar roupas nos vestiários da unidade; realizar a retirada das peças das máquinas de lavagem e centrífugas; garantir o correto manuseio e fluxo do material durante o processo de higienização",
+    whatsapp: "5544991337966",
+    email: "",
+    banner: "banners/eliss.jpeg"
+  },
  
 
 
