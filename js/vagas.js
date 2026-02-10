@@ -15169,6 +15169,17 @@ const vagas = [
     email: "financeniro@pesenti.com.br",
     banner: "banners/pres.jpeg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Recepcionista",
+    empresa: "Pesenti",
+    cidade: "Londrina",
+    descricao: "SOMENTE EMAIL; A Pesenti Smart Farming em Londrina/PR oferece vaga para Recepcionista com jornada de segunda a sexta-feira, exigindo experiência na função e oferecendo benefícios como vale alimentação e planos de saúde e odontológico após período de experiência",
+    descricaoModal:"Atividades: Recepcionar clientes, fornecedores e visitantes; atender telefone e encaminhar ligações; receber e direcionar correspondências e encomendas; apoio em atividades administrativas gerais; apoio aos setores financeiro, comercial ou RH quando necessário",
+    whatsapp: "",
+    email: "financeniro@pesenti.com.br",
+    banner: "banners/santua.jpeg"
+  },
  
 
 
