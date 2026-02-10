@@ -14784,6 +14784,17 @@ const vagas = [
     email: "",
     banner: "banners/bitu.jpeg"
   },
+  {
+    data: "2026-02-09",
+    titulo: "Recuperador",
+    empresa: "Fortcar01",
+    cidade: "Londrina",
+    descricao: "A FORTCAR01 em Londrina (conforme código de área 43) está contratando Recuperador para integrar seu time, oferecendo salário a combinar para atuação na Avenida Dez de Dezembro",
+    descricaoModal:"Informações da Vaga: Salário a combinar. Localização: Avenida Dez de Dezembro, nº 1304, Londrina (conforme código 43). Empresa: FORTCAR01",
+    whatsapp: "5543999678695",
+    email: "",
+    banner: "banners/recu.jpeg"
+  },
  
 
 
