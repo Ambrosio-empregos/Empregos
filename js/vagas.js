@@ -15346,7 +15346,7 @@ const vagas = [
     banner: "banners/nis.jpeg"
   },
   {
-    data: "2026-01-07",
+    data: "2026-02-10",
     titulo: "Designer",
     empresa: "Work On Time",
     cidade: "Londrina",
