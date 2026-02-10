@@ -14931,12 +14931,23 @@ const vagas = [
     data: "2026-02-09",
     titulo: "Auxiliar Geral",
     empresa: "Marimel",
-    cidade: "MAringá",
+    cidade: "Maringá",
     descricao: "A Marimel Distribuidora em Maringá/Pr oferece vaga para Auxiliar Geral em horário comercial, abrangendo atividades desde a organização de estoque até o atendimento ao cliente",
     descricaoModal:"Atividades: Separação de pedidos; carga e descarga; organização de estoque; abastecer gôndolas e atendimento ao cliente",
     whatsapp:"5544999250523",
     email: "",
     banner: "banners/mari.jpeg"
+  },
+  , {
+    data: "2026-02-09",
+    titulo: "Atendente de Gelataria",
+    empresa: "Gelataria",
+    cidade: "Maringá",
+    descricao: "Vaga de Atendente para Gelateria localizada no centro de Maringá (conforme código de área 44), com salário e benefícios totalizando R$ 2.600,00 e escala de trabalho variada",
+    descricaoModal:"Atividades: Atender os clientes, servindo copos e cascão; produzir o cascão artesanal e manter o ambiente limpo e organizado",
+    whatsapp:"5544984028104",
+    email: "",
+    banner: "banners/taria.jpeg"
   },
  
 
