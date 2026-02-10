@@ -15136,6 +15136,17 @@ const vagas = [
     email: "uni@universoimpressoes.com.br",
     banner: "banners/camb.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Açougueiro",
+    empresa: "Casa de Carnes Paraná",
+    cidade: "Londrina",
+    descricao: "A Casa de Carnes Paraná em Londrina (conforme código de área 43) contrata Açougueiro para trabalho presencial de 44h semanais, oferecendo salário fixo, benefícios e oportunidade de crescimento",
+    descricaoModal:"Atividades: Desossa e cortes de carnes (bovinos, suínos e aves); produção de hambúrgueres, espetinhos e demais itens; atendimento ao cliente no balcão; organização e limpeza do local de trabalho",
+    whatsapp: "5543991011418",
+    email: "",
+    banner: "banners/abro.jpeg"
+  },
  
 
 
