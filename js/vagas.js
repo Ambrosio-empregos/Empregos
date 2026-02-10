@@ -15400,6 +15400,17 @@ const vagas = [
     email: "",
     banner: "banners/beta.jpg"
   },
+  {
+    data: "2026-02-10",
+    titulo: "Vendedor",
+    empresa: "Defina Banker",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Vendedor(a) na Defina Banker para as filiais de Ibiporã e Londrina, oferecendo remuneração fixa mais comissões e premiações.",
+    descricaoModal:"Requisitos: Possuir boa comunicação; ser responsável; ter ensino médio completo; ter disponibilidade de horário. Benefícios: Remuneração fixa; comissão; vale-transporte; premiações. Localização: Vagas disponíveis para as filiais de Ibiporã e Londrina.",
+    whatsapp: "5543988471745",
+    email: "",
+    banner: "banners/defina.jpeg"
+  },
  
 
 
