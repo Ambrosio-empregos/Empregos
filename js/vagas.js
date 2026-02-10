@@ -15316,7 +15316,7 @@ const vagas = [
     data: "2026-02-10", 
     titulo: "Auxiliar de Cozinha",
     empresa: "",
-    cidade: "Londrina",
+    cidade: "Arapongas",
     descricao: "Oportunidade para Auxiliar de Cozinha em Arapongas (conforme código de área 44), exigindo experiência prévia na área e conhecimentos básicos em informática e comunicação digital",
     descricaoModal:"Requisitos: Experiência prévia em cozinha; domínio do Pacote Office; facilidade com WhatsApp. Localização: Arapongas",
     whatsapp: "5544997283189",
