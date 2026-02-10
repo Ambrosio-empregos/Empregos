@@ -15434,7 +15434,7 @@ const vagas = [
     banner: "banners/telet.jpeg"
   },
    {
-    data: "2026-01-26", 
+    data: "2026-02-10", 
     titulo: "Repositor de Loja",
     empresa: "LP",
     cidade: "Maringá",
