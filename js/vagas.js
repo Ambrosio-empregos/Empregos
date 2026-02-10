@@ -14993,6 +14993,17 @@ const vagas = [
     email: "",
     banner: "banners/facu.jpeg"
   },
+   {
+    data: "2026-02-10",
+    titulo: "Controlador de Acesso",
+    empresa: "Lidere",
+    cidade: "Cambé",
+    descricao: "Vaga para Controlador de Acesso em Cambé - PR para atuação em portaria de empresa, sendo necessário possuir veículo próprio para o deslocamento",
+    descricaoModal:"Requisitos: Possuir veículo próprio. Atividades: Atuação em portaria de empresa",
+    whatsapp: "554333570326",
+    email: "",
+    banner: "banners/acess.jpeg"
+  },
  
 
 
