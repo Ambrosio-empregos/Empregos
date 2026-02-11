@@ -15796,6 +15796,28 @@ const vagas = [
     email: "",
     banner: "banners/bluey.jpeg"
   },
+   {
+    data: "2026-02-11", 
+    titulo: "Auxiliar de Adminstração",
+    empresa: "Odonto Lab",
+    cidade: "Londrina",
+    descricao: "Vaga disponível para Auxiliar de Administração na Odontolab! Se você tem experiência na área e busca uma nova oportunidade, venha fazer parte da nossa equipe",
+    descricaoModal:"Oportunidade para Auxiliar de Administração com experiência comprovada.",
+    whatsapp: "5543999949386",
+    email: "odontolab@odontolab.com.br",
+    banner: "banners/esmor.jpeg"
+  },
+  {
+    data: "2026-02-11",
+    titulo: "Vendedora",
+    empresa: "TOu Ti",
+    cidade: "",
+    descricao: "Oportunidade para Vendedora na TouTi Jf, empresa especializada em fragrâncias importadas.",
+    descricaoModal:"A TouTi Jf Fragrâncias Importadas está com vaga aberta para a função de Vendedora.",
+    whatsapp: "5514996054444",
+    email: "",
+    banner: "banners/touti.jpeg"
+  },
  
 
 
