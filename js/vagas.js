@@ -15686,6 +15686,17 @@ const vagas = [
     email: "",
     banner: "banners/estou.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Vistoriador",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga para Vistoriador! Se você é uma pessoa atenciosa, pontual e detalhista, venha fazer parte da nossa equipe",
+    descricaoModal:"Oportunidade para Vistoriador. Requisitos: Boa comunicação escrita para elaboração de laudos de vistoria, atenção aos detalhes, boa capacidade de observação, pontualidade e comprometimento. Buscamos profissionais que prezem pela qualidade e precisão nas informações",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/visto.jpeg"
+  },
  
 
 
