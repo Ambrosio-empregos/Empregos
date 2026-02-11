@@ -16060,6 +16060,17 @@ const vagas = [
     email: "processoseletivopkenus@gmail.com",
     banner: "banners/forma.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Serviços gerais",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Serviços Gerais! Vaga disponível para homens ou mulheres acima de 40 anos com salário de R$ 1.612,00 e ajuda de custo",
+    descricaoModal:"Vaga de Auxiliar de Serviços Gerais para homens ou mulheres. Requisito: ter mais de 40 anos. Horário de trabalho de segunda a sexta, das 08h às 17h",
+    whatsapp: "5543991220155",
+    email: "",
+    banner: "banners/fogosanto.jpeg"
+  },
  
 
 
