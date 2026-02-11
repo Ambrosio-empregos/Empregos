@@ -15860,7 +15860,7 @@ const vagas = [
     descricaoModal:"Detalhes da Vaga: Regime CLT com escala 6x1 (segunda a domingo) no horário das 08:00 às 16:00, incluindo 40 minutos de intervalo e almoço no local. Requisitos: Saber montar marmitas. Salário: R$ 2.500,00 + Benefícios.",
     whatsapp: "5544999978523",
     email: "",
-    banner: "banners/esmeu.jpg"
+    banner: "banners/esmeu.jpeg"
   },
  
 
