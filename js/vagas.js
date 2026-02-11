@@ -16113,7 +16113,18 @@ const vagas = [
     descricaoModal:"tividades: Realizar cotações; preencher relatórios; comunicação com fornecedores; organização de notas e documentos do setor; finalizar compras e acompanhar processos; realizar atendimento ao público interno da empresa.",
     whatsapp: "5543996320137",
     email: "",
-    banner: "banners/comprass.jpeg"
+    banner: "banners/futuro.jpeg"
+  },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Controle de Qualidade",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Estamos contratando Auxiliar de Controle de Qualidade em Ibiporã! Se você tem ensino médio completo e disponibilidade para trabalhar em turnos, venha fazer parte da nossa equipe",
+    descricaoModal:"Vaga para Auxiliar de Controle de Qualidade em Ibiporã/PR. Atividades: Acompanhar o processo produtivo, liberar matéria-prima, identificar produtos não conformes e realizar checklists",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/infiel.jpeg"
   },
  
 
