@@ -15961,6 +15961,17 @@ const vagas = [
     email: "",
     banner: "banners/queimaa.jpeg"
   },
+  {
+    data: "2026-02-02",
+    titulo: "Vendedor de Pneus",
+    empresa: "Guaporé Pneus",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor de Pneus em Maringá-PR, oferecendo ótima remuneração salarial e um pacote completo de benefícios, incluindo planos de saúde e odontológico.",
+    descricaoModal:"Detalhes da Oportunidade: A Guaporé Pneus oferece ótima remuneração salarial. Benefícios: Plano de saúde; vale alimentação; Total Pass; plano odontológico; vale transporte. Localização: Maringá-PR.",
+    whatsapp: "554431233756",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/mandateufogo.jpeg"
+  },
  
 
 
