@@ -15899,7 +15899,7 @@ const vagas = [
     data: "2026-02-11",
     titulo: "Auxiliar de Manutenção",
     empresa: "",
-    cidade: "Londrina",
+    cidade: "Rolândia",
     descricao: "Oportunidade para Auxiliar de Manutenção em Rolândia! Vaga em regime CLT para quem tem vontade de aprender e busca estabilidade",
     descricaoModal:"Estamos contratando Auxiliar de Manutenção para atuar em Rolândia. A vaga é em regime CLT com salário e horário a combinar.",
     whatsapp: "5543991805848",
