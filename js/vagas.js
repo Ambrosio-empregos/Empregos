@@ -16148,6 +16148,17 @@ const vagas = [
     email: "",
     banner: "banners/domm.jpeg"
   },
+  {
+    data: "2026-02-06", 
+    titulo: "Recepcionista",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Recepcionista no Centro de Balneário Camboriú/SC",
+    descricaoModal:" Localização: Bairro Centro, Balneário Camboriú.",
+    whatsapp: "5547991159685",
+    email: "",
+    banner: "banners/igreja.jpeg"
+  },
  
 
 
