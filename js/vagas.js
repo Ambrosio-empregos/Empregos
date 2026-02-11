@@ -15928,6 +15928,17 @@ const vagas = [
     email: "",
     banner: "banners/consultor.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Atendente de Restaurante",
+    empresa: "Zamp",
+    cidade: "Londrina",
+    descricao: "Venha fazer parte do time Burger King em Londrina! Vagas para Atendente de Restaurante com diversos períodos disponíveis e ótimos benefícios",
+    descricaoModal:"Oportunidade para Atendente de Restaurante em Londrina. Responsabilidades: Atendimento ao cliente, operação de caixa, preparo de alimentos e limpeza. Requisitos: Maior de 18 anos e ensino médio (completo ou cursando",
+    whatsapp: "5543998662702",
+    email: "",
+    banner: "banners/pdp.jpeg"
+  },
  
 
 
