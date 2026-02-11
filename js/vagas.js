@@ -16126,6 +16126,17 @@ const vagas = [
     email: "",
     banner: "banners/infiel.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Produção",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Estamos Contratando! Vaga de Auxiliar de Produção em Ibiporã/PR. Oportunidade para quem busca experiência em área industrial.",
+    descricaoModal:"Atividades: Separação e conferência de produtos, abastecimento de linhas, apoio produtivo, organização (5S) e manuseio de equipamentos industriais. Requisitos: Ensino médio completo e disponibilidade de horário. Diferencial: Experiência anterior na área de produção",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/romanos12.jpeg"
+  },
  
 
 
