@@ -15741,6 +15741,17 @@ const vagas = [
     email: "subwaymgalondrina@gmail.com",
     banner: "banners/subway.jpg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Estagiário de marketing",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "5543997103927",
+    email: "",
+    banner: "banners/mktt.jpg"
+  },
  
 
 
