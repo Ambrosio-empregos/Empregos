@@ -15972,6 +15972,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/mandateufogo.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Zeladora",
+    empresa: "Guaporé Pneus",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Zeladora em Maringá-PR, oferecendo ótima remuneração salarial e um pacote completo de benefícios, incluindo planos de saúde e odontológico.",
+    descricaoModal:"Detalhes da Oportunidade: A Guaporé Pneus oferece ótima remuneração salarial. Benefícios: Plano de saúde; vale alimentação; Total Pass; plano odontológico; vale transporte. Localização: Maringá-PR.",
+    whatsapp: "554431233756",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/queimar.jpeg"
+  },
  
 
 
