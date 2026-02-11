@@ -16225,6 +16225,17 @@ const vagas = [
     email: "secretaria@g7associaods.com.br",
     banner: "banners/joaom.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Angico Restaurante",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Angico Restaurante em Londrina - PR.",
+    descricaoModal:"Empresa: Angico Restaurante. Localização: Londrina - PR.",
+    whatsapp: "5543991063438",
+    email: "angico_restaurante@hotmail.com",
+    banner: "banners/japar.jpeg"
+  },
  
 
 
