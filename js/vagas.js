@@ -16170,6 +16170,17 @@ const vagas = [
     email: "",
     banner: "banners/igrejaa.jpeg"
   },
+   {
+    data: "2026-02-11", 
+    titulo: "Recepcionista",
+    empresa: "Clínica florian",
+    cidade: "Maringá",
+    descricao: "Venha fazer parte da equipe da Clínica Florian! Temos vaga aberta para Recepcionista com salário fixo e diversos benefícios para profissionais comunicativos",
+    descricaoModal:"Oportunidade para Recepcionista. Requisitos: Experiência com atendimento ao cliente, boa comunicação, disponibilidade de horário e conhecimento básico em informática. Oferecemos salário fixo, vale transporte, vale alimentação e um ambiente de trabalho agradável",
+    whatsapp: "",
+    email: "financeiroflorian@gmail.com",
+    banner: "banners/rosabe.jpeg"
+  },
  
 
 
