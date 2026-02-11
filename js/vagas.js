@@ -16168,7 +16168,7 @@ const vagas = [
     descricaoModal:" Localização: Bairro Centro, Balneário Camboriú.",
     whatsapp: "5547991159685",
     email: "",
-    banner: "banners/igrejas.jpeg"
+    banner: "banners/igrejaa.jpeg"
   },
  
 
