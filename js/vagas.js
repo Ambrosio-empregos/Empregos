@@ -16082,6 +16082,28 @@ const vagas = [
     email: "multifestas@multifestaslondrina.com.br",
     banner: "banners/gloria.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Professor(a) Musculação",
+    empresa: "Plenus",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Professor(a) de Musculação e Estagiário(a) no CT Plenus em Camboriú-SC, com preferência para candidatos que residam na cidade ou proximidades.",
+    descricaoModal:"Detalhes da Oportunidade: O CT Plenus, centro de treinamento em Camboriú, está com vagas abertas para profissionais e estudantes na área de musculação. Requisitos: Preferência para pessoas com moradia em Camboriú ou cidades vizinhas. Localização: Rua Getúlio Vargas, 224 - Centro, Camboriú-SC.",
+    whatsapp: "5547984910899",
+    email: "adm.ctplenus@gmail.com",
+    banner: "banners/muscu.jpeg"
+  },
+   {
+    data: "2026-02-11",
+    titulo: "Consultor de Vendas",
+    empresa: "Plenus",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Consultor de Vendas com experiência em Camboriú, oferecendo premiações semanais e mensais para profissionais que residam na região.",
+    descricaoModal:"Requisitos: Com experiência comprovada em vendas. Benefícios: Premiações semanais; premiações mensais. Informações adicionais: Preferência para candidatos com moradia em Camboriú ou cidades próximas.",
+    whatsapp: "5547984910899",
+    email: "adm.ctplenus@gmail.com",
+    banner: "banners/bace.jpeg"
+  },
  
 
 
