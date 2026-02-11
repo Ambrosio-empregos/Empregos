@@ -16258,6 +16258,17 @@ const vagas = [
     email: "",
     banner: "banners/purpple.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Atendente",
+    empresa: "Super Duper",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga de Atendente no Shopping Atlântico em Balneário Camboriú! Se você tem experiência e mora próximo ao shopping, venha fazer parte da equipe Super Duper",
+    descricaoModal:"Oportunidade para Atendente na Super Duper, localizada no Shopping Atlântico em Balneário Camboriú. Requisitos: Possuir experiência na área, disponibilidade de horário e morar próximo ao shopping",
+    whatsapp: "5547991361508",
+    email: "",
+    banner: "banners/rabo.jpeg"
+  },
  
 
 
