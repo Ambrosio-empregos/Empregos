@@ -16071,6 +16071,17 @@ const vagas = [
     email: "",
     banner: "banners/fogosanto.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Vendedora",
+    empresa: "Multifestas",
+    cidade: "Londrina",
+    descricao: "A Multifestas está contratando Vendedora em Londrina! Se você é comunicativa, dinâmica e tem experiência em vendas, essa oportunidade é para você",
+    descricaoModal:"Oportunidade para Vendedora na Multifestas. Pré-requisitos: Ser maior de 18 anos, possuir perfil comunicativo e dinâmico, além de experiência comprovada na área de vendas. Venha fazer parte da nossa equipe",
+    whatsapp: "5543991248627",
+    email: "multifestas@multifestaslondrina.com.br",
+    banner: "banners/fogosanto.jpeg"
+  },
  
 
 
