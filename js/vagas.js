@@ -16149,7 +16149,7 @@ const vagas = [
     banner: "banners/domm.jpeg"
   },
   {
-    data: "2026-02-06", 
+    data: "2026-02-11", 
     titulo: "Recepcionista",
     empresa: "",
     cidade: "Balneário Camboriú",
