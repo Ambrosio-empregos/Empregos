@@ -15719,6 +15719,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/auxc.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Serviços gerais",
+    empresa: "Belmar",
+    cidade: "Londrina",
+    descricao: "A Belmar Cozinha Japonesa está contratando Auxiliar de Serviços Gerais em Londrina com um amplo pacote de benefícios.",
+    descricaoModal:"O profissional será responsável pela limpeza e organização dos ambientes, lavagem de louças e utensílios, conservação do espaço, reposição de materiais e apoio nas demandas gerais do dia a dia. A vaga é destinada a maiores de 18 anos. A empresa oferece benefícios como salário base, plano de saúde, convênio com farmácia, day off de aniversário, refeição na empresa e vale-transporte.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/belmarl.jpeg"
+  },
  
 
 
