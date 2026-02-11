@@ -16238,14 +16238,14 @@ const vagas = [
   },
    {
     data: "2026-02-11",
-    titulo: "Auxiliar de Produção / Ajudante Geral",
+    titulo: "Assistente Administrativo",
     empresa: "",
     cidade: "Londrina",
-    descricao: "Oportunidade para Auxiliar de Produção em Maringá! Vaga com salário de R$ 2.155,00, almoço incluso e benefícios para quem busca atuação operacional imediata",
-    descricaoModal:"Vaga de Auxiliar de Produção / Ajudante Geral. Atividades: Separar plástico limpo e PET, organizar o ambiente de trabalho, realizar carga e descarga de mercadorias e acompanhar o motorista",
-    whatsapp: "5544997543216",
+    descricao: "Oportunidade para Assistente Administrativo em Maringá! Vaga com salário de R$ 2.155,00, almoço incluso e benefícios para quem tem experiência na função e ensino médio completo",
+    descricaoModal:"Vaga de Assistente Administrativo com salário de R$ 2.155,00. Responsabilidades: Liberação de motoristas, controle de planilhas, notas, abastecimento, marmitas e organização do depósito. Requisitos: Ensino Médio completo e experiência na função ou similares",
+    whatsapp: "5544999554852",
     email: "",
-    banner: "banners/aparece.jpeg"
+    banner: "banners/purpple.jpeg"
   },
  
 
