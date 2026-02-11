@@ -16335,6 +16335,17 @@ const vagas = [
     email: "",
     banner: "banners/deses.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Vendedor Interno",
+    empresa: "Blue",
+    cidade: "Maringá",
+    descricao: "Faça parte da nossa equipe como Vendedor Interno! Vaga CLT com jornada de segunda a sexta, salário fixo, comissões e ótimos benefícios de saúde",
+    descricaoModal:"Oportunidade para Vendedor Interno em regime CLT com jornada de trabalho de segunda a sexta-feira. Oferecemos salário fixo, comissões, bônus, vale alimentação, plano de saúde e plano odontológico",
+    whatsapp: "5544991775792",
+    email: "",
+    banner: "banners/zz.jpeg"
+  },
  
 
 
