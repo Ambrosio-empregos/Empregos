@@ -16104,6 +16104,17 @@ const vagas = [
     email: "adm.ctplenus@gmail.com",
     banner: "banners/bace.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Assistente de Compras",
+    empresa: "Empresa não identiicada",
+    cidade: "Ibiporã",
+    descricao: "Oportunidade para Assistente de Compras em Ibiporã/PR para realizar cotações, organização de documentos e atendimento ao público interno, com jornada de segunda a sexta-feira.",
+    descricaoModal:"tividades: Realizar cotações; preencher relatórios; comunicação com fornecedores; organização de notas e documentos do setor; finalizar compras e acompanhar processos; realizar atendimento ao público interno da empresa.",
+    whatsapp: "5543996320137",
+    email: "",
+    banner: "banners/comprass.jpeg"
+  },
  
 
 
