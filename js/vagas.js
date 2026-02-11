@@ -15730,6 +15730,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/belmarl.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Atendente de Fast Food",
+    empresa: "SubWay",
+    cidade: "Londrina",
+    descricao: "Vaga para Atendente de Fast Food no Subway com escala 12x36, salário e benefícios. Oportunidade para mulheres maiores de idade.",
+    descricaoModal:"Cargo: Atendente de Fast Food. Requisitos: feminino, maior de idade. Jornada: escala 12x36. Remuneração: salário mais benefícios. Contato: envio de currículo por e-mail ou WhatsApp conforme informado pela empresa.",
+    whatsapp: "5543991391333",
+    email: "subwaymgalondrina@gmail.com",
+    banner: "banners/subway.jpg"
+  },
  
 
 
