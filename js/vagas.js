@@ -15603,11 +15603,22 @@ const vagas = [
     titulo: "Estágiário(a) em Marketing",
     empresa: "Mônaco",
     cidade: "Londrina",
-    descricao: "O Burger King do Shopping Catuaí em Londrina (conforme código de área 43) está contratando Atendentes maiores de 18 anos com disponibilidade de horário",
-    descricaoModal:"Requisitos: Ser maior de 18 anos e possuir disponibilidade de horário para trabalhar em shopping",
+    descricao: "Oportunidade de Estágio em Marketing para estudantes criativos e proativos! Se você tem interesse em marketing digital e redes sociais, venha crescer com a Mônaco Imobi em uma jornada de 6 horas diárias",
+    descricaoModal:"Vaga de Estágio em Marketing para auxiliar na criação de posts, apoio em campanhas, edição básica de imagens/vídeos e organização de materiais. Requisitos: Boa comunicação, criatividade e conhecimento básico em redes sociais",
     whatsapp: "",
     email: "5543mktimobiliariamonaco@gmail.com",
     banner: "banners/mkt.jpeg"
+  },
+  {
+    data: "2026-02-11",
+    titulo: "Setor Administrativo e Comercial",
+    empresa: "Mônaco",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "",
+    email: "5543mktimobiliariamonaco@gmail.com",
+    banner: "banners/nica.jpeg"
   },
  
 
