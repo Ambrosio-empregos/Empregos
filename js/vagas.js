@@ -16247,6 +16247,17 @@ const vagas = [
     email: "",
     banner: "banners/aparece.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Assistente Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Assistente Administrativo em Maringá! Vaga com salário de R$ 2.155,00, almoço incluso e benefícios para quem tem experiência na função e ensino médio completo",
+    descricaoModal:"Vaga de Assistente Administrativo com salário de R$ 2.155,00. Responsabilidades: Liberação de motoristas, controle de planilhas, notas, abastecimento, marmitas e organização do depósito. Requisitos: Ensino Médio completo e experiência na função ou similares",
+    whatsapp: "5544999554852",
+    email: "",
+    banner: "banners/purpple.jpeg"
+  },
  
 
 
