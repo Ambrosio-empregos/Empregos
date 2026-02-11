@@ -15675,6 +15675,17 @@ const vagas = [
     email: "",
     banner: "banners/pra.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Angaridor",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Angaridor na Parana Imoveis! Se você busca uma vaga com horário comercial e não exige experiência anterior, venha fazer parte da nossa equipe",
+    descricaoModal:"Vaga para Angaridor com ensino médio completo e sem exigência de experiência. Horário de trabalho de segunda a quinta das 08:00 às 18:00, com saída antecipada às 17:00 nas sextas-feiras. Seja a peça que falta em nossa jornada",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/estou.jpeg"
+  },
  
 
 
