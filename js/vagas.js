@@ -15697,6 +15697,17 @@ const vagas = [
     email: "",
     banner: "banners/visto.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Corretor",
+    empresa: "PARANÁ A&R Imóveis",
+    cidade: "Maringá",
+    descricao: "A Paraná A&R Imóveis está com vagas abertas para Corretores em Maringá",
+    descricaoModal:"Oportunidade para Corretores. As principais responsabilidades incluem a organização e o controle de atendimentos, agindo com responsabilidade e ética profissional. Buscamos candidatos que possuam boa comunicação e simpatia no atendimento ao cliente",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/tore.jpeg"
+  },
  
 
 
