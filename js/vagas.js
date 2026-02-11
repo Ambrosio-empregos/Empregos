@@ -15840,6 +15840,17 @@ const vagas = [
     email: "",
     banner: "banners/gracco.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Cumin/Garçom",
+    empresa: "GRACCO",
+    cidade: "Londrina",
+    descricao: "A Gracco Burger está contratando Cumin/Garçom para a unidade de Londrina",
+    descricaoModal:"",
+    whatsapp: "5541997506688",
+    email: "",
+    banner: "banners/desperta.jpeg"
+  },
  
 
 
