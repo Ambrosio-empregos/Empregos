@@ -16016,6 +16016,17 @@ const vagas = [
     email: "",
     banner: "banners/abreomar.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar Elétrico",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Elétrico na EMS Engenharia.",
+    descricaoModal:"",
+    whatsapp: "5543991503783",
+    email: "",
+    banner: "banners/oferta.jpeg"
+  },
  
 
 
