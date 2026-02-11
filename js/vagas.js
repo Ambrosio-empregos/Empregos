@@ -15708,6 +15708,17 @@ const vagas = [
     email: "",
     banner: "banners/tore.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Cozinha em horário noturno na Gelobel em Londrina-PR, oferecendo benefícios como plano de saúde e day off no aniversário.",
+    descricaoModal:"Responsabilidades: Atuar no apoio à equipe, preparo de insumos e manutenção da cozinha; perfil comprometido, organizado e com vontade de aprender. Requisitos: Vagas destinadas a maiores de 18 anos. Benefícios: Salário base; plano de saúde; convênio farmácia; day off no aniversário; refeição na empresa; vale transporte. Localização: Londrina-PR.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/auxc.jpeg"
+  },
  
 
 
