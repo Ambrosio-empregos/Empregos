@@ -16192,6 +16192,17 @@ const vagas = [
     email: "recrutamento@vsgold.com.br",
     banner: "banners/goldl.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Mecânico",
+    empresa: "Good Year",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Mecânico em Londrina! Se você tem experiência na área e busca uma vaga com salário fixo, comissão e benefícios, venha trabalhar conosco no Jardim Shangri-Lá",
+    descricaoModal:"Vaga para Mecânico com experiência comprovada. Oferecemos remuneração composta por salário mais comissão e pacote de benefícios",
+    whatsapp: "5543998476838",
+    email: "",
+    banner: "banners/god.jpeg"
+  },
  
 
 
