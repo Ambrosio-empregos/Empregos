@@ -16080,7 +16080,7 @@ const vagas = [
     descricaoModal:"Oportunidade para Vendedora na Multifestas. Pré-requisitos: Ser maior de 18 anos, possuir perfil comunicativo e dinâmico, além de experiência comprovada na área de vendas. Venha fazer parte da nossa equipe",
     whatsapp: "5543991248627",
     email: "multifestas@multifestaslondrina.com.br",
-    banner: "banners/fogosanto.jpeg"
+    banner: "banners/gloria.jpeg"
   },
  
 
