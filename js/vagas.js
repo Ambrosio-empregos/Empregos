@@ -15750,7 +15750,7 @@ const vagas = [
     descricaoModal:"",
     whatsapp: "5543997103927",
     email: "",
-    banner: "banners/mktt.jpg"
+    banner: "banners/mktt.jpeg"
   },
  
 
