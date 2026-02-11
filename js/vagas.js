@@ -15774,6 +15774,17 @@ const vagas = [
     email: "dudalinalondrina@grupoac.net",
     banner: "banners/bluew.jpeg"
   },
+   {
+    data: "2026-02-11", 
+    titulo: "Auxiliar de Laboratório",
+    empresa: "Odonto Lab",
+    cidade: "Londrina",
+    descricao: "Vaga disponível para Auxiliar de Laboratório na Odontolab! Se você tem experiência na área e busca uma nova oportunidade, venha fazer parte da nossa equipe técnica",
+    descricaoModal:"Oportunidade para Auxiliar de Laboratório com experiência comprovada para atuar especificamente no setor de gesso. Buscamos profissionais comprometidos e detalhistas para integrar nosso time laboratorial",
+    whatsapp: "5543999949386",
+    email: "odontolab@odontolab.com.br",
+    banner: "banners/escada.jpeg"
+  },
  
 
 
