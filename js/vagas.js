@@ -15962,7 +15962,7 @@ const vagas = [
     banner: "banners/queimaa.jpeg"
   },
   {
-    data: "2026-02-02",
+    data: "2026-02-11",
     titulo: "Vendedor de Pneus",
     empresa: "Guaporé Pneus",
     cidade: "Maringá",
