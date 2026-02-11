@@ -16137,6 +16137,17 @@ const vagas = [
     email: "",
     banner: "banners/romanos12.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Physical",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo na Physical Shop! Se você tem experiência na área e busca uma vaga com salário inicial de R$ 1.800,00, venha fazer parte do nosso time",
+    descricaoModal:"Vaga para Auxiliar Administrativo com experiência para apoiar transações diárias, controle financeiro, lançamentos em sistema e contas a pagar/receber",
+    whatsapp: "5543991926960",
+    email: "",
+    banner: "banners/domm.jpeg"
+  },
  
 
 
