@@ -16214,6 +16214,17 @@ const vagas = [
     email: "vagas2026recrutamento@gmail.com",
     banner: "banners/amara.jpeg"
   },
+  {
+    data: "2026-02-11", 
+    titulo: "Contador",
+    empresa: "G7 Associados",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Contador em Londrina, PR, oferecendo salário compatível com a função e oportunidade de crescimento profissional na G7 Associados.",
+    descricaoModal:"Requisitos: Profissional com experiência na área contábil. Benefícios: Salário compatível com a função; oportunidade de crescimento profissional.",
+    whatsapp: "",
+    email: "secretaria@g7associaods.com.br",
+    banner: "banners/joaom.jpeg"
+  },
  
 
 
