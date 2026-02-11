@@ -16291,6 +16291,17 @@ const vagas = [
     email: "",
     banner: "banners/duper.jpeg"
   },
+  {
+    data: "2026-02-03",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Villa Melti",
+    cidade: "Londrina",
+    descricao: "O Villa Melti contrata Auxiliar de Cozinha! incluindo comissão, benefícios CLT e alimentação no local.",
+    descricaoModal:"",
+    whatsapp: "5543988249361",
+    email: "",
+    banner: "banners/meltiba.jpeg"
+  },
  
 
 
