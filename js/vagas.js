@@ -16324,6 +16324,17 @@ const vagas = [
     email: "",
     banner: "banners/dupe.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Consultor de Investimentos",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga aberta para Consultor de Investimentos em Maringá! Oportunidade com ganhos médios de R$ 2.000,00 a R$ 30.000,00 por mês, treinamento completo e início imediato",
+    descricaoModal:"Estamos expandindo nosso time comercial para atuação presencial em Maringá com início imediato. A vaga oferece atuação com vendas, treinamento completo, comissão agressiva mais premiações e possibilidade de crescimento rápido. A média de ganhos varia de R$ 2.000,00 até R$ 30.000,00 por mês, dependendo do desempenho do profissional",
+    whatsapp: "5544997030937",
+    email: "",
+    banner: "banners/deses.jpeg"
+  },
  
 
 
