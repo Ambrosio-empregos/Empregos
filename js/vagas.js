@@ -16027,6 +16027,28 @@ const vagas = [
     email: "",
     banner: "banners/oferta.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Estoque",
+    empresa: "Aplix",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Estoque na Aplix! Vaga com salário de R$ 2.040,00 e vale alimentação para quem tem experiência em depósito e busca trabalho em equipe",
+    descricaoModal:"Vaga de Auxiliar de Estoque com salário de R$ 2.040,00 mais vale alimentação. Requisitos: Experiência em depósito de material e habilidade em trabalhar em equipe",
+    whatsapp: "5543981110010",
+    email: "",
+    banner: "banners/apl.jpeg"
+  },
+   {
+    data: "2026-02-11",
+    titulo: "Atendente Intemitente",
+    empresa: "Café Container",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente Intermitente no Café Container! Se você tem experiência em atendimento e mora em Cambé, venha fazer parte da nossa equipe",
+    descricaoModal:"Vaga feminina para Atendente Intermitente. Requisitos: Ser maior de 18 anos e possuir experiência comprovada em atendimento",
+    whatsapp: "",
+    email: "cristianemartarosa.21@gmail.com",
+    banner: "banners/cristi.jpeg"
+  },
  
 
 
