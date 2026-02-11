@@ -15664,6 +15664,17 @@ const vagas = [
     email: "",
     banner: "banners/dora.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Atendimento de Locação",
+    empresa: "PARANÁ A&R Imóveis",
+    cidade: "Maringá",
+    descricao: "Vaga para Atendimento de Locação na Paraná A&R Imóveis! Buscamos profissionais organizados e comunicativos para integrar nossa equipe em Maringá",
+    descricaoModal:"Oportunidade para Atendimento de Locação. Buscamos perfil com proatividade, organização, responsabilidade e comprometimento. É essencial possuir boa comunicação verbal e escrita. Atuação na região da Zona 7 em Maringá - PR",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/pra.jpeg"
+  },
  
 
 
