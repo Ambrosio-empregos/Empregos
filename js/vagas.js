@@ -15818,6 +15818,17 @@ const vagas = [
     email: "",
     banner: "banners/touti.jpeg"
   },
+  {
+    data: "2026-02-11", 
+    titulo: "Auxiliar de Produção",
+    empresa: "BROGGI",
+    cidade: "Londrina",
+    descricao: "Vaga disponível para Auxiliar de Produção na BROGGI! Se você busca uma nova oportunidade, venha fazer parte da nossa equipe",
+    descricaoModal:"Oportunidade para Auxiliar de Produção",
+    whatsapp: "5543988089099",
+    email: "",
+    banner: "banners/lutoc.jpeg"
+  },
  
 
 
