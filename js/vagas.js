@@ -16005,6 +16005,17 @@ const vagas = [
     email: "",
     banner: "banners/adorarr.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Auxiliar Hidráulico",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Hidráulico na EMS Engenharia.",
+    descricaoModal:"",
+    whatsapp: "5543991503783",
+    email: "",
+    banner: "banners/abreomar.jpeg"
+  },
  
 
 
