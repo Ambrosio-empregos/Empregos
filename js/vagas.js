@@ -15620,6 +15620,17 @@ const vagas = [
     email: "5543mktimobiliariamonaco@gmail.com",
     banner: "banners/nica.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Setor de Angariação",
+    empresa: "Mônaco",
+    cidade: "Londrina",
+    descricao: "",
+    descricaoModal:"",
+    whatsapp: "",
+    email: "5543mktimobiliariamonaco@gmail.com",
+    banner: "banners/mais.jpeg"
+  },
  
 
 
