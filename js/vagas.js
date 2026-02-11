@@ -16292,7 +16292,7 @@ const vagas = [
     banner: "banners/duper.jpeg"
   },
   {
-    data: "2026-02-03",
+    data: "2026-02-11",
     titulo: "Auxiliar de Cozinha",
     empresa: "Villa Melti",
     cidade: "Londrina",
