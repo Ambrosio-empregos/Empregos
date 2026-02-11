@@ -15917,6 +15917,17 @@ const vagas = [
     email: "juliano.filho@gprcargo.com.br",
     banner: "banners/gpr.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Consultor Plano de saúde",
+    empresa: "Rota Seguros",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor de Plano de Saúde na Rota Seguros em Londrina-PR, com média salarial entre R$ 3.000,00 e R$ 8.000,00 sob regime PJ.",
+    descricaoModal:"Informações da Vaga: Contratação em regime PJ para atuação em Londrina-PR. Benefícios e Ofertas: Média salarial entre R$ 3.000,00 e R$ 8.000,00; comissões; fornecimento de leads; estrutura de trabalho; premiações; treinamento; ajuda de custo no 1º trimestre.",
+    whatsapp: "5543988646708",
+    email: "",
+    banner: "banners/consultor.jpeg"
+  },
  
 
 
