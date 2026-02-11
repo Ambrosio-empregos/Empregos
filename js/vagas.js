@@ -16049,6 +16049,17 @@ const vagas = [
     email: "cristianemartarosa.21@gmail.com",
     banner: "banners/cristi.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Serviços Gerais",
+    empresa: "Plenus",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Serviços Gerais no CT Plenus em Camboriú! Se você busca uma vaga na região central e mora em Camboriú, venha fazer parte do único CT Premium da cidade",
+    descricaoModal:"Vaga de Serviços Gerais para atuação no CT Plenus, localizado no Centro de Camboriú. A oportunidade é voltada para profissionais que buscam atuar em um ambiente Premium, com preferência para candidatos que residam na própria cidade de Camboriú",
+    whatsapp: "5547984910899",
+    email: "processoseletivopkenus@gmail.com",
+    banner: "banners/forma.jpeg"
+  },
  
 
 
