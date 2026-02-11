@@ -16280,6 +16280,17 @@ const vagas = [
     email: "",
     banner: "banners/tarci.jpeg"
   },
+  {
+    data: "2026-02-11",
+    titulo: "Auxiliar de Cozinha (Montagem)",
+    empresa: "Super Duper",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Auxiliar de Cozinha no Shopping Atlântico em Balneário Camboriú! Vaga ideal para quem tem vontade de aprender, sem necessidade de experiência anterior",
+    descricaoModal:"aga de Auxiliar de Cozinha (Montagem) na Super Duper, localizada no Shopping Atlântico em Balneário Camboriú. Requisitos: Vontade de aprender e disponibilidade de horário",
+    whatsapp: "5551998557912",
+    email: "",
+    banner: "banners/duper.jpeg"
+  },
  
 
 
