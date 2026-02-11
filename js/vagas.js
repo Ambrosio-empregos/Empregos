@@ -15752,6 +15752,17 @@ const vagas = [
     email: "",
     banner: "banners/mktt.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Cozinheira",
+    empresa: "JL Pizzaria e Costelaria",
+    cidade: "Maringá",
+    descricao: "JL Pizzaria e Costelaria contrata Cozinheiras para turnos da manhã e noite em Maringá (Vila Morangueira). Escala 6x1 com salário e benefícios!",
+    descricaoModal:"Turno Manhã (08:00 às 16:00) e Turno Noite (16:00 às 00:00). Requisitos: Experiência em cozinha (desejável como cozinheira), saber fazer frituras, montagem de buffet e organização geral. Para o turno da noite, é necessário veículo próprio ou morar próximo.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/jl.jpg"
+  },
  
 
 
