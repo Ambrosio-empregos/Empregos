@@ -16346,6 +16346,17 @@ const vagas = [
     email: "",
     banner: "banners/zz.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Assistente de Vendas",
+    empresa: "Riachuelo",
+    cidade: "Londrina",
+    descricao: "Oportunidade de Assistente de Vendas na Riachuelo! Vaga CLT com salário de R$ 2.040, VR/VA de R$ 300, WellHub e folgas aos domingos",
+    descricaoModal:"Vaga de Assistente de Vendas em regime CLT com salário de R$ 2.040,00 e VR ou VA de R$ 300,00. Benefícios incluem WellHub e Unimed após 1 ano. Requisitos: Ensino médio completo e disponibilidade de horário",
+    whatsapp: "5543988487616",
+    email: "",
+    banner: "banners/chue.jpeg"
+  },
  
 
 
