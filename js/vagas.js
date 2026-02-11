@@ -16245,7 +16245,7 @@ const vagas = [
     descricaoModal:"Vaga de Auxiliar de Produção / Ajudante Geral. Atividades: Separar plástico limpo e PET, organizar o ambiente de trabalho, realizar carga e descarga de mercadorias e acompanhar o motorista",
     whatsapp: "5544997543216",
     email: "",
-    banner: "banners/aparecida.jpeg"
+    banner: "banners/aparece.jpeg"
   },
  
 
