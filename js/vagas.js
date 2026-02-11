@@ -16203,6 +16203,17 @@ const vagas = [
     email: "",
     banner: "banners/god.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Arquivista",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga aberta para Arquivista em Escritório de Contabilidade! Se você tem experiência na área ou está cursando Arquivologia, venha fazer parte da nossa equipe com ótimos benefícios",
+    descricaoModal:"Oportunidade para Arquivista. Requisitos: Experiência em arquivos, cursando ou graduado em Arquivologia ou Biblioteconomia, e habilidade com sistemas de gestão documental. Buscamos profissionais com atenção aos detalhes, ética e proatividade",
+    whatsapp: "5543",
+    email: "vagas2026recrutamento@gmail.com",
+    banner: "banners/amara.jpeg"
+  },
  
 
 
