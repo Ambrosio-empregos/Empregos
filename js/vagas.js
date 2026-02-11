@@ -16159,6 +16159,17 @@ const vagas = [
     email: "",
     banner: "banners/igreja.jpeg"
   },
+   {
+    data: "2026-02-11", 
+    titulo: "Cozinheiro(a)",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "Oportunidade para Cozinheiro no Centro de Balneário Camboriú/SC",
+    descricaoModal:" Localização: Bairro Centro, Balneário Camboriú.",
+    whatsapp: "5547991159685",
+    email: "",
+    banner: "banners/igrejas.jpeg"
+  },
  
 
 
