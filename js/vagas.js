@@ -16302,6 +16302,17 @@ const vagas = [
     email: "",
     banner: "banners/meltiba.jpeg"
   },
+  {
+    data: "2026-02-11", 
+    titulo: "Analista de PCM",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Analista de PCM em Maringá-PR",
+    descricaoModal:"",
+    whatsapp: "",
+    email: "thomas.carvalho@gtf.com.br",
+    banner: "banners/yess.jpeg"
+  },
  
 
 
