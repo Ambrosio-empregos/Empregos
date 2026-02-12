@@ -16621,6 +16621,17 @@ const vagas = [
     email: "",
     banner: "banners/enge.jpeg"
   },
+    {
+    data: "2026-02-12",
+    titulo: "Primeiro emprego",
+    empresa: "SN Consultoria Financeira",
+    cidade: "Londrina",
+    descricao: "A SN Consultoria em Londrina oferece oportunidade para quem busca o primeiro emprego, com processo de seleção aberto para envio de currículos",
+    descricaoModal:"Informações da Vaga: Oportunidade voltada especificamente para primeiro emprego. Localização: Londrina. Empresa: SN Consultoria (@snconsultoria)",
+    whatsapp: "5543984370672",
+    email: "",
+    banner: "banners/elevado.jpeg"
+  },
 
 
 
