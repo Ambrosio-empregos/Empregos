@@ -16575,7 +16575,7 @@ const vagas = [
     descricaoModal:"Principais Atividades: Atendimento externo dos clientes nos pontos de atuação; ensinar os clientes o uso do App e do patinete conforme as regras de segurança; auxiliar na escolha do pacote ideal.",
     whatsapp: "5541984956984",
     email: "",
-    banner: "banners/pati.jpeg"
+    banner: "banners/jesus.jpeg"
   },
 
 
