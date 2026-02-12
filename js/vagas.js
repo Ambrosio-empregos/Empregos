@@ -16377,7 +16377,7 @@ const vagas = [
     descricaoModal:"Remuneração e Benefícios: Salário fixo de R$ 1.900,00, Vale Transporte, Vale Alimentação de R$ 28,50 por dia e prêmio por assiduidade e metas atingidas.",
     whatsapp: "5544999730762",
     email: "",
-    banner: "banners/cobra.jpeg"
+    banner: "banners/biaa.jpeg"
   },
  
 
