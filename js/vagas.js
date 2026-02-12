@@ -16412,6 +16412,17 @@ const vagas = [
     email: "",
     banner: "banners/boule.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Atendente de Sorveteria",
+    empresa: "",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Atendente de Sorveteria em Arapongas.",
+    descricaoModal:"Envie Seu currículo",
+    whatsapp: "5543984267084",
+    email: "",
+    banner: "banners/dormes.jpeg"
+  },
  
 
 
