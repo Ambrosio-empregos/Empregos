@@ -16533,6 +16533,17 @@ const vagas = [
     email: "calzedoniamaringa@gmail.com",
     banner: "banners/cale.jpeg"
   },
+   {
+    data: "2026-02-12",
+    titulo: "Auxiliar Administrativo",
+    empresa: "BackOffice",
+    cidade: "Maringá",
+    descricao: "Vaga aberta para Auxiliar Administrativo em Maringá (conforme código de área 44) para atuar de segunda a sexta-feira, oferecendo salário fixo e pacote de benefícios que inclui plano de saúde e odontológico integral após o período de experiência",
+    descricaoModal:"Principais Atividades: Suporte ao setor comercial com implantação de vendas nas plataformas das operadoras e no sistema interno; execução de rotinas administrativas; atendimento de pós-venda para garantir a satisfação dos clientes",
+    whatsapp: "5544991775792",
+    email: "",
+    banner: "banners/bb.jpeg"
+  },
  
 
 
