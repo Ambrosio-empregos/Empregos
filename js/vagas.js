@@ -16687,6 +16687,17 @@ const vagas = [
     email: "",
     banner: "banners/metocas.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "VEndedor",
+    empresa: "LE Postiche",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Vendedor(a) na Le Postiche, aberta para maiores de 18 anos com ensino médio completo e disponibilidade de horário.",
+    descricaoModal:": Requisitos: Ser maior de 18 anos; Ensino médio completo; Experiência na função será um diferencial; Proatividade; Boa comunicação; Vontade de aprender; Disponibilidade de horário. Empresa: Le Postiche.",
+    whatsapp: "5544988668668",
+    email: "",
+    banner: "banners/lepo.jpeg"
+  },
 
 
 
