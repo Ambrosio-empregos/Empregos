@@ -16555,7 +16555,18 @@ const vagas = [
     email: "",
     banner: "banners/iana.jpeg"
   },
- 
+  {
+    data: "2026-02-12",
+    titulo: "Vistoriador Veicular",
+    empresa: "Extrema Visão Perícias e Vistorias",
+    cidade: "Londrina",
+    descricao: "A Extrema Visão Perícias e Vistorias em Londrina (conforme código de área 43) está contratando Vistoriador Veicular para preenchimento de vagas destinadas ao público masculino",
+    descricaoModal:"Requisitos: Necessário possuir CNH AB; vagas exclusivas para homens",
+    whatsapp: "5543991599100",
+    email: "",
+    banner: "banners/vii.jpeg"
+  },
+
 
 
 
