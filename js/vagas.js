@@ -16522,6 +16522,17 @@ const vagas = [
     email: "",
     banner: "banners/god.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Vendedora",
+    empresa: "Calzedonia",
+    cidade: "Maringá",
+    descricao: "A Calzedonia em Maringá (conforme código de área 44) está contratando Vendedora, oferecendo remuneração baseada no piso da categoria acrescida de comissões, além de um pacote de benefícios completo",
+    descricaoModal:"Informações da Vaga: Remuneração composta por piso da categoria + comissões. Benefícios: Vale transporte, vale alimentação e plano de saúde",
+    whatsapp: "5544991121504",
+    email: "calzedoniamaringa@gmail.com",
+    banner: "banners/cale.jpeg"
+  },
  
 
 
