@@ -16368,6 +16368,17 @@ const vagas = [
     email: "rh@gelobel.com.br",
     banner: "banners/gelobelC.jpg"
   },
+   {
+    data: "2026-02-12",
+    titulo: "Atendente de Cobrança",
+    empresa: "Grupo Central",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Atendente de Cobrança com salário fixo de R$ 1.900,00 e benefícios como prêmio por assiduidade e metas atingidas.",
+    descricaoModal:"Remuneração e Benefícios: Salário fixo de R$ 1.900,00, Vale Transporte, Vale Alimentação de R$ 28,50 por dia e prêmio por assiduidade e metas atingidas.",
+    whatsapp: "5544999730762",
+    email: "",
+    banner: "banners/cobra.jpeg"
+  },
  
 
 
