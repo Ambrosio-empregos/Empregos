@@ -16665,6 +16665,17 @@ const vagas = [
     email: "",
     banner: "banners/mistica.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Pizzaiolo",
+    empresa: "Pizza Bis",
+    cidade: "Maringá",
+    descricao: "A Pizza Bis em Maringá (conforme código de área 44) oferece vaga para Pizzaiolo (CLT) com ganhos mensais aproximados de R$ 3.500,00, incluindo benefícios e taxa de serviço, para atuar no período da tarde e noite",
+    descricaoModal:"Informações da Vaga: Vaga fixa CLT com ganhos de aproximadamente R$ 3.500,00 por mês; salário base de R$ 1.830,00 + 5% de assiduidade; após experiência, o valor sobe para R$ 2.100,00 + horas noturnas",
+    whatsapp: "5544984575155",
+    email: "",
+    banner: "banners/somosum.jpeg"
+  },
 
 
 
