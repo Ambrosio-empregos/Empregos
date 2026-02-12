@@ -16478,6 +16478,17 @@ const vagas = [
     email: "info@fdenglish.com",
     banner: "banners/info.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Consultor de Vendas",
+    empresa: "Innove Line - TIM",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor de Vendas na Inove Line (TIM) em Londrina, oferecendo comissões agressivas, plano de saúde mental e benefícios como férias coletivas e descontos em academias.",
+    descricaoModal:"Requisitos: Experiência em vendas; proatividade; responsabilidade; boa comunicação. Benefícios: Vale refeição; comissões agressivas; vale transporte; plano odontológico; plano de saúde mental; convênio com farmácia; desconto em academias parceiras; programa nutricional; reconhecimento no iver; férias coletivas.",
+    whatsapp: "5543984267289",
+    email: "",
+    banner: "banners/prova.jpeg"
+  },
  
 
 
