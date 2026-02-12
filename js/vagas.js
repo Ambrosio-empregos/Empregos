@@ -16467,6 +16467,17 @@ const vagas = [
     email: "escolamelondrina@gmail.com",
     banner: "banners/final.jpeg"
   },
+   {
+    data: "2026-02-12",
+    titulo: "English Teacher",
+    empresa: "FD English",
+    cidade: "Londrina",
+    descricao: "A FD English está com vagas abertas para Professores de Inglês em Londrina, oferecendo excelentes salários e a liberdade de escolher seu próprio horário",
+    descricaoModal:"nformações da Vaga: Horários flexíveis; excelente remuneração; possibilidade de montar sua própria agenda de trabalho. Localização: Londrina",
+    whatsapp: "5543984058303",
+    email: "info@fdenglish.com",
+    banner: "banners/final.jpeg"
+  },
  
 
 
