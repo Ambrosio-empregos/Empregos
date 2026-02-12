@@ -16456,6 +16456,17 @@ const vagas = [
     email: "escolamelondrina@gmail.com",
     banner: "banners/cura.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Escola em Londrina",
+    cidade: "Londrina",
+    descricao: "Escola em Londrina oferece vaga para Auxiliar de Limpeza com início imediato, carga horária de 40h semanais e benefícios como Vale Alimentação e descontos em farmácias e academias",
+    descricaoModal:"Informações da Vaga: Carga horária de 40h/semanais; início imediato. Requisitos: Experiência na função",
+    whatsapp: "5543991846200",
+    email: "escolamelondrina@gmail.com",
+    banner: "banners/final.jpeg"
+  },
  
 
 
