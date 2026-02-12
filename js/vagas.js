@@ -16731,6 +16731,17 @@ const vagas = [
     email: "",
     banner: "banners/54.jpeg"
   },
+   {
+    data: "2026-02-12", 
+    titulo: "Govwenanta",
+    empresa: "GoldMen",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Governanta no GoldMen Select em Maringá, ",
+    descricaoModal:"",
+    whatsapp: "554430271311",
+    email: "",
+    banner: "banners/gover.jpeg"
+  },
 
 
 
