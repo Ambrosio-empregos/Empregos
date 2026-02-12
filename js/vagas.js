@@ -16599,6 +16599,17 @@ const vagas = [
     email: "",
     banner: "banners/atenin.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "I red",
+    cidade: "Londrina",
+    descricao: "A Ired Internet em Londrina/PR (região do Parque Industrial Cacique) busca Auxiliar de Limpeza com experiência comprovada para atuar em jornada semanal que inclui sábados, oferecendo benefícios como Gympass/Wellhub",
+    descricaoModal:"Requisitos: Experiência comprovada na função; organização e habilidade no uso de materiais de limpeza e higiene. Benefícios: Salário + Vale Alimentação + Plano de Saúde + Gympass/Wellhub",
+    whatsapp: "5543984190153",
+    email: "",
+    banner: "banners/ired.jpeg"
+  },
 
 
 
