@@ -16423,6 +16423,28 @@ const vagas = [
     email: "",
     banner: "banners/dormes.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Bibliotecário",
+    empresa: "Escola em Londrina",
+    cidade: "Londrina",
+    descricao: "Escola em Londrina oferece vaga para Bibliotecário com início imediato, jornada flexível entre 30h e 40h semanais e benefícios que incluem Pilates e Academias",
+    descricaoModal:"Informações da Vaga: Jornada de 30h a 40h/sem (a combinar); início imediato. Requisitos: Experiência em rotinas de Biblioteca Escolar. Benefícios: Vale Alimentação, Pilates + Academias",
+    whatsapp: "5543991846200",
+    email: "escolamelondrina@gmail.com",
+    banner: "banners/bibio.jpeg"
+  },
+   {
+    data: "2026-02-12",
+    titulo: "Assistente Administrativo",
+    empresa: "Escola em Londrina",
+    cidade: "Londrina",
+    descricao: "Escola em Londrina oferece vaga para Assistente ADM com início imediato, carga horária de 44h semanais e benefícios diferenciados como Pilates e descontos em farmácias e academias",
+    descricaoModal:"Informações da Vaga: Carga horária de 44h/semanais; início imediato. Requisitos: Experiência em rotinas de Departamento Pessoal",
+    whatsapp: "5543991846200",
+    email: "escolamelondrina@gmail.com",
+    banner: "banners/eisme.jpeg"
+  },
  
 
 
