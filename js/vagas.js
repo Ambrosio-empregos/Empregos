@@ -16357,6 +16357,17 @@ const vagas = [
     email: "",
     banner: "banners/chue.jpeg"
   },
+   {
+    data: "2026-02-11",
+    titulo: "Monitora Infantil",
+    empresa: "Gelobel",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Monitora Infantil na Gelobel em Londrina, com foco em acompanhamento de crianças no Play Kids e diversos benefícios inclusos.",
+    descricaoModal:"Atividades: Atuar no Play Kids acompanhando as crianças, garantindo segurança, organização e atividades adequadas durante a permanência no espaço.",
+    whatsapp: "5543996610197",
+    email: "rh@gelobel.com.br",
+    banner: "banners/gelobelC.jpg"
+  },
  
 
 
