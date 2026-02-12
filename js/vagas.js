@@ -16709,6 +16709,17 @@ const vagas = [
     email: "recepcao.knnidiomasbc@gmail.com",
     banner: "banners/idio.jpeg"
   },
+    {
+    data: "2026-02-12",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "",
+    cidade: "Balneário Camboriú",
+    descricao: "A Higieniza Limpeza em Balneário Camboriú está contratando Auxiliar de Limpeza para atuar em condomínio",
+    descricaoModal:"Informações da Vaga: Salário + benefícios totalizando R$ 2.450,00; regime CLT. Requisitos Obrigatórios: Experiência em limpeza de condomínio; residir nos bairros Ariribá ou Nações, ou possuir condução própria; ter real interesse na vaga",
+    whatsapp: "5547996503412",
+    email: "",
+    banner: "banners/alca.jpeg"
+  },
 
 
 
