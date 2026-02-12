@@ -16797,6 +16797,17 @@ const vagas = [
     email: "",
     banner: "banners/mosq.jpeg"
   },
+   {
+    data: "2026-02-12",
+    titulo: "Operador de Caixa",
+    empresa: "Riachuelo",
+    cidade: "Balneário Camboriú",
+    descricao: "A Riachuelo no Itajaí Shopping está contratando Operador Caixa para atuar em escala 6X1 ou 5X2, buscando profissionais com ensino médio completo e identificação com o varejo de moda",
+    descricaoModal:"Requisitos principais: Ensino Médio Completo; identificação com o varejo de moda; disponibilidade para trabalhar em escala 6X1 ou 5X2. Horário: Disponibilidade para o turno das 14h às 22:20h, inclusive aos finais de semana e feriados",
+    whatsapp: "",
+    email: "ger251@riachuelo.com.br",
+    banner: "banners/difi.jpeg"
+  },
 
 
 
