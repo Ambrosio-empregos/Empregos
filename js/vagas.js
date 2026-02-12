@@ -16753,6 +16753,17 @@ const vagas = [
     email: "",
     banner: "banners/manga.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Enxugador(a) Autimotivo",
+    empresa: "BRANELO",
+    cidade: "Londrina",
+    descricao: "A rede de estética automotiva Branello contrata Enxugador(a) Autimotivo para Londrina/PR. Interessados devem enviar currículo via WhatsApp!",
+    descricaoModal:"Oportunidade para Enxugador(a) Autimotivo na rede Branello em Londrina/PR. Se você ficou interessado(a), envie seu currículo diretamente para o WhatsApp",
+    whatsapp: "5543996476306",
+    email: "",
+    banner: "banners/dado.jpeg"
+  },
 
 
 
