@@ -16733,7 +16733,7 @@ const vagas = [
   },
    {
     data: "2026-02-12", 
-    titulo: "Govwenanta",
+    titulo: "Governanta",
     empresa: "GoldMen",
     cidade: "Maringá",
     descricao: "Oportunidade para Governanta no GoldMen Select em Maringá, ",
@@ -16741,6 +16741,17 @@ const vagas = [
     whatsapp: "554430271311",
     email: "",
     banner: "banners/gover.jpeg"
+  },
+   {
+    data: "2026-02-12", 
+    titulo: "Auxiliar de Cozinha",
+    empresa: "GoldMen",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Auxiliar de Cozinha no GoldMen Select em Maringá, ",
+    descricaoModal:"",
+    whatsapp: "554430271311",
+    email: "",
+    banner: "banners/manga.jpeg"
   },
 
 
