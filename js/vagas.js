@@ -16775,6 +16775,17 @@ const vagas = [
     email: "",
     banner: "banners/cosu.jpeg"
   },
+   {
+    data: "2026-02-12",
+    titulo: "Auxiliar de Cozinha e Limpeza",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga aberta em Londrina (conforme código de área 43) para Auxiliar de Cozinha e Limpeza com salário de R$ 1.500,00 e jornada matutina de segunda a sexta-feira, incluindo refeição no local",
+    descricaoModal:"Responsabilidades: Preparar refeições naturais; auxiliar no pré-preparo e porcionamento; organização da cozinha e insumos; higienização de utensílios e ambiente; limpeza geral; apoio às rotinas operacionais diárias",
+    whatsapp: "5543999688274",
+    email: "",
+    banner: "banners/formaa.jpeg"
+  },
 
 
 
