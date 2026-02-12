@@ -16358,7 +16358,7 @@ const vagas = [
     banner: "banners/chue.jpeg"
   },
    {
-    data: "2026-02-11",
+    data: "2026-02-12",
     titulo: "Monitora Infantil",
     empresa: "Gelobel",
     cidade: "Londrina",
