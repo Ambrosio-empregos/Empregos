@@ -16632,6 +16632,17 @@ const vagas = [
     email: "",
     banner: "banners/elevado.jpeg"
   },
+    {
+    data: "2026-02-12",
+    titulo: "Emprego",
+    empresa: "Perino",
+    cidade: "Londrina",
+    descricao: "A Perino Gelateria em Londrina oferece vaga de Serviços Gerais (CLT) com salário de R$ 2.000 e benefícios, para atuar no período da tarde e noite de terça a domingo, sem exigência de experiência prévia",
+    descricaoModal:"Informações da Vaga: Salário de R$ 2.000; trabalho formal (CLT); não é necessário experiência; observação para enviar currículo apenas se atender às especificações. Benefícios: Vale alimentação de R$ 650,00 e Vale transporte",
+    whatsapp: "5514997835787",
+    email: "",
+    banner: "banners/perino.jpeg"
+  },
 
 
 
