@@ -16445,6 +16445,17 @@ const vagas = [
     email: "escolamelondrina@gmail.com",
     banner: "banners/eisme.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Auxiliar de Cozinha",
+    empresa: "Escola em Londrina",
+    cidade: "Londrina",
+    descricao: "Escola em Londrina oferece vaga para Auxiliar de Cozinha com início imediato, carga horária de 34h semanais e benefícios como Vale Alimentação e descontos em farmácias e academias",
+    descricaoModal:"Informações da Vaga: Carga horária de 34h/semana; início imediato. Requisitos: Experiência na função. Horário: Segunda a sexta das 12:30 às 18:30 e sábado das 07:00 às 11:00",
+    whatsapp: "5543991846200",
+    email: "escolamelondrina@gmail.com",
+    banner: "banners/cura.jpeg"
+  },
  
 
 
