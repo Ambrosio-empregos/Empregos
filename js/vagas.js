@@ -16676,6 +16676,17 @@ const vagas = [
     email: "",
     banner: "banners/somosum.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Atendente",
+    empresa: "Doce Família",
+    cidade: "Maringá",
+    descricao: "A Padaria & Confeitaria Doce Família em Maringá (conforme código de área 44) oferece vaga para Atendente com benefícios diferenciados, como descontos em produtos e torta no dia do aniversário",
+    descricaoModal:"Requisitos: Experiência como atendente; organização e proatividade; ser responsável e pontual. Benefícios: Vale alimentação e vale transporte; desconto de até 50% em produtos; pão fresquinho todos os dias; uma torta no dia do seu aniversário",
+    whatsapp: "554432268004",
+    email: "",
+    banner: "banners/metocas.jpeg"
+  },
 
 
 
