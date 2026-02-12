@@ -16476,7 +16476,7 @@ const vagas = [
     descricaoModal:"nformações da Vaga: Horários flexíveis; excelente remuneração; possibilidade de montar sua própria agenda de trabalho. Localização: Londrina",
     whatsapp: "5543984058303",
     email: "info@fdenglish.com",
-    banner: "banners/final.jpeg"
+    banner: "banners/info.jpeg"
   },
  
 
