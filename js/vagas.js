@@ -16786,6 +16786,17 @@ const vagas = [
     email: "",
     banner: "banners/formaa.jpeg"
   },
+  {
+    data: "2026-02-12",
+    titulo: "Consultor Coemrcial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga aberta em Londrina (conforme código de área 43) para Consultor Comercial com ganhos mensais entre R$ 2.500 e R$ 10.000, oferecendo plano de carreira e treinamento individualizado",
+    descricaoModal:"Informações da Vaga: Ganhos mensais entre R$ 2.500 á R$ 10.000; bonificações mensais; plano de carreira já traçado; treinamento e desenvolvimento individualizado",
+    whatsapp: "5543988083435",
+    email: "",
+    banner: "banners/mosq.jpeg"
+  },
 
 
 
