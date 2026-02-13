@@ -16962,6 +16962,17 @@ const vagas = [
     email: "",
     banner: "banners/leone.jpeg"
   },
+   {
+    data: "2026-02-13", 
+    titulo: "Auxiliar de Produção",
+    empresa: "Metal Calhas",
+    cidade: "Cambé",
+    descricao: "SOMENTE EMAIL; Oportunidade para Auxiliar de Produção na Metal Calhas em Cambé, com início imediato e jornada de trabalho de segunda a sábado.",
+    descricaoModal:"Detalhes da Vaga: Unidade de Cambé. Requisitos e Diferenciais: Início imediato. Horário de Trabalho: Segunda a sexta-feira, das 07h45 às 17h30; sábados, das 07h45 às 11h30min. Remuneração e Benefícios: Salário compatível; vale-alimentação.",
+    whatsapp: "",
+    email: "METALCALHASCAMBE@GMAIL.COM",
+    banner: "banners/hera.jpeg"
+  },
 
 
 
