@@ -17160,6 +17160,17 @@ const vagas = [
     email: "",
     banner: "banners/cancao.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Consultor de Relacionamento",
+    empresa: "Social",
+    cidade: "Maringá",
+    descricao: "Empresa de serviços e atendimento social em Maringá busca Consultor de Relacionamento com perfil humanizado para atuação externa, oferecendo plano de carreira e diversos benefícios como Total Pass e cartão de Natal",
+    descricaoModal:"Sobre a função: Atendimento externo com realização de visitas presenciais; orientação e esclarecimento de informações aos atendidos; apoio consultivo e acompanhamento; construção de relacionamento contínuo com foco em acolhimento e confiança",
+    whatsapp:"",
+    email: "andrecarlotto@gmail.com",
+    banner: "banners/vildo.jpeg"
+  },
  
 
 
