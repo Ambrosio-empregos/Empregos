@@ -16951,6 +16951,17 @@ const vagas = [
     email: "",
     banner: "banners/frac.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Atendente de Loja",
+    empresa: "Leone",
+    cidade: "Londrina",
+    descricao: "portunidade para Atendente de Loja na Leone Gelateria em Londrina, com processo de seleção aberto para envio de currículos",
+    descricaoModal:"Localização: Londrina. Empresa: Leone Gelateria.",
+    whatsapp: "554333291899",
+    email: "",
+    banner: "banners/leone.jpeg"
+  },
 
 
 
