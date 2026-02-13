@@ -17138,6 +17138,28 @@ const vagas = [
     email: "",
     banner: "banners/naus.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Jovem Aprendiz",
+    empresa: "C&A",
+    cidade: "Londrina",
+    descricao: "A C&A no Shopping Catuaí em Londrina está contratando Jovem Aprendiz para vendas e atendimento, oferecendo benefícios como plano de saúde e regime de Day-Off",
+    descricaoModal:"",
+    whatsapp: "5543984811666",
+    email: "",
+    banner: "banners/raika.jpeg"
+  },
+  {
+    data: "2026-02-13",
+    titulo: "Operador de Vendas e Serviço",
+    empresa: "C&A",
+    cidade: "Londrina",
+    descricao: "A C&A no Shopping Catuaí em Londrina (conforme código de área 43) está com vaga exclusiva para PCD para a função de Operador de Vendas e Serviços, oferecendo benefícios como plano de saúde, VR/VA e Day-Off",
+    descricaoModal:"Informações da Vaga: Oportunidade exclusiva para PCD; atuação em vendas e serviços; contratação para candidatos com ou sem experiência",
+    whatsapp: "5543984811666",
+    email: "",
+    banner: "banners/cancao.jpeg"
+  },
  
 
 
