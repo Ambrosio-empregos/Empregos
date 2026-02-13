@@ -17325,6 +17325,17 @@ const vagas = [
     email: "",
     banner: "banners/linguas.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Eletricista Industrial",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A GTF em Maringá-PR está contratando Eletricista Industrial para atuar com inversores de frequência, montagens de infraestrutura e comandos elétricos, exigindo formação técnica e disponibilidade para turnos",
+    descricaoModal:"Descrição: Realizar parametrizações de inversores de frequência; executar trabalhos com ferramentas elétricas (esmeril, policortes, lixadeiras, retíficas e furadeiras); montagens de partida direta e infraestrutura elétrica; interpretar desenhos técnicos e diagramas elétricos; demais atividades pertinentes ao cargo",
+    whatsapp: "",
+    email: "thomas.carvalho@gtf.com.br",
+    banner: "banners/poderoso.jpeg"
+  },
 
  
 
