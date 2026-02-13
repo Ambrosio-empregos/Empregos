@@ -16929,6 +16929,17 @@ const vagas = [
     email: "pessoal.02@avanttrh.com",
     banner: "banners/eueu.jpeg"
   },
+    {
+    data: "2026-02-13",
+    titulo: "Apresentador de Lives de Vendas",
+    empresa: "SW Digital",
+    cidade: "Londrina",
+    descricao: "A SW Digital em Londrina está contratando Apresentador(a) de Lives de Vendas com média salarial de R$ 6.000,00 (fixo + comissão), sem exigência de experiência prévia para perfis comunicativos.",
+    descricaoModal:"Informações da Vaga: Remuneração de R$ 1.500,00 fixo + comissão agressiva, com média salarial de R$ 6.000,00; trabalho presencial em Londrina/PR",
+    whatsapp: "5543996653602",
+    email: "",
+    banner: "banners/guia.jpeg"
+  },
 
 
 
