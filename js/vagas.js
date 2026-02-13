@@ -17314,6 +17314,17 @@ const vagas = [
     email: "",
     banner: "banners/torno.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Auxiliar de Limpeza",
+    empresa: "Quiosque de Marmita",
+    cidade: "Londrina",
+    descricao: "O Quiosque da Marmita em Londrina (conforme código de área 43) está contratando Auxiliar de Cozinha para trabalhar de segunda a sexta-feira, oferecendo salário compatível, vale-transporte e almoço no local",
+    descricaoModal:"Informações da Vaga: Atuação como Auxiliar de Cozinha em período parcial. Benefícios: Salário compatível com a categoria e horas trabalhadas; vale-transporte; almoço no local",
+    whatsapp: "5543988350552",
+    email: "",
+    banner: "banners/linguas.jpeg"
+  },
 
  
 
