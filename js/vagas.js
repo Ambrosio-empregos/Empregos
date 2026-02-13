@@ -16861,7 +16861,7 @@ const vagas = [
     descricaoModal:"Informações: Média salarial de R$ 3.000,00 a R$ 6.000,00. Benefícios: Vale transporte; vale alimentação; plano de saúde. Horários: Das 10:00 às 16:00 horas ou das 16:00 às 22:00 horas. Localização: Catuaí Shopping Londrina. Empresa: Altenburg.",
     whatsapp: "",
     email: "altenburglda@grupoac.nte",
-    banner: "banners/burg.jpeg"
+    banner: "banners/moradaa.jpeg"
   },
 
 
