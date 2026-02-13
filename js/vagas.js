@@ -17182,6 +17182,17 @@ const vagas = [
     email: "crocs.qq.mga@gmail.com",
     banner: "banners/croc.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Benedetti",
+    cidade: "Londrina",
+    descricao: "Benedetti Advocacia e Consultoria em Londrina está contratando Auxiliar Administrativo, oferecendo diversos benefícios como plano de saúde, Total Pass e prêmio por metas para profissionais com ensino médio completo e domínio do Pacote Office",
+    descricaoModal:"Funções: Atendimento ao cliente presencial, telefone e WhatsApp; auxiliar nas tarefas internas do departamento; atualizar informações internas em planilhas",
+    whatsapp: "",
+    email: "rh.rp@hotmail.com",
+    banner: "banners/bena.jpeg"
+  },
  
 
 
