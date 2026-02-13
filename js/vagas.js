@@ -16896,6 +16896,17 @@ const vagas = [
     email: "",
     banner: "banners/definafalsa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Alinhador Mecânico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga aberta em Londrina para Alinhador Mecânico com foco em alinhamento de carro e suspensão, exigindo experiência prévia na função e conhecimentos de mecânica veicular",
+    descricaoModal:"Informações da Vaga: Foco em alinhamento de carro e suspensão. Requisitos: Experiência em alinhamento de veículos; conhecimentos de mecânica veicular; atenção e capricho",
+    whatsapp: "554333290043",
+    email: "",
+    banner: "banners/mariaa.jpeg"
+  },
 
 
 
