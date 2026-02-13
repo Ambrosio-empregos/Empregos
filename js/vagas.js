@@ -17061,6 +17061,18 @@ const vagas = [
     email: "",
     banner: "banners/diga.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Auxiliar de Produção",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga aberta para Auxiliar de Produção (preferencialmente homens de até 25 anos) na região de Maringá, oferecendo salário de R$ 2.100,00 mais vale-refeição e transporte",
+    descricaoModal:"Informações da Vaga: Oportunidade para Auxiliar de Produção; salário de R$ 2.100,00. Requisitos e Preferências: Vaga destinada a homens; preferência por candidatos mais novos (rapazes de até aproximadamente 25 anos)",
+    whatsapp: "5543999888087",
+    email: "",
+    banner: "banners/ama.jpeg"
+  },
+ 
 
 
 
