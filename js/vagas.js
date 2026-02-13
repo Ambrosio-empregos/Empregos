@@ -17281,6 +17281,17 @@ const vagas = [
     email: "",
     banner: "banners/fresa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Auxiliar Administrativo",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A GTF em Maringá-PR está contratando Auxiliar Administrativo para atuar no setor de manutenção, realizando controle de ordens de serviço e estoque, exigindo ensino médio completo e domínio de Excel",
+    descricaoModal:"Descrição: Realizar abertura, controle e fechamento de ordens de serviço; requisitar materiais de consumo; controlar envio e recebimento de equipamentos",
+    whatsapp: "",
+    email: "thomas.carvalho@gtf.com.br",
+    banner: "banners/seulugar.jpeg"
+  },
 
  
 
