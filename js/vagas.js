@@ -17039,6 +17039,17 @@ const vagas = [
     email: "imobiliariaatualltda@gmail.com",
     banner: "banners/atual.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Montador de Pneus",
+    empresa: "Guaporé Pneus",
+    cidade: "Arapongas",
+    descricao: "Oportunidade para Montador de Pneus na Guaporé Pneus em Londrina-PR, oferecendo ótima remuneração salarial e um pacote completo de benefícios, incluindo Total Pass e planos de saúde.",
+    descricaoModal:"Local: Londrina-PR. Benefícios: Plano de Saúde; Vale Alimentação; Total Pass; Plano Odontológico; Vale Transporte. Informações Adicionais: A empresa oferece ótima remuneração salarial. Empresa: Guaporé Pneus.",
+    whatsapp: "554330321911",
+    email: "rh2@guaporepneus.com.br",
+    banner: "banners/rh2.jpeg"
+  },
 
 
 
