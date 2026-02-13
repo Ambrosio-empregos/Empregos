@@ -17435,6 +17435,17 @@ const vagas = [
     email: "",
     banner: "banners/gomusa.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Vendedor(a)",
+    empresa: "Help Multas",
+    cidade: "Balneário Camboriú",
+    descricao: "Vaga para Vendedor(a) Interno em Itajaí-SC, oferecendo remuneração composta por salário fixo e comissões atrativas, além de vale alimentação e treinamentos constantes.",
+    descricaoModal:"Detalhes da Oportunidade: Jornada de trabalho de segunda à sexta-feira. Remuneração e Benefícios: Salário fixo mais comissões atrativas sobre as vendas; vale alimentação; campanhas e premiações exclusivas para o time de vendedores; treinamentos constantes para o seu desenvolvimento. Localização: Itajaí-SC.",
+    whatsapp: "5542998008393",
+    email: "curriculo@helpmultas.com",
+    banner: "banners/help.jpeg"
+  },
   
 
  
