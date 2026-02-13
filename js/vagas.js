@@ -17380,6 +17380,17 @@ const vagas = [
     email: "",
     banner: "banners/gtff.jpeg"
   },
+    {
+    data: "2026-02-13",
+    titulo: "Motorista de Caminhão",
+    empresa: "V1 Vidors",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Motorista de Caminhão com CNH categoria C ou D ativa em Londrina-PR, para realizar entregas locais e regionais com salário compatível.",
+    descricaoModal:"Requisitos: CNH categoria C ou D ativa; ensino fundamental; disponibilidade para viagens regionais; necessário experiência na função; conhecimento em amarração de carga.",
+    whatsapp: "5543999093356",
+    email: "rh@v1vidros.com.br",
+    banner: "banners/pensar.jpeg"
+  },
   
 
  
