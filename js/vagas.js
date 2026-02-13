@@ -16971,7 +16971,7 @@ const vagas = [
     descricaoModal:"Detalhes da Vaga: Unidade de Cambé. Requisitos e Diferenciais: Início imediato. Horário de Trabalho: Segunda a sexta-feira, das 07h45 às 17h30; sábados, das 07h45 às 11h30min. Remuneração e Benefícios: Salário compatível; vale-alimentação.",
     whatsapp: "",
     email: "METALCALHASCAMBE@GMAIL.COM",
-    banner: "banners/hera.jpeg"
+    banner: "banners/dentrode.jpeg"
   },
 
 
