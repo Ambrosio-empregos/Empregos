@@ -17369,6 +17369,18 @@ const vagas = [
     email: "rh@v1vidros.com.br",
     banner: "banners/pdii.jpeg"
   },
+   {
+    data: "2026-02-13", 
+    titulo: "Auxiliar Geral",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A empresa GTF em Maringá-PR está contratando Auxiliar Geral com remuneração total de R$ 2.644,00",
+    descricaoModal:"Informações da Vaga: Remuneração total de R$ 2.644,00 (composta por salário de R$ 1.779,00 + assiduidade de R$ 380,00 + vale alimentação de R$ 485,00); salário de efetivação após período inicial de R$ 1.868,00",
+    whatsapp: "",
+    email: "",
+    banner: "banners/gtff.jpeg"
+  },
+  
 
  
 
