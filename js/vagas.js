@@ -17083,6 +17083,17 @@ const vagas = [
     email: "",
     banner: "banners/toco.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Operador de Estacionamento",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga aberta para Operador de Estacionamento em Maringá/PR, com remuneração média de R$ 2.000,00 (salário + extras) e pacote de benefícios que inclui alimentação e seguro de vida",
+    descricaoModal:"Atividades: Realizar atendimento aos clientes; orientação de tráfego; atividades de caixa. Requisitos: Disponibilidade de horário; experiência com atendimento ao público; informática básica",
+    whatsapp: "5541988510937",
+    email: "",
+    banner: "banners/ciona.jpeg"
+  },
  
 
 
