@@ -17107,14 +17107,14 @@ const vagas = [
   },
   {
     data: "2026-02-13", 
-    titulo: "Atendente",
+    titulo: "Auxiliar de Laboratório",
     empresa: "Londrifórmulas",
     cidade: "Londrina",
-    descricao: "A Londrifórmulas em Londrina está contratando Atendente, buscando profissionais proativos com ensino médio completo para integrar sua equipe",
-    descricaoModal:"Requisitos: Ser maior de 18 anos; possuir Ensino Médio completo; demonstrar proatividade",
+    descricao: "A Londrifórmulas em Londrina está contratando Auxiliar de Laboratório, buscando profissionais proativos com ensino médio completo para integrar sua equipe técnica",
+    descricaoModal:"equisitos: Ser maior de 18 anos; possuir Ensino Médio completo; demonstrar proatividade",
     whatsapp: "5543991766108",
     email: "",
-    banner: "banners/autorizo.jpeg"
+    banner: "banners/autorizoo.jpeg"
   },
  
 
