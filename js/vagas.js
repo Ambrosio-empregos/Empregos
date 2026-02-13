@@ -17226,6 +17226,18 @@ const vagas = [
     email: "curriculo@grupomp3.com.br",
     banner: "banners/serra.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Técnico de Enfermagem",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A empresa GTF em Maringá/PR está contratando Técnico de Enfermagem Organizacional para atuar no ambulatório e no acompanhamento da saúde dos colaboradores, buscando profissionais com formação técnica e registro ativo no COREN",
+    descricaoModal:"Principais atividades: Organização geral do ambulatório; atendimento aos colaboradores em casos clínicos e acidentes de trabalho; acompanhamento de saúde, incluindo controle e monitoramento de atestados médicos",
+    whatsapp: "",
+    email: "ayumi.batista@gtf.com.br",
+    banner: "banners/ferma.jpeg"
+  },
+
  
 
 
