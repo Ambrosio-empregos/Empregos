@@ -17259,6 +17259,17 @@ const vagas = [
     email: "ayumi.batista@gtf.com.br",
     banner: "banners/atumbaa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Mecânico",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A GTF em Maringá-PR está contratando Mecânico para realizar manutenção corretiva em mecânica industrial, exigindo ensino médio completo e curso na área, com disponibilidade para trabalhar em turnos",
+    descricaoModal:"Descrição: Realizar manutenção corretiva na mecânica industrial; realizar manutenção de bombas, redutores, rolamentos, correrias e acoplamentos; demais atividades pertinentes ao cargo",
+    whatsapp: "",
+    email: "ayumi.batista@gtf.com.br",
+    banner: "banners/atumbaaa.jpeg"
+  },
 
  
 
