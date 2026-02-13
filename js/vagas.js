@@ -17347,6 +17347,17 @@ const vagas = [
     email: "thomas.carvalho@gtf.com.br",
     banner: "banners/yes.jpeg"
   },
+   {
+    data: "2026-02-13", 
+    titulo: "Técnico Eletromecânico",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Técnico Eletromecânico em Maringá-PR, com escala 6x2 e exigência de curso técnico na área.",
+    descricaoModal:"Descrição: Atuar com conhecimento em elétrica e acionamentos mecânicos; planejar, executar e participar das elaborações da função de eletromecânico; interpretar esquema de montagem e desenho técnico.",
+    whatsapp: "",
+    email: "thomas.carvalho@gtf.com.br",
+    banner: "banners/ling.jpeg"
+  },
 
  
 
