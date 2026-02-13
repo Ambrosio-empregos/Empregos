@@ -17072,6 +17072,17 @@ const vagas = [
     email: "",
     banner: "banners/ama.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Motorista",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga CLT para Motorista Toco em Maringá/PR para atuar em Loja de Materiais de Construção, oferecendo remuneração entre R$ 3.000,00 e R$ 3.500,00 (salário + benefícios) para candidatos com CNH C",
+    descricaoModal:"Atribuições: Realizar entregas de materiais de construção no cliente final; conferir produtos no carregamento e descarregamento; zelar pela conservação do caminhão; cumprir horários e rotas determinadas",
+    whatsapp: "5544997224909",
+    email: "",
+    banner: "banners/toco.jpeg"
+  },
  
 
 
