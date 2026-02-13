@@ -17414,7 +17414,7 @@ const vagas = [
     banner: "banners/defogo.jpeg"
   },
   {
-    data: "2026-01-05",
+    data: "2026-02-13",
     titulo: "Internista de Carros",
     empresa: "Empresa não identiicada",
     cidade: "Londrina",
