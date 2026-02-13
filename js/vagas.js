@@ -17292,6 +17292,17 @@ const vagas = [
     email: "thomas.carvalho@gtf.com.br",
     banner: "banners/seulugar.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Torneiro Mecânico",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga CLT Presencial para Torneiro Mecânico com salário entre R$ 2.800,00 e R$ 4.250,00, focada em usinagem de precisão em tornos convencionais e oferecendo vale-transporte e prêmio assiduidade",
+    descricaoModal:"Resumo da Função: Responsável por realizar usinagem de peças com maior grau de precisão em tornos convencionais, garantindo a qualidade e agilidade dos serviços para aplicação em sistemas industriais",
+    whatsapp: "5543981115394",
+    email: "",
+    banner: "banners/feioa.jpeg"
+  },
 
  
 
