@@ -16940,6 +16940,17 @@ const vagas = [
     email: "",
     banner: "banners/guia.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Repositor de Mercadorias",
+    empresa: "Franco",
+    cidade: "Londrina",
+    descricao: "A Franco Distribuidora (revendedor Heineken) em Rolândia/PR oferece vaga de Repositor de Mercadorias com salário compatível, diversos benefícios como Gympass e plano de saúde, exigindo CNH A e experiência com moto",
+    descricaoModal:"Requisitos: Possuir CNH A; ter experiência com moto. Benefícios: Vale-alimentação Pluxee de R$ 32,50 por dia (média de R$ 682,50/mês); Wellhub (Gympass); plano de saúde Unimed 70%; moto da empresa; celular corporativo",
+    whatsapp: "5543999321137",
+    email: "",
+    banner: "banners/frac.jpeg"
+  },
 
 
 
