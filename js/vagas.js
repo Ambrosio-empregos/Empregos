@@ -16841,6 +16841,17 @@ const vagas = [
     email: "energette.lon@gmail.com",
     banner: "banners/odress.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Consultor Financeiro",
+    empresa: "Plano Seguro",
+    cidade: "Londrina",
+    descricao: "A Plano Seguro está contratando Consultores Financeiros com foco em benefícios previdenciários. oferecendo salário-mínimo acrescido de comissões e priorizando estudantes da área de Exatas",
+    descricaoModal:"Informações da Vaga: Foco em benefícios previdenciários; remuneração de um salário-mínimo + comissões. Requisitos: Candidato proativo com boa comunicação e habilidade no atendimento ao público; preferência para quem está estudando Exatas",
+    whatsapp: "5583998374491",
+    email: "",
+    banner: "banners/cosu.jpeg"
+  },
 
 
 
