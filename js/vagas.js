@@ -16984,6 +16984,17 @@ const vagas = [
     email: "",
     banner: "banners/tarci.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Editor de Vídeo Júnior",
+    empresa: "SW Digital",
+    cidade: "Londrina",
+    descricao: "A SW Digital em Londrina/PR está contratando Editor de Vídeo Junior para trabalho presencial de segunda a sexta, oferecendo remuneração composta por valor fixo mais comissão",
+    descricaoModal:"Informações da Vaga: Remuneração composta por fixo + comissão; trabalho presencial em Londrina/PR",
+    whatsapp: "5543996653602",
+    email: "",
+    banner: "banners/ferido.jpeg"
+  },
 
 
 
