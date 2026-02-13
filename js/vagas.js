@@ -16808,6 +16808,17 @@ const vagas = [
     email: "ger251@riachuelo.com.br",
     banner: "banners/difi.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Administrador de Obra",
+    empresa: "Star Plan",
+    cidade: "Londrina",
+    descricao: "A Star Plan Construtora em Londrina (conforme código de área 43) está contratando Administrador de Obra para atuar com orçamentação e gestão, oferecendo benefícios como Gympass e almoço",
+    descricaoModal:"Funções: Orçamentação e análise de serviços; execução e controle de obras; gestão de contratos públicos; emissão de relatórios técnicos; contratação e gestão de terceiros",
+    whatsapp:"5543999873919",
+    email: "energette.lon@gmail.com",
+    banner: "banners/osdre.jpeg"
+  },
 
 
 
