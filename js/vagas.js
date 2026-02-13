@@ -17237,6 +17237,17 @@ const vagas = [
     email: "ayumi.batista@gtf.com.br",
     banner: "banners/ferma.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Jovem Aprendiz - Manutenção",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A GTF em Maringá-PR está com vaga aberta para Jovem Aprendiz na área técnica e de manutenção, oferecendo formação técnica em Eletromecânica através do SENAI para jovens entre 18 e 24 anos",
+    descricaoModal:"Informações da Vaga: Carga horária de 30 horas semanais (6 horas por dia); um dia da semana reservado para curso técnico no SENAI; ao final da formação, o aprendiz receberá o certificado de Técnico em Eletromecânica",
+    whatsapp: "",
+    email: "ayumi.batista@gtf.com.br",
+    banner: "banners/atumba.jpeg"
+  },
 
  
 
