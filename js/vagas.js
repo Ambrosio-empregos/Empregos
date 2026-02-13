@@ -17336,6 +17336,17 @@ const vagas = [
     email: "thomas.carvalho@gtf.com.br",
     banner: "banners/poderoso.jpeg"
   },
+  {
+    data: "2026-02-13", 
+    titulo: "Técnico Eletrotécnico",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Técnico Eletrotécnico em Maringá-PR, atuando com instalações, reparos e regulagens de sistemas e painéis elétricos em abatedouro de aves.",
+    descricaoModal:"Descrição: Executar instalações, reparos e regulagens de sistemas e painéis elétricos conforme plano de atividades, normas e procedimentos; efetuar o conserto de partes, peças, circuitos e ferramentas; elaborar testes para validar consertos e realizar ajustes para eliminar desvios; auxiliar na identificação de defeitos em comandos e circuitos elétricos.",
+    whatsapp: "",
+    email: "thomas.carvalho@gtf.com.br",
+    banner: "banners/yes.jpeg"
+  },
 
  
 
