@@ -16815,9 +16815,9 @@ const vagas = [
     cidade: "Londrina",
     descricao: "A Star Plan Construtora em Londrina está contratando Administrador de Obra para atuar com orçamentação e gestão, oferecendo benefícios como Gympass e almoço",
     descricaoModal:"Funções: Orçamentação e análise de serviços; execução e controle de obras; gestão de contratos públicos; emissão de relatórios técnicos; contratação e gestão de terceiros",
-    whatsapp:"5543999873919",
-    email: "energette.lon@gmail.com",
-    banner: "banners/osdre.jpeg"
+    whatsapp:"5543999797161",
+    email: "starplan.adm@gmail.com",
+    banner: "banners/almaa.jpeg"
   },
    {
     data: "2026-02-13",
@@ -16826,9 +16826,9 @@ const vagas = [
     cidade: "Londrina",
     descricao: "A Energette em Londrina está contratando Assistente Financeiro para atuar com rotinas operacionais e gestão de notas, oferecendo benefícios como Gympass e almoço",
     descricaoModal:"Funções: Rotina operacional diária; lançamentos no sistema (VOB); gestão de notas fiscais; controle de fornecedores; emissão de relatórios gerenciais",
-    whatsapp:"5543999873919",
-    email: "energette.lon@gmail.com",
-    banner: "banners/odres.jpeg"
+    whatsapp:"5543999797161",
+    email: "energette.adm@gmail.com",
+    banner: "banners/almaaa.jpeg"
   },
    {
     data: "2026-02-13",
@@ -16837,9 +16837,9 @@ const vagas = [
     cidade: "Londrina",
     descricao: "A Star Plan Construtora em Londrina está com vaga para Estagiário de Administração de Obra, oferecendo benefícios como Gympass, almoço e vale transporte para estudantes de Engenharia Civil",
     descricaoModal:"Funções: Cotação de materiais; gestão de planilha de contatos; elaboração de relatórios. Requisitos: Estar cursando, no mínimo, o 3º ano da graduação em Engenharia Civil; Excel intermediário; Pacote Office básico",
-    whatsapp:"5543999873919",
-    email: "energette.lon@gmail.com",
-    banner: "banners/odress.jpeg"
+    whatsapp:"5543999797161",
+    email: "starplan.adm@gmail.com",
+    banner: "banners/alma.jpeg"
   },
   {
     data: "2026-02-13",
