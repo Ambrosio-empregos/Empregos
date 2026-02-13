@@ -17204,6 +17204,17 @@ const vagas = [
     email: "",
     banner: "banners/cucu.jpeg"
   },
+   {
+    data: "2026-02-13", 
+    titulo: "Auxiliar de Produção",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Vaga para Auxiliar de Produção na região de Maringá (conforme código 44) com salário de R$ 2.100,00, oferecendo vale-refeição e vale-transporte para o público masculino",
+    descricaoModal:"Informações da Vaga: Salário de R$ 2.100,00. Requisitos: Vaga destinada somente a homens",
+    whatsapp: "5544999888087",
+    email: "",
+    banner: "banners/palavra.jpeg"
+  },
  
 
 
