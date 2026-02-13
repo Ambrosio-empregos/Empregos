@@ -17270,6 +17270,17 @@ const vagas = [
     email: "ayumi.batista@gtf.com.br",
     banner: "banners/atumbaaa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Fresador",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga CLT Presencial com salário entre R$ 3.400,00 e R$ 4.250,00 para atuar na operação de fresadora convencional e usinagem de peças de precisão",
+    descricaoModal:"Resumo da Função: Atuar na operação de fresadora convencional, realizando usinagem de peças de precisão, com foco em qualidade dimensional, acabamento e conformidade técnica, incluindo a utilização de divisor para execução de operações indexadas e geometrias específicas",
+    whatsapp: "5543981115394",
+    email: "",
+    banner: "banners/fresa.jpeg"
+  },
 
  
 
