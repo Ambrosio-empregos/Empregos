@@ -16995,6 +16995,17 @@ const vagas = [
     email: "",
     banner: "banners/ferido.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Especialista em Implantação e treinamento de Cliente",
+    empresa: "ISM",
+    cidade: "Londrina",
+    descricao: "A ISM em Londrina está contratando Especialista em Implantação e Treinamento de Cliente, oferecendo salário fixo e um pacote completo de benefícios, incluindo Gympass, planos de saúde e odontológico",
+    descricaoModal:"Requisitos: Experiência em implantação de sistemas ou softwares, preferencialmente SaaS; boa comunicação didática para treinamentos; capacidade analítica para entender o processo do cliente; perfil consultivo voltado à solução; experiência prévia em Customer Success ou Onboarding",
+    whatsapp: "",
+    email: "adrianacanazart.dh@gmail.com",
+    banner: "banners/perfa.jpeg"
+  },
 
 
 
