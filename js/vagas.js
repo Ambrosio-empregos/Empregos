@@ -16819,6 +16819,17 @@ const vagas = [
     email: "energette.lon@gmail.com",
     banner: "banners/osdre.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Assistente Financeiro",
+    empresa: "Star Plan",
+    cidade: "Londrina",
+    descricao: "A Energette em Londrina (conforme código de área 43) está contratando Assistente Financeiro para atuar com rotinas operacionais e gestão de notas, oferecendo benefícios como Gympass e almoço",
+    descricaoModal:"Funções: Rotina operacional diária; lançamentos no sistema (VOB); gestão de notas fiscais; controle de fornecedores; emissão de relatórios gerenciais",
+    whatsapp:"5543999873919",
+    email: "energette.lon@gmail.com",
+    banner: "banners/odres.jpeg"
+  },
 
 
 
