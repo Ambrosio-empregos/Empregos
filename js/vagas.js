@@ -17433,7 +17433,7 @@ const vagas = [
     descricaoModal:"Atividades: Executar polimento automotivo técnico e acabamento final; realizar cristalização, revitalização de pintura e remoção de riscos leves; aplicar produtos adequados, seguindo procedimentos de segurança e preservação do veículo; zelar pelos equipamentos e materiais utilizados",
     whatsapp: "5543996611827",
     email: "",
-    banner: "banners/polii.jpeg"
+    banner: "banners/gomusa.jpeg"
   },
   
 
