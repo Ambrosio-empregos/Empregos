@@ -17358,6 +17358,17 @@ const vagas = [
     email: "thomas.carvalho@gtf.com.br",
     banner: "banners/ling.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Ajudante de Motorisya",
+    empresa: "V1 Vidors",
+    cidade: "Londrina",
+    descricao: "A V1 Vidros em Londrina e região está contratando Ajudante de Motorista com salário de R$ 2.010,00, oferecendo cartão alimentação e vale-transporte para candidatos com ensino fundamental e disponibilidade para viagens",
+    descricaoModal:"Atividades: Carga e descarga de veículos; suporte na expedição da fábrica; entregas na cidade de Londrina e região. Requisitos",
+    whatsapp: "5543999093356",
+    email: "rh@v1vidros.com.br",
+    banner: "banners/pdii.jpeg"
+  },
 
  
 
