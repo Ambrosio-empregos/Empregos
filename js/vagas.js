@@ -16916,7 +16916,18 @@ const vagas = [
     descricaoModal:"Atividades e Requisitos: Atuar como atendente em restaurante; exige-se agilidade, organização, facilidade para trabalhar em equipe e disponibilidade de horários; experiência na área será um diferencial. Detalhes: Salário de R$ 2.100,00; horário das 14:40h às 23h; escala com 1 folga durante a semana e 1 domingo por mês; contratação imediata. Localização: Shopping Catuaí, Londrina-PR.",
     whatsapp: "5543991360642",
     email: "",
-    banner: "banners/catu.jpeg"
+    banner: "banners/pequenes.jpeg"
+  },
+   {
+    data: "2026-02-13",
+    titulo: "Auxiliar de Departamento Pesssoal",
+    empresa: "Avantt",
+    cidade: "Londrina",
+    descricao: "A Avantt em Londrina está contratando Auxiliar de Departamento Pessoal com remuneração total de R$ 3.041,27 (salário + alimentação), exigindo experiência prévia na área",
+    descricaoModal:"Informações da Vaga: Salário de R$ 2.141,27 + R$ 900,00 de alimentação. Pré-requisitos: Ter experiência na área. Localização: Londrina - PR. Empresa: Avantt",
+    whatsapp: "",
+    email: "pessoal.02@avanttrh.com",
+    banner: "banners/eueu.jpeg"
   },
 
 
