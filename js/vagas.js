@@ -17424,6 +17424,17 @@ const vagas = [
     email: "",
     banner: "banners/sublimev.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Polidor",
+    empresa: "Sunset Auto Center",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Polidor no Sunset Auto Center, localizado no Shopping Catuaí em Londrina, voltada para profissionais qualificados em polimento técnico e cristalização.",
+    descricaoModal:"Atividades: Executar polimento automotivo técnico e acabamento final; realizar cristalização, revitalização de pintura e remoção de riscos leves; aplicar produtos adequados, seguindo procedimentos de segurança e preservação do veículo; zelar pelos equipamentos e materiais utilizados",
+    whatsapp: "5543996611827",
+    email: "",
+    banner: "banners/polii.jpeg"
+  },
   
 
  
