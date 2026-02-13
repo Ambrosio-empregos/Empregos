@@ -17006,6 +17006,17 @@ const vagas = [
     email: "adrianacanazart.dh@gmail.com",
     banner: "banners/perfa.jpeg"
   },
+   {
+    data: "2026-02-13",
+    titulo: "Analista Administrativo/Financeiro",
+    empresa: "TR Distribuidora de EPIs",
+    cidade: "Londrina",
+    descricao: "A TR Distribuidora de EPI's em Londrina (conforme código de área 43) oferece vaga para Analista Administrativo/Financeiro com salário entre R$ 2.500,00 e R$ 2.700,00",
+    descricaoModal:"Atribuições: Controle de rotinas administrativas e financeiras; gestão de contas a pagar e receber, fluxo de caixa e conciliações; emissão e conferência de documentos fiscais; apoio ao fechamento financeiro e relatórios; cadastro e parametrização tributária de produtos; garantia de conformidade fiscal e organização dos processos",
+    whatsapp: "554333743395",
+    email: "rh.selecao@trepis.com.br",
+    banner: "banners/exaloo.jpeg"
+  },
 
 
 
