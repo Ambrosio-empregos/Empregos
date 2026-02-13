@@ -17050,6 +17050,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/adora.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Atendente",
+    empresa: "Mais1.Café",
+    cidade: "Londrina",
+    descricao: "A Mais1.Café em Londrina está contratando Atendente, aceitando candidatos com ou sem experiência para atuar na unidade da Av. Madre Leonia Milito",
+    descricaoModal:"Informações da Vaga: Oportunidade para a função de Atendente; contratação para candidatos com ou sem experiência prévia",
+    whatsapp: "5543999834143",
+    email: "",
+    banner: "banners/diga.jpeg"
+  },
 
 
 
