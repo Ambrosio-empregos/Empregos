@@ -17248,6 +17248,17 @@ const vagas = [
     email: "ayumi.batista@gtf.com.br",
     banner: "banners/atumba.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Operador de Sala de Máquina",
+    empresa: "GTF",
+    cidade: "Maringá",
+    descricao: "A GTF em Maringá-PR está contratando Operador de Sala de Máquina para atuar em sistemas de refrigeração e manutenção de bombas de amônia, exigindo ensino médio completo e disponibilidade para escala 12x36",
+    descricaoModal:"Descrição: Realizar operação no sistema de refrigeração; realizar vazio no sistema; realizar manutenção em bombas de amônia; repor óleo no compressor e bomba de amônia; realizar checklist em rotas",
+    whatsapp: "",
+    email: "ayumi.batista@gtf.com.br",
+    banner: "banners/atumbaa.jpeg"
+  },
 
  
 
