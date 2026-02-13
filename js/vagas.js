@@ -16907,6 +16907,17 @@ const vagas = [
     email: "",
     banner: "banners/mariaa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Atendente",
+    empresa: "Montana Grill",
+    cidade: "Londrina",
+    descricao: "Vaga para Atendente no restaurante Montana Grill do Shopping Catuaí Londrina, com contratação imediata, salário de R$ 2.100,00 e escala com folga semanal.",
+    descricaoModal:"Atividades e Requisitos: Atuar como atendente em restaurante; exige-se agilidade, organização, facilidade para trabalhar em equipe e disponibilidade de horários; experiência na área será um diferencial. Detalhes: Salário de R$ 2.100,00; horário das 14:40h às 23h; escala com 1 folga durante a semana e 1 domingo por mês; contratação imediata. Localização: Shopping Catuaí, Londrina-PR.",
+    whatsapp: "5543991360642",
+    email: "",
+    banner: "banners/catu.jpeg"
+  },
 
 
 
