@@ -16973,6 +16973,17 @@ const vagas = [
     email: "METALCALHASCAMBE@GMAIL.COM",
     banner: "banners/dentrode.jpeg"
   },
+    {
+    data: "2026-02-13",
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Auxiliar de Serviços Gerais em Londrina!",
+    descricaoModal:"Envia seu currículo",
+    whatsapp: "5543991871063",
+    email: "",
+    banner: "banners/tarci.jpeg"
+  },
 
 
 
