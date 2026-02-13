@@ -17422,7 +17422,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência em limpeza técnica de interiores e estofados, atenção extrema aos detalhes e acabamentos. Candidato deve ser meticuloso e organizado.",
     whatsapp: "554391502191",
     email: "",
-    banner: "banners/sublimev.jpg"
+    banner: "banners/sublimev.jpeg"
   },
   
 
