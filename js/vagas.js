@@ -17048,7 +17048,7 @@ const vagas = [
     descricaoModal:"Local: Londrina-PR. Benefícios: Plano de Saúde; Vale Alimentação; Total Pass; Plano Odontológico; Vale Transporte. Informações Adicionais: A empresa oferece ótima remuneração salarial. Empresa: Guaporé Pneus.",
     whatsapp: "554330321911",
     email: "rh2@guaporepneus.com.br",
-    banner: "banners/rh2.jpeg"
+    banner: "banners/adora.jpeg"
   },
 
 
