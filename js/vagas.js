@@ -17017,6 +17017,17 @@ const vagas = [
     email: "rh.selecao@trepis.com.br",
     banner: "banners/exaloo.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Operador de Caixa",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "O Max Atacadista (Grupo Muffato) em Londrina está com vaga para Operador de Caixa no Max Norte Shopping, oferecendo oportunidades inclusive para PCD, 60+ e estrangeiros",
+    descricaoModal:"Informações da Vaga: Oportunidade para Operador de Caixa; aberta para PCD, pessoas com mais de 60 anos e estrangeiros. Benefícios: Assistência de saúde (telemedicina, plano odontológico e telepsicologia); seguro de vida e assistência funeral; clube de vantagens com desconto em farmácias; vale refeição; programas de premiação e assiduidade; acompanhamento de gestantes e salas de amamentação; oportunidade de carreira e formação pela Uniffato",
+    whatsapp: "5543984472560",
+    email: "muffato.jobs.recrut.ai",
+    banner: "banners/escravo.jpeg"
+  },
 
 
 
