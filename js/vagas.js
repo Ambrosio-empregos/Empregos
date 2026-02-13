@@ -17303,6 +17303,17 @@ const vagas = [
     email: "",
     banner: "banners/feioa.jpeg"
   },
+  {
+    data: "2026-02-13",
+    titulo: "Preparador e Operador de torno",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Vaga CLT Presencial para profissional responsável pela preparação e operação de Torno CNC com comando Siemens, oferecendo salário entre R$ 2.600,00 e R$ 3.100,00, além de vale-transporte e prêmio assiduidade",
+    descricaoModal:"Resumo da Função: Profissional responsável pela preparação, set-up e operação de Torno CNC com comando Siemens, assegurando a correta execução dos processos de usinagem, atendimento às especificações técnicas e padrões de qualidade, segurança e produtividade",
+    whatsapp: "5543981115394",
+    email: "",
+    banner: "banners/torno.jpeg"
+  },
 
  
 
