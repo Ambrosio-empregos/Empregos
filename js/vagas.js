@@ -17589,6 +17589,17 @@ const vagas = [
     email: "",
     banner: "banners/dora.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Faxineira/Diarista",
+    empresa: "Outlet Center.BR",
+    cidade: "Londrina",
+    descricao: "A Outlet Center.br em Cambé está contratando Faxineira/Diarista para limpeza de loja através de contrato de trabalho intermitente, com atuação de duas a três vezes por semana",
+    descricaoModal:"Informações da Vaga: Atuação na limpeza da loja e demais dependências. Frequência: De duas a três vezes por semana. Regime de Contratação: Contrato de trabalho Intermitente",
+    whatsapp: "5543991713025",
+    email: "",
+    banner: "banners/apresso.jpeg"
+  },
   
 
  
