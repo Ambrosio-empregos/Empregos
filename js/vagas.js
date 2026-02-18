@@ -17591,14 +17591,14 @@ const vagas = [
   },
   {
     data: "2026-02-18",
-    titulo: "Faxineira/Diarista",
+    titulo: "Operadora de Caixa Intermitente",
     empresa: "Outlet Center.BR",
     cidade: "Londrina",
-    descricao: "A Outlet Center.br em Cambé está contratando Faxineira/Diarista para limpeza de loja através de contrato de trabalho intermitente, com atuação de duas a três vezes por semana",
-    descricaoModal:"Informações da Vaga: Atuação na limpeza da loja e demais dependências. Frequência: De duas a três vezes por semana. Regime de Contratação: Contrato de trabalho Intermitente",
+    descricao: "A Outlet Center.br em Cambé está contratando Operadora de Caixa acima de 20 anos com experiência comprovada para trabalhar em regime intermitente, inclusive aos finais de semana",
+    descricaoModal:"Requisitos: Sexo feminino, acima de 20 anos; experiência comprovada; disponibilidade para trabalhar inclusive aos sábados e domingos, conforme a disponibilidade de cada colaboradora",
     whatsapp: "5543991713025",
     email: "",
-    banner: "banners/apresso.jpeg"
+    banner: "banners/apressoo.jpeg"
   },
   
 
