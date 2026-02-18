@@ -17897,6 +17897,17 @@ const vagas = [
     email: "",
     banner: "banners/vulneravel.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Vendedor(a)",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para a área de atendimento e vendas em Londrina (conforme código de área 43), oferecendo salário fixo, plano de carreira e diversos benefícios.",
+    descricaoModal:"Requisitos: Experiência em vendas (diferencial); disponibilidade para horário comercial; habilidade em negociação e comunicação.",
+    whatsapp: "5543998508587",
+    email: "",
+    banner: "banners/vagas.jpeg"
+  },
 
  
 
