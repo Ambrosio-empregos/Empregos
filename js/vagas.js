@@ -17736,7 +17736,7 @@ const vagas = [
     data: "2026-02-18",
     titulo: "Atendente de Loja",
     empresa: "Ritz Sorveteria",
-    cidade: "cambé",
+    cidade: "Cambé",
     descricao: "Temos Vagas! Atendente na Ritz Sorvetes em Cambé - Disponibilidade para trabalhar à noite e residir na região.",
     descricaoModal:"Escolaridade: Ensino Médio Completo. Requisitos indispensáveis: Habilidades com preparação de pratos, conhecimento em matemática básica, experiência com atendimento ao público e disponibilidade para o período noturno.",
     whatsapp: "5543991597711",
