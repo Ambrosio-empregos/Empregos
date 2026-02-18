@@ -18403,6 +18403,17 @@ const vagas = [
     email: "recrutamento@kobratec.com.br",
     banner: "banners/pecado.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Assistente de Produções",
+    empresa: "Kobra",
+    cidade: "Londrina",
+    descricao: "A empresa Kobra está contratando Assistente de Operações para atuar no apoio ao PCP e logística interna, buscando profissionais proativos com ensino médio completo e conhecimentos em Excel",
+    descricaoModal:"Principais atividades: Apoiar o PCP nas rotinas de programação e acompanhamento da produção; realizar apontamentos de produção e controlar indicadores; auxiliar na organização de ordens de produção; apoiar a separação de pedidos; acompanhar processos de expedição, estoque e logística interna; auxiliar em atividades operacionais pontuais",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/pecadoo.jpeg"
+  },
 
  
 
