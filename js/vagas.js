@@ -17820,6 +17820,17 @@ const vagas = [
     email: "",
     banner: "banners/chico.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Agente Externo",
+    empresa: "I red",
+    cidade: "Maringá",
+    descricao: "A iRed Internet está com uma oportunidade aberta para Agente Externo em Maringá-PR, buscando profissionais com ensino médio completo e proatividade para atividades externas",
+    descricaoModal:"Requisitos: Ensino médio completo; boa comunicação e persuasão; conhecimento básico em informática; experiência anterior com atendimento ou vendas; proatividade e disposição para atividades externas",
+    whatsapp: "5544991776801",
+    email: "",
+    banner: "banners/efusa.jpeg"
+  },
   
 
  
