@@ -18346,7 +18346,7 @@ const vagas = [
     descricaoModal:"Requisitos: Vaga para profissional organizado(a) e proativo(a); necessária experiência prévia na área de limpeza; possuir disponibilidade de horários. Detalhes da Oportunidade: Atuação como Auxiliar de Limpeza através da Lidere Service.",
     whatsapp: "554333570326",
     email: "",
-    banner: "banners/banana.jpeg"
+    banner: "banners/beleza.jpeg"
   },
 
  
