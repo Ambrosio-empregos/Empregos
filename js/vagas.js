@@ -17853,6 +17853,17 @@ const vagas = [
     email: "",
     banner: "banners/gelaboca.jpg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Costureiro(a)",
+    empresa: "Incorpast",
+    cidade: "",
+    descricao: "APENAS EMAIL; A Incorpast está contratando Costureira(o)! Oportunidade para profissionais que saibam operar máquinas reta, debrum e Overlock e que gostem de trabalhar em equipe.",
+    descricaoModal:"Funções e Requisitos: Responsável por operar máquina reta, debrum e Overlock, além de auxiliar nas etapas de pré e pós-costura. Buscamos profissionais que gostem de trabalhar em equipe.",
+    whatsapp: "",
+    email: "RH@INCORPAST.COM.BR",
+    banner: "banners/costura.jpeg"
+  },
   
 
  
