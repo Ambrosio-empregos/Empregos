@@ -17666,6 +17666,17 @@ const vagas = [
     email: "",
     banner: "banners/gmad.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Área de Produção",
+    empresa: "Infinity Carnes",
+    cidade: "Maringá",
+    descricao: "Faça parte da nossa equipe! A Infinity Carnes em Maringá está com vagas abertas para o setor de Produção com excelente remuneração e horário comercial.",
+    descricaoModal:"Detalhes da Vaga: Oportunidade para o setor de Produção na Infinity Carnes. Horário de trabalho: Segunda a Sábado em horário comercial. Oferecemos excelente remuneração.",
+    whatsapp: "554432293659",
+    email: "",
+    banner: "banners/carne.jpeg"
+  },
   
 
  
