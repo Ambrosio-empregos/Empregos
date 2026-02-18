@@ -18293,6 +18293,17 @@ const vagas = [
     email: "",
     banner: "banners/acesso.jpeg"
   },
+  ,{
+    data: "2026-02-18",
+    titulo: "Barista e Atendente",
+    empresa: "Cafeteria ODEBRECHT",
+    cidade: "Londrina",
+    descricao: "O Café Odebrecht Gourmet em Londrina (conforme código de área 43) está com vagas abertas para a unidade Centro, buscando pessoas comunicativas e que tenham interesse em café",
+    descricaoModal:"Requisitos: Ser comunicativo(a); gostar de trabalhar com atendimento ao público; ter interesse em café",
+    whatsapp: "5543996656994",
+    email: "",
+    banner: "banners/14.jpeg"
+  },
   
 
  
