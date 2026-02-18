@@ -17479,6 +17479,17 @@ const vagas = [
     email: "curriculo@marajo.com.br",
     banner: "banners/marajo.jpeg"
   },
+   {
+    data: "2026-02-14",
+    titulo: "Assistente Financeiro Sênior",
+    empresa: "grupo Marajó",
+    cidade: "Londrina",
+    descricao: "O Grupo Marajó em Londrina-PR está contratando Assistente Financeiro Senior para atuar com contas a pagar, oferecendo vagas inclusivas para pessoas com mais de 50 anos e PCD",
+    descricaoModal:"Requisitos: Graduação em administração, contábeis, gestão financeira ou áreas correlatas; experiência com contas a pagar; domínio do Pacote Office",
+    whatsapp: "",
+    email: "curriculo@marajo.com.br",
+    banner: "banners/marajoo.jpeg"
+  },
   
 
  
