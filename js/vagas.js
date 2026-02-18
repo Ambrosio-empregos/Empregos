@@ -17688,6 +17688,17 @@ const vagas = [
     email: "",
     banner: "banners/melti.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Auxiliar de Manutenção",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Existe uma vaga de emprego para Auxiliar de Manutenção em Londrina-PR para serviços em cobertura e equipamentos de unidade de recebimento de grãos, sob regime CLT e com salário a combinar",
+    descricaoModal:"Atividades: Atuação em serviços de manutenção em cobertura e equipamentos de unidade de recebimento de grãos. Requisitos: Vontade de aprender; experiência na área é considerada um diferencial",
+    whatsapp: "5543991895612",
+    email: "",
+    banner: "banners/ventre.jpeg"
+  },
   
 
  
