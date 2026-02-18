@@ -17831,6 +17831,17 @@ const vagas = [
     email: "",
     banner: "banners/efusa.jpeg"
   },
+  {
+    data: "2026-02-18", 
+    titulo: "Agente Prevenção e Perdas",
+    empresa: "Super Muffato",
+    cidade: "Maringá",
+    descricao: "O Max Atacadista (Grupo Muffato) está contratando Agente de Prevenção e Perdas para obra em Sarandi-PR, oferecendo vagas inclusivas para PCD, 60+ e estrangeiros, com escala 12x36 e um amplo pacote de benefícios",
+    descricaoModal:"Requisitos: É necessário possuir CNH. Horário: Escala 12x36. Benefícios: Assistência de saúde; telemedicina; plano odontológico; telepsicologia; seguro de vida; assistência funeral; clube de vantagens; desconto em farmácias; vale refeição; programas de premiação; acompanhamento de gestantes",
+    whatsapp: "5544988318645",
+    email: "",
+    banner: "banners/cheio.jpeg"
+  },
   
 
  
