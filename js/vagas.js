@@ -18205,6 +18205,17 @@ const vagas = [
     email: "",
     banner: "banners/oferta.jpeg"
   },
+    {
+    data: "2026-02-18",
+    titulo: "Atendimento ao Público",
+    empresa: "Empresa não identificada",
+    cidade: "Londrina",
+    descricao: "Vaga para Atendimento ao Público para jovens de 18 à 30 anos.",
+    descricaoModal:"Detalhes da Oportunidade: Requisitos: Disponibilidade de horário; Ensinoi médio completo; ter entre 18 e 30 anos.",
+    whatsapp: "5543987725661",
+    email: "",
+    banner: "banners/euquero.jpeg"
+  },
   
 
  
