@@ -18239,7 +18239,7 @@ const vagas = [
     banner: "banners/tarci.jpeg"
   },
    {
-    data: "2026-02-03",
+    data: "2026-02-18",
     titulo: "Consulotr/Cadastros",
     empresa: "Empresa não identificada",
     cidade: "Londrina",
