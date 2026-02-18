@@ -18018,6 +18018,17 @@ const vagas = [
     email: "rh@solucoespp.com.br",
     banner: "banners/ibip.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Consultor(a) Telemarketing",
+    empresa: "Negoci.IA",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Consultor (a) de Telemarketing na Negocia Sales Group, buscando profissionais com experiência prévia em vendas e foco em resultados.",
+    descricaoModal:"Requisitos: Experiência prévia em vendas telemarketing; boa comunicação; orientação para resultados; espírito de equipe. Empresa: Negocia Sales Group.",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/cucu.jpeg"
+  },
   
 
  
