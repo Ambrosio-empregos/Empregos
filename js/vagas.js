@@ -18359,6 +18359,17 @@ const vagas = [
     email: "",
     banner: "banners/gala.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Líder de acabamento",
+    empresa: "Karilu",
+    cidade: "Londrina",
+    descricao: "A Karilu está contratando Líder de Acabamento para trabalhar de segunda a sexta, oferecendo salário compatível com a função e um pacote de benefícios que inclui TotalPass",
+    descricaoModal:"Informações da Vaga: Salário compatível com a função; horário de segunda a sexta, das 07h32 às 17h20. Benefícios: Cartão VR; seguro de vida; TotalPass",
+    whatsapp: "554333711469",
+    email: "rh@karilu.com.br",
+    banner: "banners/kariluu.jpeg"
+  },
 
  
 
