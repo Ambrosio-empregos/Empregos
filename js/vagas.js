@@ -18084,6 +18084,17 @@ const vagas = [
     email: "lp.nailslashes@gmail.com",
     banner: "banners/olhapramim.jpeg"
   },
+    {
+    data: "2026-02-18", 
+    titulo: "Vendedora",
+    empresa: "Reaviva",
+    cidade: "Londrina",
+    descricao: "A Reaviva Reabilitação Motora, está com uma oportunidade aberta para o cargo de Vendedora",
+    descricaoModal:"Informações da Vaga: Oportunidade para atuar como Vendedora. Empresa: Reaviva Reabilitação Motora",
+    whatsapp: "5543991718606",
+    email: "",
+    banner: "banners/reab.jpeg"
+  },
   
 
  
