@@ -17886,6 +17886,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/past.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Líder de Vendas",
+    empresa: "Smart",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Líder de Vendas em Maringá na Smart Acessórios",
+    descricaoModal:"Requisitos: Experiência em vendas; pontualidade; paixão por tecnologia. Localização: Maringá. Empresa: Smart Acessórios.",
+    whatsapp: "5543984822354",
+    email: "",
+    banner: "banners/vulneravel.jpeg"
+  },
 
  
 
