@@ -17776,6 +17776,17 @@ const vagas = [
     email: "",
     banner: "banners/esmeu.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Atendente",
+    empresa: "Cineflix",
+    cidade: "Londrina",
+    descricao: "Oportunidade de Atendente na Cineflix Cinemas, com escala 6x1 e diversos benefícios como auxílio escola, auxílio farmácia e folga no aniversário.",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991245187",
+    email: "",
+    banner: "banners/queide.jpeg"
+  },
   
 
  
