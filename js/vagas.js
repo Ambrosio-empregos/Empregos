@@ -17468,6 +17468,17 @@ const vagas = [
     email: "",
     banner: "banners/blocosa.jpeg"
   },
+    {
+    data: "2026-02-14",
+    titulo: "Assistente Contábil",
+    empresa: "grupo Marajó",
+    cidade: "Londrina",
+    descricao: "O Grupo Marajó em Londrina-PR está contratando Assistente Contábil, oferecendo vagas inclusivas para pessoas com mais de 50 anos e PCD",
+    descricaoModal:"Atividades: Lançamentos contábeis; conciliação contábil; fechamento de balancetes; apuração de impostos; demonstrações financeiras. Benefícios: Vale-transporte; vale-refeição; Gympass; plano de saúde; plano odontológico; Day-off; convênios com farmácias e com o Sesc",
+    whatsapp: "",
+    email: "curriculo@marajo.com.br",
+    banner: "banners/marajo.jpeg"
+  },
   
 
  
