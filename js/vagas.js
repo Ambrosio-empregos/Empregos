@@ -18370,6 +18370,17 @@ const vagas = [
     email: "rh@karilu.com.br",
     banner: "banners/kariluu.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Consultor de Vendas",
+    empresa: "VIVO",
+    cidade: "Londrina",
+    descricao: "A Vivo está contratando Consultor de Vendas para sua loja no Londrina Norte Shopping, oferecendo carga horária de 6 horas diárias com salário fixo somado a benefícios e comissões",
+    descricaoModal:"Informações da Vaga: Carga horária de 6 horas. Benefícios e Salário: Salário fixo; Vale Alimentação (VA); Vale Transporte (VT)",
+    whatsapp: "554333364795",
+    email: "vivo41@mvivo.com.br",
+    banner: "banners/nova.jpeg"
+  },
 
  
 
