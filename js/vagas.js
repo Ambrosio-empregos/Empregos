@@ -18348,6 +18348,17 @@ const vagas = [
     email: "",
     banner: "banners/beleza.jpeg"
   },
+    {
+    data: "2026-02-18",
+    titulo: "Vendedor",
+    empresa: "Smart",
+    cidade: "Maringá",
+    descricao: "A Smart Acessórios de Celular está contratando Vendedor para sua unidade no Shopping Catuaí Maringá, oferecendo salário fixo mais comissões e bônus em escala 6x1",
+    descricaoModal:"Informações da Vaga: Salário fixo + comissão + bônus; escala de trabalho 6x1. Localização: Shopping Catuaí Maringá (Maringá-PR). Empresa: Smart Acessórios de Celular",
+    whatsapp: "5544991040540",
+    email: "",
+    banner: "banners/gala.jpeg"
+  },
 
  
 
