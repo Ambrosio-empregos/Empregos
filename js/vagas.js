@@ -18271,6 +18271,17 @@ const vagas = [
     email: "",
     banner: "banners/agradave.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Atendente de Restaurante",
+    empresa: "Mania de Churrasco",
+    cidade: "Londrina",
+    descricao: "A Mania de Churrasco! contrata Atendente de Restaurante para o Shopping Catuaí e Shopping Boulevard! Vaga com plano de carreira e escala 6x1.",
+    descricaoModal:"Informações da Vaga: Oportunidade para Atendente de Restaurante com escala 6x1. Requisitos: Disponibilidade para trabalhar aos fins de semana e feriados. Horários disponíveis: Das 08:00 às 16:00 ou das 15:00 às 23:00. Diferencial: A empresa oferece Plano de Carreira.",
+    whatsapp: "5543996336116",
+    email: "",
+    banner: "banners/mania.jpeg"
+  },
   
 
  
