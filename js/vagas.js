@@ -17501,6 +17501,17 @@ const vagas = [
     email: "",
     banner: "banners/queimaa.jpeg"
   },
+   {
+    data: "2026-02-14",
+    titulo: "Gerente e consultor Óptico",
+    empresa: "99 Óticas",
+    cidade: "Cambé",
+    descricao: "A 99 Óticas em Cambé-PR está contratando Gerente e Consultor Óptico com experiência, oferecendo salário compatível com o mercado, comissão de vendas e bonificações",
+    descricaoModal:"Informações da Vaga: Procura-se Gerente e Consultor Óptico com experiência. Benefícios: Salário compatível com o mercado; comissão de vendas; bonificações",
+    whatsapp: "5543999489001",
+    email: "",
+    banner: "banners/criat.jpeg"
+  },
   
 
  
