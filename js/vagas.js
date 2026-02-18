@@ -18106,6 +18106,17 @@ const vagas = [
     email: "",
     banner: "banners/reabbb.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Angariadores de Imóveis",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Há uma oportunidade para Angariadores de Imóveis na região com código de área 43, buscando profissionais dinâmicos com CNH A e experiência comercial, oferecendo salário fixo mais benefícios e comissões",
+    descricaoModal:"Requisitos: Profissional dinâmico e comunicativo; conhecimento básico em informática; experiência na área comercial; possuir CNH A",
+    whatsapp: "5543988673265",
+    email: "",
+    banner: "banners/neste.jpeg"
+  },
   
 
  
