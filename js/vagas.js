@@ -17908,6 +17908,17 @@ const vagas = [
     email: "",
     banner: "banners/vagas.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Market X Brasil",
+    cidade: "Londrina",
+    descricao: "A Market Brasil está com uma vaga urgente para Auxiliar Administrativo em Londrina, oferecendo salário de R$ 2.500,00 e oportunidade de crescimento em um ambiente amigável",
+    descricaoModal:"Requisitos: Experiência mínima de 2 anos; conhecimento em sistemas e planilhas. Informações da Vaga: Salário de R$ 2.500,00; horário de segunda a sexta, das 08h às 17h",
+    whatsapp: "5543991296531",
+    email: "",
+    banner: "banners/quaresma.jpeg"
+  },
 
  
 
