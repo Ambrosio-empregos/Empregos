@@ -18161,6 +18161,28 @@ const vagas = [
     email: "",
     banner: "banners/laza.jpeg"
   },
+     {
+    data: "2026-02-18",
+    titulo: "Auxiliar Hidráulico",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Hidráulico na EMS Engenharia.",
+    descricaoModal:"",
+    whatsapp: "5543991503783",
+    email: "",
+    banner: "banners/abreomar.jpeg"
+  },
+  {
+    data: "2026-01-20",
+    titulo: "Servente",
+    empresa: "EMS Engenharia",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Servente na EMS Engenharia com salário base da construção civil, incluindo vale-compras de R$ 980,00 e café da manhã diário.",
+    descricaoModal:"Requisitos: Necessário experiência na função. Benefícios: Salário base da construção civil; Vale-Compras de R$ 980,00; Café da manhã de R$ 8,00 por dia; Seguro de vida; Vale transporte. Empresa: EMS Engenharia (Projeto e Execução).",
+    whatsapp: "5543991503783",
+    email: "",
+    banner: "banners/oferto.jpeg"
+  },
   
 
  
