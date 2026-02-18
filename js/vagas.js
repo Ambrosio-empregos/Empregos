@@ -18260,6 +18260,17 @@ const vagas = [
     email: "rufinovagas@gmail.com",
     banner: "banners/rufino.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Operador(a) de Loja",
+    empresa: "Havaianas",
+    cidade: "Londrina",
+    descricao: "A Havaianas no Londrina Norte Shopping está contratando Operador(a) de Loja para trabalhar em escala 6x1, buscando candidatos maiores de 18 anos que sejam comunicativos e proativos",
+    descricaoModal:"Requisitos: Maior de 18 anos; ser comunicativo(a); possuir proatividade. Horário: 14h às 22h20 em escala 6x1. Localização: Havaianas Londrina Norte Shopping. Empresa: Havaianas",
+    whatsapp: "5543998099580",
+    email: "",
+    banner: "banners/agradave.jpeg"
+  },
   
 
  
