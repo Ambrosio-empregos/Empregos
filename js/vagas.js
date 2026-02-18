@@ -17633,6 +17633,17 @@ const vagas = [
     email: "",
     banner: "banners/soeu.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Manicure",
+    empresa: "Espaço Cabeleleiro",
+    cidade: "Londrina",
+    descricao: "O Espaço Cabeleireiro, localizado na região com código de área 43, está contratando Manicure para integrar sua equipe",
+    descricaoModal:"Informações da Vaga: Oportunidade para o cargo de Manicure. Empresa: Espaço Cabeleireiro",
+    whatsapp: "554333265630",
+    email: "",
+    banner: "banners/cure.jpeg"
+  },
   
 
  
