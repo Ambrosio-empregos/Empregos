@@ -17754,6 +17754,28 @@ const vagas = [
     email: "",
     banner: "banners/naus.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Saladeira",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Vaga para Saladeira com experiência em buffet e preparo de doces. Registro CLT, salário + bonificações e ótima localização em Maringá!",
+    descricaoModal:"Atividades e Requisitos: Preparar pratos e sobremesas para buffet conforme receitas, manipular alimentos e realizar cortes decorativos de saladas. Necessário experiência em carteira.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/pinka.jpeg"
+  },
+   {
+    data: "2026-02-18",
+    titulo: "Atendente/Serviços Gerais",
+    empresa: "Empresa não identificada",
+    cidade: "Maringá",
+    descricao: "Oportunidade CLT para Atendente/Serviços Gerais em Maringá (Vila Morangueira). Salário de R$ 2.500,00 + Benefícios e almoço no local!",
+    descricaoModal:"Detalhes da Vaga: Regime CLT com escala 6x1 (segunda a domingo) no horário das 08:00 às 16:00, incluindo 40 minutos de intervalo e almoço no local. Requisitos: Saber montar marmitas. Salário: R$ 2.500,00 + Benefícios.",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/esmeu.jpeg"
+  },
   
 
  
