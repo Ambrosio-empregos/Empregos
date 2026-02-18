@@ -17710,6 +17710,17 @@ const vagas = [
     email: "",
     banner: "banners/maisam.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Operador de Caixa",
+    empresa: "Havaianas",
+    cidade: "Londrina",
+    descricao: "A Havaianas no Catuaí Shopping Londrina está com vaga disponível para Operador de Loja, destinada a maiores de 18 anos para trabalhar no período da tarde e noite",
+    descricaoModal:"Requisitos: Ser maior de 18 anos. Horário: Das 14h00 às 22h20",
+    whatsapp: "5543998544438",
+    email: "havlondrina@hotmail.com",
+    banner: "banners/ahava.jpeg"
+  },
   
 
  
