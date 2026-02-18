@@ -17545,6 +17545,17 @@ const vagas = [
     email: "",
     banner: "banners/odre.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Montador/Instalador",
+    empresa: "",
+    cidade: "Cambé",
+    descricao: "Existe 01 vaga de emprego para Montador/Instalador em Cambé-PR, com salário de R$ 3.000,00 sob regime CLT, oferecendo vale-alimentação e seguro de vida em grupo",
+    descricaoModal:"Informações da Vaga: Tipo de vaga CLT com salário de R$ 3.000,00. Benefícios: Vale-alimentação de R$ 340,00; Seguro de vida em grupo. Requisitos: Experiência comprovada na função",
+    whatsapp: "5543998702326",
+    email: "",
+    banner: "banners/odree.jpeg"
+  },
   
 
  
