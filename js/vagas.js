@@ -17556,6 +17556,17 @@ const vagas = [
     email: "",
     banner: "banners/odree.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Auxiliar de Serviços Gerais",
+    empresa: "Hera - Café Saudável",
+    cidade: "Londrina",
+    descricao: "O Hera Café Saudável está com vaga aberta para Auxiliar de Serviços Gerais com início em janeiro, oferecendo benefícios como seguro de vida e desconto em consumo na cafeteria para trabalhar de terça a sábado",
+    descricaoModal:"Funções: Limpeza e organização do ambiente de trabalho; lavagem de louças; embalar produtos, entre outros. Horário: De terça a sábado, das 8h30 às 18h30, com 1 hora de almoço; folgas às segundas e domingos",
+    whatsapp: "",
+    email: "heracafesaudavel@gmail.com",
+    banner: "banners/alem.jpeg"
+  },
   
 
  
