@@ -17534,6 +17534,17 @@ const vagas = [
     email: "",
     banner: "banners/redes.jpeg"
   },
+    {
+    data: "2026-02-18", 
+    titulo: "Serralheiro",
+    empresa: "",
+    cidade: "Cambé",
+    descricao: "Existem 02 vagas de emprego para Serralheiro em Cambé-PR, com salário de R$ 3.000,00 sob regime CLT, oferecendo vale-alimentação e seguro de vida em grupo",
+    descricaoModal:"Informações da Vaga: Tipo de vaga CLT com salário de R$ 3.000,00. Benefícios: Vale-alimentação de R$ 340,00; Seguro de vida em grupo. Requisitos: Experiência comprovada como serralheiro; conhecimento em corte, montagem e acabamento de peças metálicas",
+    whatsapp: "5543998702326",
+    email: "",
+    banner: "banners/odre.jpeg"
+  },
   
 
  
