@@ -18051,6 +18051,17 @@ const vagas = [
     email: "",
     banner: "banners/defogo.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Assistente Comercial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Há uma oportunidade para Assistente Comercial em Londrina, buscando profissionais com boa comunicação e experiência em atendimento para trabalhar de segunda a sexta.",
+    descricaoModal:"Requisitos: Experiência com atendimento ao cliente; boa comunicação; conhecimento em informática e em ERP; disponibilidade para trabalhar de segunda a sexta",
+    whatsapp: "5543988684069",
+    email: "",
+    banner: "banners/lucas.jpeg"
+  },
   
 
  
