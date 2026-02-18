@@ -17721,6 +17721,17 @@ const vagas = [
     email: "havlondrina@hotmail.com",
     banner: "banners/ahava.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Recepção",
+    empresa: "Ômega Diagnósticos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para a área de Recepção na Ômega Diagnósticos, voltada para profissionais com experiência prévia e domínio do pacote Office.",
+    descricaoModal:"Requisitos: Experiência anterior na função (essencial); ensino médio completo; conhecimento no pacote Office; disponibilidade de horário. Empresa: Ômega Diagnósticos.",
+    whatsapp: "5543988034762",
+    email: "",
+    banner: "banners/omega3.jpeg"
+  },
   
 
  
