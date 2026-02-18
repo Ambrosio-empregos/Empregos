@@ -18074,7 +18074,7 @@ const vagas = [
     banner: "banners/pico.jpeg"
   },
     {
-    data: "2026-02-10", 
+    data: "2026-02-18", 
     titulo: "Repositor de Loja",
     empresa: "LP",
     cidade: "Maringá",
