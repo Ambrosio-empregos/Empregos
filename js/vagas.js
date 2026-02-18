@@ -17620,7 +17620,7 @@ const vagas = [
     descricaoModal:"Atividades: Realizar lavagem completa de veículos (externa e interna), aplicação de produtos adequados seguindo normas de segurança, acabamento final e organização do ambiente.",
     whatsapp: "554391502191",
     email: "",
-    banner: "banners/soeuu.jpg"
+    banner: "banners/soeuu.jpeg"
   },
    {
     data: "2026-02-18",
