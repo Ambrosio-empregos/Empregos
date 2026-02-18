@@ -18095,6 +18095,17 @@ const vagas = [
     email: "",
     banner: "banners/reab.jpeg"
   },
+  {
+    data: "2026-02-18", 
+    titulo: "Auxiliar de Produção",
+    empresa: "Reaviva",
+    cidade: "Londrina",
+    descricao: "A Reaviva Reabilitação Motora, está com uma oportunidade aberta para o cargo de Auxiliar de Produção",
+    descricaoModal:"Informações da Vaga: Oportunidade para atuar como Auxiliar de Produção. Empresa: Reaviva Reabilitação Motora",
+    whatsapp: "5543991718606",
+    email: "",
+    banner: "banners/reabb.jpeg"
+  },
   
 
  
