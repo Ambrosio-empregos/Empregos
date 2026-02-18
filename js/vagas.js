@@ -17655,6 +17655,17 @@ const vagas = [
     email: "",
     banner: "banners/admcarne.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Auxiliar de Armazenamento",
+    empresa: "GMAD COMPMAG",
+    cidade: "Maringá",
+    descricao: "A GMAD COMPMAG está contratando Auxiliar de Armazenamento para suporte logístico em pátio e movimentação de materiais",
+    descricaoModal:"Funções: Auxiliar na carga e descarga de materiais; auxiliar nos movimentos de produtos no pátio; auxiliar as equipes de paletização e despaletização",
+    whatsapp: "5544988010092",
+    email: "",
+    banner: "banners/gmad.jpeg"
+  },
   
 
  
