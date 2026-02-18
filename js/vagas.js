@@ -18381,6 +18381,28 @@ const vagas = [
     email: "vivo41@mvivo.com.br",
     banner: "banners/nova.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Auxiliar de Produção",
+    empresa: "Kobra",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Produção na empresa Kobra, com atividades focadas em separação de matérias-primas e organização de linha produtiva, oferecendo benefícios como plano de saúde e alimentação.",
+    descricaoModal:"Principais Atividades: Auxiliar na separação e fracionamento de matérias-primas; fracionar, pesar, selar e etiquetar produtos; auxiliar na organização, separação e conferência de itens destinados à linha de produção;",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/kobra.jpeg"
+  },
+   {
+    data: "2026-02-18",
+    titulo: "Auxiliar de Estoque",
+    empresa: "Kobra",
+    cidade: "Londrina",
+    descricao: "A empresa Kobra, localizada na região com código de área 43, está contratando Auxiliar de Estoque para atuar na organização e movimentação de mercadorias, oferecendo um pacote de benefícios que inclui alimentação e plano de saúde",
+    descricaoModal:"Principais atividades: Organização do estoque por segmento; recebimento e conferência de mercadorias; contagem do estoque e atualização do inventário no sistema ERP; identificação de componentes e matérias-primas por código e data",
+    whatsapp: "5543991897471",
+    email: "recrutamento@kobratec.com.br",
+    banner: "banners/pecado.jpeg"
+  },
 
  
 
