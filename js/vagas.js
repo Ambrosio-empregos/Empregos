@@ -17446,6 +17446,28 @@ const vagas = [
     email: "curriculo@helpmultas.com",
     banner: "banners/help.jpeg"
   },
+  {
+    data: "2026-02-14",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Altenburg",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas no Catuaí Shopping Londrina, com média salarial entre R$ 3.000,00 e R$ 6.000,00 e diversos benefícios.",
+    descricaoModal:"Informações: Média salarial de R$ 3.000,00 a R$ 6.000,00. Benefícios: Vale transporte; vale alimentação; plano de saúde. Horários: Das 10:00 às 16:00 horas ou das 16:00 às 22:00 horas. Localização: Catuaí Shopping Londrina. Empresa: Altenburg.",
+    whatsapp: "",
+    email: "altenburglda@grupoac.nte",
+    banner: "banners/moradaa.jpeg"
+  },
+    {
+    data: "2026-02-14",
+    titulo: "Preparador",
+    empresa: "FNB",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Preparador Com Experiência na FNB Funilaria e Pintura, exigindo experiência na área e oferecendo registro em carteira com benefícios.",
+    descricaoModal:"Requisitos: É necessário possuir experiência prévia na função de preparador automotivo. Detalhes da Oportunidade: Vaga com registro em carteira; Benefícios: A empresa oferece pacote de benefícios.",
+    whatsapp: "5543988163210",
+    email: "",
+    banner: "banners/blocosa.jpeg"
+  },
   
 
  
