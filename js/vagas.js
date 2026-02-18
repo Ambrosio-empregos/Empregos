@@ -18062,6 +18062,17 @@ const vagas = [
     email: "",
     banner: "banners/lucas.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Chapeiro",
+    empresa: "PicoLocos",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Chapeiro no restaurante Pico Locos em Londrina, com jornada de trabalho das 16h às 23h30",
+    descricaoModal:"Diferenciais para a vaga: Ser uma pessoa que gosta de trabalhar em equipe; ter compromisso e determinação; possuir proatividade e agilidade",
+    whatsapp: "5543999780123",
+    email: "",
+    banner: "banners/pico.jpeg"
+  },
   
 
  
