@@ -17677,7 +17677,7 @@ const vagas = [
     email: "",
     banner: "banners/carne.jpeg"
   },
-   {
+     {
     data: "2026-02-18",
     titulo: "Auxiliar de Limpeza",
     empresa: "Villa Melti",
@@ -17686,7 +17686,7 @@ const vagas = [
     descricaoModal:"Informações e Benefícios: Atuação de terça a domingo, das 15h30 às 23h30, com folgas às segundas-feiras e um domingo por mês. A remuneração é composta por salário, comissão e assiduidade, além de auxílio transporte ou ajuda de custo, alimentação no restaurante e demais benefícios CLT",
     whatsapp: "5543988249361",
     email: "",
-    banner: "banners/billie.jpeg"
+    banner: "banners/melti.jpeg"
   },
   
 
