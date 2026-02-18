@@ -17864,7 +17864,17 @@ const vagas = [
     email: "RH@INCORPAST.COM.BR",
     banner: "banners/costura.jpeg"
   },
-  
+  {
+    data: "2026-02-18", 
+    titulo: "Pedreiro",
+    empresa: "Super Muffato",
+    cidade: "Maringá",
+    descricao: "O Max Atacadista (Grupo Muffato) está contratando Pedreiro para obra em Sarandi-PR, oferecendo vagas inclusivas para PCD, 60+ e estrangeiros, com escala 12x36 e um amplo pacote de benefícios",
+    descricaoModal:" Benefícios: Assistência de saúde; telemedicina; plano odontológico; telepsicologia; seguro de vida; assistência funeral; clube de vantagens; desconto em farmácias; vale refeição; programas de premiação; acompanhamento de gestantes",
+    whatsapp: "5544988318645",
+    email: "",
+    banner: "banners/transbordando.jpeg"
+  },
 
  
 
