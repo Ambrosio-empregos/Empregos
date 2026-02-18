@@ -17809,6 +17809,17 @@ const vagas = [
     email: "",
     banner: "banners/prata.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Chefe de Cozinha",
+    empresa: "JL Pizaria e Costelaria",
+    cidade: "Londrina",
+    descricao: "A JL Pizzaria e Costelaria em Maringá-PR (Vila Morangueira) está contratando Chefe de Cozinha com experiência comprovada, oferecendo salário de R$ 4.000,00 para atuação no período da manhã",
+    descricaoModal:"Responsabilidades: Fazer a produção; montagem do cardápio; lista de compras; contagem do estoque; organização e cronograma de limpeza e conservação da cozinha; montagem do buffet",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/chico.jpeg"
+  },
   
 
  
