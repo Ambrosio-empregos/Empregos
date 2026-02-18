@@ -18315,6 +18315,17 @@ const vagas = [
     email: "@sejaconnect.com.br",
     banner: "banners/vigia.jpeg"
   },
+  {
+    data: "2026-02-18",
+    titulo: "Connsultor de Vendas",
+    empresa: "Tex3",
+    cidade: "Londrina",
+    descricao: "Tex 3 está contratando Consultor(a) de Vendas em Londrina com ganhos superiores a R$ 3.500,00 e diversos benefícios.",
+    descricaoModal:"A oportunidade oferece salário compatível, premiação por vendas e potencial de ganho superior a R$ 3.500,00. O pacote de benefícios é amplo, incluindo Auxílio Alimentação (Ifood Benefícios), Auxílio Mobilidade, Wellhub, Starbem e Convênio Educacional (Anhanguera/Unopar). A empresa também realiza campanhas de incentivo, como a 'Sexta Fire' (folga na sexta-feira à tarde).",
+    whatsapp: "5543991188189",
+    email: "julia.rh@tex3digital.com.br",
+    banner: "banners/consult.jpeg"
+  },
 
  
 
