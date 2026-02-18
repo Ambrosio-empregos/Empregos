@@ -17512,6 +17512,28 @@ const vagas = [
     email: "",
     banner: "banners/criat.jpeg"
   },
+   {
+    data: "2026-02-18", 
+    titulo: "Instalador de Internet",
+    empresa: "I red",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Instalador de Internet em Londrina, Cambé, Rolândia e Arapongas, oferecendo salário compatível com o mercado e diversos benefícios.",
+    descricaoModal:"Atividades: Instalação e manutenção de internet fibra óptica. Requisitos: Disponibilidade para trabalho em altura e próximo à rede elétrica; CNH B. Remuneração e Benefícios: Salário compatível com o mercado; adicional de periculosidade; produtividade; horas extras; aluguel de veículo (caso não possua, a empresa disponibiliza frota); seguro contra terceiros; auxílio combustível; vale-alimentação (média de R$ 750,00 mensal); plano de saúde coparticipação Unimed; Gympass/Wellhub; descontos em farmácias e universidades. Localização: Vagas para Londrina, Cambé, Rolândia e Arapongas/PR.",
+    whatsapp: "5543984190153",
+    email: "",
+    banner: "banners/net.jpeg"
+  },
+    {
+    data: "2026-02-18", 
+    titulo: "Técnico de Redes e Manutenção",
+    empresa: "I red",
+    cidade: "Londrina",
+    descricao: "A iRed Internet está contratando Técnico de Redes e Manutenção para atuar em Londrina, Cambé e Rolândia/PR, oferecendo salário compatível com o mercado",
+    descricaoModal:"Atividades: Construção e manutenção de redes de internet fibra óptica. Requisitos: Experiência comprovada na função; CNH categoria B. Remuneração e benefícios: Salário compatível com o mercado; adicional de periculosidade",
+    whatsapp: "5543984190153",
+    email: "",
+    banner: "banners/redes.jpeg"
+  },
   
 
  
