@@ -18327,7 +18327,7 @@ const vagas = [
     banner: "banners/consult.jpeg"
   },
    {
-    data: "2026-01-18",
+    data: "2026-02-18",
     titulo: "Vendedora",
     empresa: "LOOK Collection",
     cidade: "Londrina",
