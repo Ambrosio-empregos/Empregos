@@ -17611,6 +17611,28 @@ const vagas = [
     email: "",
     banner: "banners/boule.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Lavador de veículos",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "Oportunidade de Emprego para Lavador de Veículos no Shopping Catuaí.",
+    descricaoModal:"Atividades: Realizar lavagem completa de veículos (externa e interna), aplicação de produtos adequados seguindo normas de segurança, acabamento final e organização do ambiente.",
+    whatsapp: "554391502191",
+    email: "",
+    banner: "banners/soeuu.jpg"
+  },
+   {
+    data: "2026-02-18",
+    titulo: "Internista de Veículos",
+    empresa: "Empresa não identiicada",
+    cidade: "Londrina",
+    descricao: "Vaga para Internista/Detalhista de Veículos no Shopping Catuaí.",
+    descricaoModal:"Requisitos: Experiência em limpeza técnica de interiores e estofados, atenção extrema aos detalhes e acabamentos. Candidato deve ser meticuloso e organizado.",
+    whatsapp: "554391502191",
+    email: "",
+    banner: "banners/soeu.jpeg"
+  },
   
 
  
