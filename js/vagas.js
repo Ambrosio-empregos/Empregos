@@ -18137,7 +18137,7 @@ const vagas = [
     descricaoModal:"As atividades envolvem atendimento presencial e telefônico ao cliente, suporte em processos de locações, além da organização e digitação de documentos. A vaga busca profissionais comunicativos, organizados, responsáveis e ágeis. O pacote de benefícios inclui salário fixo, plano de saúde e ajuda de custo.",
     whatsapp: "5543999321975",
     email: "recrutamento.camponesa@gmail.com",
-    banner: "banners/loca.jpeg"
+    banner: "banners/vozr.jpeg"
   },
   
 
