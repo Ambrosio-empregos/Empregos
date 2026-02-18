@@ -18216,6 +18216,17 @@ const vagas = [
     email: "",
     banner: "banners/euquero.jpeg"
   },
+   {
+    data: "2026-02-18",
+    titulo: "Vendedor",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Empresa em Maringá-PR está contratando Vendedor(a) de Materiais de Construção proativo e com foco em resultados, oferecendo salário fixo, comissões e uso de moto da empresa para prospecção externa",
+    descricaoModal:"Requisitos: Desejável experiência em vendas de materiais de construção; boa comunicação e habilidade de negociação; ser proativo(a) e ter iniciativa; disponibilidade para realizar prospecção de novos clientes através de visitas externas",
+    whatsapp: "5544997224909",
+    email: "",
+    banner: "banners/fogos.jpeg"
+  },
   
 
  
