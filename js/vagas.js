@@ -18601,6 +18601,17 @@ const vagas = [
     email: "",
     banner: "banners/fluiu.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Manosbrista de Caminhão",
+    empresa: "Frnco",
+    cidade: "Londrina",
+    descricao: "A Franco Distribuidora de Bebidas (Revendedor Autorizado Heineken) em Londrina-PR está contratando Manobrista de Caminhão para o turno da noite",
+    descricaoModal:"Requisitos: CNH C ou D; experiência comprovada em carteira. Benefícios: Salário compatível; vale-alimentação Pluxee (R$ 32,50 por dia); Wellhub (Gympass); plano de saúde Unimed 70%; cesta básica; convênios com faculdades",
+    whatsapp: "5543999321137",
+    email: "",
+    banner: "banners/fluiuu.jpeg"
+  },
 
  
 
