@@ -13238,7 +13238,7 @@ const vagas = [
     titulo: "Auxiliar Administrativo",
     empresa: "WMOTORS",
     cidade: "Londrina",
-    descricao: "Oportunidade para Auxiliar Administrativo na WMOTORS Multimarcas em Londrina (conforme código de área 43), exigindo experiência específica em mídias sociais.",
+    descricao: "Oportunidade para Auxiliar Administrativo na WMOTORS Multimarcas em Londrina, exigindo experiência específica em mídias sociais.",
     descricaoModal:"Requisitos: Experiência comprovada com mídias sociais. Localização: Av. Waldemar Spranger, 285, Londrina (conforme código 43). Empresa: WMOTORS Multimarcas.",
     whatsapp: "5543988111947",
     email: "wmotorsmultimarcas@gmail.com",
@@ -18424,6 +18424,17 @@ const vagas = [
     whatsapp: "554333243090",
     email: "",
     banner: "banners/adi.jpeg"
+  },
+  {
+    data: "2026-02-19",
+    titulo: "Vendedor de Veículos",
+    empresa: "WMOTORS",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor de Veículos na WMOTORS Multimarcas em Londrina, exigindo experiência",
+    descricaoModal:"Localização: Av. Waldemar Spranger, 285, Londrina. Empresa: WMOTORS Multimarcas.",
+    whatsapp: "5543988111947",
+    email: "wmotorsmultimarcas@gmail.com",
+    banner: "banners/meuu.jpeg"
   },
 
  
