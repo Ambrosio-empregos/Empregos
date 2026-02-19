@@ -18920,6 +18920,17 @@ const vagas = [
     email: "",
     banner: "banners/bate.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Serralheiro",
+    empresa: "JM Serralheria",
+    cidade: "Londrina",
+    descricao: "Vagas abertas para Serralheiro com início imediato na JM Serralheria em Londrina! Se você tem experiência comprovada na área, venha fazer parte da nossa equipe",
+    descricaoModal:"Oportunidade para Serralheiro com início imediato em Londrina - PR. É necessário possuir experiência comprovada em corrimãos, portões de correr, portões basculantes e estruturas metálicas",
+    whatsapp: "5543984777907",
+    email: "",
+    banner: "banners/adorarr.jpeg"
+  },
 
 
  
