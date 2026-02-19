@@ -18755,6 +18755,17 @@ const vagas = [
     email: "",
     banner: "banners/versaa.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Atendente de Loja",
+    empresa: "Rei do Mate",
+    cidade: "Londrina",
+    descricao: "Oportunidade para atendente de Loja na franquia Rei do Mate em Londrina/PR",
+    descricaoModal:"Informações: Vaga para atendente de Loja",
+    whatsapp: "5569981344444",
+    email: "",
+    banner: "banners/adorare.jpeg"
+  },
 
  
 
