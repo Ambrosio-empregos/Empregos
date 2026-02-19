@@ -18766,6 +18766,17 @@ const vagas = [
     email: "",
     banner: "banners/adorare.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Caixa/ Atendimento",
+    empresa: "Old Is Cool Burger",
+    cidade: "Maringá",
+    descricao: "O Old Is Cool Burger em Maringá-PR está contratando profissional para Caixa/Atendimento",
+    descricaoModal:"Informações da Vaga: Remuneração de R$ 2.500 a R$ 2.700 (salário + benefícios + bonificação). Horário e Escala: Das 16h30 às 00h30; uma folga na semana e um domingo no mês",
+    whatsapp: "5544991737114",
+    email: "",
+    banner: "banners/barba.jpeg"
+  },
 
  
 
