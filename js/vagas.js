@@ -18742,7 +18742,7 @@ const vagas = [
     descricaoModal:"Requisitos e Benefícios: Experiência com pequenos reparos hidráulicos, elétricos, pinturas e corte de grama (experiência em condomínios será um diferencial).",
     whatsapp: "5543991871063",
     email: "@sejaconnect.com.br",
-    banner: "banners/multi.jpeg"
+    banner: "banners/lada.jpeg"
   },
 
  
