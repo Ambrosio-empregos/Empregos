@@ -18579,6 +18579,17 @@ const vagas = [
     email: "",
     banner: "banners/beta.jpg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Caixa",
+    empresa: "JL Pizzaria e Costelaria",
+    cidade: "Maringá",
+    descricao: "Oportunidade para Operadora de Caixa na JL Pizzaria e Costelaria! Vaga feminina com contratação imediata em regime CLT para trabalhar no turno da noite na Vila Morangueira",
+    descricaoModal:"Vaga feminina para Operadora de Caixa com regime CLT e escala 6x1 (uma folha semanal). Requisitos: Experiência na função, habilidade em digitação e conhecimento do sistema iFood",
+    whatsapp: "5544999978523",
+    email: "",
+    banner: "banners/cansado.jpeg"
+  },
 
  
 
