@@ -18942,6 +18942,17 @@ const vagas = [
     email: "financeiro@industriamaxon.com.br",
     banner: "banners/maxon.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Auxiliar Administrativo",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Administrativo para atuar em escritório no Catuaí Shopping, com foco no setor de contas a pagar e salário a combinar.",
+    descricaoModal:"Atividades: Rotinas administrativas no setor de contas a pagar.",
+    whatsapp: "5543991930636",
+    email: "",
+    banner: "banners/cubo.jpeg"
+  },
 
 
  
