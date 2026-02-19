@@ -18777,6 +18777,17 @@ const vagas = [
     email: "",
     banner: "banners/barba.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Esteticista",
+    empresa: "Beauty 365",
+    cidade: "Londrina",
+    descricao: "A Beauty365 Clínica de Estética, localizada próxima ao Shopping Catuaí em Londrina-PR, está contratando Esteticista para atuação via contrato PJ, oferecendo remuneração composta por mínimo garantido, comissões e prêmios",
+    descricaoModal:"Requisitos: Experiência na função; experiência com aparelhos; responsabilidade; boa comunicação. Benefícios e Remuneração: Contratação PJ; mínimo garantido + comissão de venda + comissão de execução + prêmio de vendas",
+    whatsapp: "5543998046508",
+    email: "",
+    banner: "banners/este.jpeg"
+  },
 
  
 
