@@ -18832,6 +18832,17 @@ const vagas = [
     email: "hemersonvcs@hotmail.com",
     banner: "banners/heme.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Auxiliar de Loja",
+    empresa: "LE Postiche",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Loja Responsávelna Le Postiche",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543991355658",
+    email: "",
+    banner: "banners/pedro.jpeg"
+  },
 
 
  
