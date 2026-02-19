@@ -18865,6 +18865,17 @@ const vagas = [
     email: "qlaranjasuco@gmail.com",
     banner: "banners/suco.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Balconista para Farmácia",
+    empresa: "Med Com",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Balconista em farmácia com exigência de experiência em vendas e disponibilidade para trabalhar aos sábados.",
+    descricaoModal:"Experiência em vendas; disponibilidade para trabalhar de segunda a sexta das 08:00 às 19:00 e aos sábados das 08:00 às 13:00. Empresa: Medcom Medicamentos Delivery.",
+    whatsapp: "5543998090043",
+    email: "",
+    banner: "banners/bia.jpeg"
+  },
 
 
  
