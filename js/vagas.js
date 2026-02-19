@@ -18501,7 +18501,18 @@ const vagas = [
     whatsapp: "5534992454552",
     email: "marketing@onaluri.com.br",
     banner: "banners/molt.jpeg"
-  }
+  },
+   {
+    data: "2026-02-19",
+    titulo: "Auxiliar de Pizzaiolo",
+    empresa: "Coluna de Fogo",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Pizzaiolo na Pizzaria Coluna de Fogo em Londrina (conforme código de área 43), exigindo experiência mínima de seis meses na função.",
+    descricaoModal:"Requisitos: Experiência mínima de seis meses; ensino médio completo; habilidades de comunicação; espírito de equipe; conhecimento de higiene alimentar.",
+    whatsapp: "5543999911711",
+    email: "",
+    banner: "banners/fire.jpeg"
+  },
 
  
 
