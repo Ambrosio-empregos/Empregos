@@ -18931,6 +18931,17 @@ const vagas = [
     email: "",
     banner: "banners/adorarr.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Operador de Dobradeira CNC",
+    empresa: "Maxon",
+    cidade: "Londrina",
+    descricao: "A Maxon Silos e Secadores está contratando Operador de Dobradeira CNC para sua sede em Rolândia-PR, oferecendo salário compatível, seguro de vida e outros benefícios para profissionais com experiência na função",
+    descricaoModal:"Requisitos: Experiência na função. Oferecemos: Salário compatível com a função; horário de trabalho comercial; vale-alimentação; seguro de vida",
+    whatsapp: "",
+    email: "financeiro@industriamaxon.com.br",
+    banner: "banners/maxon.jpeg"
+  },
 
 
  
