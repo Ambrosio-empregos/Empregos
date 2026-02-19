@@ -18689,6 +18689,17 @@ const vagas = [
     email: "",
     banner: "banners/repositor.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Auxiliar de Expedição",
+    empresa: "Soft Colchões",
+    cidade: "Maringá",
+    descricao: "A Soft Colchões está contratando Auxiliar de Expedição para atuar na organização e separação de pedidos, oferecendo um salário inicial de R$ 2.500",
+    descricaoModal:"Requisitos: Experiência na área de expedição, logística ou almoxarifado; conhecimento em organização de estoque e separação de pedidos; boa comunicação e atenção aos detalhes; agilidade e proatividade",
+    whatsapp: "5544997685082",
+    email: "",
+    banner: "banners/softc.jpeg"
+  },
 
  
 
