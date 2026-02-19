@@ -18513,6 +18513,17 @@ const vagas = [
     email: "",
     banner: "banners/marana.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Atendente de Padaria",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Atendente de Padaria com salário acima da média e bonificação, exigindo mínimo de 6 meses de experiência comprovada no ramo.",
+    descricaoModal:"Requisitos: Experiência comprovada em padaria (mínimo de 6 meses); comprometimento e responsabilidade; bom atendimento ao cliente.",
+    whatsapp: "5543999706423",
+    email: "",
+    banner: "banners/paulo.jpeg"
+  },
 
  
 
