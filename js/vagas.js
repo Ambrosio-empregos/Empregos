@@ -18656,6 +18656,17 @@ const vagas = [
     email: "",
     banner: "banners/maromba.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Psicóloga Organizacional",
+    empresa: "Negoci.IA",
+    cidade: "Maringá",
+    descricao: "O Negocia Sales Group, está contratando Psicóloga Organizacional com CRM ativo e experiência na área",
+    descricaoModal:"Requisitos: Experiência em organizacional; CRM Ativo; boa comunicação e senso de urgência. Benefícios: Vale transporte ou ajuda de custo; plano de saúde e odontológico (após experiência); vale alimentação de R$ 20,00 por dia trabalhado",
+    whatsapp: "5544997309246",
+    email: "",
+    banner: "banners/psico.jpeg"
+  },
 
  
 
