@@ -18700,6 +18700,17 @@ const vagas = [
     email: "",
     banner: "banners/softc.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Enxugador Automotivo",
+    empresa: "Branello",
+    cidade: "Maringá",
+    descricao: "Rede de estética automotiva Branello contrata Enxugador(a) Automotivo para atuação em Maringá-PR.",
+    descricaoModal:"Detalhes da Oportunidade: Vaga para Enxugador(a) Automotivo em rede de estética automotiva. Localização: Maringá-PR.",
+    whatsapp: "5541987702241",
+    email: "",
+    banner: "banners/enxuga.jpeg"
+  },
 
  
 
