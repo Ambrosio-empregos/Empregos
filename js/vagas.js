@@ -18678,6 +18678,17 @@ const vagas = [
     email: "",
     banner: "banners/gastar.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Repositor",
+    empresa: "Max Atacadista",
+    cidade: "Londrina",
+    descricao: "O Muffato Transforma oferece oportunidades para Repositor(a) no Max Norte Shopping em Londrina, com vagas inclusivas para PCD, profissionais com mais de 50 anos e estrangeiros.",
+    descricaoModal:"A vaga para a unidade do Pacaembu inclui benefícios como assistência de saúde, telepsicologia, seguro de vida, plano odontológico, clube de vantagens com descontos em farmácias, vale refeição, programas de premiação, acompanhamento de gestantes e oportunidades de carreira com formação pela Unifato.",
+    whatsapp: "5543984220966",
+    email: "",
+    banner: "banners/repositor.jpeg"
+  },
 
  
 
