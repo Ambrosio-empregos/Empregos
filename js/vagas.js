@@ -18898,6 +18898,17 @@ const vagas = [
     email: "",
     banner: "banners/boule.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Ajudante de Marceneiro",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Ajudante de Marceneiro com experiência em Londrina para contrato imediato, destinada ao público masculino",
+    descricaoModal:"Requisitos: Experiência na função; sexo masculino. Informações Adicionais: Contrato imediato",
+    whatsapp: "5543991133032",
+    email: "",
+    banner: "banners/cade.jpeg"
+  },
 
 
  
