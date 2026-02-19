@@ -18788,6 +18788,17 @@ const vagas = [
     email: "",
     banner: "banners/este.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Assistente Comercial",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Um escritório de advocacia está com vaga aberta para Assistente Comercial, buscando profissionais com ensino médio completo e domínio de técnicas de vendas para trabalhar em horário comercial de segunda a sexta",
+    descricaoModal:"Requisitos: Domínio de técnica em vendas; experiência comercial/atendimento on-line; experiência em vendas; boa comunicação oral e escrita; conhecimento em pacote office (intermediário); facilidade com metas; ensino médio completo",
+    whatsapp: "",
+    email: "kr.judicial@gmail.com",
+    banner: "banners/kr.jpeg"
+  },
 
  
 
