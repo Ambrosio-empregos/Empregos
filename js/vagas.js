@@ -18711,6 +18711,17 @@ const vagas = [
     email: "",
     banner: "banners/enxuga.jpeg"
   },
+    {
+    data: "2026-02-19",
+    titulo: "Auxiliar de Produção",
+    empresa: "Silvia.Doré",
+    cidade: "Londrina",
+    descricao: "A Silvia Doré Alfaiataria em Londrina-PR está contratando Auxiliar de Produção para atuar com enfesto, etiquetagem e passadoria, oferecendo salário compatível e benefícios em um ambiente de moda corporativa",
+    descricaoModal:"Responsabilidades: Enfesto e etiquetagem de tecidos e modelagem; conferência de metragem de tecido; organização no corte; passadoria de roupas; empenho de insumos para costura",
+    whatsapp: "5543999815640",
+    email: "",
+    banner: "banners/dore.jpeg"
+  },
 
  
 
