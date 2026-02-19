@@ -18821,6 +18821,17 @@ const vagas = [
     email: "",
     banner: "banners/zero.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Motorista Entregador",
+    empresa: "Industria de Alimentos",
+    cidade: "Londrina",
+    descricao: "Uma indústria de alimentos está contratando Motorista Entregador para trabalhar de segunda a sábado, buscando profissionais que residam em Londrina e possuam disponibilidade para viagens",
+    descricaoModal:"Requisitos: Experiência em entregas e viagens; morar em Londrina; possuir Carteira B; disponibilidade para viagens",
+    whatsapp: "",
+    email: "hemersonvcs@hotmail.com",
+    banner: "banners/heme.jpeg"
+  },
 
 
  
