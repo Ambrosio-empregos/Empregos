@@ -18676,7 +18676,7 @@ const vagas = [
     descricaoModal:"Benefícios: Assistência de saúde e odontológica, seguro de vida, clube de vantagens com descontos em farmácias, vale refeição, programas de premiação e oportunidade de carreira pela Uniffato.",
     whatsapp: "5543984220966",
     email: "",
-    banner: "banners/facu.jpeg"
+    banner: "banners/gastar.jpeg"
   },
 
  
