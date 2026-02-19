@@ -18909,6 +18909,17 @@ const vagas = [
     email: "",
     banner: "banners/cade.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "bate",
+    empresa: "Baten Portas",
+    cidade: "Londrina",
+    descricao: "A Batenportas está contratando Motorista habilitado para realizar entregas em Londrina e região, com processo de seleção realizado exclusivamente via WhatsApp",
+    descricaoModal:"Requisitos: Profissional habilitado. Atividades: Entrega de produtos em Londrina e região",
+    whatsapp: "5543984880487",
+    email: "",
+    banner: "banners/bate.jpeg"
+  },
 
 
  
