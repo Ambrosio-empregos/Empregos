@@ -18810,6 +18810,18 @@ const vagas = [
     email: "odontolondrina21@outlook.com",
     banner: "banners/peace.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Auxiliar odontológica",
+    empresa: "Maximus",
+    cidade: "Londrina",
+    descricao: "A clínica Maximus Odontologia Avançada está contratando Auxiliar Odontológica com experiência na área, buscando um perfil proativo e organizado",
+    descricaoModal:"equisitos: Buscamos por um profissional proativo(a) e organizado(o); somente com experiência na área odontológica",
+    whatsapp: "554333720700",
+    email: "",
+    banner: "banners/zero.jpeg"
+  },
+
 
  
 
