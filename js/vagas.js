@@ -694,17 +694,6 @@ const vagas = [
   },
   {
     data: "2026-01-05",
-    titulo: "Vigia",
-    empresa: "Connect",
-    cidade: "Londrina",
-    descricao: "Vaga aberta para Vigia em Londrina e Cambé! Salário de R$ 1.988,00 + Vale Alimentação de R$ 805,00, com escala 12x36 para candidatos com CNH A.",
-    descricaoModal:"Requisitos e Benefícios: Necessário Ensino Médio completo, experiência na área de condomínios e CNH categoria A. O candidato deve residir em Cambé ou Londrina e ter disponibilidade para escala 12x36.",
-    whatsapp: "5543991871063",
-    email: "@sejaconnect.com.br",
-    banner: "banners/vigia.jpeg"
-  },
-  {
-    data: "2026-01-05",
     titulo: "Auxiliar Multifuncional",
     empresa: "Connect",
     cidade: "Londrina",
@@ -18303,17 +18292,6 @@ const vagas = [
     whatsapp: "5543996656994",
     email: "",
     banner: "banners/14.jpeg"
-  },
-   {
-    data: "2026-02-18",
-    titulo: "Vigia",
-    empresa: "Connect",
-    cidade: "Londrina",
-    descricao: "Vaga aberta para Vigia em Londrina e Cambé! Salário de R$ 1.988,00 + Vale Alimentação de R$ 805,00, com escala 12x36 para candidatos com CNH A.",
-    descricaoModal:"Requisitos e Benefícios: Necessário Ensino Médio completo, experiência na área de condomínios e CNH categoria A. O candidato deve residir em Cambé ou Londrina e ter disponibilidade para escala 12x36.",
-    whatsapp: "5543991871063",
-    email: "@sejaconnect.com.br",
-    banner: "banners/vigia.jpeg"
   },
   {
     data: "2026-02-18",
