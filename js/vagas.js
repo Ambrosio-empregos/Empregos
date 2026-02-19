@@ -18634,6 +18634,17 @@ const vagas = [
     email: "",
     banner: "banners/rafinha.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Televendas",
+    empresa: "Brasil Limp",
+    cidade: "Maringá",
+    descricao: "A Brasilimp está contratando profissional de Televendas para comercialização de produtos de limpeza e descartáveis, oferecendo salário fixo mais comissões para trabalho de segunda a sexta",
+    descricaoModal:"Requisitos: Experiência comprovada em vendas por telefone; boa comunicação e habilidades interpessoais; ser responsável. Atividades: Venda de produtos de limpeza e descartáveis",
+    whatsapp: "5544991024432",
+    email: "brasillimp.fg@rotmail.com",
+    banner: "banners/foipor.jpg"
+  },
 
  
 
