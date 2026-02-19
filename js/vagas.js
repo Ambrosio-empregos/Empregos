@@ -18744,6 +18744,17 @@ const vagas = [
     email: "@sejaconnect.com.br",
     banner: "banners/lada.jpeg"
   },
+   {
+    data: "2026-02-19", 
+    titulo: "Auxiliar de Bordado",
+    empresa: "VErsa",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Bordado na Versa Alta Costura.",
+    descricaoModal:"Vaga de emprego para a função de Auxiliar de Bordado na empresa Versa Alta Costura.",
+    whatsapp: "5543991755730",
+    email: "",
+    banner: "banners/versaa.jpeg"
+  },
 
  
 
