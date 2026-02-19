@@ -18843,6 +18843,17 @@ const vagas = [
     email: "",
     banner: "banners/pedro.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Atendente",
+    empresa: "Sorveteria",
+    cidade: "Cambé",
+    descricao: "Uma sorveteria em Cambé, no Jardim Ana Rosa, está contratando Atendente para trabalhar em regime de registro, oferecendo uma média livre de ganhos entre R$ 2.100 e R$ 2.300, incluindo benefícios e bonificações por assiduidade",
+    descricaoModal:"Requisitos: Sexo feminino; maior de 18 anos; disponibilidade de horários; responsabilidade, comunicação, agilidade e proatividade",
+    whatsapp: "5543988677191",
+    email: "",
+    banner: "banners/roxo.jpeg"
+  },
 
 
  
