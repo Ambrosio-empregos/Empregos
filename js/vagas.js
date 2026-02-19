@@ -18590,6 +18590,17 @@ const vagas = [
     email: "",
     banner: "banners/cansado.jpeg"
   },
+    {
+    data: "2026-02-19",
+    titulo: "Auxiliar Administrativo",
+    empresa: "Silvia.Doré",
+    cidade: "Londrina",
+    descricao: "A Silvia Doré Alfaiataria, em Londrina-PR, está contratando Auxiliar Administrativo para atuar com faturamento e atendimento, oferecendo salário compatível e benefícios em um ambiente colaborativo de moda corporativa",
+    descricaoModal:"Responsabilidades: Emissão de pedidos de venda; faturamento e emissão de notas fiscais; atendimento presencial e telefônico na recepção; conferência de notas fiscais de entrada e saída; apoio nas cotações de compras; controle e contagem de estoque",
+    whatsapp: "5543999815640",
+    email: "",
+    banner: "banners/fluiu.jpeg"
+  },
 
  
 
