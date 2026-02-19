@@ -6612,7 +6612,7 @@ const vagas = [
   },
   {
     data: "2026-01-19",
-    titulo: "Auxiliar dAdministrativo e Banco de Dados",
+    titulo: "Auxiliar Administrativo e Banco de Dados",
     empresa: "",
     cidade: "Londrina",
     descricao: "Oportunidade para Auxiliar Administrativo e Banco de Dados em agência focada no agronegócio, oferecendo treinamento em sistema próprio para organização de rotinas e informações.",
@@ -18721,6 +18721,17 @@ const vagas = [
     whatsapp: "5543999815640",
     email: "",
     banner: "banners/dore.jpeg"
+  },
+  {
+    data: "2026-02-19",
+    titulo: "Auxiliar de Acabamento",
+    empresa: "Silvia.Doré",
+    cidade: "Londrina",
+    descricao: "A Silvia Doré Alfaiataria está contratando Auxiliar de Acabamento, oferecendo salário compatível e benefícios em um ambiente focado em moda corporativa",
+    descricaoModal:"Responsabilidades: Pregar botão e casear; expedição de pedidos; dobrar e embalar mercadorias; conferir pedido para entrega",
+    whatsapp: "5543999815640",
+    email: "",
+    banner: "banners/aca.jpeg"
   },
 
  
