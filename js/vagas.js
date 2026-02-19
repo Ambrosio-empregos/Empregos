@@ -18535,6 +18535,17 @@ const vagas = [
     email: "",
     banner: "banners/super.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Consultora COmercial",
+    empresa: "Triunfo",
+    cidade: "Balneário Camboriú",
+    descricao: "A RH Consultoria Triunfo busca Consultora Comercial para uma clínica odontológica em Itajaí/SC",
+    descricaoModal:"Atividades principais: Atendimento presencial, telefônico e via WhatsApp; organização de agenda e prontuários; acompanhamento pós-atendimento; apoio na captação e fidelização de pacientes; fechamento e negociações",
+    whatsapp: "5548991061340",
+    email: "",
+    banner: "banners/banquete.jpeg"
+  },
 
  
 
