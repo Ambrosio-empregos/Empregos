@@ -18612,6 +18612,17 @@ const vagas = [
     email: "",
     banner: "banners/fluiuu.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Vendedora Freelancer Intermitente",
+    empresa: "Baby GO",
+    cidade: "Londrina",
+    descricao: "A BabyGO Outlet em Cambé está contratando Vendedora Freelancer Intermitente com registro em CTPS, buscando profissionais proativas com experiência em vendas e disponibilidade para trabalhar aos finais de semana",
+    descricaoModal:"Informações da Vaga: Contrato intermitente com registro em CTPS; horário das 09h00 às 18h00. Requisitos: Experiência comprovada em vendas de qualquer segmento",
+    whatsapp: "5543991366040",
+    email: "",
+    banner: "banners/baby.jpeg"
+  },
 
  
 
