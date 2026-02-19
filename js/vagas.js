@@ -18643,7 +18643,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência comprovada em vendas por telefone; boa comunicação e habilidades interpessoais; ser responsável. Atividades: Venda de produtos de limpeza e descartáveis",
     whatsapp: "5544991024432",
     email: "brasillimp.fg@rotmail.com",
-    banner: "banners/foipor.jpg"
+    banner: "banners/foipor.jpeg"
   },
 
  
