@@ -18524,6 +18524,17 @@ const vagas = [
     email: "",
     banner: "banners/maranatah.jpeg"
   },
+  {
+    data: "2026-02-19",
+    titulo: "Consultor(a) de Vendas",
+    empresa: "Work On Time",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Consultor(a) de Vendas na Work On Time",
+    descricaoModal:"Envie seu currículo",
+    whatsapp: "5543996009566",
+    email: "",
+    banner: "banners/marana.jpeg"
+  },
 
  
 
