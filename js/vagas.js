@@ -18436,6 +18436,17 @@ const vagas = [
     email: "wmotorsmultimarcas@gmail.com",
     banner: "banners/meuu.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Lavagem e Preparação de Veículos",
+    empresa: "WMOTORS",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Lavagem e Preparação de Veículos na WMOTORS Multimarcas em Londrina, exigindo experiência",
+    descricaoModal:"Localização: Av. Waldemar Spranger, 285, Londrina. Empresa: WMOTORS Multimarcas.",
+    whatsapp: "5543988111947",
+    email: "wmotorsmultimarcas@gmail.com",
+    banner: "banners/meuuu.jpeg"
+  },
 
  
 
