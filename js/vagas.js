@@ -18876,6 +18876,17 @@ const vagas = [
     email: "",
     banner: "banners/bia.jpeg"
   },
+   {
+    data: "2026-02-19",
+    titulo: "Mecânico com Experiência",
+    empresa: "Auto Estilo",
+    cidade: "Londrina",
+    descricao: "O Auto Estilo Centro Automotivo está contratando Mecânico com experiência comprovada para integrar sua equipe, buscando profissionais responsáveis e com conhecimento técnico em mecânica geral",
+    descricaoModal:"Requisitos: Experiência na área; responsável e comprometido; conhecimento em mecânica geral",
+    whatsapp: "5543996608036",
+    email: "",
+    banner: "banners/noivo.jpeg"
+  },
 
 
  
