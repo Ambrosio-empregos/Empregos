@@ -19382,6 +19382,17 @@ const vagas = [
     email: "rh2@guaporepneus.com.br",
     banner: "banners/cami.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Call Center",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "A Domino's Pizza está contratando Gerente Júnior para atuar na região de Maringá, oferecendo remuneração de R$ 1.950,00 acrescida de 40% por cargo de confiança e diversos benefícios",
+    descricaoModal:"Benefícios e Remuneração: Salário de R$ 1.950,00 + 40% de cargo de confiança; vale-transporte; vale-alimentação; plano odontológico e prêmio assiduidade",
+    whatsapp: "5543999815458",
+    email: "",
+    banner: "banners/ia.jpeg"
+  },
 
 
  
