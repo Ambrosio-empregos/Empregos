@@ -19151,6 +19151,17 @@ const vagas = [
     email: "",
     banner: "banners/para.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Corretor",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "vagas abertas para Corretores em Maringá",
+    descricaoModal:"Oportunidade para Corretores.",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/recordado.jpeg"
+  },
 
 
  
