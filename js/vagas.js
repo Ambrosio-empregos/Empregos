@@ -18965,7 +18965,7 @@ const vagas = [
     banner: "banners/lada.jpeg"
   },
    {
-    data: "2026-02-19",
+    data: "2026-02-20",
     titulo: "Professor de Musculação",
     empresa: "Estação Fitness",
     cidade: "Londrina",
