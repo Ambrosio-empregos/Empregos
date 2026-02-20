@@ -19327,6 +19327,17 @@ const vagas = [
     email: "",
     banner: "banners/armand.jpeg"
   },
+   {
+    data: "2026-02-20", 
+    titulo: "Empregada Domética Zona 01",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está selecionando Empregada Doméstica para trabalhar na Zona 01 de Maringá, atendendo uma família de quatro pessoas com salário de R$ 2.800,00 mais vale-transporte",
+    descricaoModal:"Descrição: Atuar com rotinas de lavar, passar, limpar e organizar a casa para uma família de quatro pessoas (casal e duas crianças); não será necessário cozinhar",
+    whatsapp: "5544984046302",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhj.jpeg"
+  },
 
 
  
