@@ -19140,6 +19140,17 @@ const vagas = [
     email: "",
     banner: "banners/forca.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Estagiário de Marketing",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Empresa em Maringá está com processo seletivo aberto para Estagiário de Marketing, buscando estudantes organizados, proativos e com domínio básico de ferramentas de escritório",
+    descricaoModal:"Requisitos: Conhecimento básico em redes sociais; boa comunicação escrita e criatividade; organização e proatividade; conhecimento básico do Pacote Office ou Google Workspace",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/para.jpeg"
+  },
 
 
  
