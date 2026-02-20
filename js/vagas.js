@@ -19008,6 +19008,39 @@ const vagas = [
     email: "",
     banner: "banners/laza.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Vendedora de Roupas",
+    empresa: "G F  Store",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora de Roupas na GF Store Premium no Camelódromo de Londrina, com salário de R$ 2.000,00 mais comissão e ajuda de custo.",
+    descricaoModal:"Requisitos: Ter experiência em vendas; ensino médio completo; cursos na área serão um diferencial; conhecimento em redes sociais; conhecimento básico de computadores e sistemas.",
+    whatsapp: "5543920006972",
+    email: "",
+    banner: "banners/iuventus.jpeg"
+  },
+   {
+    data: "2026-02-20",
+    titulo: "vagas para EMPREENDEDORAS",
+    empresa: "Incrível Sotre/romance favorita",
+    cidade: "Londrina",
+    descricao: "Oportunidade para empreendedoras começarem 2026 lucrando! Revenda moda fitness e lingerie no sistema de consignado, sem necessidade de investimento inicial.",
+    descricaoModal:"Informações da Vaga: Seja uma revendedora Romance Favorita e Invencível Store. Oferecemos sistema de consignado (você só paga o que vender) e não é necessário investimento inicial para começar. Ideal para quem busca autonomia e faturamento imediato em 2026.",
+    whatsapp: "5543998007636",
+    email: "",
+    banner: "banners/dora.jpeg"
+  },
+   {
+    data: "2026-02-20",
+    titulo: "Auxiliar de Sublimação",
+    empresa: "Karilu",
+    cidade: "Londrina",
+    descricao: "A Karilu está contratando Auxiliar de Sublimação para trabalhar de segunda a sexta, oferecendo salário compatível com a função e um pacote de benefícios que inclui TotalPass",
+    descricaoModal:"Informações da Vaga: Salário compatível com a função; horário de segunda a sexta, das 07h32 às 17h20. Benefícios: Cartão VR; seguro de vida; TotalPass",
+    whatsapp: "554333711469",
+    email: "rh@karilu.com.br",
+    banner: "banners/kariluuu.jpeg"
+  },
 
 
  
