@@ -19129,6 +19129,17 @@ const vagas = [
     email: "vendas@fgflex.com.br",
     banner: "banners/flexi.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Telemarketing",
+    empresa: "",
+    cidade: "Maringá",
+    descricao: "Uma empresa na região de Maringá (DDD 44) está contratando profissionais para a área de Telemarketing, buscando candidatos com boa comunicação, perfil persuasivo e conhecimentos básicos de informática",
+    descricaoModal:"Requisitos/Perfil: Boa comunicação verbal e dicção clara; facilidade com atendimento ao cliente; conhecimento básico de informática; organização e responsabilidade",
+    whatsapp: "5544997103927",
+    email: "",
+    banner: "banners/forca.jpeg"
+  },
 
 
  
