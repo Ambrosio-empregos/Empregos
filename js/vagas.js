@@ -19481,6 +19481,17 @@ const vagas = [
     email: "recruta.solutionrh@gmail.com",
     banner: "banners/hydro.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "gestor Comercial",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está selecionando um Gestor Comercial para atuar em todas as etapas de ampliação de um distribuidor de suprimentos de informática, oferecendo possibilidade de ganhos entre R$ 10.000,00 e R$ 12.000,00 através de salário fixo e comissões",
+    descricaoModal:"Descrição: O profissional será responsável pelo crescimento estratégico da empresa no setor de suprimentos de informática, identificando novas oportunidades de mercado, selecionando parceiros, coordenando a abertura de unidades e centralizando estratégias de crescimento",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/rhjjjjjjjj.jpeg"
+  },
 
 
  
