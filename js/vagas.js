@@ -19284,7 +19284,7 @@ const vagas = [
     banner: "banners/kaio.jpeg"
   },
    {
-    data: "2026-01-26",
+    data: "2026-02-20",
     titulo: "Sub Gerente",
     empresa: "For Boys For Girls",
     cidade: "Londrina",
