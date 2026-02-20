@@ -19547,6 +19547,17 @@ const vagas = [
     email: "",
     banner: "banners/calca.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Vendedor(a) Interno",
+    empresa: "New Talent",
+    cidade: "Maringá",
+    descricao: "A NewTalent Escola de DJ está contratando Vendedor(a) Interno para atuação em vendas e marketing de cursos de DJ, com foco em prospecção ativa via redes sociais e fechamento de matrículas presenciais",
+    descricaoModal:"Função: Atuar na área de Vendas e Marketing dos cursos de DJ, realizando prospecção ativa de clientes pelas redes sociais, agendamento de visitas e fechamento de matrículas presencialmente na escola",
+    whatsapp: "5544999617292",
+    email: "",
+    banner: "banners/gren.jpeg"
+  },
 
 
  
