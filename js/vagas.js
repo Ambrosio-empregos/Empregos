@@ -19118,6 +19118,17 @@ const vagas = [
     email: "",
     banner: "banners/intar.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Vendedor Interno",
+    empresa: "FG Flex",
+    cidade: "Londrina",
+    descricao: "A FGFLEX Distribuidora está contratando Vendedor Interno para atuar com prospecção e atendimento ao cliente, oferecendo remuneração composta por salário mais comissão e oportunidades de crescimento",
+    descricaoModal:"Atividades: Prospectar clientes via telefone, WhatsApp e e-mail; realizar follow-up de leads e clientes antigos; apresentar produtos e sanar dúvidas; elaborar orçamentos; acompanhar pedidos até o fechamento; atualizar CRM ou planilhas; auxiliar em estratégias de fidelização",
+    whatsapp: "",
+    email: "vendas@fgflex.com.br",
+    banner: "banners/flexi.jpeg"
+  },
 
 
  
