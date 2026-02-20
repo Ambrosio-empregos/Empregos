@@ -19074,6 +19074,17 @@ const vagas = [
     email: "",
     banner: "banners/todoss.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Atendimento e Ajudante de Operações",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Há vagas abertas para Atendimento e Ajudante de Operações, buscando profissionais com ensino médio completo e habilidades em internet para atuar no registro e encaminhamento de pedidos",
+    descricaoModal:"Descrição: Atendimento ao público, registrar pedidos em sistema, encaminhar pedidos para pessoa responsável, ajudar com rotinas de operações",
+    whatsapp: "5543996112153",
+    email: "",
+    banner: "banners/bege.jpeg"
+  },
 
 
  
