@@ -19525,6 +19525,17 @@ const vagas = [
     email: "",
     banner: "banners/popey.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Consultor de Relacionamento",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Uma empresa de serviços e atendimento social está contratando Consultor de Relacionamento para atuação externa em Londrina e Maringá, buscando profissionais com perfil humanizado para orientação e construção de vínculos com o público acima de 50 anos",
+    descricaoModal:"Sobre a função: Atendimento externo e realização de visitas presenciais; orientação, esclarecimento de informações e apoio consultivo aos atendidos; construção de relacionamento contínuo com foco no acolhimento",
+    whatsapp: "",
+    email: "rh.rp@hotmail.com",
+    banner: "banners/rhrp.jpeg"
+  },
 
 
  
