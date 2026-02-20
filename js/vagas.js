@@ -19503,6 +19503,17 @@ const vagas = [
     email: "",
     banner: "banners/ssu.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Recepcionista",
+    empresa: "Benedetti",
+    cidade: "Maringá",
+    descricao: "A Benedetti Advocacia está contratando Recepcionista para atuar em Maringá, oferecendo um pacote completo de benefícios para profissionais com ensino médio completo e boa comunicação",
+    descricaoModal:"Funções: Atendimento ao cliente; controle de agendas; lançamento de informações em sistemas e planilhas; conferência e despacho de documentos",
+    whatsapp: "",
+    email: "RH.RP@HOTMAIL.COM",
+    banner: "banners/bened.jpeg"
+  },
 
 
  
