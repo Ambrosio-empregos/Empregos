@@ -19272,6 +19272,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/rhe.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Vendedor(a)",
+    empresa: "Atlântico Atacado",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedor(a) Presencial no Centro de Londrina, com plano de carreira e treinamento oferecido pela empresa, destinada a candidatos entre 18 e 30 anos",
+    descricaoModal:"Funções: Atendimento ao cliente e vendas. Requisitos: Idade de 18 à 30 anos; não é necessário experiência, pois a empresa oferece treinamento; residir em bairros próximos. Benefícios: Plano de carreira",
+    whatsapp: "554333722700",
+    email: "claudio1atlanticoatacado.com.br",
+    banner: "banners/kaio.jpeg"
+  },
 
 
  
