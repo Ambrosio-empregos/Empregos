@@ -19182,7 +19182,7 @@ const vagas = [
     descricaoModal:"Requisitos: Experiência anterior; atenção aos detalhes; organização; CNH categoria A; possuir veículo próprio será considerado um diferencial.",
     whatsapp: "5544997103927",
     email: "",
-    banner: "banners/abbaaa.jpeg"
+    banner: "banners/missao.jpeg"
   },
 
 
