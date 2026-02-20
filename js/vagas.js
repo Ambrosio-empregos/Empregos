@@ -19261,6 +19261,17 @@ const vagas = [
     email: "",
     banner: "banners/cucu.jpeg"
   },
+   {
+    data: "2026-02-20", 
+    titulo: "Analista de Recursos Humanos",
+    empresa: "Principius Rh",
+    cidade: "Londrina",
+    descricao: "A Principiu's RH está contratando Analista de Recursos Humanos para atuar em Londrina com rotinas estratégicas e operacionais, oferecendo salário de R$ 3.500,00 mais benefícios para profissionais com formação superior e vivência na áre",
+    descricaoModal:"escrição: Atuar com rotinas de RH estratégico e operacional. Requisitos: Ampla vivência em rotinas de RH operacional e estratégico; amplo conhecimento da Legislação Trabalhista e SESMET; formação em Administração, Contabilidade ou Recursos Humanos; perfil analítico, multifuncional, diplomático, resiliente e comunicador; domínio intermediário do Pacote Office, principalmente Excel",
+    whatsapp: "",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhe.jpeg"
+  },
 
 
  
