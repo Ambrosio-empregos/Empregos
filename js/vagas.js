@@ -19085,6 +19085,17 @@ const vagas = [
     email: "",
     banner: "banners/bege.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Auxiliar de Expedição",
+    empresa: "Engelar",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar de Expedição para atuar com carga, descarga e apoio geral no setor, oferecendo pacote completo de benefícios e Wellhub (Gympass).",
+    descricaoModal:"Descrição da Vaga: Auxilia na parte geral do setor de expedição, carga e descarga, seguindo as orientações diretas do líder de expedição. Benefícios: Vale alimentação; auxílio combustível; almoço na empresa; plano de saúde; Wellhub (Gympass); seguro de vida.",
+    whatsapp: "5543991140958",
+    email: "",
+    banner: "banners/expedd.jpeg"
+  },
 
 
  
