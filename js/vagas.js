@@ -19228,6 +19228,17 @@ const vagas = [
     email: "",
     banner: "banners/prata.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Jardineiro",
+    empresa: "Canteiro",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Jardineiro na empresa Canteiro, voltada para profissionais comprometidos e responsáveis, mesmo sem experiência prévia, exigindo CNH categoria B.",
+    descricaoModal:"Requisitos: CNH categoria B (obrigatório); experiência não necessária; comprometimento e responsabilidade; disponibilidade para trabalho presencial.",
+    whatsapp: "5543991658789",
+    email: "",
+    banner: "banners/canteiro.jpeg"
+  },
 
 
  
