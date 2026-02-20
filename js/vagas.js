@@ -19426,6 +19426,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/rhjjjj.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Operador de injetora i Industria Plástica em Sarandi",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está contratando Operador de Injetora para indústria de embalagens plásticas em Sarandi, oferecendo salário inicial de R$ 4.000,00 mais benefícios para profissionais com experiência em injeção plástica",
+    descricaoModal:"Descrição: Atuar com rotinas de preparação de matéria-prima, abastecimento e regulagem de máquinas injetoras, manutenção das máquinas, troca de molde, moagem e raspagem de produtos de refugo; manter o setor limpo e organizado seguindo normas técnicas de qualidade e segurança",
+    whatsapp: "5544984046302",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhjjjjj.jpeg"
+  },
 
 
  
