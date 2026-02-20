@@ -19171,7 +19171,7 @@ const vagas = [
     descricaoModal:"Vaga para Angaridor com ensino médio completo e sem exigência de experiência. Horário de trabalho de segunda a quinta das 08:00 às 18:00, com saída antecipada às 17:00 nas sextas-feiras. Seja a peça que falta em nossa jornada",
     whatsapp: "5544997103927",
     email: "",
-    banner: "banners/estou.jpeg"
+    banner: "banners/enco.jpeg"
   },
 
 
