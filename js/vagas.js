@@ -19239,6 +19239,17 @@ const vagas = [
     email: "",
     banner: "banners/canteiro.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Vendedora",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Vendedora em loja localizada na Rua Rubens Carlos de Jesus, próximo ao Shopping Catuaí, oferecendo remuneração compatível com o piso da categoria acrescida de comissão e auxílio combustível.",
+    descricaoModal:"Informações: Vaga aberta para Vendedora; remuneração composta pelo piso da categoria + comissão + auxílio combustível. Horário de Trabalho: Segunda a sexta das 10h às 19h, com intervalo de 1h15; sábado das 10h às 16h; folga aos domingos e feriados. Localização: Rua Rubens Carlos de Jesus, 300 - Próximo ao Shopping Catuaí.",
+    whatsapp: "5543991958789",
+    email: "",
+    banner: "banners/perfume.jpeg"
+  },
 
 
  
