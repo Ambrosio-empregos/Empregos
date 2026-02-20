@@ -19459,6 +19459,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/veio.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Técnico de Instalação de Segurança Eletrônica",
+    empresa: "Principius",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está selecionando Técnico de Instalação de Segurança Eletrônica para atuar em Maringá e região, oferecendo remuneração de R$ 4.500,00 mais benefícios como VR de R$ 29,00/dia e 50% do Plano de Saúde Unimed para profissionais com CNH B e experiência na área",
+    descricaoModal:"Descrição: Responsável pela instalação e manutenção de sistemas de segurança eletrônica em Maringá e Paraná, incluindo passagem de cabos e montagem de eletrocalhas; viagens realizadas com carro da empresa",
+    whatsapp: "5544984020481",
+    email: "contato@principiurh.com.br",
+    banner: "banners/rhjjjjjjj.jpeg"
+  },
 
 
  
