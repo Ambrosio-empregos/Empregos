@@ -19107,6 +19107,17 @@ const vagas = [
     email: "",
     banner: "banners/almox.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Vendedora",
+    empresa: "Intak",
+    cidade: "Londrina",
+    descricao: "Intak Essências e Bem Estar está contratando Vendedora para atuar no Boulevard Shopping em Londrina-PR, oferecendo salário fixo, comissões e benefícios em escala de trabalho 6x1",
+    descricaoModal:"Benefícios e Remuneração: Salário fixo; comissão; benefícios; vale-alimentação (VA) e vale-transporte (VT)",
+    whatsapp: "5543988031815",
+    email: "",
+    banner: "banners/intar.jpeg"
+  },
 
 
  
