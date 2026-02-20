@@ -19063,6 +19063,17 @@ const vagas = [
     email: "",
     banner: "banners/refrigera.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Operador de Recorrência Externo",
+    empresa: "Cartão de Todos",
+    cidade: "Londrina",
+    descricao: "O Cartão de TODOS está contratando Operador de Recorrência Externo (Vendedor Externo) para integrar sua equipe de vendas",
+    descricaoModal:"nformações da Vaga: Atuação como vendedor externo. Empresa: Cartão de TODOS",
+    whatsapp: "5543988163244",
+    email: "",
+    banner: "banners/todoss.jpeg"
+  },
 
 
  
