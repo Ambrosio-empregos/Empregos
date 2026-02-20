@@ -19415,6 +19415,17 @@ const vagas = [
     email: "",
     banner: "banners/vermee.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Televendas",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está contratando profissional de Televendas para prospecção, atendimento técnico e vendas B2B de equipamentos industriais, oferecendo salário fixo de R$ 2.500,00 mais comissões e um amplo pacote de benefícios",
+    descricaoModal:"Descrição: O profissional atuará em prospecção e vendas, atendimento técnico comercial, transformação de leads, reativação de clientes, follow-up diário, conversão de orçamentos e atualização de CRM.",
+    whatsapp: "5544984046302",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhjjjj.jpeg"
+  },
 
 
  
