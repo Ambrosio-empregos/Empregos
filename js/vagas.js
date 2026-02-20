@@ -19437,6 +19437,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/rhjjjjj.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Vendedor em Umuarama",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está contratando Vendedor(a) para loja em Umuarama, oferecendo ganhos garantidos de R$ 3.000,00 nos primeiros meses com possibilidade de ultrapassar R$ 12.000,00 mensais através de comissões em vendas de eletrodomésticos de última geração",
+    descricaoModal:"Descrição: Atuar com vendas presenciais e via redes sociais, além de prospecção de produtos nacionais e importados de primeira linha (eletrodomésticos e eletroeletrônicos",
+    whatsapp: "5544984046302",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhjjjjjj.jpeg"
+  },
 
 
  
