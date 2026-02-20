@@ -19195,6 +19195,17 @@ const vagas = [
     email: "contato@translinevan.com.br",
     banner: "banners/transline.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Assistente Comercial",
+    empresa: "Rotercano Desentupidora",
+    cidade: "Londrina",
+    descricao: "A Rotercano Desentupidora está contratando Assistente Comercial para realizar atendimento ao cliente e agendamentos, buscando profissionais com boa comunicação e conhecimento em Pacote Office",
+    descricaoModal:"Pré-Requisitos: Boa comunicação verbal e escrita; conhecimento em Pacote Office; relacionamento interpessoal e organização",
+    whatsapp: "5543984073800",
+    email: "rh@rotercano.com.br",
+    banner: "banners/mudar.jpeg"
+  },
 
 
  
