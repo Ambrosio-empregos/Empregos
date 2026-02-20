@@ -19404,6 +19404,17 @@ const vagas = [
     email: "",
     banner: "banners/definafalsa.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Operadror de Lanchonete",
+    empresa: "Dominos Pizza",
+    cidade: "Maringá",
+    descricao: "A Domino's Pizza está contratando Operador de lanchonete para meio período (5 horas diárias) na região de Maringá, oferecendo remuneração de R$ 1.230,00 e diversos benefícios",
+    descricaoModal:"Benefícios e Remuneração: Remuneração R$ 1.230,00; vale transporte; vale alimentação; plano odontológico e prêmio assiduidade",
+    whatsapp: "5544999160041",
+    email: "",
+    banner: "banners/vermee.jpeg"
+  },
 
 
  
