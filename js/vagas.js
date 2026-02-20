@@ -19228,6 +19228,17 @@ const vagas = [
     email: "rh@rotercano.com.br",
     banner: "banners/mudarrr.jpeg"
   },  
+   {
+    data: "2026-02-20",
+    titulo: "Vendedora",
+    empresa: "Nova Prata",
+    cidade: "Londrina",
+    descricao: "A Nova Prata Joias está contratando Vendedora para suas unidades nos shoppings Boulevard e Catuaí em Londrina, oferecendo remuneração baseada em piso salarial mais comissão, além de benefícios como plano de saúde",
+    descricaoModal:"Requisitos: Ter acima de 18 anos; buscamos alguém comunicativa, responsável, disciplinada e solicita; experiência com vendas será um diferencial. Horários: Segunda a sábado, das 10h00 às 18h20 ou das 13h40 às 22h00; domingos e feriados conforme escala, das 14h00 às 20h00",
+    whatsapp: "5543998649781",
+    email: "",
+    banner: "banners/prata.jpeg"
+  },
 
 
  
