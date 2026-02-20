@@ -19197,14 +19197,14 @@ const vagas = [
   },
    {
     data: "2026-02-20",
-    titulo: "Assistente Comercial",
+    titulo: "Ajudante de Motorista",
     empresa: "Rotercano Desentupidora",
     cidade: "Londrina",
-    descricao: "A Rotercano Desentupidora está contratando Assistente Comercial para realizar atendimento ao cliente e agendamentos, buscando profissionais com boa comunicação e conhecimento em Pacote Office",
-    descricaoModal:"Pré-Requisitos: Boa comunicação verbal e escrita; conhecimento em Pacote Office; relacionamento interpessoal e organização",
+    descricao: "A Rotercano Desentupidora está contratando Ajudante de Motorista para atuar com desentupimento e limpeza de caixas d'água",
+    descricaoModal:"Pré-Requisitos: Disponibilidade de horários e viagens; possuir celular. Atividades: Atuar com desentupimento em geral; limpeza e higienização de caixas d'água",
     whatsapp: "5543984073800",
     email: "rh@rotercano.com.br",
-    banner: "banners/mudar.jpeg"
+    banner: "banners/mudarr.jpeg"
   },
 
 
