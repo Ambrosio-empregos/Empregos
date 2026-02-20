@@ -19316,6 +19316,17 @@ const vagas = [
     email: "energette.adm@gmail.com",
     banner: "banners/almaaa.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Auxilar Geral",
+    empresa: "",
+    cidade: "Londrina",
+    descricao: "Um ateliê de confecção de roupas está contratando Auxiliar Geral para atuar na passadoria e separação de pedidos, oferecendo remuneração de R$ 1.621,00 mais vale-transporte para candidatas com ensino fundamental",
+    descricaoModal:"Requisitos: Sexo feminino; ensino fundamental. Descrição: Auxiliar na passadoria; auxiliar na separação de pedidos; auxiliar em setores conforme a demanda",
+    whatsapp:"5543988408267",
+    email: "",
+    banner: "banners/armand.jpeg"
+  },
 
 
  
