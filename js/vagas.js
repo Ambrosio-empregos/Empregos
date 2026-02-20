@@ -19470,6 +19470,17 @@ const vagas = [
     email: "contato@principiurh.com.br",
     banner: "banners/rhjjjjjjj.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Auxiliar de Produção",
+    empresa: "Hydronlubz - Negócios e Soluções",
+    cidade: "Ibiporâ",
+    descricao: "A Hydronlubz em Ibiporã está contratando Auxiliar de Produção para início imediato no departamento de ponteadeira com carga horária de segunda a sexta.",
+    descricaoModal:"Atividades incluem realizar processo produtivo com máquinas, cuidados com equipamentos e matéria-prima, organização de materiais e auxílio em demandas do setor, exigindo ensino fundamental completo, experiência em área fabril, atenção e proatividade, sendo desejável experiência no setor metalúrgico.",
+    whatsapp: "5543999675616",
+    email: "recruta.solutionrh@gmail.com",
+    banner: "banners/hydro.jpeg"
+  },
 
 
  
