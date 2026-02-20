@@ -19536,6 +19536,17 @@ const vagas = [
     email: "rh.rp@hotmail.com",
     banner: "banners/rhrp.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Sapateiro/ Restaurador de Calçados",
+    empresa: "New Shoes",
+    cidade: "Londrina",
+    descricao: "A New Shoes está contratando Sapateiro/ Restaurador de calçados para trabalhar com produtos premium, oferecendo salário de R$ 2.100,00 mais premiações e oportunidade de crescimento em um ambiente organizado",
+    descricaoModal:"Descrição: Atuar com consertos e restauração de calçados, trabalhando com produtos premium em um ambiente organizado",
+    whatsapp: "5543988120199",
+    email: "",
+    banner: "banners/calca.jpeg"
+  },
 
 
  
