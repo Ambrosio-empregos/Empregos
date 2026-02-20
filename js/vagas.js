@@ -18952,6 +18952,17 @@ const vagas = [
     whatsapp: "5543991930636",
     email: "",
     banner: "banners/cubo.jpeg"
+  },  
+  {
+    data: "2026-02-20",
+    titulo: "Auxiliar Multifuncional",
+    empresa: "Connect",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Auxiliar Multifuncional! Salário de R$ 1.988,00 + Vale Alimentação de R$ 805,00 e insalubridade. Necessária experiência com pequenos reparos.",
+    descricaoModal:"Requisitos e Benefícios: Experiência com pequenos reparos hidráulicos, elétricos, pinturas e corte de grama (experiência em condomínios será um diferencial).",
+    whatsapp: "5543991871063",
+    email: "@sejaconnect.com.br",
+    banner: "banners/lada.jpeg"
   },
 
 
