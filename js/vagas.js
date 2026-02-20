@@ -19052,6 +19052,17 @@ const vagas = [
     email: "",
     banner: "banners/bang.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Auxiliar de Eletricista",
+    empresa: "DBL Baterias",
+    cidade: "Londrina",
+    descricao: "A DBL Baterias em Londrina está contratando Auxiliar de Eletricista ou Mecânico de Automóveis com Carteira B para realizar instalação de baterias e atendimento ao cliente",
+    descricaoModal:"Requisitos: Noção básica de auto elétrica ou mecânica; possuir Carteira B. Atividades: Instalar baterias; interagir com clientes; manter limpo o local de trabalho",
+    whatsapp: "5543999690246",
+    email: "",
+    banner: "banners/refrigera.jpeg"
+  },
 
 
  
