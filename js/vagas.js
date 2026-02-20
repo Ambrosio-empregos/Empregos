@@ -19283,6 +19283,17 @@ const vagas = [
     email: "claudio1atlanticoatacado.com.br",
     banner: "banners/kaio.jpeg"
   },
+   {
+    data: "2026-01-26",
+    titulo: "Sub Gerente",
+    empresa: "For Boys For Girls",
+    cidade: "Londrina",
+    descricao: "Oportunidade para Sub Gerente na FOR BOYS FOR GIRLS",
+    descricaoModal:"Envie seu cvurrículo",
+    whatsapp: "5543984322473",
+    email: "contrata@forboys.com.br",
+    banner: "banners/boysgirls.jpeg"
+  },
 
 
  
