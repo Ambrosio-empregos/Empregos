@@ -19393,6 +19393,17 @@ const vagas = [
     email: "",
     banner: "banners/ia.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Consultor de Vendas",
+    empresa: "Cred Agro",
+    cidade: "Londrina",
+    descricao: "A CredAgro Soluções Financeiras em Londrina (conforme código de área 43) anuncia contratação imediata para Consultor de Vendas, oferecendo salário fixo, comissões altas e premiações semanais",
+    descricaoModal:"Informações da Vaga: Contratação imediata; remuneração composta por valor fixo mais comissão alta. Benefícios: Premiações semanais e plano de crescimento dentro da empresa",
+    whatsapp: "5543988471745",
+    email: "",
+    banner: "banners/definafalsa.jpeg"
+  },
 
 
  
