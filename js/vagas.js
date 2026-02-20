@@ -19514,6 +19514,17 @@ const vagas = [
     email: "RH.RP@HOTMAIL.COM",
     banner: "banners/bened.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Atendente de Restaurante",
+    empresa: "Popeyes",
+    cidade: "Londrina",
+    descricao: "O Popeyes Chicken está com vagas abertas para Atendente de Restaurante no Shopping Londrina Norte, oferecendo salário de R$ 2.100,00 e um amplo pacote de benefícios, incluindo plano de saúde e assistência médica/psicológica gratuita",
+    descricaoModal:"Remuneração: Salário de R$ 2.100,00. Benefícios: Plano de saúde e odontológico; alimentação no restaurante; assistência médica e psicológica gratuita; seguro de vida; Total Pass; plano de carreira; parceria com faculdades e cursos",
+    whatsapp: "5543996682178",
+    email: "",
+    banner: "banners/popey.jpeg"
+  },
 
 
  
