@@ -19349,6 +19349,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/rhjj.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Empregada Domética Apto Centro",
+    empresa: "Principius Rh",
+    cidade: "Maringá",
+    descricao: "A Principiu's RH está selecionando Empregada Doméstica para um apartamento no Centro de Maringá, atendendo uma família de quatro pessoas com salário de R$ 2.800,00 e vale-transporte em dinheiro",
+    descricaoModal:"Descrição: Atuar com rotinas de lavar, passar e cozinhar o trivial; manter a casa organizada para uma família de quatro pessoas em apartamento no Centro de Maringá",
+    whatsapp: "5544984046302",
+    email: "contato@principiusrh.com.br",
+    banner: "banners/rhjjj.jpeg"
+  },
 
 
  
