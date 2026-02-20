@@ -19184,6 +19184,17 @@ const vagas = [
     email: "",
     banner: "banners/missao.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Lavador de Veículos",
+    empresa: "Transline",
+    cidade: "Londrina",
+    descricao: "A Transline está contratando Lavadora de Veículos para higienização e limpeza interna de vans, micro-ônibus e ônibus, oferecendo salário, vale-alimentação e vale-transporte para profissionais com experiência na área",
+    descricaoModal:"Requisitos: Experiência com serviços de limpeza de veículos; bom relacionamento interpessoal e discrição. Atividades: Profissional para higienização e limpeza interna de veículos tipo vans, micro-ônibus e ônibus",
+    whatsapp: "554330253672",
+    email: "contato@translinevan.com.br",
+    banner: "banners/transline.jpeg"
+  },
 
 
  
