@@ -19197,6 +19197,17 @@ const vagas = [
   },
    {
     data: "2026-02-20",
+    titulo: "Assistente Comercial",
+    empresa: "Rotercano Desentupidora",
+    cidade: "Londrina",
+    descricao: "A Rotercano Desentupidora está contratando Assistente Comercial para realizar atendimento ao cliente e agendamentos, buscando profissionais com boa comunicação e conhecimento em Pacote Office",
+    descricaoModal:"Pré-Requisitos: Boa comunicação verbal e escrita; conhecimento em Pacote Office; relacionamento interpessoal e organização",
+    whatsapp: "5543984073800",
+    email: "rh@rotercano.com.br",
+    banner: "banners/mudar.jpeg"
+  },
+  {
+    data: "2026-02-20",
     titulo: "Ajudante de Motorista",
     empresa: "Rotercano Desentupidora",
     cidade: "Londrina",
@@ -19205,7 +19216,18 @@ const vagas = [
     whatsapp: "5543984073800",
     email: "rh@rotercano.com.br",
     banner: "banners/mudarr.jpeg"
-  },
+  },  
+  {
+    data: "2026-02-20",
+    titulo: "Motorista de Carro Baixo",
+    empresa: "Rotercano Desentupidora",
+    cidade: "Londrina",
+    descricao: "A Rotercano Desentupidora está contratando Motorista de Carro baixo para atuar com desentupimento e limpeza de caixas d'água, exigindo curso Mopp e disponibilidade para viagens",
+    descricaoModal:"Pré-Requisitos: Disponibilidade de horários e viagens; possuir celular; possuir curso Mopp. Atividades: Atuar com desentupimento em geral; limpeza e higienização de caixas d'água",
+    whatsapp: "5543984073800",
+    email: "rh@rotercano.com.br",
+    banner: "banners/mudarrr.jpeg"
+  },  
 
 
  
