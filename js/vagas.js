@@ -19041,6 +19041,17 @@ const vagas = [
     email: "rh@karilu.com.br",
     banner: "banners/kariluuu.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Atendente Fixo",
+    empresa: "Soft",
+    cidade: "Londrina",
+    descricao: "A Soft está contratando Atendente Fixo para trabalhar das 12:00 às 20:20, oferecendo salário de R$ 2.071,00 mais bônus e vale alimentação, com preferência para quem possui experiência em bar ou restaurante",
+    descricaoModal:"Informações da Vaga: Salário de R$ 2.071,00; bônus e vale alimentação. Horário: Das 12:00 às 20:20",
+    whatsapp: "5543991635321",
+    email: "",
+    banner: "banners/bang.jpeg"
+  },
 
 
  
