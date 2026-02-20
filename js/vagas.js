@@ -19558,6 +19558,17 @@ const vagas = [
     email: "",
     banner: "banners/gren.jpeg"
   },
+   {
+    data: "2026-02-20",
+    titulo: "Professor de Inglês",
+    empresa: "KNN",
+    cidade: "Balneário Camboriú",
+    descricao: "A KNN Idiomas em Balneário Camboriú está selecionando novos membros para sua equipe de Professores de Inglês, aceitando currículos via e-mail ou contato direto",
+    descricaoModal:"Informações da Vaga: Oportunidade para atuar como Professor de Inglês; convite para fazer parte da equipe",
+    whatsapp: "",
+    email: "recepcao.knnidiomasbc@gmail.com",
+    banner: "banners/idio.jpeg"
+  },
 
 
  
