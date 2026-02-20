@@ -19096,6 +19096,17 @@ const vagas = [
     email: "",
     banner: "banners/expedd.jpeg"
   },
+  {
+    data: "2026-02-20",
+    titulo: "Auxiliar de Almoxarifado",
+    empresa: "Empresa Não Identificada",
+    cidade: "Cambé",
+    descricao: "Processo seletivo aberto para Auxiliar de Almoxarifado em Cambé e Rolândia! Salário de R$ 1.920,00 + Benefícios e horário de segunda a sexta-feira.",
+    descricaoModal:"Atividades e Requisitos: Recebimento, separação de pedidos, conferência, expedição, descarga, limpeza e organização do local. Buscamos profissionais com responsabilidade, senso organizacional e agilidade (experiência na função será um diferencial).",
+    whatsapp: "5543991244590",
+    email: "",
+    banner: "banners/almox.jpeg"
+  },
 
 
  
