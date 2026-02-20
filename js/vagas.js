@@ -19241,14 +19241,14 @@ const vagas = [
   },
   {
     data: "2026-02-20",
-    titulo: "Vendedora",
-    empresa: "",
+    titulo: "Vendedor",
+    empresa: "Canteiro",
     cidade: "Londrina",
-    descricao: "Oportunidade para Vendedora em loja localizada na Rua Rubens Carlos de Jesus, próximo ao Shopping Catuaí, oferecendo remuneração compatível com o piso da categoria acrescida de comissão e auxílio combustível.",
-    descricaoModal:"Informações: Vaga aberta para Vendedora; remuneração composta pelo piso da categoria + comissão + auxílio combustível. Horário de Trabalho: Segunda a sexta das 10h às 19h, com intervalo de 1h15; sábado das 10h às 16h; folga aos domingos e feriados. Localização: Rua Rubens Carlos de Jesus, 300 - Próximo ao Shopping Catuaí.",
-    whatsapp: "5543991958789",
-    email: "",
-    banner: "banners/perfume.jpeg"
+    descricao: "A Canteiro está contratando Vendedor com experiência e atitude proativa para atuar no atendimento em loja e venda de plantas e serviços de paisagismo",
+    descricaoModal:"Requisitos: Experiência com vendas; boa comunicação e atitude proativa; disponibilidade para trabalho presencial. Atividades: Atendimento ao cliente em loja; venda de plantas, insumos e serviços de paisagismo; prospecção de novos clientes; organização de produtos na loja",
+    whatsapp: "5543991658789",
+    email: "canteirodeideiascanteirodeidei@gmail.com",
+    banner: "banners/subli.jpeg"
   },
 
 
