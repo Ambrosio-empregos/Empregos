@@ -19360,6 +19360,17 @@ const vagas = [
     email: "contato@principiusrh.com.br",
     banner: "banners/rhjjj.jpeg"
   },
+  {
+    data: "2026-02-20", 
+    titulo: "Gerente Junior",
+    empresa: "Dominos Pizza",
+    cidade: "Maringá",
+    descricao: "A Domino's Pizza está contratando Gerente Júnior para atuar na região de Maringá (DDD 44), oferecendo remuneração de R$ 1.950,00 acrescida de 40% por cargo de confiança e diversos benefícios",
+    descricaoModal:"Benefícios e Remuneração: Salário de R$ 1.950,00 + 40% de cargo de confiança; vale-transporte; vale-alimentação; plano odontológico e prêmio assiduidade",
+    whatsapp: "5544999160041",
+    email: "",
+    banner: "banners/verme.jpeg"
+  },
 
 
  
