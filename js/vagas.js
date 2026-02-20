@@ -18997,6 +18997,17 @@ const vagas = [
     email: "",
     banner: "banners/lejonnn.jpeg"
   },
+    {
+    data: "2026-02-20",
+    titulo: "Operadora de Loja",
+    empresa: "Empório Mineiro",
+    cidade: "Londrina",
+    descricao: "O Empório Mineiro, localizado na região com código de área 43, está com vaga aberta para Operadora de Loja, buscando candidatas com ensino médio completo e boa experiência em atendimento",
+    descricaoModal:"Requisitos: Ensino médio completo; experiência com atendimento; comunicação clara e simpática. Incentivos: Vale alimentação; vale transporte; vale consumação na loja. Empresa: Empório Mineiro",
+    whatsapp: "5543984279121",
+    email: "",
+    banner: "banners/laza.jpeg"
+  },
 
 
  
